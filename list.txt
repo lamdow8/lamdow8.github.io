@@ -185,10 +185,15 @@ TVBS新聞,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts#p2p://51
 体育音乐,#genre#
 纬来体育[HD],vjms://58.215.133.185:8500:3502/live/cid=202
 ELTA体育1台,vjms://58.215.133.185:8500:3502/live/cid=266
+ELTA體育2台,p2p://51.79.41.138:18912/5b1409da0004ba1317d418157a2631bc.ts
+ELTA體育3台,p2p://51.79.41.138:18912/5c7249f7000966361d58752a73813a0e.ts#P2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
 广东体育HD,https://116.77.72.195/streams/d/gdty/playlist.m3u8#http://sk.live.otvcloud.com/otv/skcc/live/channel34/2300.m3u8?k=00512d957c9b1863aff57fc3916c3e77&t=5D84817C&UID=1568964988
 五星体育HD,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
 Channel V,rtmp://58.200.131.2/livetv/channelv
 MTV 音乐频道,https://116.77.72.195/streams/d/mtv/playlist.m3u8
+MTV LIVE HD,p2p://51.79.41.138:18912/5b1409160006a29117d11af270d37d68.ts
+博斯高球1HD,p2p://51.79.41.138:18912/5b1409f3000f373217d47c6d014c2310.ts
+博斯運動2HD,p2p://51.79.41.138:18912/5b14098e0000e93717d2ee3b694601b7.ts
 M2O音乐台,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 CCTV15HD,http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
 疫情24小时,#genre#
