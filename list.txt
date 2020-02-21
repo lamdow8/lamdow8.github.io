@@ -483,18 +483,18 @@ FOX HD,http://live.ergt4rt.wang/gangaotai.php?id=159
 出水芙蓉,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/28f9967b04984830b3a1f6fb27561000/850.m3u8
 桂河大桥,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b125a3edccb34637b336cb867e8a5d5d/850.m3u8
 轮播DOX,#genre#
-DOX院线,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=8a7d213b10550559a073db188d08d5f7#http://hls.globaliptv.ml/myguizhou.php?id=doxyuanxianhd
-DOX雅趣,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=98a5538384f14ca487ca96786a441bbe
-DOX新知,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=8df92ef18e714e80bc302723d5e933ee#http://hls.globaliptv.ml/myguizhou.php?id=doxxinzhihd
-DOX新艺,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=3fec5428637fe3d00cea8deb981ca71c#http://hls.globaliptv.ml/myguizhou.php?id=doxxinyihd
-DOX怡家,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=9c6e3fd0b37dd8b7e4bc1f06c44cb6cf#http://hls.globaliptv.ml/myguizhou.php?id=doxyijiahd
-DOX英伦,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=21e5f6a02640bf440df4c079b4c3ad23#http://hls.globaliptv.ml/myguizhou.php?id=doxyinglunhd
-DOX映画,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=e16878a022c216b17975299a9ac369dc#http://hls.globaliptv.ml/myguizhou.php?id=doxyinghuahd
-DOX美剧,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=1c639fe68ed5de6804966813425bdccd
+DOX院线,http://hls.globaliptv.ml/myguizhou.php?id=doxyuanxianhd
+DOX雅趣,http://hls.globaliptv.ml/myguizhou.php?id=doxyaquhd
+DOX新知,http://hls.globaliptv.ml/myguizhou.php?id=doxxinzhihd
+DOX新艺,http://hls.globaliptv.ml/myguizhou.php?id=doxxinyihd
+DOX怡家,http://hls.globaliptv.ml/myguizhou.php?id=doxyijiahd
+DOX英伦,http://hls.globaliptv.ml/myguizhou.php?id=doxyinglunhd
+DOX映画,http://hls.globaliptv.ml/myguizhou.php?id=doxyinghuahd
+DOX美剧,http://hls.globaliptv.ml/myguizhou.php?id=doxmeijuhd
 DOXTV高清,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&progamid=4200000126
 
 轮播爱奇艺,#genre#
-【爱奇艺】倪大红剧场,http://cdn-out.iqy.sc96655.com/tslive/c16_lb_nidahong_1080p_t10/c16_lb_nidahong_1080p_t10.m3u8
+【爱奇艺】倪大红剧场,http://cdn-out.iqy.sc96655.cm/tslive/c16_lb_nidahong_1080p_t10/c16_lb_nidahong_1080p_t10.m3u8
 【爱奇艺】青春剧场,http://cdn-out.iqy.sc96655.com/tslive/c15_lb_weizhangzhe_1080p_t10/c15_lb_weizhangzhe_1080p_t10.m3u8
 【爱奇艺】青春剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_weizhangzhe_1080p_t10/c15_lb_weizhangzhe_1080p_t10.m3u8
 【爱奇艺】票房收割机,http://cdn-out.iqy.sc96655.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
