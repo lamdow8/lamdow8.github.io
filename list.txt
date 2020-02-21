@@ -178,7 +178,7 @@ TVBS新聞,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts#p2p://51
 东森新闻,P2p://190.2.146.92:18912/5c7248a0000383701d5337cb153b4b51.ts#p2p://51.79.41.138:18912/5c7248a0000383701d5337cb153b4b51.ts
 年代新闻,p2p://190.2.146.92:18912/5b1409fd000a72692a6580254840e3c2.ts#p2p://51.79.41.138:18912/5b1409fd000a72692a6580254840e3c2.ts
 非凡新聞,P2p://190.2.146.92:18912/5c7249cb000744bc1d57c8bd53377361.ts#p2p://51.79.41.138:18912/5c7249cb000744bc1d57c8bd53377361.ts
-三立新聞,P2p://190.2.146.92:18912/5c7249be000b87931d5796ff51e62b02.ts#p2p://51.79.41.138:18912/5c7249be000b87931d5796ff51e62b02.ts
+三立新聞,P2p://190.2.146.92:18912/5c7249be000b87931d5796ff51e62b02.ts#p2p://51.79.41.138:18912/5c7249be000b87931d5796ff51e62b02.ts#http://47.240.60.73/aatw.php?id=48
 壹新闻,p2p://190.2.146.92:18912/5c724897000cb1861d5316f515e3763e.ts#p2p://51.79.41.138:18912/5c724897000cb1861d5316f515e3763e.ts
 华视新闻,http://lss.line-scdn.net/cc_tw/p/live/hcPAs4bucPX4uZyNuFHIgSUcJZxtTbyl6RWlwEVsKYhsBMigtQWtzG19eYBgCOHJ5RGx7TFoPak5Wf3p6RzkjGQwCfE9QJXsqSXNzG1AVYk1TMXsoQWVz/720/chunklist.m3u8
 
@@ -196,10 +196,9 @@ CCTV15HD,http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
 雷神山2,http://mobilelive-play.ysp.cctv.cn/2001893301_fhd.m3u8
 雷神山3,http://mobilelive-play.ysp.cctv.cn/2001893201_fhd.m3u8
 
-云视台湾,#genre#
-華 視,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
-民視 ,P2p://190.2.146.92:18912/5c72483f0003db4b1d51bcf349367c26.ts
-中視 ,P2p://190.2.146.92:18912/5c72484b000b1d091d51edb7087b7686.ts#http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+190p2p,#genre#
+民視,P2p://190.2.146.92:18912/5c72483f0003db4b1d51bcf349367c26.ts
+中視,P2p://190.2.146.92:18912/5c72484b000b1d091d51edb7087b7686.ts#http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 TVBS精彩台,P2p://190.2.146.92:18912/5bdbf3b20000e966d2177540400d0818.ts
 中天新聞 ,P2p://190.2.146.92:18912/5c7249b6000641f71d5776673c1d2f63.ts
 TVBS新聞 ,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts
@@ -318,46 +317,15 @@ JET綜合,p2p://51.79.41.138:18912/5c724892000e3e1c1d5303da4a3c6c26.ts
 ELTA體育3,p2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
 衛視電影,p2p://51.79.41.138:18912/5c7249cf00095b611d57d8da587f1c48.ts
 
-测试港台,#genre#
+港台测试,#genre#
 无线新闻1,https://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791cde.flv
-无线新闻2,http://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791cde.flv
-无线新闻3,http://hdl0901.plures.net/onlive/a477732eaf0c9f58de7d7b0ef8c2926f.flv 
+无线新闻2,http://hdl0901.plures.net/onlive/a477732eaf0c9f58de7d7b0ef8c2926f.flv 
 how,http://hdl0901.plures.net/onlive/4be1503239cf2cdcbcbefcaa2382ec73.flv
 公视,https://hdl0903.plures.net/onlive/f96e58ef77ed1e71be5f073d63a5d394.flv
 翡翠台1,https://4graurmtwghzdrcbqgeao.ourdvsss.com/hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791abc.flv
 翡翠台2,http://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791abc.flv
 j2-1,https://4graurmtwghzdrcbqge3y.ourdvsss.com/hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791bcd.flv
 j2-2,http://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791bcd.flv
-无线新闻,http://live.ergt4rt.wang/gangaotai.php?id=9
-
-TVB 翡翠,http://103.56.112.40/djgt.php?id=1  
-凤凰中文,http://103.56.112.40/djgt.php?id=2
-凤凰資訊,http://103.56.112.40/djgt.php?id=3 
-星空衛視,http://103.56.112.40/djgt.php?id=18
-TVB 明珠,http://103.56.112.40/djgt.php?id=13
-TVB J2,http://103.56.112.40/djgt.php?id=12
-耀才財經,http://103.56.112.40/djgt.php?id=19
-无线财经,http://103.56.112.40/djgt.php?id=10
-无线新闻,http://103.56.112.40/djgt.php?id=9
-有线新闻,http://103.56.112.40/djgt.php?id=31
-Viu TV,http://103.56.112.40/djgt.php?id=8
-澳門衛視,http://103.56.112.40/djgt.php?id=23
-澳亞衛視,http://103.56.112.40/djgt.php?id=24
-寰宇新聞,http://103.56.112.40/aatw.php?id=54
-寰宇新聞2,http://103.56.112.40/aatw.php?id=55
-三立台灣台,http://103.56.112.40/aatw.php?id=42
-三立新聞台,http://47.240.60.73/aatw.php?id=48
-三立都会台,http://103.56.112.40/aatw.php?id=40
-TVBS,http://103.56.112.40/aatw.php?id=127
-TVBS欢乐,http://103.56.112.40/aatw.php?id=129
-TVBS新闻,http://103.56.112.40/aatw.php?id=45
-中天新聞台,http://103.56.112.40/aatw.php?id=44
-東森新聞台,http://103.56.112.40/aatw.php?id=46
-非凡新聞,http://103.56.112.40/aatw.php?id=53
-HBO HD,http://103.56.112.40/aatw.php?id=27
-FOX HD,http://103.56.112.40/aatw.php?id=159
-好萊塢電影台,http://103.56.112.40/aatw.php?id=66
-迪士尼卡通,http://103.56.112.40/aatw.php?id=122
 
 TVB 翡翠,http://live.ergt4rt.wang/gangaotai.php?id=1  
 凤凰中文,http://live.ergt4rt.wang/gangaotai.php?id=2
@@ -375,7 +343,6 @@ Viu TV,http://live.ergt4rt.wang/gangaotai.php?id=8
 寰宇新聞,http://live.ergt4rt.wang/gangaotai.php?id=54
 寰宇新聞2,http://live.ergt4rt.wang/gangaotai.php?id=55
 三立台灣台,http://live.ergt4rt.wang/gangaotai.php?id=42
-三立新聞台,http://47.240.60.73/aatw.php?id=48
 三立都会台,http://live.ergt4rt.wang/gangaotai.php?id=40
 TVBS,http://live.ergt4rt.wang/gangaotai.php?id=127
 TVBS欢乐,http://live.ergt4rt.wang/gangaotai.php?id=129
