@@ -37,7 +37,25 @@ CCTV 14,http://183.194.230.198/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
 CCTV 15,http://183.194.230.198/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
 CCTV 17,http://183.194.230.198/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
 CGTN,http://183.194.230.198/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
-
+超高清 4K,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+CCTV 1,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
+CCTV 2,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
+CCTV 3,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
+CCTV 4,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
+CCTV 5,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
+CCTV 5+,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
+CCTV 6,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8
+CCTV 7,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
+CCTV 8,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
+CCTV 9,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
+CCTV 10,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
+CCTV 11,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
+CCTV 12,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
+CCTV 13,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+CCTV 14,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
+CCTV 15,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
+CCTV 17,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
+CGTN,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 地方卫视台,#genre#
 湖南卫视,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
 东方卫视,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
@@ -83,7 +101,29 @@ CGTN,http://183.194.230.198/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 四川卫视,http://183.194.230.198/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
 浙江卫视,http://183.194.230.198/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
 重庆卫视,http://183.194.230.198/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
-
+湖南卫视,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
+东方卫视,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
+黑龙江卫视,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000293903.m3u8
+广东卫视,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
+深圳卫视,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
+江苏卫视,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
+浙江卫视,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
+江苏卫视,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
+深圳卫视,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
+北京卫视,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000272103.m3u8
+海南卫视,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000291503.m3u8
+山东卫视,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000294803.m3u8
+江西卫视,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000294103.m3u8
+湖北卫视,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000294503.m3u8
+河南卫视,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000296103.m3u8
+河北卫视,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000293403.m3u8
+贵州卫视,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000293303.m3u8
+东南卫视,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000292503.m3u8
+广西卫视,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8
+四川卫视,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
+辽宁卫视,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000281303.m3u8
+重庆卫视,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
+安徽卫视,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
 百事通源,#genre#
 CCTV1超清,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
 CCTV2高清,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
@@ -162,7 +202,223 @@ CCTV17高清,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Conte
 潮妈辣婆,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
 电视剧,http://gslbserv.itv.cmvideo.cn/5003211967.ts?channel-id=ysten&Contentid=5003211967&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
 
+港台新闻,#genre#
 
+凤凰资讯台,http://liveali.ifeng.com/live/FHZX.flv#http://125.210.152.18:9090/live/FHZX_1200.m3u8
+凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv#http://125.210.152.18:9090/live/FHZW_1200.m3u8
+凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe#http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
+无线新闻台,http://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791cde.flv
+有线新闻台,http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
+Now新闻,http://hdl0901.plures.net/onlive/4be1503239cf2cdcbcbefcaa2382ec73.flv
+无线财经资讯台,http://prdsecurelive.ainemo.com/live/234cjcj.m3u8
+中天新聞,P2p://190.2.146.92:18912/5c7249b6000641f71d5776673c1d2f63.ts#p2p://51.79.41.138:18912/5c7249b6000641f71d5776673c1d2f63.ts
+TVBS新聞,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts#p2p://51.79.41.138:18912/5c7249c2000e510f1d57a75a30592ee2.ts
+东森新闻,P2p://190.2.146.92:18912/5c7248a0000383701d5337cb153b4b51.ts#p2p://51.79.41.138:18912/5c7248a0000383701d5337cb153b4b51.ts
+年代新闻,p2p://190.2.146.92:18912/5b1409fd000a72692a6580254840e3c2.ts#p2p://51.79.41.138:18912/5b1409fd000a72692a6580254840e3c2.ts
+非凡新聞,P2p://190.2.146.92:18912/5c7249cb000744bc1d57c8bd53377361.ts#p2p://51.79.41.138:18912/5c7249cb000744bc1d57c8bd53377361.ts
+三立新聞,P2p://190.2.146.92:18912/5c7249be000b87931d5796ff51e62b02.ts#p2p://51.79.41.138:18912/5c7249be000b87931d5796ff51e62b02.ts
+壹新闻,p2p://190.2.146.92:18912/5c724897000cb1861d5316f515e3763e.ts#p2p://51.79.41.138:18912/5c724897000cb1861d5316f515e3763e.ts
+华视新闻,http://lss.line-scdn.net/cc_tw/p/live/hcPAs4bucPX4uZyNuFHIgSUcJZxtTbyl6RWlwEVsKYhsBMigtQWtzG19eYBgCOHJ5RGx7TFoPak5Wf3p6RzkjGQwCfE9QJXsqSXNzG1AVYk1TMXsoQWVz/720/chunklist.m3u8
+
+
+疫情24小时,#genre#
+雷神山1,http://mobilelive-play.ysp.cctv.cn/2001924601_hd.m3u8
+雷神山2,http://mobilelive-play.ysp.cctv.cn/2001893301_fhd.m3u8
+雷神山3,http://mobilelive-play.ysp.cctv.cn/2001893201_fhd.m3u8
+
+云视台湾,#genre#
+華 視,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
+民視 ,P2p://190.2.146.92:18912/5c72483f0003db4b1d51bcf349367c26.ts
+中視 ,P2p://190.2.146.92:18912/5c72484b000b1d091d51edb7087b7686.ts#http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+TVBS精彩台,P2p://190.2.146.92:18912/5bdbf3b20000e966d2177540400d0818.ts
+中天新聞 ,P2p://190.2.146.92:18912/5c7249b6000641f71d5776673c1d2f63.ts
+TVBS新聞 ,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts
+非凡新聞 ,P2p://190.2.146.92:18912/5c7249cb000744bc1d57c8bd53377361.ts
+衛視電影 ,P2p://190.2.146.92:18912/5c7249cf00095b611d57d8da587f1c48.ts
+東森新聞 ,P2p://190.2.146.92:18912/5c7248a0000383701d5337cb153b4b51.ts
+三立新聞 ,P2p://190.2.146.92:18912/5c7249be000b87931d5796ff51e62b02.ts
+中天亞洲 ,P2p://190.2.146.92:18912/5c724839000d2f361d51a7e41eb00016.ts
+TVBS歡樂 ,P2p://190.2.146.92:18912/5c72488a000a56b71d52e3a07060345e.ts
+原住民電視,P2p://190.2.146.92:18912/5bdbf387000760a7d216ceee78f739f8.ts
+客家電視,P2p://190.2.146.92:18912/5bdbf38e00051950d216e9ba54201283.ts
+迪士尼卡通,P2p://190.2.146.92:18912/5b1409f30004f6ec17d479cd524c4642.ts
+MOMO親子臺,P2p://190.2.146.92:18912/5d70eb0f000a5e750d0a9659304554ba.ts
+東森超視,P2p://190.2.146.92:18912/5c72487c000667911d52abe7044c2b21.ts
+三立台湾,P2p://190.2.146.92:18912/5c72486a000b11721d5266cf1bf84bce.ts
+非凡商業,P2p://190.2.146.92:18912/5b140a9a0001dd5b17d7055a180573f2.ts
+MTV LIVE HD,P2p://190.2.146.92:18912/5b1408f100084d6a17d08ad863d85a21.ts
+V音樂,P2p://190.2.146.92:18912/5b593be200077048d379e5e141cb2a5d.ts
+Discovery(知識頻道),P2p://190.2.146.92:18912/5bee4e9b0004056f19ca944341e3368d.ts
+靖天戲劇,P2p://190.2.146.92:18912/5b14093e000c1de917d1b89a306502e9.ts
+緯來精彩,P2p://190.2.146.92:18912/5b14094a0000e95117d1e49b2d550d9f.ts
+LIFETIME,P2p://190.2.146.92:18912/5b593bd20009b7c8d379a7ed5405277e.ts
+GOOD?TV?,P2p://190.2.146.92:18912/5bdbf39200017a4bd216f86f7a511c7b.ts
+EVE,P2p://190.2.146.92:18912/5bdbf3a000041d6ad2172fcb0dab6930.ts
+亞洲旅遊 ,P2p://190.2.146.92:18912/5c724854000188081d520e6e279b2446.ts
+美亞電影 ,P2p://190.2.146.92:18912/5c724a0e000442831d58cdaa6a2c5c52.ts
+東森幼幼 ,P2p://190.2.146.92:18912/5c724866000564111d5255b84de26a1c.ts
+東森電影 ,P2p://190.2.146.92:18912/5c7249d3000cb8ea1d57e9650d7148b7.ts
+東森戲劇 ,P2p://190.2.146.92:18912/5c724882000704081d52c386798d4d25.ts
+緯來電影 ,P2p://190.2.146.92:18912/5c7249d80003096d1d57fa6c33601be9.ts
+緯來戲劇 ,P2p://190.2.146.92:18912/5c72488e000bae061d52f38e705751dd.ts
+HBO HD ,P2p://190.2.146.92:18912/5c7249dd000ca2101d58106551ff3ed4.ts
+國家地理野生 ,P2p://190.2.146.92:18912/5c7249fb000db88c1d5885e333974925.ts
+星衛娛樂 ,P2p://190.2.146.92:18912/5c724a0a000180991d58bd4f6e533ad5.ts
+星衛電影 ,P2p://190.2.146.92:18912/5c724a05000626a61d58aaff0c3f3175.ts
+好萊塢電影 ,P2p://190.2.146.92:18912/5c7249e2000125281d5820ff23a165d1.ts
+MOMO親子 ,P2p://190.2.146.92:18912/5c7248620002c4fd1d52456c75ed6b55.ts
+迪士尼卡通 ,P2p://190.2.146.92:18912/5c72485c0008852e1d522f7314a34325.ts
+JET綜合 ,P2p://190.2.146.92:18912/5c724892000e3e1c1d5303da4a3c6c26.ts
+ELTA體育3 ,P2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
+東森綜合 ,P2p://190.2.146.92:18912/5c724877000e7b2d1d529a721b487255.ts
+
+51P2P,#genre#
+中天新聞,p2p://51.79.41.138:18912/5c7249b6000641f71d5776673c1d2f63.ts
+TVBS新聞,p2p://51.79.41.138:18912/5c7249c2000e510f1d57a75a30592ee2.ts
+非凡新聞,p2p://51.79.41.138:18912/5c7249cb000744bc1d57c8bd53377361.ts
+東森新聞,p2p://51.79.41.138:18912/5c7248a0000383701d5337cb153b4b51.ts
+三立新聞,p2p://51.79.41.138:18912/5c7249be000b87931d5796ff51e62b02.ts
+壹電視新聞,p2p://51.79.41.138:18912/5c724897000cb1861d5316f515e3763e.ts
+年代新聞,p2p://51.79.41.138:18912/5b1409fd000a72692a6580254840e3c2.ts
+民視,p2p://51.79.41.138:18912/5c72483f0003db4b1d51bcf349367c26.ts
+華視,p2p://51.79.41.138:18912/5c72484f000e498b1d51fe2201d92dd3.ts
+華視,p2p://51.79.41.138:18912/5c2dd7470006324111f874bf40a40dd0.ts
+華視,p2p://51.79.41.138:18912/5b140968000d4f3517d25cf83e1e0c9f.ts
+中視,p2p://51.79.41.138:18912/5c72484b000b1d091d51edb7087b7686.ts
+人间卫视,p2p://51.79.41.138:18912/5c7350ff0000f8e6215bea3724fd0f2f.ts
+大爱,p2p://51.79.41.138:18912/5c7248470009cd451d51ddb92c7476f0.ts
+大愛2p2p://51.79.41.138:18912/5bdbf3990002e4dcd217142515c50e46.ts
+华视,p2p://51.79.41.138:18912/5b14095f000efa0e17d23a3d10cd7091.ts
+TVBS歡樂,p2p://51.79.41.138:18912/5c72488a000a56b71d52e3a07060345e.ts
+好消息,p2p://51.79.41.138:18912/5bdbf38a000e2c49d216dc6b0d6a2178.ts
+星衛娛樂,p2p://51.79.41.138:18912/5c724a0a000180991d58bd4f6e533ad5.ts
+星衛電影,p2p://51.79.41.138:18912/5c724a05000626a61d58aaff0c3f3175.ts
+原住民电视,p2p://51.79.41.138:18912/5bdbf387000760a7d216ceee78f739f8.ts
+客家电视,p2p://51.79.41.138:18912/5bdbf38e00051950d216e9ba54201283.ts
+迪士尼卡通,p2p://51.79.41.138:18912/5b1409f30004f6ec17d479cd524c4642.ts
+MOMO親子台,p2p://51.79.41.138:18912/5d70eb0f000a5e750d0a9659304554ba.ts
+东森超市,p2p://51.79.41.138:18912/5c72487c000667911d52abe7044c2b21.ts
+東森幼幼,p2p://51.79.41.138:18912/5c724866000564111d5255b84de26a1c.ts
+東森電影,p2p://51.79.41.138:18912/5c7249d3000cb8ea1d57e9650d7148b7.ts
+東森戲劇,p2p://51.79.41.138:18912/5c724882000704081d52c386798d4d25.ts
+東森超視,p2p://51.79.41.138:18912/5c72487c000667911d52abe7044c2b21.ts
+東森綜合,p2p://51.79.41.138:18912/5c724877000e7b2d1d529a721b487255.ts
+三立台湾,p2p://51.79.41.138:18912/5c72486a000b11721d5266cf1bf84bce.ts
+非凡商業,p2p://51.79.41.138:18912/5b140a9a0001dd5b17d7055a180573f2.ts
+MTV LIVE HD,p2p://51.79.41.138:18912/5b1408f100084d6a17d08ad863d85a21.ts
+EYETV戲劇,p2p://51.79.41.138:18912/5b14093e000e433917d1b92674673784.ts
+龍華偶像,p2p://51.79.41.138:18912/5b1409180001262617d1215b0acb028f.ts
+BTV纪实,p2p://51.79.41.138:18912/5b1409fb000aafca17d49a8442ba2e86.ts
+V音樂,p2p://51.79.41.138:18912/5b593be200077048d379e5e141cb2a5d.ts
+Discovery(知識頻道),p2p://51.79.41.138:18912/5bee4e9b0004056f19ca944341e3368d.ts
+FRANCE 24（English）,p2p://51.79.41.138:18912/5b14090b0008c74a17d0f08749e16347.ts
+SUNDANCE HD,p2p://51.79.41.138:18912/5b1408f2000c5b2d17d08fc940145842.ts
+靖天卡通,p2p://51.79.41.138:18912/5b14093e0009fa2117d1b80d388e2efa.ts
+靖天國際,p2p://51.79.41.138:18912/5b1408f1000efa2817d08c8d2aa26513.ts
+靖天戲劇,p2p://51.79.41.138:18912/5b14093e000c1de917d1b89a306502e9.ts
+緯來精彩,p2p://51.79.41.138:18912/5b14094a0000e95117d1e49b2d550d9f.ts
+靖天日本,p2p://51.79.41.138:18912/5b140916000ab01617d11bfc24c93dad.ts
+LUXE TV,p2p://51.79.41.138:18912/5b1408f2000402a917d08da611f23a04.ts
+鴻基影劇臺,p2p://51.79.41.138:18912/5b14095e000b67b917d2356b48977d09.ts
+靖洋戲劇臺,p2p://51.79.41.138:18912/5b1409170006660317d11ecb4d0c407e.ts
+EVE HD,p2p://51.79.41.138:18912/5b14093f00043fac17d1ba7e4bed47f5.ts
+LIFETIME,p2p://51.79.41.138:18912/5b593bd20009b7c8d379a7ed5405277e.ts
+FOX-NEWS,p2p://51.79.41.138:18912/5b593b140008b0a8d376c17f5ed27779.ts
+GOOD?TV?,p2p://51.79.41.138:18912/5bdbf39200017a4bd216f86f7a511c7b.ts
+博斯高球1DH,p2p://51.79.41.138:18912/5bdbf395000ad5cbd217068974ec3c6b.ts
+佛衛慈悲台,p2p://51.79.41.138:18912/5bdbf39c000a4154d21721c16bc7247c.ts
+EVE,p2p://51.79.41.138:18912/5bdbf3a000041d6ad2172fcb0dab6930.ts
+CINEMA WORLD,p2p://51.79.41.138:18912/5bdbf3aa000b9c31d21758c049581284.ts
+LUXE?TV,p2p://51.79.41.138:18912/5bdbf3ae0006e6cad2176727144e1e98.ts
+TVBS精彩台,p2p://51.79.41.138:18912/5bdbf3b20000e966d2177540400d0818.ts
+中天亞洲,p2p://51.79.41.138:18912/5c724839000d2f361d51a7e41eb00016.ts
+亞洲旅遊,p2p://51.79.41.138:18912/5c724854000188081d520e6e279b2446.ts
+美亞電影,p2p://51.79.41.138:18912/5c724a0e000442831d58cdaa6a2c5c52.ts
+緯來電影,p2p://51.79.41.138:18912/5c7249d80003096d1d57fa6c33601be9.ts
+緯來戲劇,p2p://51.79.41.138:18912/5c72488e000bae061d52f38e705751dd.ts
+HBO HD,p2p://51.79.41.138:18912/5c7249dd000ca2101d58106551ff3ed4.ts
+國家地理野生,p2p://51.79.41.138:18912/5c7249fb000db88c1d5885e333974925.ts
+好萊塢電影,p2p://51.79.41.138:18912/5c7249e2000125281d5820ff23a165d1.ts
+MOMO親子,p2p://51.79.41.138:18912/5c7248620002c4fd1d52456c75ed6b55.ts
+迪士尼卡通,p2p://51.79.41.138:18912/5c72485c0008852e1d522f7314a34325.ts
+八大戲劇,p2p://51.79.41.138:18912/5c72488600080edc1d52d364104615a0.ts
+大愛,p2p://51.79.41.138:18912/5c7248470009cd451d51ddb92c7476f0.ts
+JET綜合,p2p://51.79.41.138:18912/5c724892000e3e1c1d5303da4a3c6c26.ts
+霹靂台灣,p2p://51.79.41.138:18912/5c7248580004e26e1d521ee9240c6230.ts
+ELTA體育3,p2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
+衛視電影,p2p://51.79.41.138:18912/5c7249cf00095b611d57d8da587f1c48.ts
+
+测试3_951,#genre#
+无线新闻1,https://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791cde.flv
+无线新闻2,http://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791cde.flv
+无线新闻3,http://hdl0901.plures.net/onlive/a477732eaf0c9f58de7d7b0ef8c2926f.flv 
+how,http://hdl0901.plures.net/onlive/4be1503239cf2cdcbcbefcaa2382ec73.flv
+公视,https://hdl0903.plures.net/onlive/f96e58ef77ed1e71be5f073d63a5d394.flv
+翡翠台1,https://4graurmtwghzdrcbqgeao.ourdvsss.com/hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791abc.flv
+翡翠台2,http://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791abc.flv
+j2-1,https://4graurmtwghzdrcbqge3y.ourdvsss.com/hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791bcd.flv
+j2-2,http://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791bcd.flv
+无线新闻,http://live.ergt4rt.wang/gangaotai.php?id=9
+
+代理源测试_951,#genre#
+TVB 翡翠,http://103.56.112.40/djgt.php?id=1  
+凤凰中文,http://103.56.112.40/djgt.php?id=2
+凤凰資訊,http://103.56.112.40/djgt.php?id=3 
+星空衛視,http://103.56.112.40/djgt.php?id=18
+TVB 明珠,http://103.56.112.40/djgt.php?id=13
+TVB J2,http://103.56.112.40/djgt.php?id=12
+耀才財經,http://103.56.112.40/djgt.php?id=19
+无线财经,http://103.56.112.40/djgt.php?id=10
+无线新闻,http://103.56.112.40/djgt.php?id=9
+有线新闻,http://103.56.112.40/djgt.php?id=31
+Viu TV,http://103.56.112.40/djgt.php?id=8
+澳門衛視,http://103.56.112.40/djgt.php?id=23
+澳亞衛視,http://103.56.112.40/djgt.php?id=24
+寰宇新聞,http://103.56.112.40/aatw.php?id=54
+寰宇新聞2,http://103.56.112.40/aatw.php?id=55
+三立台灣台,http://103.56.112.40/aatw.php?id=42
+三立新聞台,http://47.240.60.73/aatw.php?id=48
+三立都会台,http://103.56.112.40/aatw.php?id=40
+TVBS,http://103.56.112.40/aatw.php?id=127
+TVBS欢乐,http://103.56.112.40/aatw.php?id=129
+TVBS新闻,http://103.56.112.40/aatw.php?id=45
+中天新聞台,http://103.56.112.40/aatw.php?id=44
+東森新聞台,http://103.56.112.40/aatw.php?id=46
+非凡新聞,http://103.56.112.40/aatw.php?id=53
+HBO HD,http://103.56.112.40/aatw.php?id=27
+FOX HD,http://103.56.112.40/aatw.php?id=159
+好萊塢電影台,http://103.56.112.40/aatw.php?id=66
+迪士尼卡通,http://103.56.112.40/aatw.php?id=122
+
+代理源测试2_951,#genre#
+TVB 翡翠,http://live.ergt4rt.wang/gangaotai.php?id=1  
+凤凰中文,http://live.ergt4rt.wang/gangaotai.php?id=2
+凤凰資訊,http://live.ergt4rt.wang/gangaotai.php?id=3 
+星空衛視,http://live.ergt4rt.wang/gangaotai.php?id=18
+TVB 明珠,http://live.ergt4rt.wang/gangaotai.php?id=13
+TVB J2,http://live.ergt4rt.wang/gangaotai.php?id=12
+耀才財經,http://live.ergt4rt.wang/gangaotai.php?id=19
+无线财经,http://live.ergt4rt.wang/gangaotai.php?id=10
+无线新闻,http://live.ergt4rt.wang/gangaotai.php?id=9
+有线新闻,http://live.ergt4rt.wang/gangaotai.php?id=31
+Viu TV,http://live.ergt4rt.wang/gangaotai.php?id=8
+澳門衛視,http://live.ergt4rt.wang/gangaotai.php?id=23
+澳亞衛視,http://live.ergt4rt.wang/gangaotai.php?id=24
+寰宇新聞,http://live.ergt4rt.wang/gangaotai.php?id=54
+寰宇新聞2,http://live.ergt4rt.wang/gangaotai.php?id=55
+三立台灣台,http://live.ergt4rt.wang/gangaotai.php?id=42
+三立新聞台,http://47.240.60.73/aatw.php?id=48
+三立都会台,http://live.ergt4rt.wang/gangaotai.php?id=40
+TVBS,http://live.ergt4rt.wang/gangaotai.php?id=127
+TVBS欢乐,http://live.ergt4rt.wang/gangaotai.php?id=129
+TVBS新闻,http://live.ergt4rt.wang/gangaotai.php?id=45
+中天新聞台,http://live.ergt4rt.wang/gangaotai.php?id=44
+東森新聞台,http://live.ergt4rt.wang/gangaotai.php?id=46
+非凡新聞,http://live.ergt4rt.wang/gangaotai.php?id=53
+HBO HD,http://live.ergt4rt.wang/gangaotai.php?id=27
+FOX HD,http://live.ergt4rt.wang/gangaotai.php?id=159
+好萊塢電影台,http://live.ergt4rt.wang/gangaotai.php?id=66
+迪士尼卡通,http://live.ergt4rt.wang/gangaotai.php?id=122
 
 轮播,#genre#
 【爱奇艺】倪大红剧场,http://cdn-out.iqy.sc96655.com/tslive/c16_lb_nidahong_1080p_t10/c16_lb_nidahong_1080p_t10.m3u8
