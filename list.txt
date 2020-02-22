@@ -170,7 +170,7 @@ CCTV17高清,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Conte
 凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv#http://125.210.152.18:9090/live/FHZW_1200.m3u8
 凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe#http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 无线新闻台,http://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791cde.flv
-有线新闻台,http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
+有线新闻台,http://live.ergt4rt.wang/gangaotai.php?id=31#http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
 Now新闻,http://hdl0901.plures.net/onlive/4be1503239cf2cdcbcbefcaa2382ec73.flv
 无线财经资讯台,http://prdsecurelive.ainemo.com/live/234cjcj.m3u8
 中天新聞,P2p://190.2.146.92:18912/5c7249b6000641f71d5776673c1d2f63.ts#p2p://51.79.41.138:18912/5c7249b6000641f71d5776673c1d2f63.ts
@@ -190,7 +190,7 @@ ELTA體育3台,p2p://51.79.41.138:18912/5c7249f7000966361d58752a73813a0e.ts#P2p:
 广东体育HD,https://116.77.72.195/streams/d/gdty/playlist.m3u8#http://sk.live.otvcloud.com/otv/skcc/live/channel34/2300.m3u8?k=00512d957c9b1863aff57fc3916c3e77&t=5D84817C&UID=1568964988
 五星体育HD,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
 Channel V,rtmp://58.200.131.2/livetv/channelv
-MTV 音乐频道,https://116.77.72.195/streams/d/mtv/playlist.m3u8
+MTV 音乐频道,https://116.77.72.195/streams/d/mtv/playlist.m3u8#http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 MTV LIVE HD,p2p://51.79.41.138:18912/5b1409160006a29117d11af270d37d68.ts
 博斯高球1HD,p2p://51.79.41.138:18912/5b1409f3000f373217d47c6d014c2310.ts
 博斯運動2HD,p2p://51.79.41.138:18912/5b14098e0000e93717d2ee3b694601b7.ts
@@ -495,3 +495,202 @@ HOT星颜,P2p://51.79.41.138:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts#mitv:/
 超淫荡美少妇的激情爱爱,https://qqc1107.phpdaniu.com/japan/20191013/NQ1YjAsl/index.m3u8
 美穴欣赏【叶山瞳】,https://qqc1107.phpdaniu.com/japan/20191013/EMDCPRKl/index.m3u8
 美穴欣赏【麻生希】,https://qqc1107.phpdaniu.com/japan/20191013/VBDebMeI/500kb/hls/index.m3u8
+Z真白愛梨,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/3/4/346e9cf427285a5cfa7bfc8f913209de1486995037-1280-720-1542-h264.mp4/master.m3u8
+Искушение HD,http://mel13.ottclub.ru/iptv/XT8QRLUKBDVF32/919/index.m3u8
+Русская Ночь,http://mel13.ottclub.ru/iptv/XT8QRLUKBDVF32/147/index.m3u8
+Шалун,http://mel13.ottclub.ru/iptv/XT8QRLUKBDVF32/922/index.m3u8
+お互いの妻をタムハダ,https://135zyv6.xw0371.com/2019/01/14/HB4nHOspRBVXr7QO/playlist.m3u8
+Supernova 18 Hot Girls 3時間総,http://cdn1.polaroidchina.com:8091/20170906/AWpIBAXb/index.m3u8
+オフィスレディーの裏に,http://cdn1.polaroidchina.com:8091/20170906/zZ0Zu72C/index.m3u8
+藤城麻紀 水添愛子上,http://cdn1.polaroidchina.com:8091/20170912/fo3pIeWN/index.m3u8
+藤城麻紀 水添愛子下,http://cdn1.polaroidchina.com:8091/20170912/l1ke56Dc/index.m3u8
+北村敦子 武内麻友,http://cdn1.polaroidchina.com:8091/20170828/cSVX5XaJ/index.m3u8
+新堀 亜沙美  上部,http://cdn1.polaroidchina.com:8091/20171019/epj4dbWN/index.m3u8
+新堀 亜沙美  下部,http://cdn1.polaroidchina.com:8091/20171019/nUB24NSi/index.m3u8
+淫語で誘う寸止め焦らし痴女～僕を生,http://cdn1.polaroidchina.com:8091/20170907/FTtjuEQh/index.m3u8
+ヤリたい放題 10,http://cdn1.polaroidchina.com:8091/20170907/WvclkAWp/index.m3u8
+絶頂ランジェリーナ 8 山田彩夏,http://cdn1.polaroidchina.com:8091/20170907/0PzNFFhx/index.m3u8
+僕を誘惑する白い妖精 滝澤ローラ,http://cdn1.polaroidchina.com:8091/20170907/IShtaOko/index.m3u8
+春日由,http://cdn1.polaroidchina.com:8091/20170907/I0I029hs/index.m3u8
+～とって,http://cdn1.polaroidchina.com:8091/20170907/nObFERzQ/index.m3u8
+中出し痴漢タクシー,http://cdn1.polaroidchina.com:8091/20170907/Vt8sTYTk/index.m3u8
+初々し,http://cdn1.polaroidchina.com:8091/20170907/pTbpQnsM/index.m3u8
+肉感!,http://cdn1.polaroidchina.com:8091/20170907/MvPiZ76Z/index.m3u8
+密着度,http://cdn1.polaroidchina.com:8091/20170907/xYgppAP2/index.m3u8
+Debut 無,http://cdn1.polaroidchina.com:8091/20170907/1suKY9r9/index.m3u8
+僕とキ,http://cdn1.polaroidchina.com:8091/20170907/QYlMGVpA/index.m3u8
+パコパ,http://cdn1.polaroidchina.com:8091/20170907/HrDI2QOo/index.m3u8
+ももい,http://cdn1.polaroidchina.com:8091/20170907/z5qFuzmz/index.m3u8
+無防,http://cdn1.polaroidchina.com:8091/20170907/XUd52XAo/index.m3u8
+濡れヌ,http://cdn1.polaroidchina.com:8091/20170907/SIg5VEUD/index.m3u8
+性感VI,http://cdn1.polaroidchina.com:8091/20170907/cylPDX1C/index.m3u8
+マンチ,http://cdn1.polaroidchina.com:8091/20170907/2jAIc9hx/index.m3u8
+自宅で,http://cdn1.polaroidchina.com:8091/20170907/mv3g3tYs/index.m3u8
+降臨,http://cdn1.polaroidchina.com:8091/20170907/wMfJOcyo/index.m3u8
+ひたす,http://cdn1.polaroidchina.com:8091/20170907/nbXaX1Pp/index.m3u8
+ほろ酔,http://cdn1.polaroidchina.com:8091/20170908/pB6ov4Jy/index.m3u8
+ついに,http://cdn1.polaroidchina.com:8091/20170908/AWg107fK/index.m3u8
+初撮り,http://cdn1.polaroidchina.com:8091/20170908/n54yO6Xt/index.m3u8
+「ねこ,http://cdn1.polaroidchina.com:8091/20170908/nTmiQs37/index.m3u8
+[ムッ,http://cdn1.polaroidchina.com:8091/20170908/ejcSc8V0/index.m3u8
+淫乱,http://cdn1.polaroidchina.com:8091/20170908/KWtVNMVD/index.m3u8
+激イ,http://cdn1.polaroidchina.com:8091/20170908/rO5ZdV3Q/index.m3u8
+拘束,http://cdn1.polaroidchina.com:8091/20170908/U4eVXyea/index.m3u8
+元フ,http://cdn1.polaroidchina.com:8091/20170908/hMUtWfvV/index.m3u8
+極上,http://cdn1.polaroidchina.com:8091/20170908/omJoFMjb/index.m3u8
+おうちセックス編 : 木,http://cdn1.polaroidchina.com:8091/20170908/DYH9gYVJ/index.m3u8
+過激編 : 木内亜美菜,http://cdn1.polaroidchina.com:8091/20170908/gE5XIdfZ/index.m3u8
+クビレ,http://cdn1.polaroidchina.com:8091/20170908/umf8azgr/index.m3u8
+水原めい,http://cdn1.polaroidchina.com:8091/20170908/YgXBwqQH/index.m3u8
+パンストローション ～ぬめりの快楽,http://cdn1.polaroidchina.com:8091/20170909/iY8mtjdD/index.m3u8
+巨乳熟女をガンガン突き,http://cdn1.polaroidchina.com:8091/20170908/pnTp9xbh/index.m3u8
+余裕で三連発できちゃう,http://cdn1.polaroidchina.com:8091/20170908/ypv21418/index.m3u8
+しばられたいの ~社会的痴,http://cdn1.polaroidchina.com:8091/20170908/USYouMYC/index.m3u8
+鬼イキトランス : 江波り,http://cdn1.polaroidchina.com:8091/20170908/Gxy3XLG2/index.m3u8
+あの薄幸熟女を地元まで,http://cdn1.polaroidchina.com:8091/20170908/FhmarZl9/index.m3u8
+余裕で三連発できちゃう,http://cdn1.polaroidchina.com:8091/20170908/1SDJ4TFW/index.m3u8
+盛り上がっちゃう色白素,http://cdn1.polaroidchina.com:8091/20170923/ssAXScRC/index.m3u8
+ハイ,http://cdn1.polaroidchina.com:8091/20170908/mSfJz0qJ/index.m3u8
+ミス,http://cdn1.polaroidchina.com:8091/20170908/gtCclRpX/index.m3u8
+極上,http://cdn1.polaroidchina.com:8091/20170908/BeKbucHu/index.m3u8
+ミス,http://cdn1.polaroidchina.com:8091/20170908/jMWuT6NE/index.m3u8
+純,http://cdn1.polaroidchina.com:8091/20170908/F44JZuCc/index.m3u8
+若妻中出し温泉旅行,http://cdn1.polaroidchina.com:8091/20170908/J2YyGeAK/index.m3u8
+グラマラス : 夕城芹,http://cdn1.polaroidchina.com:8091/20170908/o61VOLbb/index.m3u8
+アタシの彼氏はビッグブ,http://cdn1.polaroidchina.com:8091/20170923/XBHjuCqN/index.m3u8
+僕の彼女が碧しのだった,http://cdn1.polaroidchina.com:8091/20170908/yvX8rBRl/index.m3u8
+カワイ,http://cdn1.polaroidchina.com:8091/20170908/LxuCiaPg/index.m3u8
+Ｍ字開脚抜きフェラ マイクロビキニ生,http://cdn1.polaroidchina.com:8091/20170908/MgclPQ8O/index.m3u8
+美人達とドM調教 : 春奈 まり,http://cdn1.polaroidchina.com:8091/20170908/GldkFYHM/index.m3u8
+巨乳の高飛車証券女大暴落 : 小峰ひな,http://cdn1.polaroidchina.com:8091/20170908/pZwgccwv/index.m3u8
+初めてのカーセックスに挑戦！: みな,http://cdn1.polaroidchina.com:8091/20170908/gadDhcKT/index.m3u8
+機密女収容施設 - シークレットプリズ,http://cdn1.polaroidchina.com:8091/20170908/7QaIxneT/index.m3u8
+マン淫御礼！華李美亭寄席 : 森永ひよ,http://cdn1.polaroidchina.com:8091/20170908/Kxt20lGQ/index.m3u8
+小桜沙樹 三村ちな,http://cdn1.polaroidchina.com:8091/20170908/HitluIlQ/index.m3u8
+ビルの屋上をオマンコほり出して回遊,http://cdn1.polaroidchina.com:8091/20170909/ZFo6hAlt/index.m3u8
+ヒミツの全裸シェアハウス : 椎名みゆ,http://cdn1.polaroidchina.com:8091/20170909/f4RaDPNI/index.m3u8
+愛しきご主人様と給仕の私 : 滝川エリ,http://cdn1.polaroidchina.com:8091/20170909/6Okp2htV/index.m3u8
+ムチャぶり！ : 大家あみ,http://cdn1.polaroidchina.com:8091/20170909/rp73s9h7/index.m3u8
+いけない優等生にオシオキ : 本澤朋美,http://cdn1.polaroidchina.com:8091/20170909/btldFkZE/index.m3u8
+AVデビュー物語 : 永瀬里美,http://cdn1.polaroidchina.com:8091/20170909/cNf49s8T/index.m3u8
+エレガンス : 桐島ひかる,http://cdn1.polaroidchina.com:8091/20170909/SlqSkj0i/index.m3u8
+沙耶ちゃんのお部屋へおじゃましまぁ,http://cdn1.polaroidchina.com:8091/20170909/boej46FQ/index.m3u8
+美微乳感度チェック ~マジでおっぱい,http://cdn1.polaroidchina.com:8091/20170909/UmiPIIn9/index.m3u8
+夢を叶えまSHOW : 北条麻妃,http://cdn1.polaroidchina.com:8091/20170909/ht5YsqRs/index.m3u8
+話題のメイドリフレ! 特別ご奉仕しち,http://cdn1.polaroidchina.com:8091/20170909/o5TkJUMt/index.m3u8
+AV女優AD体験記 : 愛花沙也 若菜めい,http://cdn1.polaroidchina.com:8091/20170909/Q9r8LFfZ/index.m3u8
+ずさんな横領 : 宮澤みほ,http://cdn1.polaroidchina.com:8091/20170904/qC6yMbIU/index.m3u8
+業界最上級のクビレ美巨,http://cdn1.polaroidchina.com:8091/20170909/jW93Mh3m/index.m3u8
+超絶ウブな彼女のどスケベ過ぎる妄想,http://cdn1.polaroidchina.com:8091/20170909/VfD2JnP9/index.m3u8
+Black gal DANCE : 沢尻涼子,http://cdn1.polaroidchina.com:8091/20170909/qbG5tKl9/index.m3u8
+僕の彼女が木下寧々だったら ~山でお,http://cdn1.polaroidchina.com:8091/20170909/AQjrhgwZ/index.m3u8
+女優魂 ~ゴミ屋敷でガチファック,http://cdn1.polaroidchina.com:8091/20170909/7ny7fJ7J/index.m3u8
+ファン感謝祭 ~ロリ好き限定青姦バス,http://cdn1.polaroidchina.com:8091/20170909/15AN2CCx/index.m3u8
+余裕で三連発できちゃう極上の女優,http://cdn1.polaroidchina.com:8091/20170909/zPh79yQJ/index.m3u8
+セックスが好きで好きでたまりません,http://cdn1.polaroidchina.com:8091/20170909/2w9TgSCW/index.m3u8
+はじめての野外放出 ~ドコでも吹いち,http://cdn1.polaroidchina.com:8091/20170909/GAc3lhb1/index.m3u8
+YURI 宮藤まい あ,http://cdn1.polaroidchina.com:8091/20170910/uJ39wMDf/index.m3u8
+密室エレベーター輪姦中出し,http://cdn1.polaroidchina.com:8091/20170909/xwaGI082/index.m3u8
+巨乳むすめのご奉仕三昧 : 西野紗江,http://cdn1.polaroidchina.com:8091/20170909/s0PrdZii/index.m3u8
+おっぱいが異常発達した姪っ子 数年ぶ,http://cdn1.polaroidchina.com:8091/20170909/c7XqGcM7/index.m3u8
+お尻大好きしょう太くんのHなイタズ,http://cdn1.polaroidchina.com:8091/20170909/vidVGezq/index.m3u8
+完全服従契約 ～あなた目線で舞咲み,http://cdn1.polaroidchina.com:8091/20170909/kKrry0EG/index.m3u8
+巨乳痴女ソープ嬢の濃厚サービス : 浅,http://cdn1.polaroidchina.com:8091/20170902/svE9ccUI/index.m3u8
+シンプリー ピュア 菜りお｜椎名りく,http://cdn1.polaroidchina.com:8091/20170910/vHQ1yoeD/index.m3u8
+ベテラン全裸家政婦 熟れたカラダで貴,http://cdn1.polaroidchina.com:8091/20170910/cFq8DRQa/index.m3u8
+美痴女 [激選エロドラマオムニバス],http://cdn1.polaroidchina.com:8091/20170910/mD1pDEnb/index.m3u8
+朝勃ち大好き新妻しのちゃん : 碧しの,http://cdn1.polaroidchina.com:8091/20170910/46uYh2SR/index.m3u8
+まりか｜水川エミリ,http://cdn1.polaroidchina.com:8091/20170910/96shtwJQ/index.m3u8
+激選エロドラマオムニバス : 本,http://cdn1.polaroidchina.com:8091/20170910/dWEZfjyv/index.m3u8
+ベッピンかぐや姫のスケベな婚活 : 吉,http://cdn1.polaroidchina.com:8091/20170910/gJT1A3H8/index.m3u8
+シェアガール 15分からOKの女 : 朝倉花恋,http://cdn1.polaroidchina.com:8091/20170910/Rq2hBRwh/index.m3u8
+中出しデリバリー : 里中結衣,http://cdn1.polaroidchina.com:8091/20170910/vHpQAjz2/index.m3u8
+美人崩壊 : 水,http://cdn1.polaroidchina.com:8091/20170910/kZnJ88H9/index.m3u8
+放課後美少女,http://cdn1.polaroidchina.com:8091/20170910/ajHFZY8P/index.m3u8
+アクメ依存症,http://cdn1.polaroidchina.com:8091/20170910/gFlkFJjV/index.m3u8
+放課後美少女2,http://cdn1.polaroidchina.com:8091/20170910/ibx75Af1/index.m3u8
+性交裏クリニ,http://cdn1.polaroidchina.com:8091/20170910/moFAtPBK/index.m3u8
+おもらし団地,http://cdn1.polaroidchina.com:8091/20170910/EpbXQ9Zi/index.m3u8
+幼馴染のくぱ,http://cdn1.polaroidchina.com:8091/20170910/uCY2eVBm/index.m3u8
+中島京子,http://cdn1.polaroidchina.com:8091/20170910/KfLQpkWR/index.m3u8
+内村りな,http://cdn1.polaroidchina.com:8091/20170910/Fi75kDLN/index.m3u8
+櫻木梨乃,http://cdn1.polaroidchina.com:8091/20170910/6fCRakl0/index.m3u8
+松永ちえり,http://cdn1.polaroidchina.com:8091/20170910/RbiRkhZN/index.m3u8
+天使と悪魔,http://cdn1.polaroidchina.com:8091/20170910/M74FdjTT/index.m3u8
+小西まりえ,http://cdn1.polaroidchina.com:8091/20170910/HDdXjiQK/index.m3u8
+MERU,http://cdn1.polaroidchina.com:8091/20170910/1RPZoY9Z/index.m3u8
+柏倉玲華,http://cdn1.polaroidchina.com:8091/20170910/Fm5x5XUU/index.m3u8
+拘束鬼イカセ,http://cdn1.polaroidchina.com:8091/20170910/2dfnNplb/index.m3u8
+拘束絶頂アク,http://cdn1.polaroidchina.com:8091/20170910/RZdSM1kQ/index.m3u8
+アノ娘の初体,http://cdn1.polaroidchina.com:8091/20170910/BQyvov6d/index.m3u8
+美熟女ぶっかけ2穴姦 : 都盛星空,http://cdn1.polaroidchina.com:8091/20170910/qDsnRTcP/index.m3u8
+ローションま,http://cdn1.polaroidchina.com:8091/20170910/w55HPk5o/index.m3u8
+放課後Hなアル,http://cdn1.polaroidchina.com:8091/20170910/OGDnHY0v/index.m3u8
+ルチャリブレ総集編 4時間13名 : 篠めぐ,http://cdn1.polaroidchina.com:8091/20170910/fDPqRj0s/index.m3u8
+制服美少女 ONIIKASE : 長谷川夏樹,http://cdn1.polaroidchina.com:8091/20170910/VBiPiggU/index.m3u8
+アナル狂いの清純彼女 : 羽月ミリア,http://cdn1.polaroidchina.com:8091/20170910/pwvV6FnH/index.m3u8
+一ノ瀬麗花,http://cdn1.polaroidchina.com:8091/20170910/O2UGLUJu/index.m3u8
+仕事ができる,http://cdn1.polaroidchina.com:8091/20170910/C4wX7mrs/index.m3u8
+集団痴漢を受,http://cdn1.polaroidchina.com:8091/20170910/EfZ6WATX/index.m3u8
+いいなり奴隷,http://cdn1.polaroidchina.com:8091/20170910/AON3oCc8/index.m3u8
+美女ギャル 本,http://cdn1.polaroidchina.com:8091/20170910/6HdxKZGe/index.m3u8
+OLの尻に埋もれ,http://cdn1.polaroidchina.com:8091/20170910/fkoYmBzg/index.m3u8
+「働きウーマ,http://cdn1.polaroidchina.com:8091/20170910/BxKhPIrI/index.m3u8
+シルバーウィ,http://cdn1.polaroidchina.com:8091/20170910/wE519xQi/index.m3u8
+未亡人の柔肌,http://cdn1.polaroidchina.com:8091/20170910/POAw3bUe/index.m3u8
+鬼イカセ 性○,http://cdn1.polaroidchina.com:8091/20170910/ng9XSkwW/index.m3u8
+高級ソープへ,http://cdn1.polaroidchina.com:8091/20170910/aXclfusz/index.m3u8
+彼女と僕とアブ,http://cdn1.polaroidchina.com:8091/20170911/aWk2Erj3/index.m3u8
+いいなり : 美月,http://cdn1.polaroidchina.com:8091/20170911/nae36r0P/index.m3u8
+失神するぐらいの,http://cdn1.polaroidchina.com:8091/20170911/9B4AfrKM/index.m3u8
+ナマ中出し解禁,http://cdn1.polaroidchina.com:8091/20170911/Sp4j0OB8/index.m3u8
+ガチハメ Office,http://cdn1.polaroidchina.com:8091/20170911/TfjKY5qP/index.m3u8
+男を虜にする美,http://cdn1.polaroidchina.com:8091/20170911/mpZL7Tbz/index.m3u8
+生ハメしまくり,http://cdn1.polaroidchina.com:8091/20170911/KcNA8M0w/index.m3u8
+二宮ナナの朝か,http://cdn1.polaroidchina.com:8091/20170910/ajOhQCaE/index.m3u8
+放課後Hなア,http://cdn1.polaroidchina.com:8091/20170911/4fTHPm3a/index.m3u8
+誘惑?カテキョ,http://cdn1.polaroidchina.com:8091/20170911/IzFvMcf7/index.m3u8
+docodemoかけほーだい : 篠めぐみ | 小野,http://cdn1.polaroidchina.com:8091/20170910/aUWNQzhK/index.m3u8
+寝たきりの夫 絶倫の義父 そして私,http://cdn1.polaroidchina.com:8091/20170910/yuIHhyhT/index.m3u8
+マネージャーのミスで、強制ア○ルフ,http://cdn1.polaroidchina.com:8091/20170910/lJOuIcbJ/index.m3u8
+メルシーボークー DV 20 ご奉仕?カノジ,http://cdn1.polaroidchina.com:8091/20170910/TrF9iqu7/index.m3u8
+メルシーボークー DV 24 放課後 Z : 一之,http://cdn1.polaroidchina.com:8091/20170910/yDGNCF2E/index.m3u8
+メルシーボークー DV 25 秋野千尋のSOA,http://cdn1.polaroidchina.com:8091/20170910/xmMSaGnt/index.m3u8
+メルシーボークー DV 26 貸切?美少女,http://cdn1.polaroidchina.com:8091/20170910/3SenQ4Mz/index.m3u8
+ダイナマイト : 愛沢かりん,http://cdn1.polaroidchina.com:8091/20170910/R0xn80So/index.m3u8
+緊縛に目覚める淫乱若妻 : 広瀬,http://cdn1.polaroidchina.com:8091/20170910/iZ7v3Pht/index.m3u8
+佐伯ゆきなと素人コイオチ散歩,http://cdn1.polaroidchina.com:8091/20170910/lBFnoiAV/index.m3u8
+AV撮影現場を密着取材！ : 瀬奈,http://cdn1.polaroidchina.com:8091/20170910/4YmPV6hx/index.m3u8
+生中出しファン感謝オフ会 : 波,http://cdn1.polaroidchina.com:8091/20170910/ABdh7PJj/index.m3u8
+人妻メイドサロン : 三橋杏奈,http://cdn1.polaroidchina.com:8091/20170910/1QHQOibY/index.m3u8
+僕の彼女は鈴森汐那 : 鈴森汐那,http://cdn1.polaroidchina.com:8091/20170910/8fcybuNA/index.m3u8
+人妻不倫温泉 : 水野葵,http://cdn1.polaroidchina.com:8091/20170910/IOgPdNxF/index.m3u8
+余裕で三連発できちゃう極上,http://cdn1.polaroidchina.com:8091/20170910/QIb5iYTw/index.m3u8
+Jカップの爆乳女優コンプリー,http://cdn1.polaroidchina.com:8091/20170910/B0QnOaBR/index.m3u8
+レンタル中 : 佳苗るか,http://cdn1.polaroidchina.com:8091/20170910/uJ58iXrw/index.m3u8
+敏感スレンダーモデルと中出,http://cdn1.polaroidchina.com:8091/20170910/x7jBaryc/index.m3u8
+放課後に私を仕込んでくだ,http://cdn1.polaroidchina.com:8091/20170911/WezMNDUQ/index.m3u8
+女子高生拉致監禁 : 木村美羽,http://cdn1.polaroidchina.com:8091/20170911/NlQml27I/index.m3u8
+人妻を満足させ隊 : 黒木琴音,http://cdn1.polaroidchina.com:8091/20170910/gGI1h8gM/index.m3u8
+京都はんなり娘 ~セックスハ,http://cdn1.polaroidchina.com:8091/20170910/FdnkWy1p/index.m3u8
+沙弥があなたのお嫁さん : 新,http://cdn1.polaroidchina.com:8091/20170910/GoqzNAlg/index.m3u8
+誘惑セールス,http://cdn1.polaroidchina.com:8091/20170911/UYOVpzaq/index.m3u8
+潮吹きE-GIRL,http://cdn1.polaroidchina.com:8091/20170911/4VaObk8X/index.m3u8
+水樹りさ,http://cdn1.polaroidchina.com:8091/20170911/a6JH0nWE/index.m3u8
+大沢まなみの見晴らし最高 : 大沢まなみ,http://cdn1.polaroidchina.com:8091/20170911/5NwARadD/index.m3u8
+もしも辻さやかが泡姫だったら,http://cdn1.polaroidchina.com:8091/20170911/3zv16DdA/index.m3u8
+寝とられ美人妻 : 小野麻里亜,http://cdn1.polaroidchina.com:8091/20170911/8VL7QAu7/index.m3u8
+肉便器育成所 : 綾那優,http://cdn1.polaroidchina.com:8091/20170911/UA4rMLXZ/index.m3u8
+美神あやがぼくのお嫁さん,http://cdn1.polaroidchina.com:8091/20170911/ZHOLwHDM/index.m3u8
+汁だく美少女 : 宮下華奈,http://cdn1.polaroidchina.com:8091/20170911/X7SgP0NU/index.m3u8
+社長秘書のお仕事 : 鈴羽みう,http://cdn1.polaroidchina.com:8091/20170911/m70QX9Hc/index.m3u8
+真加藤ツバキ無双 : 加藤ツバキ,http://cdn1.polaroidchina.com:8091/20170911/GlNDCTtZ/index.m3u8
+極上泡姫物語 : 中島京子,http://cdn1.polaroidchina.com:8091/20170911/6NnG6R2x/index.m3u8
+薬局で働く貧乳だけど感度抜群の素人,http://cdn1.polaroidchina.com:8091/20170911/Pu2ylqDG/index.m3u8
+男をイチコロにするJKコンビ,http://cdn1.polaroidchina.com:8091/20170911/iRtcuMct/index.m3u8
+素人娘AV体験撮影 : 宮本七音,http://cdn1.polaroidchina.com:8091/20170911/epRidJHe/index.m3u8
+モデルコレクション : 相葉りか,http://cdn1.polaroidchina.com:8091/20170911/OgoaXGTU/index.m3u8
+10人連続ぶっかけ,http://cdn1.polaroidchina.com:8091/20170911/anyMVdTy/index.m3u8
+絶対彼女 : 吉乃ひとみ,http://cdn1.polaroidchina.com:8091/20170911/mhUStMNo/index.m3u8
+高級クラブ娘の究極接客 : 黒澤ゆうか,http://cdn1.polaroidchina.com:8091/20170911/cqI8ptOU/index.m3u8
+性欲が邪魔をする : 児島奈央,http://cdn1.polaroidchina.com:8091/20170911/sA23rWgD/index.m3u8
