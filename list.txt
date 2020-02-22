@@ -348,6 +348,48 @@ FOX HD,http://live.ergt4rt.wang/gangaotai.php?id=159
 好萊塢電影台,http://live.ergt4rt.wang/gangaotai.php?id=66
 迪士尼卡通,http://live.ergt4rt.wang/gangaotai.php?id=122
 
+
+好莱坞电影,https://hdl0903.plures.net/onlive/6aeca4ba435ca0f171bad5be8cbfe736.flv
+中视经典,https://ter.live2.ksmobile.net/yolo/a2b266bfa981b0ff9c0d2705fceb529b.flv
+壹新闻,https://hdl0903.plures.net/onlive/28e9526f248f9f1f7013ea0edae88c9f.flv
+华视新闻咨询,https://ter.live2.ksmobile.net/yolo/04b5e06dcf2741526f9853f66efd97b1.flv
+民视新闻,https://ter.live2.ksmobile.net/yolo/9fd06510fc3bbd4ae6f7830ec5c87451.flv 
+东森戏剧台,https://hdl0903.plures.net/onlive/4db945f965b80200c939c51b245ee109.flv
+中视新闻,https://ter.live2.ksmobile.net/yolo/88087ce73bb918580904c6cb95bedf18.flv 
+三立新闻,https://hdl0903.plures.net/onlive/8a3af7e73df1e05523b9d354050e525b.flv
+中天新闻,https://ter.live2.ksmobile.net/yolo/abb0166af574bedaff160c440f989c90.flv
+年代新闻,https://hdl0903.plures.net/onlive/a9d41a2207349d6dbdaa7718b597a021.flv 
+台视新闻,https://ter.live2.ksmobile.net/yolo/f2ab60eebe7a9ae6702ff75b1df2968e.flv 
+龙翔时代,https://hdl0903.plures.net/onlive/37c5057cd4029219ad15973370d2ec93.flv
+星卫电影,http://pull.scphsd.com/live/5bd2f0c2a7483c9837ab427f90738fea.flv 
+美亚电影,https://hdl0903.plures.net/onlive/124dc233f59b3c17c584f04105ad0604.flv
+纬来电影,https://hdl0903.plures.net/onlive/2f3905630b2b390f131404da4fe8d752.flv
+东森电影,https://pull.scphsd.com/live/22862241f3a44aaba0df79698197d874.flv 
+龙华戏剧,https://hdl0903.plures.net/onlive/3c51b0cdaf14d2e81b66a66746a1860d.flv
+HD 电影,https://hdl0903.plures.net/onlive/d15befdccb7f0f9d4f77fcae554273b4.flv
+八大娱乐,https://pull.scphsd.com/live/234c90178c5942eea1ef9ae181952ea5.flv 
+三立戏剧台,https://hdl0903.plures.net/onlive/3f95cfc216f5a33831bd6defd54dcd32.flv
+纬来综合,https://hdl0903.plures.net/onlive/666560655e12701a79d18b7c6270a451.flv 
+纬来电影,https://ter.live2.ksmobile.net/yolo/d8c96dcee07ceb7ccacf29c947fb4fe2.flv 
+靖洋戏剧台,https://ter.live2.ksmobile.net/yolo/f448b321de01c10225f4a355d19d7d32.flv
+民视福建旁边台,https://ter.live2.ksmobile.net/yolo/fb972a8a4b2b20dfd2fc31406999eec5.flv 
+鄛示电影,http://pull.kktv8.com/livekktv/143960119.flv
+民视第一台,https://ter.live2.ksmobile.net/yolo/b261e06c3c46f736d1a55f7872d2a529.flv
+民视综艺,https://ter.live2.ksmobile.net/yolo/2b8e8e40fea891382bd37464f1fdf4dd.flv
+eltv 娱乐,https://ter.live2.ksmobile.net/yolo/34b482f6802ca45ecb16fd95221f0599.flv 
+好莱坞,https://hdl0903.plures.net/onlive/6aeca4ba435ca0f171bad5be8cbfe736.flv
+深圳旁边新闻,https://hdl0903.plures.net/onlive/d5b1a8e12bd44692326cdbdb7bc3be46.flv
+凤凰中文,http://liveali.ifeng.com/live/FHZW.m3u8
+凤凰咨询,http://liveali.ifeng.com/live/FHZX.m3u8
+now,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe
+now新闻,https://hdl0903.plures.net/onlive/d45c4fa6b0c3a09693be470e04346cf7.flv
+now直播, https://hdl0903.plures.net/onlive/d20c04bb1200fbf566bf09dfdfd60811.flv 
+卫视卡式,https://hdl0903.plures.net/onlive/35481bfabea38eb39d1e54d7afbafd6e.flv
+欢喜台,http://pull.scphsd.com/live/0d3f7e3aba5f66a620a39a416a6e2e75.flv
+齐影视,http://dlhdl-cdn.zhanqi.tv/zqlive/294241_KlRjy.flv 
+齐影视电视剧,http://dlhdl-cdn.zhanqi.tv/zqlive/295803_fLcJv.flv
+TVB J2,https://hdl0903.plures.net/onlive/d9fa0e2b1d2382267fba5ce417bd22ca.flv
+
 中国老电影,#genre#
 地雷战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458e40508615d711b8aae1af/850.m3u8
 地道战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/312e39c68cc441feb79d1c2d7e16cbbd/850.m3u8
