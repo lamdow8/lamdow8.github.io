@@ -181,7 +181,7 @@ TVBS新聞,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts#p2p://51
 三立新聞,P2p://190.2.146.92:18912/5c7249be000b87931d5796ff51e62b02.ts#p2p://51.79.41.138:18912/5c7249be000b87931d5796ff51e62b02.ts#http://47.240.60.73/aatw.php?id=48
 壹新闻,p2p://190.2.146.92:18912/5c724897000cb1861d5316f515e3763e.ts#p2p://51.79.41.138:18912/5c724897000cb1861d5316f515e3763e.ts
 华视新闻,http://lss.line-scdn.net/cc_tw/p/live/hcPAs4bucPX4uZyNuFHIgSUcJZxtTbyl6RWlwEVsKYhsBMigtQWtzG19eYBgCOHJ5RGx7TFoPak5Wf3p6RzkjGQwCfE9QJXsqSXNzG1AVYk1TMXsoQWVz/720/chunklist.m3u8
-
+民视新闻台,https://hdl0903.plures.net/onlive/8f0240aa2f4157e028a9f8748242c58a.flv
 体育音乐,#genre#
 纬来体育[HD],vjms://58.215.133.185:8500:3502/live/cid=202
 ELTA体育1台,vjms://58.215.133.185:8500:3502/live/cid=266
@@ -307,7 +307,19 @@ how,http://hdl0901.plures.net/onlive/4be1503239cf2cdcbcbefcaa2382ec73.flv
 翡翠台2,http://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791abc.flv
 j2-1,https://4graurmtwghzdrcbqge3y.ourdvsss.com/hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791bcd.flv
 j2-2,http://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791bcd.flv
-
+新 U频道,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+新传媒8频道,https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
+新加坡SURIA频道,https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+新加坡5频道(英语),https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+新加坡8频道(普通话),https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+新加坡春天频道vsnthmctv(泰米尔语),https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
+星空卫视,rtmp://58.200.131.2:1935/livetv/startv
+华丽,p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0
+双星,p2p://sdgdklwos.finetv.tv:9906/5b2f26bb000f257c10bb53ec280e5f3f.ts
+欢喜,p2p://sdgdklwos.finetv.tv:9906/5b2c86ff000b8df6067b5ca240b93635.ts
+AEC,p2p://sdgdklwos.finetv.tv:9906/5b2c873100007ef4067c1d2352642785.ts
+小太阳,p2p://sdgdklwos.finetv.tv:9906/5b2c879d000424bd067dc3ee45d96446.ts
+越南ktv,http://210.245.20.94/hls/ktv1.m3u8
 TVB 翡翠,http://live.ergt4rt.wang/gangaotai.php?id=1  
 凤凰中文,http://live.ergt4rt.wang/gangaotai.php?id=2
 凤凰資訊,http://live.ergt4rt.wang/gangaotai.php?id=3 
