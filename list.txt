@@ -348,7 +348,6 @@ AEC,p2p://sdgdklwos.finetv.tv:9906/5b2c873100007ef4067c1d2352642785.ts
 翡翠台2,http://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791abc.flv
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 
-TVB 翡翠,http://live.ergt4rt.wang/gangaotai.php?id=1  
 凤凰中文,http://live.ergt4rt.wang/gangaotai.php?id=2
 凤凰資訊,http://live.ergt4rt.wang/gangaotai.php?id=3 
 星空衛視,http://live.ergt4rt.wang/gangaotai.php?id=18
@@ -375,7 +374,20 @@ HBO HD,http://live.ergt4rt.wang/gangaotai.php?id=27
 FOX HD,http://live.ergt4rt.wang/gangaotai.php?id=159
 好萊塢電影台,http://live.ergt4rt.wang/gangaotai.php?id=66
 迪士尼卡通,http://live.ergt4rt.wang/gangaotai.php?id=122
-
+凤凰中文,http://103.56.112.40/ddjgt.php?id=2
+凤凰資訊,http://103.56.112.40/ddjgt.php?id=3
+星空衛視,http://103.56.112.40/ddjgt.php?id=18
+TVB 明珠,http://103.56.112.40/ddjgt.php?id=13
+TVB 翡翠,http://103.56.112.40/ddjgt.php?id=1
+TVB J2,http://103.56.112.40/ddjgt.php?id=12
+Viu TV,http://103.56.112.40/ddjgt.php?id=8
+耀才財經,http://103.56.112.40/ddjgt.php?id=19
+无线财经,http://103.56.112.40/ddjgt.php?id=10
+无线新闻,http://103.56.112.40/ddjgt.php?id=9
+有线新闻,http://103.56.112.40/ddjgt.php?id=31
+澳門衛視,http://103.56.112.40/ddjgt.php?id=23
+澳亞衛視,http://103.56.112.40/ddjgt.php?id=24
+更多节目源  更多代理源交流群604262412
 中国老电影,#genre#
 地雷战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458e40508615d711b8aae1af/850.m3u8
 地道战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/312e39c68cc441feb79d1c2d7e16cbbd/850.m3u8
