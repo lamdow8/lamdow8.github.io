@@ -387,7 +387,7 @@ Viu TV,http://103.56.112.40/ddjgt.php?id=8
 有线新闻,http://103.56.112.40/ddjgt.php?id=31
 澳門衛視,http://103.56.112.40/ddjgt.php?id=23
 澳亞衛視,http://103.56.112.40/ddjgt.php?id=24
-更多节目源  更多代理源交流群604262412
+
 中国老电影,#genre#
 地雷战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458e40508615d711b8aae1af/850.m3u8
 地道战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/312e39c68cc441feb79d1c2d7e16cbbd/850.m3u8
