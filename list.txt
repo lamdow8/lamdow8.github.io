@@ -169,9 +169,11 @@ CCTV17高清,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Conte
 凤凰资讯台,http://liveali.ifeng.com/live/FHZX.flv#http://125.210.152.18:9090/live/FHZX_1200.m3u8
 凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv#http://125.210.152.18:9090/live/FHZW_1200.m3u8
 凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe#http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
-无线新闻台,http://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791cde.flv
-有线新闻台,http://live.ergt4rt.wang/gangaotai.php?id=31#http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
-Now新闻,http://hdl0901.plures.net/onlive/4be1503239cf2cdcbcbefcaa2382ec73.flv
+无线新闻台,http://pulljd-live.baijiayun.com/live/1a01b7621f51223a3ca71b2c9.m3u8
+无线新闻台,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+有线新闻台,http://pulljd-live.baijiayun.com/live/b8921bf3a0529b115cf17116c.m3u8
+有线新闻台,http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
+
 无线财经资讯台,http://prdsecurelive.ainemo.com/live/234cjcj.m3u8
 中天新聞,P2p://190.2.146.92:18912/5c7249b6000641f71d5776673c1d2f63.ts#p2p://51.79.41.138:18912/5c7249b6000641f71d5776673c1d2f63.ts
 TVBS新聞,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts#p2p://51.79.41.138:18912/5c7249c2000e510f1d57a75a30592ee2.ts
@@ -181,7 +183,7 @@ TVBS新聞,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts#p2p://51
 三立新聞,P2p://190.2.146.92:18912/5c7249be000b87931d5796ff51e62b02.ts#p2p://51.79.41.138:18912/5c7249be000b87931d5796ff51e62b02.ts#http://47.240.60.73/aatw.php?id=48
 壹新闻,p2p://190.2.146.92:18912/5c724897000cb1861d5316f515e3763e.ts#p2p://51.79.41.138:18912/5c724897000cb1861d5316f515e3763e.ts
 华视新闻,http://lss.line-scdn.net/cc_tw/p/live/hcPAs4bucPX4uZyNuFHIgSUcJZxtTbyl6RWlwEVsKYhsBMigtQWtzG19eYBgCOHJ5RGx7TFoPak5Wf3p6RzkjGQwCfE9QJXsqSXNzG1AVYk1TMXsoQWVz/720/chunklist.m3u8
-民视新闻台,https://hdl0903.plures.net/onlive/8f0240aa2f4157e028a9f8748242c58a.flv
+民视新闻台,https://hdl0903.plures.net/onlive/8f0240aa2f4157e08a9f8748242c58a.flv
 体育音乐,#genre#
 纬来体育[HD],vjms://58.215.133.185:8500:3502/live/cid=202
 ELTA体育1台,vjms://58.215.133.185:8500:3502/live/cid=266
