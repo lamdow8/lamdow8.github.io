@@ -165,6 +165,7 @@ CCTV17高清,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Conte
 电视剧,http://gslbserv.itv.cmvideo.cn/5003211967.ts?channel-id=ysten&Contentid=5003211967&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
 
 港台新闻,#genre#
+TVB翡翠台,http://pulljd-live.baijiayun.com/live/dcd8b789c0b91bbcg39ea88dt.m3u8
 TVB翡翠台,http://103.56.112.40/ddjgt.php?id=1#http://pull.scphsd.com/live/a7ec8fae369409a0e2aae05b9ad78a59.flv
 凤凰资讯台,http://liveali.ifeng.com/live/FHZX.flv#http://125.210.152.18:9090/live/FHZX_1200.m3u8
 凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv#http://125.210.152.18:9090/live/FHZW_1200.m3u8
@@ -342,53 +343,37 @@ AEC,p2p://sdgdklwos.finetv.tv:9906/5b2c873100007ef4067c1d2352642785.ts
 澳门有线一台,http://202.175.127.77/live/show/ch1/index.m3u8
 澳门互动新闻,http://202.175.127.77/live/show/ch2/index.m3u8
 澳门有线三台,http://202.175.127.77/live/show/ch3/index.m3u8
-港台测试,#genre#
-无线新闻1,https://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791cde.flv
-无线新闻2,http://hdl0901.plures.net/onlive/a477732eaf0c9f58de7d7b0ef8c2926f.flv
-
-翡翠台1,https://4graurmtwghzdrcbqgeao.ourdvsss.com/hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791abc.flv
-翡翠台2,http://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791abc.flv
-星空卫视,rtmp://58.200.131.2:1935/livetv/startv
-
-凤凰中文,http://live.ergt4rt.wang/gangaotai.php?id=2
-凤凰資訊,http://live.ergt4rt.wang/gangaotai.php?id=3 
-星空衛視,http://live.ergt4rt.wang/gangaotai.php?id=18
-TVB 明珠,http://live.ergt4rt.wang/gangaotai.php?id=13
-TVB J2,http://live.ergt4rt.wang/gangaotai.php?id=12
-耀才財經,http://live.ergt4rt.wang/gangaotai.php?id=19
-无线财经,http://live.ergt4rt.wang/gangaotai.php?id=10
-无线新闻,http://live.ergt4rt.wang/gangaotai.php?id=9
-有线新闻,http://live.ergt4rt.wang/gangaotai.php?id=31
-Viu TV,http://live.ergt4rt.wang/gangaotai.php?id=8
-澳門衛視,http://live.ergt4rt.wang/gangaotai.php?id=23
-澳亞衛視,http://live.ergt4rt.wang/gangaotai.php?id=24
-寰宇新聞,http://live.ergt4rt.wang/gangaotai.php?id=54
-寰宇新聞2,http://live.ergt4rt.wang/gangaotai.php?id=55
-三立台灣台,http://live.ergt4rt.wang/gangaotai.php?id=42
-三立都会台,http://live.ergt4rt.wang/gangaotai.php?id=40
-TVBS,http://live.ergt4rt.wang/gangaotai.php?id=127
-TVBS欢乐,http://live.ergt4rt.wang/gangaotai.php?id=129
-TVBS新闻,http://live.ergt4rt.wang/gangaotai.php?id=45
-中天新聞台,http://live.ergt4rt.wang/gangaotai.php?id=44
-東森新聞台,http://live.ergt4rt.wang/gangaotai.php?id=46
-非凡新聞,http://live.ergt4rt.wang/gangaotai.php?id=53
-HBO HD,http://live.ergt4rt.wang/gangaotai.php?id=27
-FOX HD,http://live.ergt4rt.wang/gangaotai.php?id=159
-好萊塢電影台,http://live.ergt4rt.wang/gangaotai.php?id=66
-迪士尼卡通,http://live.ergt4rt.wang/gangaotai.php?id=122
-凤凰中文,http://103.56.112.40/ddjgt.php?id=2
-凤凰資訊,http://103.56.112.40/ddjgt.php?id=3
-星空衛視,http://103.56.112.40/ddjgt.php?id=18
-TVB 明珠,http://103.56.112.40/ddjgt.php?id=13
-TVB 翡翠,http://103.56.112.40/ddjgt.php?id=1
-TVB J2,http://103.56.112.40/ddjgt.php?id=12
-Viu TV,http://103.56.112.40/ddjgt.php?id=8
-耀才財經,http://103.56.112.40/ddjgt.php?id=19
-无线财经,http://103.56.112.40/ddjgt.php?id=10
-无线新闻,http://103.56.112.40/ddjgt.php?id=9
-有线新闻,http://103.56.112.40/ddjgt.php?id=31
-澳門衛視,http://103.56.112.40/ddjgt.php?id=23
-澳亞衛視,http://103.56.112.40/ddjgt.php?id=24
+台湾台58源测试,#genre#
+民視HD,vjms://58.215.133.161:8500/live/cid=450
+公視3HD,vjms://58.215.133.161:8500/live/cid=436
+年代MUCH,vjms://58.215.133.161:8500/live/cid=439
+年代新聞,vjms://58.215.133.161:8500/live/cid=455
+东森新聞,vjms://58.215.133.161:8500/live/cid=340
+中天新聞,vjms://58.215.133.161:8500/live/cid=407
+非凡新聞,vjms://58.215.133.161:8500/live/cid=443
+緯來體育,vjms://58.215.133.161:8500/live/cid=202
+緯來戲劇,vjms://58.215.133.161:8500/live/cid=137
+八大第一,vjms://58.215.133.161:8500/live/cid=441
+三立新闻,vjms://58.215.133.161:8500/live/cid=352
+三立都會,vjms://58.215.133.161:8500/live/cid=226
+博斯高球,vjms://58.215.133.161:8500/live/cid=265
+迪士尼卡通,vjms://58.215.133.161:8500/live/cid=361
+HBOHD,vjms://58.215.133.161:8500/live/cid=261
+HBO原创,vjms://58.215.133.161:8500/live/cid=236
+HBO強檔,vjms://58.215.133.161:8500/live/cid=238
+HBO溫馨,vjms://58.215.133.161:8500/live/cid=181
+TVBS HD,vjms://58.215.133.161:8500/live/cid=349
+TVBS新聞臺,vjms://58.215.133.161:8500/live/cid=348
+ELTA體育HD,vjms://58.215.133.161:8500/live/cid=266
+TLC旅游生活,vjms://58.215.133.161:8500/live/cid=103
+法國國際五臺,vjms://58.215.133.161:8500/live/cid=396
+東森財經新闻,vjms://58.215.133.161:8500/live/cid=456
+國家地理HD,vjms://58.215.133.161:8500/live/cid=115
+國家地理野生,vjms://58.215.133.161:8500/live/cid=263
+體育博斯高球,vjms://58.215.133.161:8500/live/cid=265
+體育ELTA,vjms://58.215.133.161:8500/live/cid=266
+體育FOX3HD,vjms://58.215.133.161:8500/live/cid=95
+體育FOX2 Sports,vjms://58.215.133.161:8500/live/cid=444
 
 中国老电影,#genre#
 地雷战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458e40508615d711b8aae1af/850.m3u8
