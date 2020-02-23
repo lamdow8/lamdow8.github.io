@@ -174,7 +174,10 @@ TVB翡翠台,http://103.56.112.40/ddjgt.php?id=1#http://pull.scphsd.com/live/a7e
 无线新闻台,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 有线新闻台,http://pulljd-live.baijiayun.com/live/b8921bf3a0529b115cf17116c.m3u8
 有线新闻台,http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
-
+TVB J2台,http://103.56.112.40/ddjgt.php?id=12
+TVB明珠台,http://103.56.112.40/ddjgt.php?id=13
+TVB新聞台,http://103.56.112.40/ddjgt.php?id=9
+TVB財經台,http://103.56.112.40/ddjgt.php?id=10
 无线财经资讯台,http://prdsecurelive.ainemo.com/live/234cjcj.m3u8
 中天新聞,P2p://190.2.146.92:18912/5c7249b6000641f71d5776673c1d2f63.ts#p2p://51.79.41.138:18912/5c7249b6000641f71d5776673c1d2f63.ts
 TVBS新聞,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts#p2p://51.79.41.138:18912/5c7249c2000e510f1d57a75a30592ee2.ts
