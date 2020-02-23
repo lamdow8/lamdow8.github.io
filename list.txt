@@ -165,7 +165,7 @@ CCTV17高清,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Conte
 电视剧,http://gslbserv.itv.cmvideo.cn/5003211967.ts?channel-id=ysten&Contentid=5003211967&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
 
 港台新闻,#genre#
-
+TVB翡翠台,http://103.56.112.40/ddjgt.php?id=1#http://pull.scphsd.com/live/a7ec8fae369409a0e2aae05b9ad78a59.flv
 凤凰资讯台,http://liveali.ifeng.com/live/FHZX.flv#http://125.210.152.18:9090/live/FHZX_1200.m3u8
 凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv#http://125.210.152.18:9090/live/FHZW_1200.m3u8
 凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe#http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
