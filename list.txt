@@ -388,7 +388,8 @@ TLC旅游生活,vjms://58.215.133.161:8500/live/cid=103
 體育FOX3HD,vjms://58.215.133.161:8500/live/cid=95
 體育FOX2 Sports,vjms://58.215.133.161:8500/live/cid=444
 
-台湾台58源测试,#genre#
+秒播源测试,#genre#
+星卫电影台,http://pull.scphsd.com/live/5bd2f0c2a7483c9837ab427f90738fea.flv
 都市剧场,http://wsvpull.utoooo.com/live/f0fabb1190624408a32efe4c21971b5f.flv
 欢笑剧场,http://wsvpull.utoooo.com/live/12074e9a78144ff3a475b70ada7c25ec.flv
 DOXTV,http://wsvpull.utoooo.com/live/fd0b9839fd9441c5b510fb09f74c915b.flv
