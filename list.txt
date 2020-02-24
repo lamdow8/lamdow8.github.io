@@ -191,7 +191,10 @@ TVBS新聞,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts#p2p://51
 
 体育音乐,#genre#
 纬来体育[HD],vjms://58.215.133.185:8500:3502/live/cid=202
-ELTA体育1台,vjms://58.215.133.185:8500:3502/live/cid=266
+纬来体育[HD],vjms://58.215.133.161:8500/live/cid=202
+ELTA體育1台,vjms://58.215.133.161:8500/live/cid=266
+ELTA體育1台,vjms://58.215.133.185:8500:3502/live/cid=266
+ELTA體育1台,p2p://51.79.41.138:18912/5b140917000aaf8fb0e186587160e07f.ts
 ELTA體育2台,p2p://51.79.41.138:18912/5b1409da0004ba1317d418157a2631bc.ts
 ELTA體育3台,p2p://51.79.41.138:18912/5c7249f7000966361d58752a73813a0e.ts#P2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
 广东体育HD,https://116.77.72.195/streams/d/gdty/playlist.m3u8#http://sk.live.otvcloud.com/otv/skcc/live/channel34/2300.m3u8?k=00512d957c9b1863aff57fc3916c3e77&t=5D84817C&UID=1568964988
@@ -283,6 +286,7 @@ ASTRO華麗台,p2p://51.79.41.138:18912/5b3c4fa10001acfa627f067273f636b0.ts
 緯來電影HD,p2p://51.79.41.138:18912/5c7249d80003096d1d57fa6c33601be9.ts
 采昌影劇台,p2p://51.79.41.138:18912/5b1409db0009049a17d41d161677386d.ts
 中視經典台,p2p://51.79.41.138:18912/5b140a14000a368c17d4fc0d0e2537ba.ts
+ELTA體育1台,p2p://51.79.41.138:18912/5b140917000aaf8fb0e186587160e07f.ts
 ELTA體育2台,p2p://51.79.41.138:18912/5b1409da0004ba1317d418157a2631bc.ts
 ELTA體育3台,p2p://51.79.41.138:18912/5c7249f7000966361d58752a73813a0e.ts
 TVBS HD,p2p://51.79.41.138:18912/5c7249c2000e510f1d57a75a30592ee2.ts
@@ -306,6 +310,7 @@ MTV LIVE HD,p2p://51.79.41.138:18912/5b1409160006a29117d11af270d37d68.ts
 博斯運動2HD,p2p://51.79.41.138:18912/5b14098e0000e93717d2ee3b694601b7.ts
 原住民電視,p2p://51.79.41.138:18912/5bdbf387000760a7d216ceee78f739f8.ts
 客家電視,p2p://51.79.41.138:18912/5bdbf38e00051950d216e9ba54201283.ts
+
 新马澳,#genre#
 新 U频道,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 新传媒8频道,https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
@@ -348,6 +353,7 @@ AEC,p2p://sdgdklwos.finetv.tv:9906/5b2c873100007ef4067c1d2352642785.ts
 澳门有线一台,http://202.175.127.77/live/show/ch1/index.m3u8
 澳门互动新闻,http://202.175.127.77/live/show/ch2/index.m3u8
 澳门有线三台,http://202.175.127.77/live/show/ch3/index.m3u8
+
 台湾台58源测试,#genre#
 民視HD,vjms://58.215.133.161:8500/live/cid=450
 公視3HD,vjms://58.215.133.161:8500/live/cid=436
@@ -474,6 +480,7 @@ TLC旅游生活,vjms://58.215.133.161:8500/live/cid=103
 茜茜公主,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ffa8a73877194632b0278898f297d07b/850.m3u8
 出水芙蓉,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/28f9967b04984830b3a1f6fb27561000/850.m3u8
 桂河大桥,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b125a3edccb34637b336cb867e8a5d5d/850.m3u8
+
 轮播DOX,#genre#
 DOX院线,http://hls.globaliptv.ml/myguizhou.php?id=doxyuanxianhd
 DOX雅趣,http://hls.globaliptv.ml/myguizhou.php?id=doxyaquhd
