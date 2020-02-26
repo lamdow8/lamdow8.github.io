@@ -457,6 +457,14 @@ DOX怡家,http://hls.globaliptv.ml/myguizhou.php?id=doxyijiahd
 DOX英伦,http://hls.globaliptv.ml/myguizhou.php?id=doxyinglunhd
 DOX映画,http://hls.globaliptv.ml/myguizhou.php?id=doxyinghuahd
 DOX美剧,http://hls.globaliptv.ml/myguizhou.php?id=doxmeijuhd
+哪吒之魔童降世,http://walixiwa.club:455/play/xxplay.php?vodid=46604&playindex=1&name=play.m3u8
+囧妈,http://walixiwa.club:455/play/ngplay.php?playUrl=aHR0cDovL3ZpZGVvdGlhbnRpYW4uZ3NsYXd5ZXJ1bmlvbi5jb20vMjAyMDAxMzAvRzJNT3VQankvaW5kZXgubTN1OA==&name=play.m3u8
+半个喜剧,http://walixiwa.club:455/play/ngplay.php?playUrl=aHR0cDovL3ZpZGVvdGlhbnRpYW4uZ3NsYXd5ZXJ1bmlvbi5jb20vMjAyMDAxMzAva1R1eWRUbksvaW5kZXgubTN1OA==&name=play.m3u8
+肥龙过江,http://walixiwa.club:455/play/ngplay.php?playUrl=aHR0cDovL3ZpZGVvdGlhbnRpYW4uZ3NsYXd5ZXJ1bmlvbi5jb20vMjAyMDAyMDEva3hHUU10Qk8vaW5kZXgubTN1OA==&name=play.m3u8
+叶问4,http://walixiwa.club:455/play/xxplay.php?vodid=50764&playindex=1&name=play.m3u8
+我不是药神,http://walixiwa.club:455/play/ngplay.php?playUrl=aHR0cDovL2NkbjEuZ3p6ZWNoYW8uY29tLzIwMTgxMTA4L05sUWpwaHZJL2luZGV4Lm0zdTg=&name=play.m3u8
+中国机长,http://walixiwa.club:455/play/ngplay.php?playUrl=aHR0cDovL2NkbjEuZ3p6ZWNoYW8uY29tLzIwMTkxMjAzL1ZBSWhsb1k2L2luZGV4Lm0zdTg=&name=play.m3u8
+叶问4完结,http://walixiwa.club:455/play/ngplay.php?playUrl=aHR0
 
 福利_4600,#genre#
 HAPPY幸福,P2p://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts#mitv://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
