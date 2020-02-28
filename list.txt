@@ -17,7 +17,7 @@ VIUtv six,http://hls.globaliptv.ml/viu96.php
 东森新聞,vjms://58.215.133.161:8500/live/cid=340
 中天新聞,vjms://58.215.133.161:8500/live/cid=407
 非凡新聞,vjms://58.215.133.161:8500/live/cid=443
-TVBS新闻,vjms://58.215.133.161:8500/live/cid=348
+TVBS新闻,vjms://58.215.133.161:8500/live/cid=348#rtmp://59.124.75.156/sat/tv551
 星卫电影,http://pull.scphsd.com/live/ab262525b64f6cb1427deb772d73e100.flv
 TVB J2台,P2p://lino.homeunix.com:6007/5ad32b7d000cca4049ecdf4812f47470.ts
 无线新闻台,P2p://lino.homeunix.com:6007/5ad32bdc000b780449ee52022e841cf7.ts
