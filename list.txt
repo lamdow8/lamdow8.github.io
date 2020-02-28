@@ -165,6 +165,9 @@ CGTN,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 
 影视,#genre#
 广电4K测试频道,http://cdn-in.iqy.sc96655.com/tslive/c214_scc_20191122_m4avmczq_original_r10/c214_scc_20191122_m4avmczq_original_r10.m3u8&
+CCTV4K(移动高码率),http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
+BesTV 4K(移动),http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+纯享4K(移动),http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 爱上4K测试,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 CCTV4K,http://cdn-in.iqy.sc96655.com/tslive/c214_scc_20190618_pr3jsp04_original_r10/c214_scc_20190618_pr3jsp04_original_r10.m3u8&
 CHC高清电影,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190618_ek4k254b_original_r10/c211_scc_20190618_ek4k254b_original_r10.m3u8&
