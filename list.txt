@@ -35,6 +35,7 @@ C+,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
 民视,rtmp://59.124.75.156/sat/tv051
 台视,rtmp://59.124.75.156/sat/tv071
 中视,rtmp://59.124.75.156/sat/tv091
+
 央视台,#genre#
 超高清 4K,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 CCTV 1,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
@@ -169,10 +170,43 @@ CGTN,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 重庆卫视,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
 安徽卫视,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
 
-影视,#genre#
-广电4K测试频道,http://cdn-in.iqy.sc96655.com/tslive/c214_scc_20191122_m4avmczq_original_r10/c214_scc_20191122_m4avmczq_original_r10.m3u8&
+移动超清源,#genre#
 CCTV4K(移动高码率),http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 BesTV 4K(移动),http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+CCTV-1超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/
+CCTV-2高清,http://223.110.242.204:6610/gitv/live1/G_CCTV-2-HD/G_CCTV-2-HD/
+CCTV-3超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/
+CCTV-4超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/
+CCTV-5超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
+CCTV-5+超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ/
+CCTV-6超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/
+CCTV-7超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/
+CCTV-8超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/
+CCTV-9超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-9/G_CCTV-9/
+CCTV-10超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/
+CCTV-11超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/
+CCTV-12超清,http://223.110.242.204:6610/gitv/live1/CCTV-12/CCTV-12/
+CCTV-13超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
+CCTV-14超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-14/G_CCTV-14/
+CCTV-15超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
+CCTV-NEWS,http://223.110.242.204:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/
+CCTV-1蓝光,http://223.110.242.204:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
+CCTV-2蓝光,http://223.110.242.204:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/
+CCTV-3蓝光,http://223.110.242.204:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/
+CCTV-4蓝光,http://223.110.242.204:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/
+CCTV-5蓝光,http://223.110.242.204:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/
+CCTV-5+蓝光,http://223.110.242.204:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/
+CCTV-6蓝光,http://223.110.242.204:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/
+CCTV-8蓝光,http://223.110.242.204:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/
+湖南卫视超清-8M,http://223.110.242.204:6610/gitv/live1/G_HUNAN-CQ/G_HUNAN-CQ/
+江苏卫视超清,http://223.110.242.204:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/
+北京卫视超清-8M,http://223.110.242.204:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/
+浙江卫视超清,http://223.110.242.204:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/
+东方卫视超清-8M,http://223.110.242.204:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/
+山东卫视超清,http://223.110.242.204:6610/gitv/live1/G_SHANDONG-HQ/G_SHANDONG-HQ/
+
+影视,#genre#
+广电4K测试频道,http://cdn-in.iqy.sc96655.com/tslive/c214_scc_20191122_m4avmczq_original_r10/c214_scc_20191122_m4avmczq_original_r10.m3u8&
 纯享4K(移动),http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 爱上4K测试,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 CCTV4K,http://cdn-in.iqy.sc96655.com/tslive/c214_scc_20190618_pr3jsp04_original_r10/c214_scc_20190618_pr3jsp04_original_r10.m3u8&
