@@ -161,7 +161,18 @@ CGTN,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 重庆卫视,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
 安徽卫视,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
 
-体育音乐,#genre#
+四川源
+
+爱上4K测试,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
+
+
+CCTV4K,http://cdn-in.iqy.sc96655.com/tslive/c214_scc_20190618_pr3jsp04_original_r10/c214_scc_20190618_pr3jsp04_original_r10.m3u8&
+CHC高清电影,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190618_ek4k254b_original_r10/c211_scc_20190618_ek4k254b_original_r10.m3u8&
+CHC家庭影院,http://cdn-in.iqy.sc96655.com/tslive/c212_scc_20190618_q0ktot1t_original_r10/c212_scc_20190618_q0ktot1t_original_r10.m3u8&
+CHC动作电影,http://cdn-in.iqy.sc96655.com/tslive/c213_scc_20190618_wzkayvu1_original_r10/c213_scc_20190618_wzkayvu1_original_r10.m3u8&
+体育综合,#genre#
+CCTV5,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190618_g0ecxw42_original_r10/c211_scc_20190618_g0ecxw42_original_r10.m3u8&
+CCTV5+,http://cdn-in.iqy.sc96655.com/tslive/c213_scc_20190618_4jwk1euz_original_r10/c213_scc_20190618_4jwk1euz_original_r10.m3u8&
 纬来体育[HD],vjms://58.215.133.185:8500:3502/live/cid=202
 纬来体育[HD],vjms://58.215.133.161:8500/live/cid=202
 ELTA體育1台,vjms://58.215.133.161:8500/live/cid=266
@@ -171,7 +182,9 @@ ELTA體育1台,vjms://58.215.133.185:8500:3502/live/cid=266
 Channel V,rtmp://58.200.131.2/livetv/channelv
 MTV 音乐频道,https://116.77.72.195/streams/d/mtv/playlist.m3u8#http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 M2O音乐台,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-CCTV15HD,http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
+CCTV15,http://cdn-in.iqy.sc96655.com/tslive/c212_scc_20190618_sa0rcja5_original_r10/c212_scc_20190618_sa0rcja5_original_r10.m3u8&
+新视觉,http://cdn-in.iqy.sc96655.com/tslive/c213_scc_20190618_ccee1od1_original_r10/c213_scc_20190618_ccee1od1_original_r10.m3u8&
+
 
 新马澳,#genre#
 新 U频道,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
