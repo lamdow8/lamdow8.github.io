@@ -170,8 +170,8 @@ CHC高清电影,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190618_ek4k254b_
 CHC家庭影院,http://cdn-in.iqy.sc96655.com/tslive/c212_scc_20190618_q0ktot1t_original_r10/c212_scc_20190618_q0ktot1t_original_r10.m3u8&
 CHC动作电影,http://cdn-in.iqy.sc96655.com/tslive/c213_scc_20190618_wzkayvu1_original_r10/c213_scc_20190618_wzkayvu1_original_r10.m3u8&
 星卫电影,http://pull.scphsd.com/live/ab262525b64f6cb1427deb772d73e100.flv
-HBOHD,vjms://58.215.133.161:8500/live/cid=436
-HBO原创,vjms://58.215.133.161:8500/live/cid=261
+HBOHD,vjms://58.215.133.161:8500/live/cid=261
+HBO原创,vjms://58.215.133.161:8500/live/cid=436
 HBO強檔,vjms://58.215.133.161:8500/live/cid=238
 HBO溫馨,vjms://58.215.133.161:8500/live/cid=181
 
@@ -245,7 +245,7 @@ AEC,p2p://sdgdklwos.finetv.tv:9906/5b2c873100007ef4067c1d2352642785.ts
 博斯高球,vjms://58.215.133.161:8500/live/cid=265
 迪士尼卡通,vjms://58.215.133.161:8500/live/cid=361
 HBOHD,vjms://58.215.133.161:8500/live/cid=261
-HBO原创,vjms://58.215.133.161:8500/live/cid=236
+HBO原创,vjms://58.215.133.161:8500/live/cid=436
 HBO強檔,vjms://58.215.133.161:8500/live/cid=238
 HBO溫馨,vjms://58.215.133.161:8500/live/cid=181
 TVBS HD,vjms://58.215.133.161:8500/live/cid=349
