@@ -171,7 +171,7 @@ CHC家庭影院,http://cdn-in.iqy.sc96655.com/tslive/c212_scc_20190618_q0ktot1t_
 CHC动作电影,http://cdn-in.iqy.sc96655.com/tslive/c213_scc_20190618_wzkayvu1_original_r10/c213_scc_20190618_wzkayvu1_original_r10.m3u8&
 星卫电影,http://pull.scphsd.com/live/ab262525b64f6cb1427deb772d73e100.flv
 HBOHD,vjms://58.215.133.161:8500/live/cid=436
-HBO原创,vjms://58.215.133.161:8500/live/cid=236
+HBO原创,vjms://58.215.133.161:8500/live/cid=261
 HBO強檔,vjms://58.215.133.161:8500/live/cid=238
 HBO溫馨,vjms://58.215.133.161:8500/live/cid=181
 
@@ -231,7 +231,7 @@ AEC,p2p://sdgdklwos.finetv.tv:9906/5b2c873100007ef4067c1d2352642785.ts
 
 台湾台58源测试,#genre#
 民視HD,vjms://58.215.133.161:8500/live/cid=450
-公視3HD,vjms://58.215.133.161:8500/live/cid=261
+公視3HD,vjms://58.215.133.161:8500/live/cid=236
 年代MUCH,vjms://58.215.133.161:8500/live/cid=439
 年代新聞,vjms://58.215.133.161:8500/live/cid=455
 东森新聞,vjms://58.215.133.161:8500/live/cid=340
