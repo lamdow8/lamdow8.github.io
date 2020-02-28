@@ -2,7 +2,7 @@
 凤凰资讯台,http://liveali.ifeng.com/live/FHZX.flv#http://125.210.152.18:9090/live/FHZX_1200.m3u8
 凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv#http://125.210.152.18:9090/live/FHZW_1200.m3u8
 凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe#http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
-无线新闻台,http://hzyhjg.cc/cs/wxxw.php#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+无线新闻台,http://hzyhjg.cc/cs/wxxw.php#http://hls.globaliptv.ml/tvbnews.php#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 有线新闻台,http://wsvpull.utoooo.com/live/fc17116c8921bf03a5b29b115/playlist.m3u8#https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
 now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
 非凡新聞,vjms://58.215.133.161:8500/live/cid=352
@@ -11,7 +11,9 @@ now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/ind
 中天新聞,vjms://58.215.133.161:8500/live/cid=407
 非凡新聞,vjms://58.215.133.161:8500/live/cid=443
 TVBS新闻,vjms://58.215.133.161:8500/live/cid=348#rtmp://59.124.75.156/sat/tv551
-
+东网新闻,https://streama-news2.on.cc/src/remote1_hd.smil/playlist.m3u8
+东网直播,https://stream-sd2.on.cc/src/smil:remote1_hd.smil/playlist.m3u8
+香港01,https://live.cdn.hk01.com/origin/smil:01news.smil/playlist.m3u8
 
 港台综合,#genre#
 TVB翡翠台,http://hzyhjg.cc/cs/fct.php
@@ -29,6 +31,10 @@ TVB明珠台,P2p://lino.homeunix.com:6007/59fd0d0a0009323a02476cb020fe16f9.ts
 VIUtv,http://hls.globaliptv.ml/viu99.php#https://viutv99-i.akamaihd.net/hls/live/265284/live1/stream2/streamPlaylist.m3u8
 VIUtv six,http://hls.globaliptv.ml/viu96.php
 C+,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
+华视,rtmp://59.124.75.156/sat/tv111
+民视,rtmp://59.124.75.156/sat/tv051
+台视,rtmp://59.124.75.156/sat/tv071
+中视,rtmp://59.124.75.156/sat/tv091
 央视台,#genre#
 超高清 4K,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 CCTV 1,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
@@ -184,7 +190,7 @@ HBO溫馨,vjms://58.215.133.161:8500/live/cid=181
 体育综合,#genre#
 CCTV5,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190618_g0ecxw42_original_r10/c211_scc_20190618_g0ecxw42_original_r10.m3u8&
 CCTV5+,http://cdn-in.iqy.sc96655.com/tslive/c213_scc_20190618_4jwk1euz_original_r10/c213_scc_20190618_4jwk1euz_original_r10.m3u8&
-纬来体育[HD],vjms://58.215.133.185:8500:3502/live/cid=202
+纬来体育[HD],vjms://58.215.133.185:8500:3502/live/cid=202#rtmp://59.124.75.156/sat/tv721
 纬来体育[HD],vjms://58.215.133.161:8500/live/cid=202
 ELTA體育1台,vjms://58.215.133.161:8500/live/cid=266
 ELTA體育1台,vjms://58.215.133.185:8500:3502/live/cid=266
