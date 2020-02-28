@@ -19,6 +19,10 @@ VIUtv six,http://hls.globaliptv.ml/viu96.php
 非凡新聞,vjms://58.215.133.161:8500/live/cid=443
 TVBS新闻,vjms://58.215.133.161:8500/live/cid=348
 星卫电影,http://pull.scphsd.com/live/ab262525b64f6cb1427deb772d73e100.flv
+TVB J2台,P2p://lino.homeunix.com:6007/5ad32b7d000cca4049ecdf4812f47470.ts
+无线新闻台,P2p://lino.homeunix.com:6007/5ad32bdc000b780449ee52022e841cf7.ts
+TVB明珠台,P2p://lino.homeunix.com:6007/5ad32b590006aefa49ec511272c5262e.ts
+TVB明珠台,P2p://lino.homeunix.com:6007/59fd0d0a0009323a02476cb020fe16f9.ts
 
 央视台,#genre#
 超高清 4K,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
