@@ -3,7 +3,7 @@
 凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv#http://125.210.152.18:9090/live/FHZW_1200.m3u8
 凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe#http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 无线新闻台,http://hzyhjg.cc/cs/wxxw.php#http://hls.globaliptv.ml/tvbnews.php#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
-有线新闻台,http://wsvpull.utoooo.com/live/1bf03a5b29b115fc17116c892/playlist.m3u8#https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
+有线新闻台,http://wsvpull.utoooo.com/live/b115fc17116c8921bf03a5b29/playlist.m3u8#https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
 
 无线新闻台,http://hdtv.ubdata.info/ublive/c668f47092beb6a792ad0c1bae48e47c/index.m3u8
 now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
@@ -280,7 +280,7 @@ AEC,p2p://sdgdklwos.finetv.tv:9906/5b2c873100007ef4067c1d2352642785.ts
 澳门互动新闻,http://202.175.127.77/live/show/ch2/index.m3u8
 澳门有线三台,http://202.175.127.77/live/show/ch3/index.m3u8
 
-台湾台58源测试,#genre#
+台湾台测试,#genre#
 民視HD,vjms://58.215.133.161:8500/live/cid=450
 公視3HD,vjms://58.215.133.161:8500/live/cid=236
 年代MUCH,vjms://58.215.133.161:8500/live/cid=439
@@ -311,6 +311,41 @@ TLC旅游生活,vjms://58.215.133.161:8500/live/cid=103
 體育ELTA,vjms://58.215.133.161:8500/live/cid=266
 體育FOX3HD,vjms://58.215.133.161:8500/live/cid=95
 體育FOX2 Sports,vjms://58.215.133.161:8500/live/cid=444
+民視HD,vjms://121.14.222.77:8500/live/cid=450
+HBO原创,vjms://121.14.222.77:8500/live/cid=436
+年代MUCH,vjms://121.14.222.77:8500/live/cid=439
+年代新聞,vjms://121.14.222.77:8500/live/cid=455
+東森新聞,vjms://121.14.222.77:8500/live/cid=340
+中天新聞,vjms://121.14.222.77:8500/live/cid=407
+非凡新聞,vjms://121.14.222.77:8500/live/cid=443
+緯來體育,vjms://121.14.222.77:8500/live/cid=202
+緯來戲劇,vjms://121.14.222.77:8500/live/cid=137
+八大第一,vjms://121.14.222.77:8500/live/cid=441
+三立新聞,vjms://121.14.222.77:8500/live/cid=352
+三立都會,vjms://121.14.222.77:8500/live/cid=226
+博斯高球,vjms://121.14.222.77:8500/live/cid=265
+HBOHD,vjms://121.14.222.77:8500/live/cid=261
+公视3HD,vjms://121.14.222.77:8500/live/cid=236
+HBO強檔,vjms://121.14.222.77:8500/live/cid=238
+HBO溫馨,vjms://121.14.222.77:8500/live/cid=181
+TVBS HD,vjms://121.14.222.77:8500/live/cid=349
+TVBS新聞台,vjms://121.14.222.77:8500/live/cid=348
+ELTA體育HD,vjms://121.14.222.77:8500/live/cid=266
+TLC旅游生活,vjms://121.14.222.77:8500/live/cid=103
+法國國際五台,vjms://121.14.222.77:8500/live/cid=396
+東森財經新聞,vjms://121.14.222.77:8500/live/cid=456
+國家地理HD,vjms://121.14.222.77:8500/live/cid=115
+國家地理野生,vjms://121.14.222.77:8500/live/cid=263
+體育FOX3HD,vjms://121.14.222.77:8500/live/cid=95
+體育FOX2 Sports,vjms://121.14.222.77:8500/live/cid=444
+AXN,vjms://121.14.222.77:8500/live/cid=2
+BBC,vjms://121.14.222.77:8500/live/cid=418
+CNN,vjms://121.14.222.77:8500/live/cid=428
+StarMovies,vjms://121.14.222.77:8500/live/cid=94
+DiscoveryAsia,vjms://121.14.222.77:8500/live/cid=440
+DiscoveryScience,vjms://121.14.222.77:8500/live/cid=457
+DiscoveryChannel,vjms://121.14.222.77:8500/live/cid=3
+
 
 中国老电影,#genre#
 地雷战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458e40508615d711b8aae1af/850.m3u8
