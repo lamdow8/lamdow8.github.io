@@ -3,7 +3,7 @@
 凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv#http://125.210.152.18:9090/live/FHZW_1200.m3u8
 凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe#http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 无线新闻台,http://hzyhjg.cc/cs/wxxw.php#http://hls.globaliptv.ml/tvbnews.php#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
-有线新闻台,http://wsvpull.utoooo.com/live/fc17116c8921bf03a5b29b115/playlist.m3u8#https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
+有线新闻台,http://wsvpull.utoooo.com/live/1bf03a5b29b115fc17116c892/playlist.m3u8#https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
 now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
 非凡新聞,vjms://58.215.133.161:8500/live/cid=352
 年代新聞,vjms://58.215.133.161:8500/live/cid=455
