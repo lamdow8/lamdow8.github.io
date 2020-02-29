@@ -38,6 +38,9 @@ NHK华语视界,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580
 民视,rtmp://59.124.75.156/sat/tv051
 台视,rtmp://59.124.75.156/sat/tv071
 中视,rtmp://59.124.75.156/sat/tv091
+JET综合,p2p://lino.homeunix.com:6007/59fd054a00006c030229246e6fa27a75.ts
+靖洋戏曲,p2p://lino.homeunix.com:6007/59fd259600089bb202a74f6123416e8d.ts
+靖天综合,p2p://lino.homeunix.com:6007/59fd358c00069b9502e5a7d404d940d2.ts
 
 央视台,#genre#
 超高清 4K,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
