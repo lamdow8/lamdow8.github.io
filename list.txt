@@ -4,6 +4,8 @@
 凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe#http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 无线新闻台,http://hzyhjg.cc/cs/wxxw.php#http://hls.globaliptv.ml/tvbnews.php#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 有线新闻台,http://wsvpull.utoooo.com/live/1bf03a5b29b115fc17116c892/playlist.m3u8#https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
+
+无线新闻台,http://hdtv.ubdata.info/ublive/c668f47092beb6a792ad0c1bae48e47c/index.m3u8
 now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
 非凡新聞,vjms://58.215.133.161:8500/live/cid=352
 年代新聞,vjms://58.215.133.161:8500/live/cid=455
@@ -229,6 +231,7 @@ CCTV5+,http://cdn-in.iqy.sc96655.com/tslive/c213_scc_20190618_4jwk1euz_original_
 纬来体育[HD],vjms://58.215.133.161:8500/live/cid=202
 ELTA體育1台,vjms://58.215.133.161:8500/live/cid=266
 ELTA體育1台,vjms://58.215.133.185:8500:3502/live/cid=266
+ELTA體育1台,https://hdl0903.plures.net/onlive/3ca17d17faeb6e483adf74de41756462.flv
 广东体育HD,https://116.77.72.195/streams/d/gdty/playlist.m3u8#http://sk.live.otvcloud.com/otv/skcc/live/channel34/2300.m3u8?k=00512d957c9b1863aff57fc3916c3e77&t=5D84817C&UID=1568964988
 五星体育HD,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
 Channel V,rtmp://58.200.131.2/livetv/channelv
@@ -236,7 +239,8 @@ MTV 音乐频道,https://116.77.72.195/streams/d/mtv/playlist.m3u8#http://uniliv
 M2O音乐台,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 CCTV15,http://cdn-in.iqy.sc96655.com/tslive/c212_scc_20190618_sa0rcja5_original_r10/c212_scc_20190618_sa0rcja5_original_r10.m3u8&
 新视觉,http://cdn-in.iqy.sc96655.com/tslive/c213_scc_20190618_ccee1od1_original_r10/c213_scc_20190618_ccee1od1_original_r10.m3u8&
-
+體育FOX3HD,vjms://58.215.133.161:8500/live/cid=95
+體育FOX2 Sports,vjms://58.215.133.161:8500/live/cid=444
 
 新马澳,#genre#
 新 U频道,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
@@ -687,35 +691,4 @@ docodemoかけほーだい : 篠めぐみ | 小野,http://cdn1.polaroidchina.com
 佐伯ゆきなと素人コイオチ散歩,http://cdn1.polaroidchina.com:8091/20170910/lBFnoiAV/index.m3u8
 AV撮影現場を密着取材！ : 瀬奈,http://cdn1.polaroidchina.com:8091/20170910/4YmPV6hx/index.m3u8
 生中出しファン感謝オフ会 : 波,http://cdn1.polaroidchina.com:8091/20170910/ABdh7PJj/index.m3u8
-人妻メイドサロン : 三橋杏奈,http://cdn1.polaroidchina.com:8091/20170910/1QHQOibY/index.m3u8
-僕の彼女は鈴森汐那 : 鈴森汐那,http://cdn1.polaroidchina.com:8091/20170910/8fcybuNA/index.m3u8
-人妻不倫温泉 : 水野葵,http://cdn1.polaroidchina.com:8091/20170910/IOgPdNxF/index.m3u8
-余裕で三連発できちゃう極上,http://cdn1.polaroidchina.com:8091/20170910/QIb5iYTw/index.m3u8
-Jカップの爆乳女優コンプリー,http://cdn1.polaroidchina.com:8091/20170910/B0QnOaBR/index.m3u8
-レンタル中 : 佳苗るか,http://cdn1.polaroidchina.com:8091/20170910/uJ58iXrw/index.m3u8
-敏感スレンダーモデルと中出,http://cdn1.polaroidchina.com:8091/20170910/x7jBaryc/index.m3u8
-放課後に私を仕込んでくだ,http://cdn1.polaroidchina.com:8091/20170911/WezMNDUQ/index.m3u8
-女子高生拉致監禁 : 木村美羽,http://cdn1.polaroidchina.com:8091/20170911/NlQml27I/index.m3u8
-人妻を満足させ隊 : 黒木琴音,http://cdn1.polaroidchina.com:8091/20170910/gGI1h8gM/index.m3u8
-京都はんなり娘 ~セックスハ,http://cdn1.polaroidchina.com:8091/20170910/FdnkWy1p/index.m3u8
-沙弥があなたのお嫁さん : 新,http://cdn1.polaroidchina.com:8091/20170910/GoqzNAlg/index.m3u8
-誘惑セールス,http://cdn1.polaroidchina.com:8091/20170911/UYOVpzaq/index.m3u8
-潮吹きE-GIRL,http://cdn1.polaroidchina.com:8091/20170911/4VaObk8X/index.m3u8
-水樹りさ,http://cdn1.polaroidchina.com:8091/20170911/a6JH0nWE/index.m3u8
-大沢まなみの見晴らし最高 : 大沢まなみ,http://cdn1.polaroidchina.com:8091/20170911/5NwARadD/index.m3u8
-もしも辻さやかが泡姫だったら,http://cdn1.polaroidchina.com:8091/20170911/3zv16DdA/index.m3u8
-寝とられ美人妻 : 小野麻里亜,http://cdn1.polaroidchina.com:8091/20170911/8VL7QAu7/index.m3u8
-肉便器育成所 : 綾那優,http://cdn1.polaroidchina.com:8091/20170911/UA4rMLXZ/index.m3u8
-美神あやがぼくのお嫁さん,http://cdn1.polaroidchina.com:8091/20170911/ZHOLwHDM/index.m3u8
-汁だく美少女 : 宮下華奈,http://cdn1.polaroidchina.com:8091/20170911/X7SgP0NU/index.m3u8
-社長秘書のお仕事 : 鈴羽みう,http://cdn1.polaroidchina.com:8091/20170911/m70QX9Hc/index.m3u8
-真加藤ツバキ無双 : 加藤ツバキ,http://cdn1.polaroidchina.com:8091/20170911/GlNDCTtZ/index.m3u8
-極上泡姫物語 : 中島京子,http://cdn1.polaroidchina.com:8091/20170911/6NnG6R2x/index.m3u8
-薬局で働く貧乳だけど感度抜群の素人,http://cdn1.polaroidchina.com:8091/20170911/Pu2ylqDG/index.m3u8
-男をイチコロにするJKコンビ,http://cdn1.polaroidchina.com:8091/20170911/iRtcuMct/index.m3u8
-素人娘AV体験撮影 : 宮本七音,http://cdn1.polaroidchina.com:8091/20170911/epRidJHe/index.m3u8
-モデルコレクション : 相葉りか,http://cdn1.polaroidchina.com:8091/20170911/OgoaXGTU/index.m3u8
-10人連続ぶっかけ,http://cdn1.polaroidchina.com:8091/20170911/anyMVdTy/index.m3u8
-絶対彼女 : 吉乃ひとみ,http://cdn1.polaroidchina.com:8091/20170911/mhUStMNo/index.m3u8
-高級クラブ娘の究極接客 : 黒澤ゆうか,http://cdn1.polaroidchina.com:8091/20170911/cqI8ptOU/index.m3u8
-性欲が邪魔をする : 児島奈央,http://cdn1.polaroidchina.com:8091/20170911/sA23rWgD/index.m3u8
+人妻メイドサロン : 三
