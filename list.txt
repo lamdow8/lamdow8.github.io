@@ -3,7 +3,7 @@
 凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv#http://125.210.152.18:9090/live/FHZW_1200.m3u8
 凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe#http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 无线新闻台,http://hzyhjg.cc/cs/wxxw.php#http://hls.globaliptv.ml/tvbnews.php#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
-有线新闻台,http://wsvpull.utoooo.com/live/b115fc17116c8921bf03a5b29/playlist.m3u8#https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
+有线新闻台,http://wsvpull.utoooo.com/live/c8921bf03a5b29b115fc17116/playlist.m3u8#https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
 
 无线新闻台,http://hdtv.ubdata.info/ublive/c668f47092beb6a792ad0c1bae48e47c/index.m3u8
 now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
@@ -19,15 +19,9 @@ TVBS新闻,vjms://58.215.133.161:8500/live/cid=348#rtmp://59.124.75.156/sat/tv55
 
 港台综合,#genre#
 TVB翡翠台,http://hzyhjg.cc/cs/fct.php
-now劇集台,http://47.91.200.241/iptv/mudu.php?id=289089
-nowTV爆谷台,http://47.91.200.241/iptv/mudu.php?id=279140
 
 TVB J2,http://hzyhjg.cc/cs/tvbj2.php
-TVB J2,P2p://lino.homeunix.com:6007/5ad32b7d000cca4049ecdf4812f47470.ts
-无线新闻台,P2p://lino.homeunix.com:6007/5ad32bdc000b780449ee52022e841cf7.ts
-TVB明珠台,P2p://lino.homeunix.com:6007/5ad32b590006aefa49ec511272c5262e.ts
-TVB明珠台,P2p://lino.homeunix.com:6007/59fd0d0a0009323a02476cb020fe16f9.ts
-有线电影台,http://pull.scphsd.com/live/3fa562a305f4d2dcce6d479b911bef87.flv#http://pull.scphsd.com/live/2e2e73f6321e94f727400f4a12533e25.flv
+
 有线财经咨询台,https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8
 有线娱乐台,https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-CN/03.m3u8
 VIUtv,http://hls.globaliptv.ml/viu99.php#https://viutv99-i.akamaihd.net/hls/live/265284/live1/stream2/streamPlaylist.m3u8
@@ -38,9 +32,6 @@ NHK华语视界,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580
 民视,rtmp://59.124.75.156/sat/tv051
 台视,rtmp://59.124.75.156/sat/tv071
 中视,rtmp://59.124.75.156/sat/tv091
-JET综合,p2p://lino.homeunix.com:6007/59fd054a00006c030229246e6fa27a75.ts
-靖洋戏曲,p2p://lino.homeunix.com:6007/59fd259600089bb202a74f6123416e8d.ts
-靖天综合,p2p://lino.homeunix.com:6007/59fd358c00069b9502e5a7d404d940d2.ts
 
 央视台,#genre#
 超高清 4K,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
@@ -228,8 +219,8 @@ HBO強檔,vjms://58.215.133.161:8500/live/cid=238
 HBO溫馨,vjms://58.215.133.161:8500/live/cid=181
 
 体育综合,#genre#
-CCTV5,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190618_g0ecxw42_original_r10/c211_scc_20190618_g0ecxw42_original_r10.m3u8&
-CCTV5+,http://cdn-in.iqy.sc96655.com/tslive/c213_scc_20190618_4jwk1euz_original_r10/c213_scc_20190618_4jwk1euz_original_r10.m3u8&
+CCTV5,http://60.255.149.248/tslive/c211_scc_20190618_g0ecxw42_original_r10/c211_scc_20190618_g0ecxw42_original_r10.m3u8&
+CCTV5+,http://60.255.149.248/tslive/c213_scc_20190618_4jwk1euz_original_r10/c213_scc_20190618_4jwk1euz_original_r10.m3u8&
 纬来体育[HD],vjms://58.215.133.185:8500:3502/live/cid=202#rtmp://59.124.75.156/sat/tv721
 纬来体育[HD],vjms://58.215.133.161:8500/live/cid=202
 ELTA體育1台,vjms://58.215.133.161:8500/live/cid=266
