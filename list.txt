@@ -283,6 +283,39 @@ AEC,p2p://sdgdklwos.finetv.tv:9906/5b2c873100007ef4067c1d2352642785.ts
 澳门互动新闻,http://202.175.127.77/live/show/ch2/index.m3u8
 澳门有线三台,http://202.175.127.77/live/show/ch3/index.m3u8
 
+番茄?全有,#genre#
+凤凰中文台 HD,p2p://lino.homeunix.com:6007/59fd0c6c0006fd67024502e414f10ff3.ts
+凤凰资讯台 HD,p2p://lino.homeunix.com:6007/59fd0c48000e15630244781932ff7852.ts
+凤凰香港台 HD,p2p://lino.homeunix.com:6007/59fd0c19000767ad0243becb40b07246.ts
+翡翠台,p2p://lino.homeunix.com:6007/5a562a0b000d7041619b441d562d5ee8.ts
+翡翠台 备,p2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts
+s翡翠台,p2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8.ts
+互动新闻,p2p://lino.homeunix.com:6007/5a562bec0007bfd761a2998e00b83dd5.ts
+互动新闻 备,p2p://lino.homeunix.com:6007/5ad32bdc000b780449ee52022e841cf7.ts
+J2台,p2p://lino.homeunix.com:6007/59fd25e80008aaec02a88fc1476f2edf.ts
+J2台 备,p2p://lino.homeunix.com:6007/5ad32b7d000cca4049ecdf4812f47470.ts
+J5台,p2p://lino.homeunix.com:6007/59fd314f000be93d02d51ae40a3a24e8.ts
+J5台 备,p2p://lino.homeunix.com:6007/5ad32aed000d8fa649eaacf716d70340.ts
+明珠台,p2p://lino.homeunix.com:6007/59fd0d0a0009323a02476cb020fe16f9.ts
+明珠台 备,p2p://lino.homeunix.com:6007/5ad32b590006aefa49ec511272c5262e.ts
+星河频道,p2p://lino.homeunix.com:6007/59fd3f91000c54e4030cccd33c6f6c3c.ts
+TVB经典台,p2p://lino.homeunix.com:6007/5b2f1fc50006bfe610a020d967055499.ts
+功夫台,p2p://lino.homeunix.com:6007/5a32174e0001f481d4b0ec8f67f06c2b.ts
+viu TV,p2p://lino.homeunix.com:6007/59fd171800092000026eb35003107eef.ts
+viu TV备,p2p://lino.homeunix.com:6007/5ad32bae0001dd1049ed9be114c818f0.ts
+viu 6,p2p://lino.homeunix.com:6007/5b389c92000621bc35b08cbd438b4298.ts
+有线新闻台,p2p://lino.homeunix.com:6007/5a3251a3000ddd81d594cba410f708d7.ts
+31有线新闻台,p2p://lino.homeunix.com:6007/5a3251a3000ddd81d594cba410f708d7.ts
+HKC财经资讯台,p2p://lino.homeunix.com:6007/5b062d6d000a4d8670acf35f53803edf.ts
+电影一台,p2p://lino.homeunix.com:6007/5a4726e4000667ca26f6a98d6a9d25a7.ts
+HKC603,p2p://lino.homeunix.com:6007/5a47271f0008d01726f790b134496406.ts
+HKC体育2台,p2p://lino.homeunix.com:6007/5a142556000de0a75fb6e584062e2de9.ts
+香港开电视,p2p://lino.homeunix.com:6007/5bfe45350001d559aff550f375a22110.ts
+惊悚电影台,p2p://lino.homeunix.com:6007/5bbb5555000ac8ac2e8a428a5fc92fa0.ts
+卫视卡式台,p2p://lino.homeunix.com:6007/5b326356000e27761d60fc701ff36973.ts
+爆谷台,p2p://lino.homeunix.com:6007/5b326356000e27761d60fc701ff36973.ts
+港视31,p2p://lino.homeunix.com:6007/5b1ea0dc000bba59d03063fa2f1a513c.ts
+港视32,p2p://lino.homeunix.com:6007/5b1ea120000af380d0316d6b59657817.ts
 台湾台测试,#genre#
 民視HD,vjms://58.215.133.161:8500/live/cid=450
 公視3HD,vjms://58.215.133.161:8500/live/cid=236
