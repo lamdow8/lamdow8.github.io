@@ -7,7 +7,7 @@
 有线新闻台,http://wsvpull.utoooo.com/live/c29b115fc171168921bf03a5b/playlist.m3u8
 有线新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
 
-now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
+now新闻台,http://221.233.152.57:80/hdl0901.plures.net/onlive/03e2a8b9fbdb2e5070431e11b641d07f.flv#http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
 三立新聞,vjms://58.215.133.161:8500/live/cid=352
 年代新聞,vjms://58.215.133.161:8500/live/cid=455
 东森新聞,vjms://58.215.133.161:8500/live/cid=340
