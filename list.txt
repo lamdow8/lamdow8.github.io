@@ -24,6 +24,13 @@ TVB J2,http://hdl0901.plures.net/onlive/195f07a-caa-4c4d-930a-1156e791bc.flv#msc
 VIUtv,http://hls.globaliptv.ml/viu99.php#https://viutv99-i.akamaihd.net/hls/live/265284/live1/stream2/streamPlaylist.m3u8
 VIUtv six,http://hls.globaliptv.ml/viu96.php
 C+,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
+中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+中天娱乐,http://104.250.154.42:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+東森電影,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+龍祥時代,http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
+好萊塢,http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+FOX電影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 NHK华语视界,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
 华视,rtmp://59.124.75.156/sat/tv111
 民视,rtmp://59.124.75.156/sat/tv051
