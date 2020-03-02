@@ -2,7 +2,7 @@
 凤凰资讯台,http://liveali.ifeng.com/live/FHZX.flv#http://125.210.152.18:9090/live/FHZX_1200.m3u8
 凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv#http://125.210.152.18:9090/live/FHZW_1200.m3u8
 凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe#http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
-无线新闻台,http://hzyhjg.cc/cs/wxxw.php#http://hls.globaliptv.ml/tvbnews.php#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+无线新闻台,http://hls.globaliptv.ml/tvbnews.php#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 有线新闻台,http://wsvpull.utoooo.com/live/c29b115fc171168921bf03a5b/playlist.m3u8
 有线新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
 
@@ -15,9 +15,9 @@ now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/ind
 TVBS新闻,vjms://58.215.133.161:8500/live/cid=348#rtmp://59.124.75.156/sat/tv551
 
 港台综合,#genre#
-TVB翡翠台,http://hzyhjg.cc/cs/fct.php
-TVB J2,http://hzyhjg.cc/cs/tvbj2.php
-TVB明珠台,http://hzyhjg.cc/cs/mzt.php
+TVB 翡翠台,http://hdl0901.plures.net/onlive/195f07a-caa-4c4d-930a-1156e791a.flv
+
+TVB J2,http://hdl0901.plures.net/onlive/195f07a-caa-4c4d-930a-1156e791bc.flv#msc://CJ25
 有线财经咨询台,https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8
 有线娱乐台,https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-CN/03.m3u8
 VIUtv,http://hls.globaliptv.ml/viu99.php#https://viutv99-i.akamaihd.net/hls/live/265284/live1/stream2/streamPlaylist.m3u8
@@ -245,6 +245,7 @@ CHC动作电影,http://60.255.149.248/tslive/c213_scc_20190618_wzkayvu1_original
 峨眉电影-1 HD,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 峨眉电影-2 FHD,http://60.255.149.248/tslive/c212_scc_20190618_5nvsifwn_original_r10/c212_scc_20190618_5nvsifwn_original_r10.m3u8&
 星卫电影,http://pull.scphsd.com/live/ab262525b64f6cb1427deb772d73e100.flv
+美亚电影台,http://pull.scphsd.com/live/bdd76144f9870e0773ffa13ce9eeae14.flv
 HBOHD,vjms://58.215.133.161:8500/live/cid=261
 HBO原创,vjms://58.215.133.161:8500/live/cid=436
 HBO強檔,vjms://58.215.133.161:8500/live/cid=238
