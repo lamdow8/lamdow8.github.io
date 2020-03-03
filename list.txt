@@ -478,7 +478,7 @@ DiscoveryChannel,vjms://121.14.222.77:8500/live/cid=3
 出水芙蓉，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/28f9967b04984830b3a1f6fb27561000/850.m3u8
 桂河大桥，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b125a3edccb34637b336cb867e8a5d5d/850.m3u8
 
-轮播，＃genre＃
+轮播,＃genre＃
 DOX院线，http：//hls.globaliptv.ml/myguizhou.php？id = doxyuanxianhd
 DOX雅趣，http：//hls.globaliptv.ml/myguizhou.php？id = doxyaquhd
 DOX新知，http：//hls.globaliptv.ml/myguizhou.php？id = doxxinzhihd
@@ -535,12 +535,12 @@ iHot爱科幻，http：//101.71.255.229：6610 / zjhs / 2/10113 / index.m3u8？v
 中国机长，http：//walixiwa.club：455 / play / ngplay.php？playUrl = aHR0cDovL2NkbjEuZ3p6ZWNoYW8uY29tLzIwMTkxMjAzL1ZBSWhsb1k2L2luZGV4Lm0zdTg =＆name = play.m3
 叶问4完结，http：//walixiwa.club：455 / play / ngplay.php？playUrl = aHR0
 
-疫情24小时，＃genre＃
+疫情24小时,＃genre＃
 雷神山1，http：//mobilelive-play.ysp.cctv.cn/2001924601_hd.m3u8
 雷神山2，http：//mobilelive-play.ysp.cctv.cn/2001893301_fhd.m3u8
 雷神山3，http：//mobilelive-play.ysp.cctv.cn/2001893201_fhd.m3u8
 
-福利_4600，＃genre＃
+福利_4600,＃genre＃
 
 HAPPY幸福，P2p：//51.79.41.138：18912 / 5c18f8fe000ca53ec074293d6d01287b.ts.ts＃mitv：//51.79.41.138：18912 / 5c18f8fe000ca53ec074293d6d01287b.ts.ts
 惊艳台HD，P2p：//51.79.41.138：18912 / 5c18f9100006a3e2c0746e0708a009f7.ts.ts＃mitv：//51.79.41.138：18912 / 5c18f9100006a3e2c0746e0708a009f7.ts.ts
@@ -579,7 +579,7 @@ Latina，tvbus：// 3P6BjUDrqyspT8T7MFGnjczPbj5uvk1ogbbSarbqmTacZchGFG
 高清无码9，p2p：//0198.02686.cc：16871 / 5d25b7e80003e23d0a2fcce197673935.ts
 高清无码10，p2p：//0198.02686.cc：16871 / 5d25b7e8000d10950a2fcf3b28b5d106.ts
 高清无码11，p2p：//0198.02686.cc：16871 / 5d25b7e900054d910a2fd126812250f8.ts
-三级_4600，＃genre＃
+三级_4600,＃genre＃
 色戒，https：//qqc1107.phpdaniu.com/japan/20190829/5fjOUM6C/index.m3u8
 苹果，https：//qqc1107.phpdaniu.com/japan/20190821/xKAFD0kH/800kb/hls/index.m3u8
 丑闻，https：//qqc1107.phpdaniu.com/japan/20190821/7vpRqM9k/index.m3u8
@@ -600,7 +600,7 @@ Latina，tvbus：// 3P6BjUDrqyspT8T7MFGnjczPbj5uvk1ogbbSarbqmTacZchGFG
 色即是空【前篇】，https：//qqc1107.phpdaniu.com/japan/20190821/q5eiqO19/800kb/hls/index.m3u8
 色即是空【后篇】，https：//qqc1107.phpdaniu.com/japan/20190821/Lg2355tx/index.m3u8
 满清十大酷刑【赤裸凌迟】，https：//qqc1107.phpdaniu.com/japan/20190829/LR1VP55H/800kb/hls/index.m3u8
-日系_4600，＃genre＃
+日系_4600,＃genre＃
 3P插到潮喷，https：//qqc1107.phpdaniu.com/japan/20191013/lcMXHzfW/500kb/hls/index.m3u8
 牛仔裤女郎，https：//qqc1107.phpdaniu.com/japan/20191013/jz4knROn/500kb/hls/index.m3u8
 操到翻白眼，https：//qqc1107.phpdaniu.com/japan/wuma/031116-519_06/index.m3u8
