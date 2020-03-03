@@ -93,8 +93,8 @@ CGTN,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv#http://125.210.152.18:9090/live/FHZW_1200.m3u8
 凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe#http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 无线新闻台,http://hls.globaliptv.ml/tvbnews.php#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
-无线新闻台,http://wsvpull.utoooo.com/live/3221a3ca71b2c91a0b7621f51/playlist.m3u8
-有线新闻台,http://wsvpull.utoooo.com/live/c29b115fc171168921bf03a5b/playlist.m3u8
+无线新闻台,http://pullhls.live.tp32.cn/live/3221a3ca71b2c91a0b7621f51/playlist.m3u8
+有线新闻台,http://pullhls.live.tp32.cn/live/c29b115fc171168921bf03a5b/playlist.m3u8
 有线新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
 
 now新闻台,http://221.233.152.57:80/hdl0901.plures.net/onlive/03e2a8b9fbdb2e5070431e11b641d07f.flv#http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
