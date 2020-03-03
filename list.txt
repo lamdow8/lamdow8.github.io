@@ -93,8 +93,8 @@ CGTN,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv#http://125.210.152.18:9090/live/FHZW_1200.m3u8
 凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe#http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 无线新闻台,http://hls.globaliptv.ml/tvbnews.php#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
-无线新闻台,http://pullhls.live.tp32.cn/live/b2c91a0b7621f513221a3ca71/playlist.m3u8
-有线新闻台,http://pullhls.live.tp32.cn/live/c168921bf03a5b29b115fc171/playlist.m3u8
+无线新闻台,http://pull.scphsd.com/live/b2c91a0b7621f513221a3ca71/playlist.m3u8
+有线新闻台,http://pull.scphsd.com/live/c168921bf03a5b29b115fc171/playlist.m3u8
 有线新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
 壹電視新聞,p2p://51.79.41.138:18912/5c724897000cb1861d5316f515e3763e.ts
 now新闻台,http://221.233.152.57:80/hdl0901.plures.net/onlive/03e2a8b9fbdb2e5070431e11b641d07f.flv#http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
@@ -107,7 +107,7 @@ TVBS新闻,vjms://58.215.133.161:8500/live/cid=348#rtmp://59.124.75.156/sat/tv55
 
 港台综合,#genre#
 TVB 翡翠台,http://hdl0901.plures.net/onlive/195f07a-caa-4c4d-930a-1156e791a.flv
-TVB 翡翠台,http://pullhls.live.tp32.cn/live/a1btbcgd9c9e83dc8b780bd98/playlist.m3u8
+TVB 翡翠台,http://pull.scphsd.com/live/a1btbcgd9c9e83dc8b780bd98/playlist.m3u8
 TVB J2,http://hdl0901.plures.net/onlive/195f07a-caa-4c4d-930a-1156e791bc.flv#http://pullhls.live.tp32.cn/live/20ca7a1428a734ba17f2aa1a/playlist.m3u8
 有线财经咨询台,https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8
 有线娱乐台,https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-CN/03.m3u8
