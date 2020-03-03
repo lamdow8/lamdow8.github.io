@@ -214,6 +214,8 @@ HBOHD,vjms://58.215.133.161:8500/live/cid=261
 HBO原创,vjms://58.215.133.161:8500/live/cid=436
 HBO強檔,vjms://58.215.133.161:8500/live/cid=238
 HBO溫馨,vjms://58.215.133.161:8500/live/cid=181
+邵氏影院,https://url.cn/5HB5JUU#https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/164215/live_97065163_17925468.m3u8
+邵氏鬼片,http://pull.kktv8.com/livekktv/143960119.flv
 
 体育综合,#genre#
 CCTV5,http://60.255.149.248/tslive/c211_scc_20190618_g0ecxw42_original_r10/c211_scc_20190618_g0ecxw42_original_r10.m3u8&
