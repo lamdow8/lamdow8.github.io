@@ -1,78 +1,3 @@
-港台新闻,#genre#
-凤凰资讯台,http://liveali.ifeng.com/live/FHZX.flv#http://125.210.152.18:9090/live/FHZX_1200.m3u8
-凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv#http://125.210.152.18:9090/live/FHZW_1200.m3u8
-凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe#http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
-无线新闻台,http://hls.globaliptv.ml/tvbnews.php#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
-无线新闻台,http://wsvpull.utoooo.com/live/3221a3ca71b2c91a0b7621f51/playlist.m3u8
-有线新闻台,http://wsvpull.utoooo.com/live/c29b115fc171168921bf03a5b/playlist.m3u8
-有线新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
-
-now新闻台,http://221.233.152.57:80/hdl0901.plures.net/onlive/03e2a8b9fbdb2e5070431e11b641d07f.flv#http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
-三立新聞,vjms://58.215.133.161:8500/live/cid=352
-年代新聞,vjms://58.215.133.161:8500/live/cid=455
-东森新聞,vjms://58.215.133.161:8500/live/cid=340
-中天新聞,vjms://58.215.133.161:8500/live/cid=407
-非凡新聞,vjms://58.215.133.161:8500/live/cid=443
-TVBS新闻,vjms://58.215.133.161:8500/live/cid=348#rtmp://59.124.75.156/sat/tv551
-
-港台综合,#genre#
-TVB 翡翠台,http://hdl0901.plures.net/onlive/195f07a-caa-4c4d-930a-1156e791a.flv
-TVB 翡翠台,http://wsvpull.utoooo.com/live/a3dc8b780bd91btbcgd9c9e88/playlist.m3u8
-TVB J2,http://hdl0901.plures.net/onlive/195f07a-caa-4c4d-930a-1156e791bc.flv#msc://CJ25
-有线财经咨询台,https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8
-有线娱乐台,https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-CN/03.m3u8
-VIUtv,http://hls.globaliptv.ml/viu99.php#https://viutv99-i.akamaihd.net/hls/live/265284/live1/stream2/streamPlaylist.m3u8
-VIUtv six,http://hls.globaliptv.ml/viu96.php
-C+,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
-中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-中天娱乐,http://104.250.154.42:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-東森電影,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-龍祥時代,http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
-好萊塢,http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-FOX電影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-NHK华语视界,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
-华视,rtmp://59.124.75.156/sat/tv111
-民视,rtmp://59.124.75.156/sat/tv051
-台视,rtmp://59.124.75.156/sat/tv071
-中视,rtmp://59.124.75.156/sat/tv091
-TVBS新闻台,rtmp://59.124.75.156/sat/tv551
-TVBS新闻台,rtmp://59.124.75.156/sat/tv552
-TVBS新闻台,rtmp://59.124.75.156:1935/sat/tv551
-TVBS新闻台,rtmp://59.124.75.156:1935/sat/tv552
-纬来育乐,rtmp://59.124.75.156/sat/tv701
-纬来育乐,rtmp://59.124.75.156/sat/tv702
-纬来育乐,rtmp://59.124.75.156:1935/sat/tv701
-纬来育乐,rtmp://59.124.75.156:1935/sat/tv702
-中視,rtmp://59.124.75.156/sat/tv091
-中視,rtmp://59.124.75.156/sat/tv092
-中视CTV,rtmp://59.124.75.156:1935/sat/tv091
-中视CTV,rtmp://59.124.75.156:1935/sat/tv092
-华视,rtmp://59.124.75.156/sat/tv111
-华视,rtmp://59.124.75.156/sat/tv112
-华视,rtmp://59.124.75.156:1935/sat/tv111
-华视,rtmp://59.124.75.156:1935/sat/tv112
-台视,rtmp://59.124.75.156/sat/tv071
-台视,rtmp://59.124.75.156/sat/tv072
-台视,rtmp://59.124.75.156:1935/sat/tv072
-台视,rtmp://59.124.75.156:1935/sat/tv071
-民视,rtmp://59.124.75.156/sat/tv052
-民视,rtmp://59.124.75.156/sat/tv051
-民视,rtmp://59.124.75.156:1935/sat/tv051
-民视,rtmp://59.124.75.156:1935/sat/tv052
-纬来日本,rtmp://59.124.75.156/sat//tv761
-纬来日本,rtmp://59.124.75.156/sat/tv762
-纬来日本,rtmp://59.124.75.156:1935/sat/tv761
-纬来日本,rtmp://59.124.75.156:1935/sat/tv762
-纬来体育,rtmp://dv2.ts33.net/sat/tv722
-纬来体育,rtmp://59.124.75.156/sat/tv721
-纬来体育,rtmp://59.124.75.156:1935/sat/tv721
-纬来体育,rtmp://59.124.75.156:1935/sat/tv722
-东森财*新闻台,rtmp://59.124.75.156/sat/tv571
-东森财*新闻台,rtmp://59.124.75.156/sat/tv572
-东森财*新闻台,rtmp://59.124.75.156:1935/sat/tv571
-东森财*新闻台,rtmp://59.124.75.156:1935/sat/tv572
-
 央视台,#genre#
 超高清 4K,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 CCTV 1,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
@@ -206,6 +131,81 @@ CGTN,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 辽宁卫视,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000281303.m3u8
 重庆卫视,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
 安徽卫视,http://140.249.30.40:80/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
+
+港台新闻,#genre#
+凤凰资讯台,http://liveali.ifeng.com/live/FHZX.flv#http://125.210.152.18:9090/live/FHZX_1200.m3u8
+凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv#http://125.210.152.18:9090/live/FHZW_1200.m3u8
+凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe#http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
+无线新闻台,http://hls.globaliptv.ml/tvbnews.php#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+无线新闻台,http://wsvpull.utoooo.com/live/3221a3ca71b2c91a0b7621f51/playlist.m3u8
+有线新闻台,http://wsvpull.utoooo.com/live/c29b115fc171168921bf03a5b/playlist.m3u8
+有线新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
+
+now新闻台,http://221.233.152.57:80/hdl0901.plures.net/onlive/03e2a8b9fbdb2e5070431e11b641d07f.flv#http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
+三立新聞,vjms://58.215.133.161:8500/live/cid=352
+年代新聞,vjms://58.215.133.161:8500/live/cid=455
+东森新聞,vjms://58.215.133.161:8500/live/cid=340
+中天新聞,vjms://58.215.133.161:8500/live/cid=407
+非凡新聞,vjms://58.215.133.161:8500/live/cid=443
+TVBS新闻,vjms://58.215.133.161:8500/live/cid=348#rtmp://59.124.75.156/sat/tv551
+
+港台综合,#genre#
+TVB 翡翠台,http://hdl0901.plures.net/onlive/195f07a-caa-4c4d-930a-1156e791a.flv
+TVB 翡翠台,http://wsvpull.utoooo.com/live/a3dc8b780bd91btbcgd9c9e88/playlist.m3u8
+TVB J2,http://hdl0901.plures.net/onlive/195f07a-caa-4c4d-930a-1156e791bc.flv#msc://CJ25
+有线财经咨询台,https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8
+有线娱乐台,https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-CN/03.m3u8
+VIUtv,http://hls.globaliptv.ml/viu99.php#https://viutv99-i.akamaihd.net/hls/live/265284/live1/stream2/streamPlaylist.m3u8
+VIUtv six,http://hls.globaliptv.ml/viu96.php
+C+,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
+中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+中天娱乐,http://104.250.154.42:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+東森電影,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+龍祥時代,http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
+好萊塢,http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+FOX電影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+NHK华语视界,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
+华视,rtmp://59.124.75.156/sat/tv111
+民视,rtmp://59.124.75.156/sat/tv051
+台视,rtmp://59.124.75.156/sat/tv071
+中视,rtmp://59.124.75.156/sat/tv091
+TVBS新闻台,rtmp://59.124.75.156/sat/tv551
+TVBS新闻台,rtmp://59.124.75.156/sat/tv552
+TVBS新闻台,rtmp://59.124.75.156:1935/sat/tv551
+TVBS新闻台,rtmp://59.124.75.156:1935/sat/tv552
+纬来育乐,rtmp://59.124.75.156/sat/tv701
+纬来育乐,rtmp://59.124.75.156/sat/tv702
+纬来育乐,rtmp://59.124.75.156:1935/sat/tv701
+纬来育乐,rtmp://59.124.75.156:1935/sat/tv702
+中視,rtmp://59.124.75.156/sat/tv091
+中視,rtmp://59.124.75.156/sat/tv092
+中视CTV,rtmp://59.124.75.156:1935/sat/tv091
+中视CTV,rtmp://59.124.75.156:1935/sat/tv092
+华视,rtmp://59.124.75.156/sat/tv111
+华视,rtmp://59.124.75.156/sat/tv112
+华视,rtmp://59.124.75.156:1935/sat/tv111
+华视,rtmp://59.124.75.156:1935/sat/tv112
+台视,rtmp://59.124.75.156/sat/tv071
+台视,rtmp://59.124.75.156/sat/tv072
+台视,rtmp://59.124.75.156:1935/sat/tv072
+台视,rtmp://59.124.75.156:1935/sat/tv071
+民视,rtmp://59.124.75.156/sat/tv052
+民视,rtmp://59.124.75.156/sat/tv051
+民视,rtmp://59.124.75.156:1935/sat/tv051
+民视,rtmp://59.124.75.156:1935/sat/tv052
+纬来日本,rtmp://59.124.75.156/sat//tv761
+纬来日本,rtmp://59.124.75.156/sat/tv762
+纬来日本,rtmp://59.124.75.156:1935/sat/tv761
+纬来日本,rtmp://59.124.75.156:1935/sat/tv762
+纬来体育,rtmp://dv2.ts33.net/sat/tv722
+纬来体育,rtmp://59.124.75.156/sat/tv721
+纬来体育,rtmp://59.124.75.156:1935/sat/tv721
+纬来体育,rtmp://59.124.75.156:1935/sat/tv722
+东森财*新闻台,rtmp://59.124.75.156/sat/tv571
+东森财*新闻台,rtmp://59.124.75.156/sat/tv572
+东森财*新闻台,rtmp://59.124.75.156:1935/sat/tv571
+东森财*新闻台,rtmp://59.124.75.156:1935/sat/tv572
 
 移动超清源,#genre#
 CCTV4K(移动高码率),http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
@@ -422,372 +422,4 @@ DiscoveryChannel,vjms://121.14.222.77:8500/live/cid=3
 冰山上的来客,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c86d45b176d642738dabf9da7361653b/850.m3u8
 51号兵站,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fa6557276d644b5ea399956a6bf94e59/850.m3u8
 红日,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/f2ee6e22cd894be1bc8c90b19f47ae2e/850.m3u8
-战火中的青春,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/be0d797e3b494f5fa1cb6d48d29643f3/850.m3u8
-英雄虎胆,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b7fcd0d4ebb045fe8e653ee71b4ef8fc/850.m3u8
-突破乌江,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bf8ccfff8bc949a6a2ed6bcda45eb4e2/850.m3u8
-三进山城,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ee157540ff2540ada0250edf3f6a3e0a/850.m3u8
-海鹰,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/412ae4c1c5fe4150a14197c437391fe2/850.m3u8
-苦菜花,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ec47d310d888464f8446af5e6e04ded8/850.m3u8
-智取华山,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ef243e3fa20544df9cc24b72ace8efa0/850.m3u8
-渡江侦察记,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d708e9c64aa34519af5490a793756c38/850.m3u8
-奇袭,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ac8b28fb66104aa7a5e3cd5a10ea986b/850.m3u8
-小花,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/f97fb71bff5947ddaf905cc121c42ee4/850.m3u8
-少林寺,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8af9ff377238407e927e597a1af47788/850.m3u8
-英雄儿女,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/479d044b7a3d465fa3a5b850d36b219c/850.m3u8
-大气层消失,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/45122e56521f49b68020e3e66bc28ce8/850.m3u8
-霹雳贝贝,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7accc94d5590415284af5db904e4be5a/850.m3u8
-泉水叮咚,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8b039f6988a04ca8b086d35031a77204/850.m3u8
-柳堡的故事,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/706b979b8a934aaab677a11c410bb119/850.m3u8
-李双双,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bac928d747984ed3bd17550879522f89/850.m3u8
-大闹天宫,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a57c9e5e1696486e97d229a3ddb13749/850.m3u8
-柳毅传书,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/2ee71b96a3574889829e17d70b3f3c02/2000.m3u8
-卷席筒,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8bebd13583e341e1b9d9e1180d36aaaa/850.m3u8
-铡刀下的红梅,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6f0817bfbedd42c682d9152abd5402a3/850.m3u8
-墙头马上,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c45285c6b2ac46a58d49c9351b18e369/850.m3u8
-花为媒,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/48da40a19746409997717371a80fd9e6/2000.m3u8
-牛郎织女,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/adc6931516694659a7b54176e4b38299/2000.m3u8
-梁山伯与祝英台,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/427eb50cc6844d47bcd35d2fac737a0a/850.m3u8
-铁弓缘,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/e19f3238b0ba4849aa50d6b7f1118ab9/2000.m3u8
-碧玉簪,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9e90b1a2872b476b8a4f9882f9b63cde/850.m3u8
-野猪林,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d2ddcbd8cdba4473a541687e683c1aca/850.m3u8
-五女拜寿,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c38771a355214e97a855c213693a1153/850.m3u8
-杜鹃山01,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f468a89e0e394a718474523afe37c702/850.m3u8
-杜鹃山02,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/5f76957927c5421e8bd75d0f53c95e4a/850.m3u8
-红灯记,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/84fd88d42e65413a90b9a8b54b685fde/850.m3u8
-奇袭白虎团,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8d476d0de4a343bd8c77c8a83331fc16/850.m3u8
-智取威虎山,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b59e746e354d4c0baefaca2f031eec25/850.m3u8
-沙家浜,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/6241c3f25a9a4dda9b05b9ba185500e0/850.m3u8
-红楼梦01,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/f66e935661b44ff6b80a290537d5d204/2000.m3u8
-红楼梦02,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/10470613ead24f5cb435137b5f39ab98/2000.m3u8
-追鱼,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/3515e586d18743be99eb6cc2004cb995/2000.m3u8
-穆桂英大战洪州,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/aaa5a373d97a47d1bc95b1418b672b33/2000.m3u8
-秦香莲,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/f8daefadadef41989225543875268a70/2000.m3u8
-望江亭,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/292e3c967f2b469e96878d6047f1cc92/2000.m3u8
-王老虎抢亲,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/3b6ae81ae49f4c72b0c977023565c762/850.m3u8
-女驸马,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ba29b790f8ec435ba94fc072558431f0/850.m3u8
-天仙配,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1cd056751daf430a943e63e6428c40d7/850.m3u8
-李二嫂改嫁01,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/90846f6758524d78997aad89df8c37e0/850.m3u8
-李二嫂改嫁02,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/47a9c8216d344c2dd45f11949dbbecb5/850.m3u8
-林海雪原,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/5023f1dcc73b4090962ee31e017fb8e3/850.m3u8
-万水千山,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8804d527d9d94b818b42624730203fa9/850.m3u8
-孙悟空三打白骨精,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/1e34b7a2f93d4efeaf7a583409b270cc/850.m3u8
-巴黎圣母院,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/dd86918aafb042c5b51584ffcf5b0e00/850.m3u8
-罗密欧与朱丽叶,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/95193e30bd454e77bc59a140f4e32ad2/850.m3u8
-魂断蓝桥,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7fc704c5b2e04e65bab92b3986883ab3/850.m3u8
-茜茜公主,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ffa8a73877194632b0278898f297d07b/850.m3u8
-出水芙蓉,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/28f9967b04984830b3a1f6fb27561000/850.m3u8
-桂河大桥,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b125a3edccb34637b336cb867e8a5d5d/850.m3u8
-
-轮播,#genre#
-DOX院线,http://hls.globaliptv.ml/myguizhou.php?id=doxyuanxianhd
-DOX雅趣,http://hls.globaliptv.ml/myguizhou.php?id=doxyaquhd
-DOX新知,http://hls.globaliptv.ml/myguizhou.php?id=doxxinzhihd
-DOX新艺,http://hls.globaliptv.ml/myguizhou.php?id=doxxinyihd
-DOX怡家,http://hls.globaliptv.ml/myguizhou.php?id=doxyijiahd
-DOX英伦,http://hls.globaliptv.ml/myguizhou.php?id=doxyinglunhd
-DOX映画,http://hls.globaliptv.ml/myguizhou.php?id=doxyinghuahd
-DOX美剧,http://hls.globaliptv.ml/myguizhou.php?id=doxmeijuhd
-DOX新知,http://106.12.152.67/aadfdddd.php?id=8df92ef18e714e80bc302723d5e933ee
-DOX新艺,http://106.12.152.67/aadfdddd.php?id=3fec5428637fe3d00cea8deb981ca71c
-DOX怡家,http://106.12.152.67/aadfdddd.php?id=9c6e3fd0b37dd8b7e4bc1f06c44cb6cf
-DOX英伦,http://106.12.152.67/aadfdddd.php?id=21e5f6a02640bf440df4c079b4c3ad23
-DOX院线,http://106.12.152.67/aadfdddd.php?id=8a7d213b10550559a073db188d08d5f7
-DOX映画,http://106.12.152.67/aadfdddd.php?id=e16878a022c216b17975299a9ac369dc
-DOX美剧,http://106.12.152.67/aadfdddd.php?id=1c639fe68ed5de6804966813425bdccd
-DOX雅趣,http://106.12.152.67/aadfdddd.php?id=98a5538384f14ca487ca96786a441bbe
-iHOT爱奇谈,http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-iHOT爱悬疑,http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-iHOT爱喜剧,http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/index.m3u8?fmt=ts2hls#http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/01.m3u8?fmt=ts2hls,2646,01.m3u8,0,7813,0,0
-iHOT爱经典,http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-iHOT爱动漫,http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-iHOT爱美食,http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-iHOT爱解密,http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-iHOT爱电竞,http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-iHOT爱都市,http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-iHOT爱幼教,http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-iHOT爱科幻,http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/index.m3u8?fmt=ts2hls#http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/01.m3u8?fmt=ts2hls,2646,01.m3u8,0,7814,0,0
-iHOT爱江湖,http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-iHOT爱浪漫,http://101.71.255.229:6610/zjhs/2/10115/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls#http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/01.m3u8?fmt=ts2hls,2646,01.m3u8,0,7813,0,0
-iHOT爱影院,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-iHOT爱玩具,http://101.71.255.229:6610/zjhs/2/10117/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-iHOT爱时尚,http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-iHOT爱军武,http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-iHOT爱历史,http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-iHOT爱世界,http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/index.m3u8
-iHOT爱科学,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
-iHOT爱旅行,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
-iHOT爱探索,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
-iHOT爱院线,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/index.m3u8?fmt=ts2hls
-iHOT爱悬疑,http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3831420200227223529070370
-iHOT爱喜剧,http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3912220200227223216058126
-iHOT爱喜剧,http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3912220200227075037057636
-iHOT爱世界,http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3833420200227075721071782
-iHOT爱世界,http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3925820200227080557055908
-iHot爱世界,http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3904820200227205136077137
-iHot爱江湖,http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3931220200227202709070314
-iHot爱科幻,http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3907320200226195413073754
-哪吒之魔童降世,http://walixiwa.club:455/play/xxplay.php?vodid=46604&playindex=1&name=play.m3u8
-囧妈,http://walixiwa.club:455/play/ngplay.php?playUrl=aHR0cDovL3ZpZGVvdGlhbnRpYW4uZ3NsYXd5ZXJ1bmlvbi5jb20vMjAyMDAxMzAvRzJNT3VQankvaW5kZXgubTN1OA==&name=play.m3u8
-半个喜剧,http://walixiwa.club:455/play/ngplay.php?playUrl=aHR0cDovL3ZpZGVvdGlhbnRpYW4uZ3NsYXd5ZXJ1bmlvbi5jb20vMjAyMDAxMzAva1R1eWRUbksvaW5kZXgubTN1OA==&name=play.m3u8
-肥龙过江,http://walixiwa.club:455/play/ngplay.php?playUrl=aHR0cDovL3ZpZGVvdGlhbnRpYW4uZ3NsYXd5ZXJ1bmlvbi5jb20vMjAyMDAyMDEva3hHUU10Qk8vaW5kZXgubTN1OA==&name=play.m3u8
-叶问4,http://walixiwa.club:455/play/xxplay.php?vodid=50764&playindex=1&name=play.m3u8
-我不是药神,http://walixiwa.club:455/play/ngplay.php?playUrl=aHR0cDovL2NkbjEuZ3p6ZWNoYW8uY29tLzIwMTgxMTA4L05sUWpwaHZJL2luZGV4Lm0zdTg=&name=play.m3u8
-中国机长,http://walixiwa.club:455/play/ngplay.php?playUrl=aHR0cDovL2NkbjEuZ3p6ZWNoYW8uY29tLzIwMTkxMjAzL1ZBSWhsb1k2L2luZGV4Lm0zdTg=&name=play.m3u8
-叶问4完结,http://walixiwa.club:455/play/ngplay.php?playUrl=aHR0
-
-疫情24小时,#genre#
-雷神山1,http://mobilelive-play.ysp.cctv.cn/2001924601_hd.m3u8
-雷神山2,http://mobilelive-play.ysp.cctv.cn/2001893301_fhd.m3u8
-雷神山3,http://mobilelive-play.ysp.cctv.cn/2001893201_fhd.m3u8
-
-福利_4600,#genre#
-
-HAPPY幸福,P2p://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts#mitv://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
-惊艳台HD,P2p://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts#mitv://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
-彩虹电影,P2p://51.79.41.138:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts#mitv://51.79.41.138:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts
-彩虹e台,P2p://51.79.41.138:18912/5c18f8ef000d41c9c073eec574332890.ts.ts#mitv://51.79.41.138:18912/5c18f8ef000d41c9c073eec574332890.ts.ts
-彩虹k台,P2p://51.79.41.138:18912/5c18f8f300074bdfc073fcde6e553705.ts.ts#mitv://51.79.41.138:18912/5c18f8f300074bdfc073fcde6e553705.ts.ts
-HOT星颜,P2p://51.79.41.138:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts#mitv://51.79.41.138:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts 
-松视1台,P2p://51.79.41.138:18912/5c18f8fb00064883c0741bdf109f114a.ts.ts#mitv://51.79.41.138:18912/5c18f8fb00064883c0741bdf109f114a.ts.ts#vjms://23.237.33.155:8500:3502/live/cid=262&delay=400&httpbuf=400&memory=50|http://tw8058.sinodig.com?key=RDtfFOAvgjb5mIurJg08e
-松视2台,P2p://51.79.41.138:18912/5c18f8f7000d865dc0740e1426765941.ts.ts#mitv://51.79.41.138:18912/5c18f8f7000d865dc0740e1426765941.ts.ts#vjms://23.237.33.155:8500:3502/live/cid=267&delay=400&httpbuf=400&memory=50|http://tw8058.sinodig.com?key=c6Qq6gGg7oG1rAP20bxBe
-松视3台,P2p://51.79.41.138:18912/5c18f9020004cea3c07436da29307240.ts.ts#mitv://51.79.41.138:18912/5c18f9020004cea3c07436da29307240.ts.ts#vjms://23.237.33.155:8500:3502/live/cid=268&delay=400&httpbuf=400&memory=50|http://tw8058.sinodig.com?key=ADZie6PocQzvhxdjhiWRe
-香蕉台,P2p://51.79.41.138:18912/5c18f9090004f8a0c07452412e4e369f.ts.ts#mitv://51.79.41.138:18912/5c18f9090004f8a0c07452412e4e369f.ts.ts
-潘多拉粉红,P2p://51.79.41.138:18912/5c18f90c000e8229c074606a15084f35.ts.ts#mitv://51.79.41.138:18912/5c18f90c000e8229c074606a15084f35.ts.ts
-潘多拉完美,P2p://51.79.41.138:18912/5c18f905000c08fbc07444661e2e685e.ts.ts#mitv://51.79.41.138:18912/5c18f905000c08fbc07444661e2e685e.ts.ts
-
-K频道,tvbus://45RuULzxf9PWt8YvJosWsvmpF2izUgBSLeFyQ588xZ4dvhSf4H
-松视1台,tvbus://4QjgGobbJMquDPuJXg3QZ98t5wun5yFQHH1fcAQN39Y451up2a
-松视2台,tvbus://3Fzm3Ya34TqqqbKrPYV7fVaxRnf2nBgUhqmqVJ4dUi5WDSxcEG
-松视3台,tvbus://4jtGC2sp8J5x7ZkBojM1pCd8EJ5GFW6WJsi9Q4ZrJu1PB6B6bp
-HAPPY_CHANNEL,tvbus://3nxfaXNWhBgexhKPro8jkDQXNjdXcNY1xQ4iZoyQtjPo5rVGqX
-潘多拉粉红,tvbus://3Xzv7zESXKfyEXF5iRUf2RxmDdfX7L8CDq7mH5ZHjhForuMgzU
-香蕉台,tvbus://3vUe6MmwPF7hBU9Fg35Jgy5WpyeZLU9qu5QHPjYHmqxX6SH9iq
-潘多拉完美,tvbus://2xfUPprxyRbCVR9qxLJKxxwQxwK2dQwrv4YjYDDAqyBSER71hH
-惊艳台,tvbus://3GYpc9npbBBeNCcdTEgh3rERKzoPAKajbXADb6ytaCStakHWf2
-彩虹电影,tvbus://3eHAagwkoYSW2TN8kmqAF8RTgKG9PKMkWeshKBMXTC4Swj4P8F
-彩虹e台,tvbus://3PxS6UCWkHgc13qEeP72gWJa9YJaMPtAsPVHpsR9dPQ8945s5R
-Asian,tvbus://49v5cV2oc3uKRx3SzMFBZGhwyQzGDi6dsy91QEaBf8m6rfpGLb
-Latina,tvbus://3P6BjUDrqyspT8T7MFGnjczPbj5uvk1ogbbSarbqmTacZchGFG
-高清無碼1,p2p://0198.02686.cc:16871/5d25b7e40000bcec0a2fbc73bb28f402.ts
-高清無碼2,p2p://0198.02686.cc:16871/5d25b7e40009b23e0a2fbebea59aef80.ts
-高清無碼3,p2p://0198.02686.cc:16871/5d25b7e50001d4fd0a2fc0a3e867b01c.ts
-高清無碼4,p2p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
-高清無碼5,p2p://0198.02686.cc:16871/5d25b7e6000300ff0a2fc4d86a4b3abf.ts
-高清無碼6,p2p://0198.02686.cc:16871/5d25b7e6000a7b120a2fc6c21324f51c.ts
-高清無碼7,p2p://0198.02686.cc:16871/5d25b7e700043adb0a2fc9103d0f3e9d.ts
-高清無碼8,p2p://0198.02686.cc:16871/5d25b7e7000b9ffe0a2fcaf5ddbba365.ts
-高清無碼9,p2p://0198.02686.cc:16871/5d25b7e80003e23d0a2fcce197673935.ts
-高清無碼10,p2p://0198.02686.cc:16871/5d25b7e8000d10950a2fcf3b28b5d106.ts
-高清無碼11,p2p://0198.02686.cc:16871/5d25b7e900054d910a2fd126812250f8.ts
-三级_4600,#genre#
-色戒,https://qqc1107.phpdaniu.com/japan/20190829/5fjOUM6C/index.m3u8
-苹果,https://qqc1107.phpdaniu.com/japan/20190821/xKAFD0kH/800kb/hls/index.m3u8
-丑闻,https://qqc1107.phpdaniu.com/japan/20190821/7vpRqM9k/index.m3u8
-为你钟情,https://qqc1107.phpdaniu.com/japan/20190820/zelJotND/800kb/hls/index.m3u8
-魔鬼天使,https://qqc1107.phpdaniu.com/japan/20190821/lAEs5Rri/index.m3u8
-一路向西,https://qqc1107.phpdaniu.com/japan/20190829/LGzK8FXD/800kb/hls/index.m3u8
-蜜桃成熟时,https://qqc1107.phpdaniu.com/japan/20190820/OWLLUzio/index.m3u8
-少女潘金莲,https://qqc1107.phpdaniu.com/japan/20190930/mzOygvXT/800kb/hls/index.m3u8
-唐朝豪放女,https://qqc1107.phpdaniu.com/japan/20190930/sy8A0Lc6/index.m3u8
-金瓶梅【上集】,https://qqc1107.phpdaniu.com/japan/20190829/6iLi5qMz/800kb/hls/index.m3u8
-金瓶梅【下集】,https://qqc1107.phpdaniu.com/japan/20190829/FQIZJjXg/index.m3u8
-美人图【第一集】,https://qqc1107.phpdaniu.com/japan/20190820/TQzYp0CW/800kb/hls/index.m3u8
-美人图【第二集】,https://qqc1107.phpdaniu.com/japan/20190820/aVMEPQGA/index.m3u8
-南洋十大邪术,https://qqc1107.phpdaniu.com/japan/20190829/weqi6SFY/800kb/hls/index.m3u8
-爱人情人爱诱惑,https://qqc1107.phpdaniu.com/japan/20190821/XIo5Lk08/800kb/hls/index.m3u8
-玉蒲团之玉女心经,https://qqc1107.phpdaniu.com/japan/20190820/VSPnfvCr/800kb/hls/index.m3u8
-肉蒲团之极乐宝鉴,https://qqc1107.phpdaniu.com/japan/20190829/CMS8vhEX/index.m3u8
-色即是空【前篇】,https://qqc1107.phpdaniu.com/japan/20190821/q5eiqO19/800kb/hls/index.m3u8
-色即是空【后篇】,https://qqc1107.phpdaniu.com/japan/20190821/Lg2355tx/index.m3u8
-满清十大酷刑【赤裸凌迟】,https://qqc1107.phpdaniu.com/japan/20190829/LR1VP55H/800kb/hls/index.m3u8
-日系_4600,#genre#
-3P插到潮喷,https://qqc1107.phpdaniu.com/japan/20191013/lcMXHzfW/500kb/hls/index.m3u8
-牛仔裤女郎,https://qqc1107.phpdaniu.com/japan/20191013/jz4knROn/500kb/hls/index.m3u8
-操到翻白眼,https://qqc1107.phpdaniu.com/japan/wuma/031116-519_06/index.m3u8
-爆弹肉体小衣,https://qqc1107.phpdaniu.com/japan/20191013/S9iMljUH/500kb/hls/index.m3u8
-被秒插却很爽,https://qqc1107.phpdaniu.com/japan/20191013/TnoqbCFH/500kb/hls/index.m3u8
-大轮奸性感空姐,https://qqc1107.phpdaniu.com/japan/ZW0910/AITV4deO/index.m3u8
-美少妇全穴中出,https://qqc1107.phpdaniu.com/japan/ZW0910/8F8YJ4lB/800kb/hls/index.m3u8
-让少妇淫叫潮吹,https://qqc1107.phpdaniu.com/japan/20191101/M5PFQupR/index.m3u8
-女孩的最终幻想,https://qqc1107.phpdaniu.com/oumei/2019922/qqc002/1000kb/hls/index.m3u8
-小猫咪搬的女孩,https://qqc1107.phpdaniu.com/oumei/2019922/qqc001/index.m3u8
-加藤椿是我老婆,https://qqc1107.phpdaniu.com/japan/20191013/P0ITeExQ/index.m3u8
-和你老婆来一炮,https://qqc1107.phpdaniu.com/japan/20191013/wC5HedHl/index.m3u8
-我老婆是雾岛樱的话,https://qqc1107.phpdaniu.com/japan/20191013/uh131Qgy/index.m3u8
-朋友的女友西野亚子,https://qqc1107.phpdaniu.com/japan/20191013/Wny3sG2o/500kb/hls/index.m3u8
-热吻浓情干炮【江波凉】,https://qqc1107.phpdaniu.com/japan/20191003/040518_667/index.m3u8
-喷精快手松本芽依精选,https://qqc1107.phpdaniu.com/japan/20191013/alQxYPic/500kb/hls/index.m3u8
-喷精快手上原麻衣精选,https://qqc1107.phpdaniu.com/japan/20191013/LdqeJHSd/index.m3u8
-淫乱小穴操到爆射大满足,https://qqc1107.phpdaniu.com/japan/20191013/ijyp7jqd/index.m3u8
-被隔壁的巨乳大姐榨干了,https://qqc1107.phpdaniu.com/japan/20191013/YUTeYB6h/500kb/hls/index.m3u8
-超淫荡美少妇的激情爱爱,https://qqc1107.phpdaniu.com/japan/20191013/NQ1YjAsl/index.m3u8
-美穴欣赏【叶山瞳】,https://qqc1107.phpdaniu.com/japan/20191013/EMDCPRKl/index.m3u8
-美穴欣赏【麻生希】,https://qqc1107.phpdaniu.com/japan/20191013/VBDebMeI/500kb/hls/index.m3u8
-Z真白愛梨,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/3/4/346e9cf427285a5cfa7bfc8f913209de1486995037-1280-720-1542-h264.mp4/master.m3u8
-Искушение HD,http://mel13.ottclub.ru/iptv/XT8QRLUKBDVF32/919/index.m3u8
-Русская Ночь,http://mel13.ottclub.ru/iptv/XT8QRLUKBDVF32/147/index.m3u8
-Шалун,http://mel13.ottclub.ru/iptv/XT8QRLUKBDVF32/922/index.m3u8
-お互いの妻をタムハダ,https://135zyv6.xw0371.com/2019/01/14/HB4nHOspRBVXr7QO/playlist.m3u8
-Supernova 18 Hot Girls 3時間総,http://cdn1.polaroidchina.com:8091/20170906/AWpIBAXb/index.m3u8
-オフィスレディーの裏に,http://cdn1.polaroidchina.com:8091/20170906/zZ0Zu72C/index.m3u8
-藤城麻紀 水添愛子上,http://cdn1.polaroidchina.com:8091/20170912/fo3pIeWN/index.m3u8
-藤城麻紀 水添愛子下,http://cdn1.polaroidchina.com:8091/20170912/l1ke56Dc/index.m3u8
-北村敦子 武内麻友,http://cdn1.polaroidchina.com:8091/20170828/cSVX5XaJ/index.m3u8
-新堀 亜沙美  上部,http://cdn1.polaroidchina.com:8091/20171019/epj4dbWN/index.m3u8
-新堀 亜沙美  下部,http://cdn1.polaroidchina.com:8091/20171019/nUB24NSi/index.m3u8
-淫語で誘う寸止め焦らし痴女～僕を生,http://cdn1.polaroidchina.com:8091/20170907/FTtjuEQh/index.m3u8
-ヤリたい放題 10,http://cdn1.polaroidchina.com:8091/20170907/WvclkAWp/index.m3u8
-絶頂ランジェリーナ 8 山田彩夏,http://cdn1.polaroidchina.com:8091/20170907/0PzNFFhx/index.m3u8
-僕を誘惑する白い妖精 滝澤ローラ,http://cdn1.polaroidchina.com:8091/20170907/IShtaOko/index.m3u8
-春日由,http://cdn1.polaroidchina.com:8091/20170907/I0I029hs/index.m3u8
-～とって,http://cdn1.polaroidchina.com:8091/20170907/nObFERzQ/index.m3u8
-中出し痴漢タクシー,http://cdn1.polaroidchina.com:8091/20170907/Vt8sTYTk/index.m3u8
-初々し,http://cdn1.polaroidchina.com:8091/20170907/pTbpQnsM/index.m3u8
-肉感!,http://cdn1.polaroidchina.com:8091/20170907/MvPiZ76Z/index.m3u8
-密着度,http://cdn1.polaroidchina.com:8091/20170907/xYgppAP2/index.m3u8
-Debut 無,http://cdn1.polaroidchina.com:8091/20170907/1suKY9r9/index.m3u8
-僕とキ,http://cdn1.polaroidchina.com:8091/20170907/QYlMGVpA/index.m3u8
-パコパ,http://cdn1.polaroidchina.com:8091/20170907/HrDI2QOo/index.m3u8
-ももい,http://cdn1.polaroidchina.com:8091/20170907/z5qFuzmz/index.m3u8
-無防,http://cdn1.polaroidchina.com:8091/20170907/XUd52XAo/index.m3u8
-濡れヌ,http://cdn1.polaroidchina.com:8091/20170907/SIg5VEUD/index.m3u8
-性感VI,http://cdn1.polaroidchina.com:8091/20170907/cylPDX1C/index.m3u8
-マンチ,http://cdn1.polaroidchina.com:8091/20170907/2jAIc9hx/index.m3u8
-自宅で,http://cdn1.polaroidchina.com:8091/20170907/mv3g3tYs/index.m3u8
-降臨,http://cdn1.polaroidchina.com:8091/20170907/wMfJOcyo/index.m3u8
-ひたす,http://cdn1.polaroidchina.com:8091/20170907/nbXaX1Pp/index.m3u8
-ほろ酔,http://cdn1.polaroidchina.com:8091/20170908/pB6ov4Jy/index.m3u8
-ついに,http://cdn1.polaroidchina.com:8091/20170908/AWg107fK/index.m3u8
-初撮り,http://cdn1.polaroidchina.com:8091/20170908/n54yO6Xt/index.m3u8
-「ねこ,http://cdn1.polaroidchina.com:8091/20170908/nTmiQs37/index.m3u8
-[ムッ,http://cdn1.polaroidchina.com:8091/20170908/ejcSc8V0/index.m3u8
-淫乱,http://cdn1.polaroidchina.com:8091/20170908/KWtVNMVD/index.m3u8
-激イ,http://cdn1.polaroidchina.com:8091/20170908/rO5ZdV3Q/index.m3u8
-拘束,http://cdn1.polaroidchina.com:8091/20170908/U4eVXyea/index.m3u8
-元フ,http://cdn1.polaroidchina.com:8091/20170908/hMUtWfvV/index.m3u8
-極上,http://cdn1.polaroidchina.com:8091/20170908/omJoFMjb/index.m3u8
-おうちセックス編 : 木,http://cdn1.polaroidchina.com:8091/20170908/DYH9gYVJ/index.m3u8
-過激編 : 木内亜美菜,http://cdn1.polaroidchina.com:8091/20170908/gE5XIdfZ/index.m3u8
-クビレ,http://cdn1.polaroidchina.com:8091/20170908/umf8azgr/index.m3u8
-水原めい,http://cdn1.polaroidchina.com:8091/20170908/YgXBwqQH/index.m3u8
-パンストローション ～ぬめりの快楽,http://cdn1.polaroidchina.com:8091/20170909/iY8mtjdD/index.m3u8
-巨乳熟女をガンガン突き,http://cdn1.polaroidchina.com:8091/20170908/pnTp9xbh/index.m3u8
-余裕で三連発できちゃう,http://cdn1.polaroidchina.com:8091/20170908/ypv21418/index.m3u8
-しばられたいの ~社会的痴,http://cdn1.polaroidchina.com:8091/20170908/USYouMYC/index.m3u8
-鬼イキトランス : 江波り,http://cdn1.polaroidchina.com:8091/20170908/Gxy3XLG2/index.m3u8
-あの薄幸熟女を地元まで,http://cdn1.polaroidchina.com:8091/20170908/FhmarZl9/index.m3u8
-余裕で三連発できちゃう,http://cdn1.polaroidchina.com:8091/20170908/1SDJ4TFW/index.m3u8
-盛り上がっちゃう色白素,http://cdn1.polaroidchina.com:8091/20170923/ssAXScRC/index.m3u8
-ハイ,http://cdn1.polaroidchina.com:8091/20170908/mSfJz0qJ/index.m3u8
-ミス,http://cdn1.polaroidchina.com:8091/20170908/gtCclRpX/index.m3u8
-極上,http://cdn1.polaroidchina.com:8091/20170908/BeKbucHu/index.m3u8
-ミス,http://cdn1.polaroidchina.com:8091/20170908/jMWuT6NE/index.m3u8
-純,http://cdn1.polaroidchina.com:8091/20170908/F44JZuCc/index.m3u8
-若妻中出し温泉旅行,http://cdn1.polaroidchina.com:8091/20170908/J2YyGeAK/index.m3u8
-グラマラス : 夕城芹,http://cdn1.polaroidchina.com:8091/20170908/o61VOLbb/index.m3u8
-アタシの彼氏はビッグブ,http://cdn1.polaroidchina.com:8091/20170923/XBHjuCqN/index.m3u8
-僕の彼女が碧しのだった,http://cdn1.polaroidchina.com:8091/20170908/yvX8rBRl/index.m3u8
-カワイ,http://cdn1.polaroidchina.com:8091/20170908/LxuCiaPg/index.m3u8
-Ｍ字開脚抜きフェラ マイクロビキニ生,http://cdn1.polaroidchina.com:8091/20170908/MgclPQ8O/index.m3u8
-美人達とドM調教 : 春奈 まり,http://cdn1.polaroidchina.com:8091/20170908/GldkFYHM/index.m3u8
-巨乳の高飛車証券女大暴落 : 小峰ひな,http://cdn1.polaroidchina.com:8091/20170908/pZwgccwv/index.m3u8
-初めてのカーセックスに挑戦！: みな,http://cdn1.polaroidchina.com:8091/20170908/gadDhcKT/index.m3u8
-機密女収容施設 - シークレットプリズ,http://cdn1.polaroidchina.com:8091/20170908/7QaIxneT/index.m3u8
-マン淫御礼！華李美亭寄席 : 森永ひよ,http://cdn1.polaroidchina.com:8091/20170908/Kxt20lGQ/index.m3u8
-小桜沙樹 三村ちな,http://cdn1.polaroidchina.com:8091/20170908/HitluIlQ/index.m3u8
-ビルの屋上をオマンコほり出して回遊,http://cdn1.polaroidchina.com:8091/20170909/ZFo6hAlt/index.m3u8
-ヒミツの全裸シェアハウス : 椎名みゆ,http://cdn1.polaroidchina.com:8091/20170909/f4RaDPNI/index.m3u8
-愛しきご主人様と給仕の私 : 滝川エリ,http://cdn1.polaroidchina.com:8091/20170909/6Okp2htV/index.m3u8
-ムチャぶり！ : 大家あみ,http://cdn1.polaroidchina.com:8091/20170909/rp73s9h7/index.m3u8
-いけない優等生にオシオキ : 本澤朋美,http://cdn1.polaroidchina.com:8091/20170909/btldFkZE/index.m3u8
-AVデビュー物語 : 永瀬里美,http://cdn1.polaroidchina.com:8091/20170909/cNf49s8T/index.m3u8
-エレガンス : 桐島ひかる,http://cdn1.polaroidchina.com:8091/20170909/SlqSkj0i/index.m3u8
-沙耶ちゃんのお部屋へおじゃましまぁ,http://cdn1.polaroidchina.com:8091/20170909/boej46FQ/index.m3u8
-美微乳感度チェック ~マジでおっぱい,http://cdn1.polaroidchina.com:8091/20170909/UmiPIIn9/index.m3u8
-夢を叶えまSHOW : 北条麻妃,http://cdn1.polaroidchina.com:8091/20170909/ht5YsqRs/index.m3u8
-話題のメイドリフレ! 特別ご奉仕しち,http://cdn1.polaroidchina.com:8091/20170909/o5TkJUMt/index.m3u8
-AV女優AD体験記 : 愛花沙也 若菜めい,http://cdn1.polaroidchina.com:8091/20170909/Q9r8LFfZ/index.m3u8
-ずさんな横領 : 宮澤みほ,http://cdn1.polaroidchina.com:8091/20170904/qC6yMbIU/index.m3u8
-業界最上級のクビレ美巨,http://cdn1.polaroidchina.com:8091/20170909/jW93Mh3m/index.m3u8
-超絶ウブな彼女のどスケベ過ぎる妄想,http://cdn1.polaroidchina.com:8091/20170909/VfD2JnP9/index.m3u8
-Black gal DANCE : 沢尻涼子,http://cdn1.polaroidchina.com:8091/20170909/qbG5tKl9/index.m3u8
-僕の彼女が木下寧々だったら ~山でお,http://cdn1.polaroidchina.com:8091/20170909/AQjrhgwZ/index.m3u8
-女優魂 ~ゴミ屋敷でガチファック,http://cdn1.polaroidchina.com:8091/20170909/7ny7fJ7J/index.m3u8
-ファン感謝祭 ~ロリ好き限定青姦バス,http://cdn1.polaroidchina.com:8091/20170909/15AN2CCx/index.m3u8
-余裕で三連発できちゃう極上の女優,http://cdn1.polaroidchina.com:8091/20170909/zPh79yQJ/index.m3u8
-セックスが好きで好きでたまりません,http://cdn1.polaroidchina.com:8091/20170909/2w9TgSCW/index.m3u8
-はじめての野外放出 ~ドコでも吹いち,http://cdn1.polaroidchina.com:8091/20170909/GAc3lhb1/index.m3u8
-YURI 宮藤まい あ,http://cdn1.polaroidchina.com:8091/20170910/uJ39wMDf/index.m3u8
-密室エレベーター輪姦中出し,http://cdn1.polaroidchina.com:8091/20170909/xwaGI082/index.m3u8
-巨乳むすめのご奉仕三昧 : 西野紗江,http://cdn1.polaroidchina.com:8091/20170909/s0PrdZii/index.m3u8
-おっぱいが異常発達した姪っ子 数年ぶ,http://cdn1.polaroidchina.com:8091/20170909/c7XqGcM7/index.m3u8
-お尻大好きしょう太くんのHなイタズ,http://cdn1.polaroidchina.com:8091/20170909/vidVGezq/index.m3u8
-完全服従契約 ～あなた目線で舞咲み,http://cdn1.polaroidchina.com:8091/20170909/kKrry0EG/index.m3u8
-巨乳痴女ソープ嬢の濃厚サービス : 浅,http://cdn1.polaroidchina.com:8091/20170902/svE9ccUI/index.m3u8
-シンプリー ピュア 菜りお｜椎名りく,http://cdn1.polaroidchina.com:8091/20170910/vHQ1yoeD/index.m3u8
-ベテラン全裸家政婦 熟れたカラダで貴,http://cdn1.polaroidchina.com:8091/20170910/cFq8DRQa/index.m3u8
-美痴女 [激選エロドラマオムニバス],http://cdn1.polaroidchina.com:8091/20170910/mD1pDEnb/index.m3u8
-朝勃ち大好き新妻しのちゃん : 碧しの,http://cdn1.polaroidchina.com:8091/20170910/46uYh2SR/index.m3u8
-まりか｜水川エミリ,http://cdn1.polaroidchina.com:8091/20170910/96shtwJQ/index.m3u8
-激選エロドラマオムニバス : 本,http://cdn1.polaroidchina.com:8091/20170910/dWEZfjyv/index.m3u8
-ベッピンかぐや姫のスケベな婚活 : 吉,http://cdn1.polaroidchina.com:8091/20170910/gJT1A3H8/index.m3u8
-シェアガール 15分からOKの女 : 朝倉花恋,http://cdn1.polaroidchina.com:8091/20170910/Rq2hBRwh/index.m3u8
-中出しデリバリー : 里中結衣,http://cdn1.polaroidchina.com:8091/20170910/vHpQAjz2/index.m3u8
-美人崩壊 : 水,http://cdn1.polaroidchina.com:8091/20170910/kZnJ88H9/index.m3u8
-放課後美少女,http://cdn1.polaroidchina.com:8091/20170910/ajHFZY8P/index.m3u8
-アクメ依存症,http://cdn1.polaroidchina.com:8091/20170910/gFlkFJjV/index.m3u8
-放課後美少女2,http://cdn1.polaroidchina.com:8091/20170910/ibx75Af1/index.m3u8
-性交裏クリニ,http://cdn1.polaroidchina.com:8091/20170910/moFAtPBK/index.m3u8
-おもらし団地,http://cdn1.polaroidchina.com:8091/20170910/EpbXQ9Zi/index.m3u8
-幼馴染のくぱ,http://cdn1.polaroidchina.com:8091/20170910/uCY2eVBm/index.m3u8
-中島京子,http://cdn1.polaroidchina.com:8091/20170910/KfLQpkWR/index.m3u8
-内村りな,http://cdn1.polaroidchina.com:8091/20170910/Fi75kDLN/index.m3u8
-櫻木梨乃,http://cdn1.polaroidchina.com:8091/20170910/6fCRakl0/index.m3u8
-松永ちえり,http://cdn1.polaroidchina.com:8091/20170910/RbiRkhZN/index.m3u8
-天使と悪魔,http://cdn1.polaroidchina.com:8091/20170910/M74FdjTT/index.m3u8
-小西まりえ,http://cdn1.polaroidchina.com:8091/20170910/HDdXjiQK/index.m3u8
-MERU,http://cdn1.polaroidchina.com:8091/20170910/1RPZoY9Z/index.m3u8
-柏倉玲華,http://cdn1.polaroidchina.com:8091/20170910/Fm5x5XUU/index.m3u8
-拘束鬼イカセ,http://cdn1.polaroidchina.com:8091/20170910/2dfnNplb/index.m3u8
-拘束絶頂アク,http://cdn1.polaroidchina.com:8091/20170910/RZdSM1kQ/index.m3u8
-アノ娘の初体,http://cdn1.polaroidchina.com:8091/20170910/BQyvov6d/index.m3u8
-美熟女ぶっかけ2穴姦 : 都盛星空,http://cdn1.polaroidchina.com:8091/20170910/qDsnRTcP/index.m3u8
-ローションま,http://cdn1.polaroidchina.com:8091/20170910/w55HPk5o/index.m3u8
-放課後Hなアル,http://cdn1.polaroidchina.com:8091/20170910/OGDnHY0v/index.m3u8
-ルチャリブレ総集編 4時間13名 : 篠めぐ,http://cdn1.polaroidchina.com:8091/20170910/fDPqRj0s/index.m3u8
-制服美少女 ONIIKASE : 長谷川夏樹,http://cdn1.polaroidchina.com:8091/20170910/VBiPiggU/index.m3u8
-アナル狂いの清純彼女 : 羽月ミリア,http://cdn1.polaroidchina.com:8091/20170910/pwvV6FnH/index.m3u8
-一ノ瀬麗花,http://cdn1.polaroidchina.com:8091/20170910/O2UGLUJu/index.m3u8
-仕事ができる,http://cdn1.polaroidchina.com:8091/20170910/C4wX7mrs/index.m3u8
-集団痴漢を受,http://cdn1.polaroidchina.com:8091/20170910/EfZ6WATX/index.m3u8
-いいなり奴隷,http://cdn1.polaroidchina.com:8091/20170910/AON3oCc8/index.m3u8
-美女ギャル 本,http://cdn1.polaroidchina.com:8091/20170910/6HdxKZGe/index.m3u8
-OLの尻に埋もれ,http://cdn1.polaroidchina.com:8091/20170910/fkoYmBzg/index.m3u8
-「働きウーマ,http://cdn1.polaroidchina.com:8091/20170910/BxKhPIrI/index.m3u8
-シルバーウィ,http://cdn1.polaroidchina.com:8091/20170910/wE519xQi/index.m3u8
-未亡人の柔肌,http://cdn1.polaroidchina.com:8091/20170910/POAw3bUe/index.m3u8
-鬼イカセ 性○,http://cdn1.polaroidchina.com:8091/20170910/ng9XSkwW/index.m3u8
-高級ソープへ,http://cdn1.polaroidchina.com:8091/20170910/aXclfusz/index.m3u8
-彼女と僕とアブ,http://cdn1.polaroidchina.com:8091/20170911/aWk2Erj3/index.m3u8
-いいなり : 美月,http://cdn1.polaroidchina.com:8091/20170911/nae36r0P/index.m3u8
-失神するぐらいの,http://cdn1.polaroidchina.com:8091/20170911/9B4AfrKM/index.m3u8
-ナマ中出し解禁,http://cdn1.polaroidchina.com:8091/20170911/Sp4j0OB8/index.m3u8
-ガチハメ Office,http://cdn1.polaroidchina.com:8091/20170911/TfjKY5qP/index.m3u8
-男を虜にする美,http://cdn1.polaroidchina.com:8091/20170911/mpZL7Tbz/index.m3u8
-生ハメしまくり,http://cdn1.polaroidchina.com:8091/20170911/KcNA8M0w/index.m3u8
-二宮ナナの朝か,http://cdn1.polaroidchina.com:8091/20170910/ajOhQCaE/index.m3u8
-放課後Hなア,http://cdn1.polaroidchina.com:8091/20170911/4fTHPm3a/index.m3u8
-誘惑?カテキョ,http://cdn1.polaroidchina.com:8091/20170911/IzFvMcf7/index.m3u8
-docodemoかけほーだい : 篠めぐみ | 小野,http://cdn1.polaroidchina.com:8091/20170910/aUWNQzhK/index.m3u8
-寝たきりの夫 絶倫の義父 そして私,http://cdn1.polaroidchina.com:8091/20170910/yuIHhyhT/index.m3u8
-マネージャーのミスで、強制ア○ルフ,http://cdn1.polaroidchina.com:8091/20170910/lJOuIcbJ/index.m3u8
-メルシーボークー DV 20 ご奉仕?カノジ,http://cdn1.polaroidchina.com:8091/20170910/TrF9iqu7/index.m3u8
-メルシーボークー DV 24 放課後 Z : 一之,http://cdn1.polaroidchina.com:8091/20170910/yDGNCF2E/index.m3u8
-メルシーボークー DV 25 秋野千尋のSOA,http://cdn1.polaroidchina.com:8091/20170910/xmMSaGnt/index.m3u8
-メルシーボークー DV 26 貸切?美少女,http://cdn1.polaroidchina.com:8091/20170910/3SenQ4Mz/index.m3u8
-ダイナマイト : 愛沢かりん,http://cdn1.polaroidchina.com:8091/20170910/R0xn80So/index.m3u8
-緊縛に目覚める淫乱若妻 : 広瀬,http://cdn1.polaroidchina.com:8091/20170910/iZ7v3Pht/index.m3u8
-佐伯ゆきなと素人コイオチ散歩,http://cdn1.polaroidchina.com:8091/20170910/lBFnoiAV/index.m3u8
-AV撮影現場を密着取材！ : 瀬奈,http://cdn1.polaroidchina.com:8091/20170910/4YmPV6hx/index.m3u8
-生中出しファン感謝オフ会 : 波,http://cdn1.polaroidchina.com:8091/20170910/ABdh7PJj/index.m3u8
-人妻メイドサロン : 三
+战火
