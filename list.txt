@@ -477,3 +477,11 @@ DiscoveryChannel,vjms://121.14.222.77:8500/live/cid=3
 茜茜公主,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ffa8a73877194632b0278898f297d07b/850.m3u8
 出水芙蓉,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/28f9967b04984830b3a1f6fb27561000/850.m3u8
 桂河大桥,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b125a3edccb34637b336cb867e8a5d5d/850.m3u8
+
+轮播,#genre#
+DOX新艺 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxxinyihd
+DOX新知 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxxinzhihd
+DOX怡家 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyijiahd
+DOX英伦 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyinglunhd
+DOX映画 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyinghuahd
+DOX院线 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyuanxianhd
