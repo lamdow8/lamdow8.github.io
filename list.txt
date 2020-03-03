@@ -108,7 +108,7 @@ TVBS新闻,vjms://58.215.133.161:8500/live/cid=348#rtmp://59.124.75.156/sat/tv55
 港台综合,#genre#
 TVB 翡翠台,http://hdl0901.plures.net/onlive/195f07a-caa-4c4d-930a-1156e791a.flv
 TVB 翡翠台,http://pullhls.live.tp32.cn/live/a3dc8b780bd91btbcgd9c9e88/playlist.m3u8
-TVB J2,http://hdl0901.plures.net/onlive/195f07a-caa-4c4d-930a-1156e791bc.flv#msc://CJ25
+TVB J2,http://hdl0901.plures.net/onlive/195f07a-caa-4c4d-930a-1156e791bc.flvhttp://pullhls.live.tp32.cn/live/204ba17f2aa1aca7a1428a73/playlist.m3u8
 有线财经咨询台,https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8
 有线娱乐台,https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-CN/03.m3u8
 VIUtv,http://hls.globaliptv.ml/viu99.php#https://viutv99-i.akamaihd.net/hls/live/265284/live1/stream2/streamPlaylist.m3u8
