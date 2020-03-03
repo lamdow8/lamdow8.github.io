@@ -422,204 +422,58 @@ DiscoveryChannel,vjms://121.14.222.77:8500/live/cid=3
 冰山上的来客,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c86d45b176d642738dabf9da7361653b/850.m3u8
 51号兵站,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fa6557276d644b5ea399956a6bf94e59/850.m3u8
 红日,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/f2ee6e22cd894be1bc8c90b19f47ae2e/850.m3u8
-战火中的青春，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/be0d797e3b494f5fa1cb6d48d29643f3/850.m3u8
-英雄虎胆，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b7fcd0d4ebb045fe8e653ee71b4ef8fc/850.m3u8
-突破乌江，http：//hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bf8ccfff8bc949a6a2ed6bcda45eb4e2/850.m3u8
-三进山城，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ee157540ff2540ada0250edf3f6a3e0a/850.m3u8
-海鹰，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/412ae4c1c5fe4150a14197c437391fe2/850.m3u8
-苦菜花，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ec47d310d888464f8446af5e6e04ded8/850.m3u8
-智取华山，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ef243e3fa20544df9cc24b72ace8efa0/850.m3u8
-渡江侦察记，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d708e9c64aa34519af5490a793756c38/850.m3u8
-奇袭，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ac8b28fb66104aa7a5e3cd5a10ea986b/850.m3u8
-小花，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/f97fb71bff5947ddaf905cc121c42ee4/850.m3u8
-少林寺，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8af9ff377238407e927e597a1af47788/850.m3u8
-英雄儿女，http：//hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/479d044b7a3d465fa3a5b850d36b219c/850.m3u8
-大气层消失，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/45122e56521f49b68020e3e66bc28ce8/850.m3u8
-霹雳贝贝，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7accc94d5590415284af5db904e4be5a/850.m3u8
-泉水叮咚，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8b039f6988a04ca8b086d35031a77204/850.m3u8
-柳堡的故事，http：//hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/706b979b8a934aaab677a11c410bb119/850.m3u8
-李双双，http：//hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bac928d747984ed3bd17550879522f89/850.m3u8
-大闹天宫，http：//hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a57c9e5e1696486e97d229a3ddb13749/850.m3u8
-柳毅传书，http：//hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/2ee71b96a3574889829e17d70b3f3c02/2000.m3u8
-卷席筒，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8bebd13583e341e1b9d9e1180d36aaaa/850.m3u8
-铡刀下的红梅，http：//hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6f0817bfbedd42c682d9152abd5402a3/850.m3u8
-墙头马上，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c45285c6b2ac46a58d49c9351b18e369/850.m3u8
-花为媒，http：//hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/48da40a19746409997717371a80fd9e6/2000.m3u8
-牛郎织女，http：//hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/adc6931516694659a7b54176e4b38299/2000.m3u8
-梁山伯与祝英台，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/427eb50cc6844d47bcd35d2fac737a0a/850.m3u8
-铁弓缘，http：//hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/e19f3238b0ba4849aa50d6b7f1118ab9/2000.m3u8
-碧玉簪，http：//hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9e90b1a2872b476b8a4f9882f9b63cde/850.m3u8
-野猪林，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d2ddcbd8cdba4473a541687e683c1aca/850.m3u8
-五女拜寿，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c38771a355214e97a855c213693a1153/850.m3u8
-杜鹃山01，http：//hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f468a89e0e394a718474523afe37c702/850.m3u8
-杜鹃山02，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/5f76957927c5421e8bd75d0f53c95e4a/850.m3u8
-红灯记，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/84fd88d42e65413a90b9a8b54b685fde/850.m3u8
-奇袭白虎团，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8d476d0de4a343bd8c77c8a83331fc16/850.m3u8
-智取威虎山，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b59e746e354d4c0baefaca2f031eec25/850.m3u8
-沙家浜，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/6241c3f25a9a4dda9b05b9ba185500e0/850.m3u8
-红楼梦01，http：//hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/f66e935661b44ff6b80a290537d5d204/2000.m3u8
-红楼梦02，http：//hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/10470613ead24f5cb435137b5f39ab98/2000.m3u8
-追鱼，http：//hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/3515e586d18743be99eb6cc2004cb995/2000.m3u8
-穆桂英大战洪州，http：//hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/aaa5a373d97a47d1bc95b1418b672b33/2000.m3u8
-秦香莲，http：//hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/f8daefadadef41989225543875268a70/2000.m3u8
-望江亭，http：//hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/292e3c967f2b469e96878d6047f1cc92/2000.m3u8
-王老虎抢亲，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/3b6ae81ae49f4c72b0c977023565c762/850.m3u8
-女驸马，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ba29b790f8ec435ba94fc072558431f0/850.m3u8
-天仙配，http：//hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1cd056751daf430a943e63e6428c40d7/850.m3u8
-李二嫂改嫁01，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/90846f6758524d78997aad89df8c37e0/850.m3u8
-李二嫂改嫁02，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/47a9c8216d344c2dd45f11949dbbecb5/850.m3u8
-林海雪原，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/5023f1dcc73b4090962ee31e017fb8e3/850.m3u8
-万水千山，http：//hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8804d527d9d94b818b42624730203fa9/850.m3u8
-孙悟空三打白骨精，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/1e34b7a2f93d4efeaf7a583409b270cc/850.m3u8
-巴黎圣母院，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/dd86918aafb042c5b51584ffcf5b0e00/850.m3u8
-罗密欧与朱丽叶，http：//hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/95193e30bd454e77bc59a140f4e32ad2/850.m3u8
-魂断蓝桥，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7fc704c5b2e04e65bab92b3986883ab3/850.m3u8
-茜茜公主，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ffa8a73877194632b0278898f297d07b/850.m3u8
-出水芙蓉，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/28f9967b04984830b3a1f6fb27561000/850.m3u8
-桂河大桥，http：//hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b125a3edccb34637b336cb867e8a5d5d/850.m3u8
-
-轮播,＃genre＃
-DOX院线，http：//hls.globaliptv.ml/myguizhou.php？id = doxyuanxianhd
-DOX雅趣，http：//hls.globaliptv.ml/myguizhou.php？id = doxyaquhd
-DOX新知，http：//hls.globaliptv.ml/myguizhou.php？id = doxxinzhihd
-DOX新艺，http：//hls.globaliptv.ml/myguizhou.php？id = doxxinyihd
-DOX怡家，http：//hls.globaliptv.ml/myguizhou.php？id = doxyijiahd
-DOX英伦，http：//hls.globaliptv.ml/myguizhou.php？id = doxyinglunhd
-DOX映画，http：//hls.globaliptv.ml/myguizhou.php？id = doxyinghuahd
-DOX美剧，http：//hls.globaliptv.ml/myguizhou.php？id = doxmeijuhd
-DOX新知，http：//106.12.152.67/aadfdddd.php？id = 8df92ef18e714e80bc302723d5e933ee
-DOX新艺，http：//106.12.152.67/aadfdddd.php？id = 3fec5428637fe3d00cea8deb981ca71c
-DOX怡家，http：//106.12.152.67/aadfdddd.php？id = 9c6e3fd0b37dd8b7e4bc1f06c44cb6cf
-DOX英伦，http：//106.12.152.67/aadfdddd.php？id = 21e5f6a02640bf440df4c079b4c3ad23
-DOX院线，http：//106.12.152.67/aadfdddd.php？id = 8a7d213b10550559a073db188d08d5f7
-DOX映画，http：//106.12.152.67/aadfdddd.php？id = e16878a022c216b17975299a9ac369dc
-DOX美剧，http：//106.12.152.67/aadfdddd.php？id = 1c639fe68ed5de6804966813425bdccd
-DOX雅趣，http：//106.12.152.67/aadfdddd.php？id = 98a5538384f14ca487ca96786a441bbe
-iHOT爱奇谈，http：//101.71.255.229：6610 / zjhs / 2/10103 / index.m3u8？virtualDomain = zjhs.live_hls.zte.com
-iHOT爱悬疑，http：//101.71.255.229：6610 / zjhs / 2/10104 / index.m3u8？virtualDomain = zjhs.live_hls.zte.com
-iHOT爱喜剧，http：//101.71.255.229：6610 / zjhs / 2/10105 / index.m3u8？virtualDomain = zjhs.live_hls.zte.com＃http：//112.17.40.140/hwltc.tv.cdn.zj。 chinamobile.com/PLTV/88888888/224/3221230022/index.m3u8?fmt=ts2hls#http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/01。 m3u8？fmt = ts2hls，2646,01.m3u8,0,7813,0,0
-iHOT爱经典，http：//101.71.255.229：6610 / zjhs / 2/10106 / index.m3u8？virtualDomain = zjhs.live_hls.zte.com
-iHOT爱动漫，http：//101.71.255.229：6610 / zjhs / 2/10107 / index.m3u8？virtualDomain = zjhs.live_hls.zte.com
-iHOT爱美食，http：//101.71.255.229：6610 / zjhs / 2/10108 / index.m3u8？virtualDomain = zjhs.live_hls.zte.com
-iHOT爱解密，http：//101.71.255.229：6610 / zjhs / 2/10109 / index.m3u8？virtualDomain = zjhs.live_hls.zte.com
-iHOT爱电竞，http：//101.71.255.229：6610 / zjhs / 2/10110 / index.m3u8？virtualDomain = zjhs.live_hls.zte.com
-iHOT爱都市，http：//101.71.255.229：6610 / zjhs / 2/10111 / index.m3u8？virtualDomain = zjhs.live_hls.zte.com
-iHOT爱幼教，http：//101.71.255.229：6610 / zjhs / 2/10112 / index.m3u8？virtualDomain = zjhs.live_hls.zte.com
-iHOT爱科幻，http：//101.71.255.229：6610 / zjhs / 2/10113 / index.m3u8？virtualDomain = zjhs.live_hls.zte.com＃http：//112.17.40.140/hwltc.tv.cdn.zj。 chinamobile.com/PLTV/88888888/224/3221230025/index.m3u8?fmt=ts2hls#http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/01。 m3u8？fmt = ts2hls，2646,01.m3u8,0,7814,0,0
-iHOT爱江湖，http：//101.71.255.229：6610 / zjhs / 2/10114 / index.m3u8？virtualDomain = zjhs.live_hls.zte.com
-iHOT爱浪漫，http：//101.71.255.229：6610 / zjhs / 2/10115 / index.m3u8？virtualDomain = zjhs.live_hls.zte.com＃http：//112.17.40.140/hwltc.tv.cdn.zj。 chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls#http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/01。 m3u8？fmt = ts2hls，2646,01.m3u8,0,7813,0,0
-iHOT爱影院，http：//101.71.255.229：6610 / zjhs / 2/10116 / index.m3u8？virtualDomain = zjhs.live_hls.zte.com
-iHOT爱玩具，http：//101.71.255.229：6610 / zjhs / 2/10117 / index.m3u8？virtualDomain = zjhs.live_hls.zte.com
-iHOT爱时尚，http：//101.71.255.229：6610 / zjhs / 2/10118 / index.m3u8？virtualDomain = zjhs.live_hls.zte.com
-iHOT爱军武，http：//101.71.255.229：6610 / zjhs / 2/10119 / index.m3u8？virtualDomain = zjhs.live_hls.zte.com
-iHOT爱历史，http：//101.71.255.229：6610 / zjhs / 2/10120 / index.m3u8？virtualDomain = zjhs.live_hls.zte.com
-iHOT爱世界，http：//101.71.255.229：6610 / zjhs / 2/10121 / index.m3u8？virtualDomain = zjhs.live_hls.zte.com＃http：//112.17.40.140/hwltc.tv.cdn.zj。 chinamobile.com/PLTV/88888888/224/3221230046/index.m3u8
-iHOT爱科学，http：//112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
-iHOT爱旅行，http：//112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
-iHOT爱探索，http：//112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
-iHOT爱院线，http：//112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/index.m3u8？fmt = ts2hls
-iHOT爱悬疑，http：//101.71.255.229：6610 / zjhs / 2/10104 / index.m3u8？virtualDomain = zjhs.live_hls.zte.com＆IASHttpSessionId = OTT3831420200227223529070370
-iHOT爱喜剧，http：//101.71.255.229：6610 / zjhs / 2/10105 / index.m3u8？virtualDomain = zjhs.live_hls.zte.com＆IASHttpSessionId = OTT3912220200227223216058126
-iHOT爱喜剧，http：//101.71.255.229：6610 / zjhs / 2/10105 / index.m3u8？virtualDomain = zjhs.live_hls.zte.com＆IASHttpSessionId = OTT3912220200227075037057636
-iHOT爱世界，http：//101.71.255.229：6610 / zjhs / 2/10121 / index.m3u8？virtualDomain = zjhs.live_hls.zte.com＆IASHttpSessionId = OTT3833420200227075721071071782
-iHOT爱世界，http：//101.71.255.229：6610 / zjhs / 2/10121 / index.m3u8？virtualDomain = zjhs.live_hls.zte.com＆IASHttpSessionId = OTT3925820200227080557055908
-iHot爱世界，http：//101.71.255.229：6610 / zjhs / 2/10121 / index.m3u8？virtualDomain = zjhs.live_hls.zte.com＆IASHttpSessionId = OTT3904820200227205136077137
-iHot爱江湖，http：//101.71.255.229：6610 / zjhs / 2/10114 / index.m3u8？virtualDomain = zjhs.live_hls.zte.com＆IASHttpSessionId = OTT3931220200227202709070314
-iHot爱科幻，http：//101.71.255.229：6610 / zjhs / 2/10113 / index.m3u8？virtualDomain = zjhs.live_hls.zte.com＆IASHttpSessionId = OTT3907320200226195413073754
-哪吒之魔童降世，http：//walixiwa.club：455 / play / xxplay.php？vodid = 46604＆playindex = 1＆name = play.m3u8
-囧妈，http：//walixiwa.club：455 / play / ngplay.php？playUrl = aHR0cDovL3ZpZGVvdGlhbnRpYW4uZ3NsYXd5ZXJ1bmlvbi5jb20vMjAyMDAxMzAvRzJNT3VZ = OAk = 3。
-半个喜剧，http：//walixiwa.club：455 / play / ngplay.php？playUrl = aHR0cDovL3ZpZGVvdGlhbnRpYW4uZ3NsYXd5ZXJ1bmlvbi5jb20vMjAyMDAxMzAvaXR1eWRUbbsvaWname = 3。
-肥龙过江，http：//walixiwa.club：455 / play / ngplay.php？playUrl = aHR0cDovL3ZpZGVvdGlhbnRpYW4uZ3NsYXd5ZXJ1bmlvbi5jb20vMjAyMDAyMDEva3hHUU10Qk8bWTN = 8。
-叶问4，http：//walixiwa.club：455 / play / xxplay.php？vodid = 50764＆playindex = 1＆name = play.m3u8
-我不是药神，http：//walixiwa.club：455 / play / ngplay.php？playUrl = aHR0cDovL2NkbjEuZ3p6ZWNoYW8uY29tLzIwMTgxMTA4L05sUWpwaHZJL2luZGV4Lm0zdTg =＆name = play.m3
-中国机长，http：//walixiwa.club：455 / play / ngplay.php？playUrl = aHR0cDovL2NkbjEuZ3p6ZWNoYW8uY29tLzIwMTkxMjAzL1ZBSWhsb1k2L2luZGV4Lm0zdTg =＆name = play.m3
-叶问4完结，http：//walixiwa.club：455 / play / ngplay.php？playUrl = aHR0
-
-疫情24小时,＃genre＃
-雷神山1，http：//mobilelive-play.ysp.cctv.cn/2001924601_hd.m3u8
-雷神山2，http：//mobilelive-play.ysp.cctv.cn/2001893301_fhd.m3u8
-雷神山3，http：//mobilelive-play.ysp.cctv.cn/2001893201_fhd.m3u8
-
-福利_4600,＃genre＃
-
-HAPPY幸福，P2p：//51.79.41.138：18912 / 5c18f8fe000ca53ec074293d6d01287b.ts.ts＃mitv：//51.79.41.138：18912 / 5c18f8fe000ca53ec074293d6d01287b.ts.ts
-惊艳台HD，P2p：//51.79.41.138：18912 / 5c18f9100006a3e2c0746e0708a009f7.ts.ts＃mitv：//51.79.41.138：18912 / 5c18f9100006a3e2c0746e0708a009f7.ts.ts
-彩虹电影，P2p：//51.79.41.138：18912 / 5c18f8eb000ca180c073df055bc26b76.ts.ts＃mitv：//51.79.41.138：18912 / 5c18f8eb000ca180c073df055bc26b76.ts.ts
-彩虹e台，P2p：//51.79.41.138：18912 / 5c18f8ef000d41c9c073eec574332890.ts.ts＃mitv：//51.79.41.138：18912 / 5c18f8ef000d41c9c073eec574332890.ts.ts
-彩虹k台，P2p：//51.79.41.138：18912 / 5c18f8f300074bdfc073fcde6e553705.ts.ts＃ts＃mitv：//51.79.41.138：18912 / 5c18f8f300074bdfc073fcde6e553705.ts.ts
-HOT星颜，P2p：//51.79.41.138：18912 / 5c18f8e80001d046c073d07f7ee742c9.ts.ts＃ts＃mitv：//51.79.41.138：18912 / 5c18f8e80001d046c073d07f7ee742c9.ts.ts 
-松视1台，P2p：//51.79.41.138：18912 / 5c18f8fb00064883c0741bdf109f114a.ts.ts.ts＃tsvmit：//：//51.79.41.138：18912 / 5c18f8fb00064883c0741bdf109f114a.ts.ts＃vjms：//23.237.33.155：8500：3502 / live /cid=262&delay=400&httpbuf=400&memory=50|http://tw8058.sinodig.com?key=RDtfFOAvgjb5mIurJg08e
-松视2台，P2p：//51.79.41.138：18912 / 5c18f8f7000d865dc0740e1426765941.ts.ts＃tsvmit5：//51.79.41.138：18912 / 5c18f8f7000d865dc0740e1426765941.ts.ts＃vjms：//23.237.33.155：8500：3502 / live /cid=267&delay=400&httpbuf=400&memory=50|http://tw8058.sinodig.com?key=c6Qq6gGg7oG1rAP20bxBe
-松视3台，P2p：//51.79.41.138：18912 / 5c18f9020004cea3c07436da29307240.ts.ts＃ts＃mitv：//51.79.41.138：18912 / 5c18f9020004cea3c07436da29307240.ts.ts＃vjms：//23.237.33.155：8500：3502 / live /cid=268&delay=400&httpbuf=400&memory=50|http://tw8058.sinodig.com?key=ADZie6PocQzvhxdjhiWRe
-香蕉台，P2p：//51.79.41.138：18912 / 5c18f9090004f8a0c07452412e4e369f.ts.ts＃mitv：//51.79.41.138：18912 / 5c18f9090004f8a0c07452412e4e369f.ts.ts
-潘多拉粉红，P2p：//51.79.41.138：18912 / 5c18f90c000e8229c074606a15084f35.ts.ts＃mitv：//51.79.41.138：18912 / 5c18f90c000e8229c074606a15084f35.ts.ts
-潘多拉完美，P2p：//51.79.41.138：18912 / 5c18f905000c08fbc07444661e2e685e.ts.ts＃mitv：//51.79.41.138：18912 / 5c18f905000c08fbc07444661e2e685e.ts.ts
-
-K频道，tvbus：// 45RuULzxf9PWt8YvJosWsvmpF2izUgBSLeFyQ588xZ4dvhSf4H
-松视1台，tvbus：// 4QjgGobbJMquDPuJXg3QZ98t5wun5yFQHH1fcAQN39Y451up2a
-松视2台，tvbus：// 3Fzm3Ya34TqqqbKrPYV7fVaxRnf2nBgUhqmqVJ4dUi5WDSxcEG
-松视3台，tvbus：// 4jtGC2sp8J5x7ZkBojM1pCd8EJ5GFW6WJsi9Q4ZrJu1PB6B6bp
-HAPPY_CHANNEL，tvbus：// 3nxfaXNWhBgexhKPro8jkDQXNjdXcNY1xQ4iZoyQtjPo5rVGqX
-潘多拉粉红，tvbus：// 3Xzv7zESXKfyEXF5iRUf2RxmDdfX7L8CDq7mH5ZHjhForuMgzU
-香蕉台，tvbus：// 3vUe6MmwPF7hBU9Fg35Jgy5WpyeZLU9qu5QHPjYHmqxX6SH9iq
-潘多拉完美，tvbus：// 2xfUPprxyRbCVR9qxLJKxxwQxwK2dQwrv4YjYDDAqyBSER71hH
-惊艳台，tvbus：// 3GYpc9npbBBeNCcdTEgh3rERKzoPAKajbXADb6ytaCStakHWf2
-彩虹电影，tvbus：// 3eHAagwkoYSW2TN8kmqAF8RTgKG9PKMkWeshKBMXTC4Swj4P8F
-彩虹e台，tvbus：// 3PxS6UCWkHgc13qEeP72gWJa9YJaMPtAsPVHpsR9dPQ8945s5R
-亚洲，tvbus：// 49v5cV2oc3uKRx3SzMFBZGhwyQzGDi6dsy91QEaBf8m6rfpGLb
-Latina，tvbus：// 3P6BjUDrqyspT8T7MFGnjczPbj5uvk1ogbbSarbqmTacZchGFG
-高清无码1，p2p：//0198.02686.cc：16871 / 5d25b7e40000bcec0a2fbc73bb28f402.ts
-高清无码2，p2p：//0198.02686.cc：16871 / 5d25b7e40009b23e0a2fbebea59aef80.ts
-高清无码3，p2p：//0198.02686.cc：16871 / 5d25b7e50001d4fd0a2fc0a3e867b01c.ts
-高清无码4，p2p：//0198.02686.cc：16871 / 5d25b7e5000ad9f60a2fc2f2dffda85a.ts
-高清无码5，p2p：//0198.02686.cc：16871 / 5d25b7e6000300ff0a2fc4d86a4b3abf.ts
-高清无码6，p2p：//0198.02686.cc：16871 / 5d25b7e6000a7b120a2fc6c21324f51c.ts
-高清无码7，p2p：//0198.02686.cc：16871 / 5d25b7e700043adb0a2fc9103d0f3e9d.ts
-高清无码8，p2p：//0198.02686.cc：16871 / 5d25b7e7000b9ffe0a2fcaf5ddbba365.ts
-高清无码9，p2p：//0198.02686.cc：16871 / 5d25b7e80003e23d0a2fcce197673935.ts
-高清无码10，p2p：//0198.02686.cc：16871 / 5d25b7e8000d10950a2fcf3b28b5d106.ts
-高清无码11，p2p：//0198.02686.cc：16871 / 5d25b7e900054d910a2fd126812250f8.ts
-三级_4600,＃genre＃
-色戒，https：//qqc1107.phpdaniu.com/japan/20190829/5fjOUM6C/index.m3u8
-苹果，https：//qqc1107.phpdaniu.com/japan/20190821/xKAFD0kH/800kb/hls/index.m3u8
-丑闻，https：//qqc1107.phpdaniu.com/japan/20190821/7vpRqM9k/index.m3u8
-为你钟情，https：//qqc1107.phpdaniu.com/japan/20190820/zelJotND/800kb/hls/index.m3u8
-魔鬼天使，https：//qqc1107.phpdaniu.com/japan/20190821/lAEs5Rri/index.m3u8
-一路向西，https：//qqc1107.phpdaniu.com/japan/20190829/LGzK8FXD/800kb/hls/index.m3u8
-蜜桃成熟时，https：//qqc1107.phpdaniu.com/japan/20190820/OWLLUzio/index.m3u8
-少女潘金莲，https：//qqc1107.phpdaniu.com/japan/20190930/mzOygvXT/800kb/hls/index.m3u8
-唐朝豪放女，https：//qqc1107.phpdaniu.com/japan/20190930/sy8A0Lc6/index.m3u8
-金瓶梅【上集】，https：//qqc1107.phpdaniu.com/japan/20190829/6iLi5qMz/800kb/hls/index.m3u8
-金瓶梅【下集】，https：//qqc1107.phpdaniu.com/japan/20190829/FQIZJjXg/index.m3u8
-美人图【第一集】，https：//qqc1107.phpdaniu.com/japan/20190820/TQz​​Yp0CW/800kb/hls/index.m3u8
-美人图【第二集】，https：//qqc1107.phpdaniu.com/japan/20190820/aVMEPQGA/index.m3u8
-南洋十大邪术，https：//qqc1107.phpdaniu.com/japan/20190829/weqi6SFY/800kb/hls/index.m3u8
-爱人情人爱诱惑，https：//qqc1107.phpdaniu.com/japan/20190821/XIo5Lk08/800kb/hls/index.m3u8
-玉蒲团之玉女心经，https：//qqc1107.phpdaniu.com/japan/20190820/VSPnfvCr/800kb/hls/index.m3u8
-肉蒲团之极乐宝鉴，https：//qqc1107.phpdaniu.com/japan/20190829/CMS8vhEX/index.m3u8
-色即是空【前篇】，https：//qqc1107.phpdaniu.com/japan/20190821/q5eiqO19/800kb/hls/index.m3u8
-色即是空【后篇】，https：//qqc1107.phpdaniu.com/japan/20190821/Lg2355tx/index.m3u8
-满清十大酷刑【赤裸凌迟】，https：//qqc1107.phpdaniu.com/japan/20190829/LR1VP55H/800kb/hls/index.m3u8
-日系_4600,＃genre＃
-3P插到潮喷，https：//qqc1107.phpdaniu.com/japan/20191013/lcMXHzfW/500kb/hls/index.m3u8
-牛仔裤女郎，https：//qqc1107.phpdaniu.com/japan/20191013/jz4knROn/500kb/hls/index.m3u8
-操到翻白眼，https：//qqc1107.phpdaniu.com/japan/wuma/031116-519_06/index.m3u8
-爆弹肉体小衣，https：//qqc1107.phpdaniu.com/japan/20191013/S9iMljUH/500kb/hls/index.m3u8
-被秒插却很爽，https：//qqc1107.phpdaniu.com/japan/20191013/TnoqbCFH/500kb/hls/index.m3u8
-大轮奸性感空姐，https：//qqc1107.phpdaniu.com/japan/ZW0910/AITV4deO/index.m3u8
-美少妇全穴中出，https：//qqc1107.phpdaniu.com/japan/ZW0910/8F8YJ4lB/800kb/hls/index.m3u8
-让少妇淫叫潮吹，https：//qqc1107.phpdaniu.com/japan/20191101/M5PFQupR/index.m3u8
-女孩的最终幻想，https：//qqc1107.phpdaniu.com/oumei/2019922/qqc002/1000kb/hls/index.m3u8
-小猫咪搬的女孩，https：//qqc1107.phpdaniu.com/oumei/2019922/qqc001/index.m3u8
-加藤椿是我老婆，https：//qqc1107.phpdaniu.com/japan/20191013/P0ITeExQ/index.m3u8
-和你老婆来一炮，https：//qqc1107.phpdaniu.com/japan/20191013/wC5HedHl/index.m3u8
-我老婆是雾岛樱的话，https：//qqc1107.phpdaniu.com/japan/20191013/uh131Qgy/index.m3u8
-朋友的女友西野亚子，https：//qqc1107.phpdaniu.com/japan/20191013/Wny3sG2o/500kb/hls/index.m3u8
-热吻浓情干炮【江波凉】，https：//qqc1107.phpdaniu.com/japan/20191003/040518_667/index.m3u8
-喷精快手松本芽依精选，https：//qqc1107.phpdaniu.com/japan/20191013/alQxYPic/500kb/hls/index.m3u8
-喷精快手原麻衣精选，https：//qqc1107.phpdaniu.com/japan/20191013/LdqeJHSd/index.m3u8
-淫乱小穴操到爆射大满足，https：//qqc1107.phpdaniu.com/japan/20191013/ijyp7jqd/index.m3u8
-被隔壁的巨乳大姐榨干了，https：//qqc1107.phpdaniu.com/japan/20191013/YUTeYB6h/500kb/hls/index.m3u8
-超淫​​荡美少妇的激情爱爱，https：//qqc1107.phpdaniu.com/japan/20191013/NQ1YjAsl/index.m3u8
-美穴欣赏【叶山瞳】，https：//qqc1107.phpdaniu.com/japan/20191013/EMDCPRKl/index.m3u8
-美穴欣赏【麻生希】，https：//qqc1107.phpdaniu.com/japan/20191013/VBDebMeI/500kb/hls/index.m3u8
+战火中的青春,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/be0d797e3b494f5fa1cb6d48d29643f3/850.m3u8
+英雄虎胆,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b7fcd0d4ebb045fe8e653ee71b4ef8fc/850.m3u8
+突破乌江,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bf8ccfff8bc949a6a2ed6bcda45eb4e2/850.m3u8
+三进山城,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ee157540ff2540ada0250edf3f6a3e0a/850.m3u8
+海鹰,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/412ae4c1c5fe4150a14197c437391fe2/850.m3u8
+苦菜花,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ec47d310d888464f8446af5e6e04ded8/850.m3u8
+智取华山,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ef243e3fa20544df9cc24b72ace8efa0/850.m3u8
+渡江侦察记,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d708e9c64aa34519af5490a793756c38/850.m3u8
+奇袭,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ac8b28fb66104aa7a5e3cd5a10ea986b/850.m3u8
+小花,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/f97fb71bff5947ddaf905cc121c42ee4/850.m3u8
+少林寺,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8af9ff377238407e927e597a1af47788/850.m3u8
+英雄儿女,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/479d044b7a3d465fa3a5b850d36b219c/850.m3u8
+大气层消失,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/45122e56521f49b68020e3e66bc28ce8/850.m3u8
+霹雳贝贝,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7accc94d5590415284af5db904e4be5a/850.m3u8
+泉水叮咚,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8b039f6988a04ca8b086d35031a77204/850.m3u8
+柳堡的故事,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/706b979b8a934aaab677a11c410bb119/850.m3u8
+李双双,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bac928d747984ed3bd17550879522f89/850.m3u8
+大闹天宫,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a57c9e5e1696486e97d229a3ddb13749/850.m3u8
+柳毅传书,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/2ee71b96a3574889829e17d70b3f3c02/2000.m3u8
+卷席筒,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8bebd13583e341e1b9d9e1180d36aaaa/850.m3u8
+铡刀下的红梅,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6f0817bfbedd42c682d9152abd5402a3/850.m3u8
+墙头马上,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c45285c6b2ac46a58d49c9351b18e369/850.m3u8
+花为媒,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/48da40a19746409997717371a80fd9e6/2000.m3u8
+牛郎织女,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/adc6931516694659a7b54176e4b38299/2000.m3u8
+梁山伯与祝英台,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/427eb50cc6844d47bcd35d2fac737a0a/850.m3u8
+铁弓缘,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/e19f3238b0ba4849aa50d6b7f1118ab9/2000.m3u8
+碧玉簪,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9e90b1a2872b476b8a4f9882f9b63cde/850.m3u8
+野猪林,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d2ddcbd8cdba4473a541687e683c1aca/850.m3u8
+五女拜寿,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c38771a355214e97a855c213693a1153/850.m3u8
+杜鹃山01,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f468a89e0e394a718474523afe37c702/850.m3u8
+杜鹃山02,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/5f76957927c5421e8bd75d0f53c95e4a/850.m3u8
+红灯记,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/84fd88d42e65413a90b9a8b54b685fde/850.m3u8
+奇袭白虎团,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8d476d0de4a343bd8c77c8a83331fc16/850.m3u8
+智取威虎山,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b59e746e354d4c0baefaca2f031eec25/850.m3u8
+沙家浜,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/6241c3f25a9a4dda9b05b9ba185500e0/850.m3u8
+红楼梦01,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/f66e935661b44ff6b80a290537d5d204/2000.m3u8
+红楼梦02,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/10470613ead24f5cb435137b5f39ab98/2000.m3u8
+追鱼,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/3515e586d18743be99eb6cc2004cb995/2000.m3u8
+穆桂英大战洪州,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/aaa5a373d97a47d1bc95b1418b672b33/2000.m3u8
+秦香莲,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/f8daefadadef41989225543875268a70/2000.m3u8
+望江亭,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/292e3c967f2b469e96878d6047f1cc92/2000.m3u8
+王老虎抢亲,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/3b6ae81ae49f4c72b0c977023565c762/850.m3u8
+女驸马,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ba29b790f8ec435ba94fc072558431f0/850.m3u8
+天仙配,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1cd056751daf430a943e63e6428c40d7/850.m3u8
+李二嫂改嫁01,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/90846f6758524d78997aad89df8c37e0/850.m3u8
+李二嫂改嫁02,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/47a9c8216d344c2dd45f11949dbbecb5/850.m3u8
+林海雪原,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/5023f1dcc73b4090962ee31e017fb8e3/850.m3u8
+万水千山,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8804d527d9d94b818b42624730203fa9/850.m3u8
+孙悟空三打白骨精,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/1e34b7a2f93d4efeaf7a583409b270cc/850.m3u8
+巴黎圣母院,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/dd86918aafb042c5b51584ffcf5b0e00/850.m3u8
+罗密欧与朱丽叶,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/95193e30bd454e77bc59a140f4e32ad2/850.m3u8
+魂断蓝桥,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7fc704c5b2e04e65bab92b3986883ab3/850.m3u8
+茜茜公主,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ffa8a73877194632b0278898f297d07b/850.m3u8
+出水芙蓉,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/28f9967b04984830b3a1f6fb27561000/850.m3u8
+桂河大桥,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b125a3edccb34637b336cb867e8a5d5d/850.m3u8
