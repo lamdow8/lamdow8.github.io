@@ -89,7 +89,7 @@ CGTN,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 安徽卫视,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
 
 港台新闻,#genre#
-海南新闻,http://stream3.hnntv.cn/xwpd_sd/1583342078/1583345452336.ts?_upt=36be87921583352652
+海南新闻,http://stream3.hnntv.cn/xwpd/playlist.m3u8?_upt=3be9ea6b1583353519
 儋州新闻,http://36009.hlsplay.aodianyun.com/tv_radio_36009/tv_channel_1330.m3u8
 凤凰资讯台,http://liveali.ifeng.com/live/FHZX.flv#http://125.210.152.18:9090/live/FHZX_1200.m3u8
 凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv#http://125.210.152.18:9090/live/FHZW_1200.m3u8
