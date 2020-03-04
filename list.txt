@@ -272,6 +272,15 @@ AEC,p2p://sdgdklwos.finetv.tv:9906/5b2c873100007ef4067c1d2352642785.ts
 澳门互动新闻,http://202.175.127.77/live/show/ch2/index.m3u8
 澳门有线三台,http://202.175.127.77/live/show/ch3/index.m3u8
 
+代理源测试,#genre#
+无线新闻,http://hzyhjg.cc/cs/gat/wxxw.php
+无线财经,http://hzyhjg.cc/cs/gat/wxcjzx.php
+有线新闻,http://hzyhjg.cc/cs/gat/yxxw.php
+中天新闻,http://hzyhjg.cc/cs/gat/ztxw.php
+东森新闻,http://hzyhjg.cc/cs/gat/dsxw.php
+中视,http://hzyhjg.cc/cs/gat/zs.php
+台视,http://hzyhjg.cc/cs/gat/ts.php
+民视,http://hzyhjg.cc/cs/gat/ms.php
 
 vjms源测试,#genre#
 民視HD,vjms://58.215.133.161:8500/live/cid=450
