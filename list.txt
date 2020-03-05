@@ -89,7 +89,7 @@ CGTN,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 安徽卫视,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
 
 港台新闻,#genre#
-海南新闻,http://stream3.hnntv.cn/xwpd/playlist.m3u8?_upt=3be9ea6b1583353519
+海南新闻,http://stream3.hnntv.cn/xwpd/playlist.m3u8?_upt=10f627db1583375267
 儋州新闻,http://36009.hlsplay.aodianyun.com/tv_radio_36009/tv_channel_1330.m3u8
 凤凰资讯台,http://liveali.ifeng.com/live/FHZX.flv#http://125.210.152.18:9090/live/FHZX_1200.m3u8
 凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv#http://125.210.152.18:9090/live/FHZW_1200.m3u8
@@ -211,6 +211,7 @@ CHC家庭影院,http://60.255.149.248/tslive/c212_scc_20190618_q0ktot1t_original
 CHC动作电影,http://60.255.149.248/tslive/c213_scc_20190618_wzkayvu1_original_r10/c213_scc_20190618_wzkayvu1_original_r10.m3u8&
 峨眉电影-1 HD,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 峨眉电影-2 FHD,http://60.255.149.248/tslive/c212_scc_20190618_5nvsifwn_original_r10/c212_scc_20190618_5nvsifwn_original_r10.m3u8&
+天映高清,http://47.91.213.59/live/t6u5b1q4/y7sd1aqy/index.m3u8
 有线电影台,http://pull.scphsd.com/live/bd80340e4973193339df97e723ec87d3/playlist.m3u8
 TVB星河台,http://pull.scphsd.com/live/58a8ee8ea62f9a3d25af7920ccede6da/playlist.m3u8#http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 HBOHD,vjms://58.215.133.161:8500/live/cid=261
@@ -219,6 +220,8 @@ HBO強檔,vjms://58.215.133.161:8500/live/cid=238
 HBO溫馨,vjms://58.215.133.161:8500/live/cid=181
 邵氏影院,https://url.cn/5HB5JUU#https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/164215/live_97065163_17925468.m3u8
 邵氏鬼片,http://pull.kktv8.com/livekktv/143960119.flv
+寰宇娱乐台,http://hls.jingchangkan.tv/jingchangkan/156725993_5Xjy/index.m3u8
+星空电影,https://hdl0903.plures.net/onlive/d1ede7e982d81c76affd1ab12b44b268.flv
 广东科教(官网),http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
 
 体育综合,#genre#
