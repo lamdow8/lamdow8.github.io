@@ -242,8 +242,8 @@ ELTA體育1台,https://hdl0903.plures.net/onlive/3ca17d17faeb6e483adf74de4175646
 Channel V,rtmp://58.200.131.2/livetv/channelv
 MTV 音乐频道,https://116.77.72.195/streams/d/mtv/playlist.m3u8#http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 M2O音乐台,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-CCTV15,http://cdn-in.iqy.sc96655.com/tslive/c212_scc_20190618_sa0rcja5_original_r10/c212_scc_20190618_sa0rcja5_original_r10.m3u8&
-新视觉,http://cdn-in.iqy.sc96655.com/tslive/c213_scc_20190618_ccee1od1_original_r10/c213_scc_20190618_ccee1od1_original_r10.m3u8&
+CCTV15,http://60.255.149.248/tslive/c212_scc_20190618_sa0rcja5_original_r10/c212_scc_20190618_sa0rcja5_original_r10.m3u8&
+新视觉,http://60.255.149.248/tslive/c213_scc_20190618_ccee1od1_original_r10/c213_scc_20190618_ccee1od1_original_r10.m3u8&
 體育FOX3HD,vjms://58.215.133.161:8500/live/cid=95
 體育FOX2 Sports,vjms://58.215.133.161:8500/live/cid=444
 
@@ -327,6 +327,23 @@ now sport prime,tvbus://3uEWvczEzfF8ZRzBh1YYaP76zdHhqw6ZMWqkBJCSedb4oXFt2S
 中视,http://hzyhjg.cc/cs/gat/zs.php
 台视,http://hzyhjg.cc/cs/gat/ts.php
 民视,http://hzyhjg.cc/cs/gat/ms.php
+凤凰中文,http://103.56.112.40/kds/xgt.php?id=2
+凤凰資訊,http://103.56.112.40/kds/xgt.php?id=3
+星空衛視,http://103.56.112.40/kds/xgt.php?id=18
+TVB 明珠,http://103.56.112.40/kds/xgt.php?id=13
+TVB 翡翠,http://103.56.112.40/kds/xgt.php?id=1
+TVB J2,http://103.56.112.40/kds/xgt.php?id=12
+Viu TV,http://103.56.112.40/kds/xgt.php?id=8
+耀才財經,http://103.56.112.40/kds/xgt.php?id=19
+无线财经,http://103.56.112.40/kds/xgt.php?id=10
+无线新闻,http://103.56.112.40/kds/xgt.php?id=9
+有线新闻,http://103.56.112.40/kds/xgt.php?id=31
+澳門衛視,http://103.56.112.40/kds/xgt.php?id=23
+澳亞衛視,http://103.56.112.40/kds/xgt.php?id=24
+香港卫视,http://103.56.112.40/kds/xgt.php?id=6
+RHK32,http://103.56.112.40/kds/xgt.php?id=21
+有线电影台,http://103.56.112.40/kds/xgt.php?id=30
+星河台,http://103.56.112.40/kds/xgt.php?id=17
 
 vjms源测试,#genre#
 民視HD,vjms://58.215.133.161:8500/live/cid=450
