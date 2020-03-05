@@ -89,20 +89,15 @@ CGTN,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 安徽卫视,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
 
 港台新闻,#genre#
-海南新闻,http://stream3.hnntv.cn/xwpd/playlist.m3u8?_upt=10f627db1583375267
 儋州新闻,http://36009.hlsplay.aodianyun.com/tv_radio_36009/tv_channel_1330.m3u8
 凤凰资讯台,http://liveali.ifeng.com/live/FHZX.flv#http://125.210.152.18:9090/live/FHZX_1200.m3u8
 凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv#http://125.210.152.18:9090/live/FHZW_1200.m3u8
 凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe#http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 无线新闻台,http://hdl0901.plures.net/onlive/195f07a-caa-4c4d-930a-1156e791c.flv#http://hdtv.ubdata.info/ublive/c668f47092beb6a792ad0c1bae48e47c/index.m3u8#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
-无线新闻台,http://pull.scphsd.com/live/2c91a0b7621f5b13221a3ca71/playlist.m3u8
-有线新闻台,http://pull.scphsd.com/live/1c168921bf03a5b29b115fc17/playlist.m3u8
+无线新闻台,http://pull.scphsd.com/live/25b13221a3ca71c91a0b7621f/playlist.m3u8
+有线新闻台,http://pull.scphsd.com/live/a5b29b115fc171c168921bf03/playlist.m3u8
 有线新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
-有线新闻台,http://hdl0901.plures.net/onlive/388e06b19aa52aacd3fda7fe31ed3900.flv
-NOW直播,http://hdl0901.plures.net/onlive/094687f08de443eff653f0e791c766c8.flv
-NOW新闻台,http://hdl0901.plures.net/onlive/a965c7d2442a802fd2b524b1d4beb8e4.flv
-港台31,http://hdl0901.plures.net/onlive/534c34472eee3040d8adee85381b6c59.flv
-港台32,http://hdl0901.plures.net/onlive/4d769a762b7d34e49b7438b8106158c1.flv
+
 壹電視新聞,p2p://51.79.41.138:18912/5c724897000cb1861d5316f515e3763e.ts
 NOW新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
 三立新聞,vjms://58.215.133.161:8500/live/cid=352
@@ -114,16 +109,14 @@ TVBS新闻,vjms://58.215.133.161:8500/live/cid=348#rtmp://59.124.75.156/sat/tv55
 
 港台综合,#genre#
 TVB 翡翠台,http://hdl0901.plures.net/onlive/195f07a-caa-4c4d-930a-1156e791a.flv
-TVB 翡翠台,http://pull.scphsd.com/live/d98a1btbcgd9c9e83dc8b780b/playlist.m3u8
-TVB J2,http://hdl0901.plures.net/onlive/195f07a-caa-4c4d-930a-1156e791bc.flv#http://pull.scphsd.com/live/9e407bbe09f12691f04ed37bccd4dac9/playlist.m3u8
+TVB 翡翠台,http://pull.scphsd.com/live/d9c9e83dc8b780bd98a1btbcg/playlist.m3u8
+TVB J2,http://hdl0901.plures.net/onlive/195f07a-caa-4c4d-930a-1156e791bc.flv#http://pull.scphsd.com/live/aa0ca7a14281a2734ba17f2a/playlist.m3u8
 明珠台,https://hdl0901.plures.net/onlive/195f07a-caa-4c4d-930a-1156e791cde.flv
-有线18,http://hdl0901.plures.net/onlive/2037cd6443bafc66394e94db36a4b067.flv
-有线娱乐台,http://hdl0901.plures.net/onlive/b8f94457f5badd258b737859fd8ab83a.flv
-有线财经咨询台,http://hdl0901.plures.net/onlive/5e1580afc2faa0615fc49fc198a55d80.flv
+
 香港开电视,http://p2.live.126.net/live/4363b7666f857829e4e2983214723a2c.flv
 有线财经咨询台,https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8
 有线娱乐台,https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-CN/03.m3u8
-VIUtv,http://hdl0901.plures.net/onlive/815244f1d5ea83cee37b18b3f8158251.flv
+
 VIUtv,http://hls.globaliptv.ml/viu99.php#https://viutv99-i.akamaihd.net/hls/live/265284/live1/stream2/streamPlaylist.m3u8
 VIUtv six,http://hls.globaliptv.ml/viu96.php
 C+,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
@@ -216,6 +209,7 @@ CCTV-8蓝光,http://223.110.242.204:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/
 纯享4K(移动),http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 爱上4K测试,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 CCTV4K,http://60.255.149.248/tslive/c214_scc_20190618_pr3jsp04_original_r10/c214_scc_20190618_pr3jsp04_original_r10.m3u8&
+广东综艺4K(官网),http://nclive.grtn.cn/4K/sd/live.m3u8
 CHC高清电影,http://60.255.149.248/tslive/c211_scc_20190618_ek4k254b_original_r10/c211_scc_20190618_ek4k254b_original_r10.m3u8&
 CHC家庭影院,http://60.255.149.248/tslive/c212_scc_20190618_q0ktot1t_original_r10/c212_scc_20190618_q0ktot1t_original_r10.m3u8&
 CHC动作电影,http://60.255.149.248/tslive/c213_scc_20190618_wzkayvu1_original_r10/c213_scc_20190618_wzkayvu1_original_r10.m3u8&
