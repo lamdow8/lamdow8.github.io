@@ -218,9 +218,7 @@ CHC动作电影,http://60.255.149.248/tslive/c213_scc_20190618_wzkayvu1_original
 峨眉电影-1 HD,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 峨眉电影-2 FHD,http://60.255.149.248/tslive/c212_scc_20190618_5nvsifwn_original_r10/c212_scc_20190618_5nvsifwn_original_r10.m3u8&
 天映高清,http://47.91.213.59/live/t6u5b1q4/y7sd1aqy/index.m3u8
-有线电影台,http://pull.scphsd.com/live/bd80340e4973193339df97e723ec87d3/playlist.m3u8
-TVB星河台,http://pull.scphsd.com/live/58a8ee8ea62f9a3d25af7920ccede6da/playlist.m3u8#http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
-TVB功夫台,http://pull.scphsd.com/live/959f97487fe94277b0fe78b9a421e1f7.flv
+
 HBOHD,vjms://58.215.133.161:8500/live/cid=261
 HBO原创,vjms://58.215.133.161:8500/live/cid=436
 HBO強檔,vjms://58.215.133.161:8500/live/cid=238
