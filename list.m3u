@@ -283,13 +283,13 @@ https://app.kds.tw/live/tvb1.php?id=pearl&u=123456
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" tvg-id="130" tvg-name="无线新闻" group-title="港澳一日游",无线新闻台
 https://app.kds.tw/live/tvb1.php?id=inews&u=97058412
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-finance.jpg" tvg-id="133" tvg-name="无线财经" group-title="港澳一日游",无线财经资讯台
-http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_finance.smil/playlist.m3u8?hdnea=st=1583543966~exp=1583630366~acl=/newslive/smil:mobile_finance.smil/*~hmac=e6dcbc9da70f097de313392bb58b7aa6742c97a0467a49668ce81c207e570f1f
+http://hzyhjg.cc/cs/gat/wxcjzx.php
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-id="141" tvg-name="凤凰中文" group-title="港澳一日游",凤凰卫视中文台
 http://liveali.ifeng.com/live/FHZW.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-id="142" tvg-name="凤凰资讯" group-title="港澳一日游",凤凰卫视资讯台
 http://liveali.ifeng.com/live/FHZX.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" tvg-id="143" tvg-name="凤凰香港" group-title="港澳一日游",凤凰卫视香港台
-http://192.168.2.1:1111/244.ts
+http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" tvg-id="408" tvg-name="ViuTV" group-title="港澳一日游",Viu TV
 http://pull.scphsd.com/live/cb43c2c79a1d5a68a14a/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" tvg-id="412" tvg-name="HKS" group-title="港澳一日游",香港卫视
