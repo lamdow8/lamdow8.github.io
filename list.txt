@@ -99,7 +99,7 @@ CGTN,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 
 有线新闻台,http://pull.scphsd.com/live/8921bf0329b1a5b171c1615fc/playlist.m3u8
 有线新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
-NOW直播,http://hdl0901.plures.net/onlive/dh97bruvfq6i34pe1lwkcj02xs8zay5o.flv
+
 壹電視新聞,p2p://51.79.41.138:18912/5c724897000cb1861d5316f515e3763e.ts
 NOW新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
 三立新聞,vjms://58.215.133.161:8500/live/cid=352
@@ -217,7 +217,8 @@ CHC动作电影,http://60.255.149.248/tslive/c213_scc_20190618_wzkayvu1_original
 峨眉电影-2 FHD,http://60.255.149.248/tslive/c212_scc_20190618_5nvsifwn_original_r10/c212_scc_20190618_5nvsifwn_original_r10.m3u8&
 美亚电影,http://pull.scphsd.com/live/756cbe791f7da81c0ed50caa833b0b86.flv
 天映高清,http://47.91.213.59/live/t6u5b1q4/y7sd1aqy/index.m3u8
-TVB星河台,http://pull.scphsd.com/live/a87429517b3d0f6c86b02544a9bbef92/playlist.m3u8
+有线电影台,http://pull.scphsd.com/live/ab5599cd8fbb3de8e51aba47e512cf01.flv
+TVB星河台,http://pull.scphsd.com/live/62731dea80b2de785e2ed6ed0f0005c4.flv
 HBOHD,vjms://58.215.133.161:8500/live/cid=261
 HBO原创,vjms://58.215.133.161:8500/live/cid=436
 HBO強檔,vjms://58.215.133.161:8500/live/cid=238
