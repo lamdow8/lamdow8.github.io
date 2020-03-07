@@ -301,7 +301,7 @@ http://pull.scphsd.com/live/4a5e54978789269e2ee9de203ae9259b/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" tvg-id="7119" tvg-name="有线财经资讯台" group-title="港澳一日游",有线财经资讯台
 https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" tvg-id="7122" tvg-name="有线新闻台" group-title="港澳一日游",有线新闻台
-http://pull.scphsd.com/live/8921bf0329b1a5b171c1615fc/playlist.m3u8
+http://pull.scphsd.com/live/8b1a5b171c1615f921bf0329c/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkong603.png" tvg-id="7239" tvg-name="香港603" group-title="港澳一日游",香港有线603
 http://pull.scphsd.com/live/8c68a32c1c2b5f1a7b24f/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" tvg-id="131" tvg-name="TVB星河频道" group-title="港澳一日游",TVB星河频道
@@ -332,17 +332,17 @@ rtmp://ivi.bupt.edu.cn/livetv/channelv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" tvg-id="6067" tvg-name="壹电视新闻台" group-title="台湾一日行",壹电视新闻台
 https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" tvg-id="6171" tvg-name="寰宇新闻" group-title="台湾一日行",寰宇新闻
-http://pull.scphsd.com/live/81af037c1c2743e7b2c58f958d405b22/playlist.m3u8
+http://pull.scphsd.com/live/6c445d0e921949b58bb486e7917b6b7f/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews2.png" tvg-id="7177" tvg-name="寰宇新闻2" group-title="台湾一日行",寰宇新闻二台
-http://pull.scphsd.com/live/3a3542dd1d7f4d62b8b34eb64cfccdfe/playlist.m3u8
+http://pull.scphsd.com/live/2b68cda27e3b4851a8ac7681206ce384/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" tvg-id="6068" tvg-name="年代新闻台" group-title="台湾一日行",年代新闻台
 http://192.200.120.82:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" tvg-id="6069" tvg-name="东森新闻台" group-title="台湾一日行",东森新闻台
-http://pull.scphsd.com/live/2e249d3b2e071e87e39ba0b37fe0a830/playlist.m3u8
+http://pull.scphsd.com/live/e39ba0b37fe0a8302e249d3b2e071e87/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" tvg-id="6070" tvg-name="中天新闻台" group-title="台湾一日行",中天新闻台
-http://pull.scphsd.com/live/c4b37a2a70f54a4dt3a4b23n7b361d5/playlist.m3u8
+http://pull.scphsd.com/live/a4b23n7b361d5c4b37a2a70f54a4dt3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" tvg-id="6072" tvg-name="三立新闻台" group-title="台湾一日行",三立新闻台
-http://pull.scphsd.com/live/62e5beb53c56451ca5e7412587ac1780/playlist.m3u8
+http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" tvg-id="6073" tvg-name="TVBS新闻台" group-title="台湾一日行",TVBS 新闻台
 http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" tvg-id="6076" tvg-name="非凡新闻台" group-title="台湾一日行",非凡新闻台
