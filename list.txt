@@ -96,7 +96,7 @@ CGTN,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 凤凰资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe#http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 无线新闻台,http://pull.scphsd.com/live/f25b13221a3cc91a0b7621a71/playlist.m3u8#http://hdtv.ubdata.info/ublive/c668f47092beb6a792ad0c1bae48e47c/index.m3u8#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
-
+无线新闻台,https://hdl0901.plures.net/onlive/195f07a-caa-4c4d-1156e791c.flv
 有线新闻台,http://pull.scphsd.com/live/8921bf0329b1a5b171c1615fc/playlist.m3u8
 有线新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
 
@@ -110,8 +110,11 @@ NOW新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/ind
 TVBS新闻,vjms://58.215.133.161:8500/live/cid=348#rtmp://59.124.75.156/sat/tv551
 
 港台综合,#genre#
-TVB 翡翠台,http://pull.scphsd.com/live/1btc9e83d80bbcgd9d98ac8b7/playlist.m3u8
-TVB J2,http://pull.scphsd.com/live/a7a142817f2aa2734ba1aa0c/playlist.m3u8
+翡翠台,https://hdl0901.plures.net/onlive/195f07a-caa-4c4d-1156e791a.flv
+J2,https://hdl0901.plures.net/onlive/195f07a-caa-4c4d-1156e791bc.flv
+明珠台,https://hdl0901.plures.net/onlive/195f07a-caa-4c4d-1156e791cde.flv
+翡翠台,http://pull.scphsd.com/live/1btc9e83d80bbcgd9d98ac8b7/playlist.m3u8
+J2,http://pull.scphsd.com/live/a7a142817f2aa2734ba1aa0c/playlist.m3u8
 明珠台,http://pull.scphsd.com/live/e3ad73s32c96305d5w6d5fdb/playlist.m3u8
 香港开电视,http://p2.live.126.net/live/4363b7666f857829e4e2983214723a2c.flv
 有线财经咨询台,https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8
@@ -127,7 +130,9 @@ C+,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
 好萊塢,http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 FOX電影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 NHK华语视界,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
+华视,http://hdtv.ubdata.info/ublive/ab9d37bd8b842a54234598ca59ca30bf/index.m3u8
 华视,rtmp://59.124.75.156/sat/tv111
+民视,http://80.245.105.119:8008/live/twtv2.m3u8?channel=4gtv-4gtv002&type=sd
 民视,rtmp://59.124.75.156/sat/tv051
 台视,rtmp://59.124.75.156/sat/tv071
 中视,rtmp://59.124.75.156/sat/tv091
@@ -222,7 +227,7 @@ CHC动作电影,http://60.255.149.248/tslive/c213_scc_20190618_wzkayvu1_original
 有线电影台,http://pull.scphsd.com/live/ab5599cd8fbb3de8e51aba47e512cf01.flv
 TVB星河台,http://pull.scphsd.com/live/62731dea80b2de785e2ed6ed0f0005c4.flv
 TVB功夫台,http://pull.scphsd.com/live/b9a714e52e27d94b17acdb9205fa62d5.flv
-
+凤凰电影台,http://47.240.60.73/gzyx.php?id=fhdy
 HBOHD,vjms://58.215.133.161:8500/live/cid=261
 HBO原创,vjms://58.215.133.161:8500/live/cid=436
 HBO強檔,vjms://58.215.133.161:8500/live/cid=238
