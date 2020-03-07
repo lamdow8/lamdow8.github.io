@@ -374,6 +374,190 @@ http://192.200.120.82:8080/ZZ_shidai/ZZ_shidai.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/WarnerTV.png" tvg-id="6149" tvg-name="WarnerTV" group-title="台湾一日行",华纳TV
 http://192.200.120.82:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
 
+
+#台湾（翻墙看）
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" tvg-id="6026" tvg-name="台视" group-title="台湾（翻墙看）",台视
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_7_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" tvg-id="6027" tvg-name="大爱一台" group-title="台湾（翻墙看）",大爱电视台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_10_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" tvg-id="6028" tvg-name="中视" group-title="台湾（翻墙看）",中视
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_9_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" tvg-id="6029" tvg-name="人间卫视" group-title="台湾（翻墙看）",人间卫视
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_8_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" tvg-id="6030" tvg-name="华视" group-title="台湾（翻墙看）",华视
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_11_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" tvg-id="6031" tvg-name="公视" group-title="台湾（翻墙看）",公视
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_13_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GoodTV.png" tvg-id="6033" tvg-name="GoodTV" group-title="台湾（翻墙看）",好消息频道
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_15_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yuanzhumin.png" tvg-id="6034" tvg-name="原住民频道" group-title="台湾（翻墙看）",原住民频道
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_16_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HakkaTV.png" tvg-id="6035" tvg-name="客家电视台" group-title="台湾（翻墙看）",客家电视台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_17_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" tvg-id="6042" tvg-name="MOMO亲子台" group-title="台湾（翻墙看）",MOMO亲子台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_24_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png" tvg-id="6043" tvg-name="东森幼幼台" group-title="台湾（翻墙看）",东森幼幼台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_25_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandOnTV.png" tvg-id="6044" tvg-name="纬来综合台" group-title="台湾（翻墙看）",纬来综合台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_26_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" tvg-id="6045" tvg-name="八大第一台" group-title="台湾（翻墙看）",八大第一台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_27_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" tvg-id="6046" tvg-name="八大综合台" group-title="台湾（翻墙看）",八大综合台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_28_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" tvg-id="6047" tvg-name="三立台湾（翻墙看）台" group-title="台湾（翻墙看）",三立台湾（翻墙看）台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_29_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png" tvg-id="6048" tvg-name="三立都会台" group-title="台湾（翻墙看）",三立都会台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_30_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/卫视中文.png" tvg-id="6049" tvg-name="卫视中文台" group-title="台湾（翻墙看）",卫视中文台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_31_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" tvg-id="6050" tvg-name="东森综合台" group-title="台湾（翻墙看）",东森综合台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_32_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" tvg-id="6051" tvg-name="东森超视" group-title="台湾（翻墙看）",东森超视
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_33_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" tvg-id="6054" tvg-name="中天综合台" group-title="台湾（翻墙看）",中天综合http://58.99.33.2:1935/liveedge2/jEYEGeIf_36_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/东风卫视.png" tvg-id="6055" tvg-name="东风卫视" group-title="台湾（翻墙看）",东风卫视
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_37_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代MUCH.png" tvg-id="6056" tvg-name="年代MUCH" group-title="台湾（翻墙看）",年代MUCH TV
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_38_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" tvg-id="6057" tvg-name="中天娱乐台" group-title="台湾（翻墙看）",中天娱乐台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_67_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" tvg-id="6058" tvg-name="东森戏剧台" group-title="台湾（翻墙看）",东森戏剧台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_40_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVDramaHD.png" tvg-id="6059" tvg-name="八大戏剧台" group-title="台湾（翻墙看）",八大戏剧台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_41_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" tvg-id="6060" tvg-name="TVBS欢乐台" group-title="台湾（翻墙看）",TVBS欢乐台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_42_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandDrama.png" tvg-id="6061" tvg-name="纬来戏剧台" group-title="台湾（翻墙看）",纬来戏剧台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_43_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TOPTVHD.png" tvg-id="6062" tvg-name="高点综合台" group-title="台湾（翻墙看）",高点电视台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_44_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/JETVariety.png" tvg-id="6063" tvg-name="JET综合台" group-title="台湾（翻墙看）",JET综合台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_45_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" tvg-id="6067" tvg-name="壹电视新闻台" group-title="台湾（翻墙看）",壹电视新闻台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_49_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" tvg-id="6068" tvg-name="年代新闻台" group-title="台湾（翻墙看）",年代新闻台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_50_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" tvg-id="6069" tvg-name="东森新闻台" group-title="台湾（翻墙看）",东森新闻台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_51_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" tvg-id="6070" tvg-name="中天新闻台" group-title="台湾（翻墙看）",中天新闻台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_52_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" tvg-id="6071" tvg-name="民视新闻台" group-title="台湾（翻墙看）",民视新闻台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_53_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" tvg-id="6072" tvg-name="三立新闻台" group-title="台湾（翻墙看）",三立新闻台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_54_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" tvg-id="6073" tvg-name="TVBS新闻台" group-title="台湾（翻墙看）",TVBS 新闻台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_55_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" tvg-id="6074" tvg-name="TVBS" group-title="台湾（翻墙看）",TVBS
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_56_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" tvg-id="6075" tvg-name="东森财经新闻台" group-title="台湾（翻墙看）",东森财经新闻台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_57_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" tvg-id="6076" tvg-name="非凡新闻台" group-title="台湾（翻墙看）",非凡新闻台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_58_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" tvg-id="6079" tvg-name="卫视电影台" group-title="台湾（翻墙看）",卫视电影台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_61_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" tvg-id="6080" tvg-name="东森电影台" group-title="台湾（翻墙看）",东森电影台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_62_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" tvg-id="6081" tvg-name="纬来电影台" group-title="台湾（翻墙看）",纬来电影台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_63_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" tvg-id="6082" tvg-name="LSTime电影台" group-title="台湾（翻墙看）",LS Time龙祥時代电影台
+http://58.99.33.2:1935/liveedge4/jEYEGeIf_93_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" tvg-id="6084" tvg-name="东森洋片台" group-title="台湾（翻墙看）",东森洋片台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_66_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" tvg-id="6086" tvg-name="好莱坞电影台" group-title="台湾（翻墙看）",好莱坞电影台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_68_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" tvg-id="6088" tvg-name="纬来育乐台" group-title="台湾（翻墙看）",纬来育乐台
+http://58.99.33.2:1935/liveedge4/jEYEGeIf_87_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" tvg-id="6090" tvg-name="纬来体育台" group-title="台湾（翻墙看）",纬来体育台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_72_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" tvg-id="6095" tvg-name="纬来日本台" group-title="台湾（翻墙看）",纬来日本台
+http://58.99.33.2:1935/liveedge4/jEYEGeIf_75_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GoldSunTV.png" tvg-id="6096" tvg-name="国兴卫视" group-title="台湾（翻墙看）",国兴卫视
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_76_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SinJiTVHD.png" tvg-id="6100" tvg-name="信吉电视台" group-title="台湾（翻墙看）",信吉电视台
+http://58.99.33.2:1935/liveedge4/jEYEGeIf_82_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/凯亚综合.png" tvg-id="6103" tvg-name="凯亚综合台" group-title="台湾（翻墙看）",凯亚综合台
+http://58.99.33.2:1935/liveedge4/jEYEGeIf_89_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChampionTV1.png" tvg-id="6104" tvg-name="冠军电视台" group-title="台湾（翻墙看）",冠军电视台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_64_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TACT.png" tvg-id="6105" tvg-name="台湾（翻墙看）艺术台" group-title="台湾（翻墙看）",台湾（翻墙看）艺术台
+http://58.99.33.2:1935/liveedge4/jEYEGeIf_90_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueUSTVHDUSTVHD.png" tvg-id="6107" tvg-name="非凡商业台" group-title="台湾（翻墙看）",非凡商业台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_95_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" tvg-id="6108" tvg-name="三立财经新闻台" group-title="台湾（翻墙看）",三立财经新闻台inews
+http://58.99.33.2:1935/liveedge4/jEYEGeIf_88_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChengSinTV.png" tvg-id="6112" tvg-name="诚心电视台" group-title="台湾（翻墙看）",诚心电视台
+http://58.99.33.2:1935/liveedge4/jEYEGeIf_94_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mtvlivehd.png" tvg-id="6114" tvg-name="MTV" group-title="台湾（翻墙看）",MTV Live HD 音乐频道
+http://58.99.33.2:1935/liveedge4/jEYEGeIf_100_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/海豚综合.png" tvg-id="6117" tvg-name="海豚综合台" group-title="台湾（翻墙看）",海豚综合台
+http://58.99.33.2:1935/liveedge4/jEYEGeIf_77_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PiliPuppet.png" tvg-id="6118" tvg-name="霹雳台湾（翻墙看）台" group-title="台湾（翻墙看）",霹雳台湾（翻墙看）台
+http://58.99.33.2:1935/liveedge4/jEYEGeIf_96_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SinDaTV.png" tvg-id="6120" tvg-name="信大频道" group-title="台湾（翻墙看）",信大频道
+http://58.99.33.2:1935/liveedge4/jEYEGeIf_86_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai2.png" tvg-id="6142" tvg-name="大爱二台" group-title="台湾（翻墙看）",大爱二台
+http://58.99.33.2:1935/liveedge4/jEYEGeIf_201_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" tvg-id="6143" tvg-name="台视新闻台" group-title="台湾（翻墙看）",台视新闻台
+http://58.99.33.2:1935/liveedge4/jEYEGeIf_121_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_tennis.png" tvg-id="6175" tvg-name="博斯网球台" group-title="台湾（翻墙看）",博斯网球台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_602_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports-golfch.png" tvg-id="6177" tvg-name="博斯高球1台" group-title="台湾（翻墙看）",博斯高球1台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_601_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-golfplus.png" tvg-id="6178" tvg-name="博斯高球2台" group-title="台湾（翻墙看）",博斯高球2台
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_605_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-trendsport.png" tvg-id="6179" tvg-name="博斯魅力网" group-title="台湾（翻墙看）",博斯魅力网
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_604_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" tvg-id="7135" tvg-name="民视" group-title="台湾（翻墙看）",民视
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_5_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" tvg-id="6023" tvg-name="CNN" group-title="台湾（翻墙看）",CNN国际新闻频道
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_6_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NationalGeographic_taiwan.png" tvg-id="6036" tvg-name="国家地理频道(台湾（翻墙看）)" group-title="台湾（翻墙看）",国家地理频道(台湾（翻墙看）)
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_18_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" tvg-id="6037" tvg-name="Discovery" group-title="台湾（翻墙看）",探索发现频道
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_19_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tlc.png" tvg-id="6038" tvg-name="TLC旅游生活频道" group-title="台湾（翻墙看）",TLC旅游生活频道
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_21_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" tvg-id="6039" tvg-name="动物星球" group-title="台湾（翻墙看）",动物星球
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_12_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" tvg-id="6041" tvg-name="Disney" group-title="台湾（翻墙看）",迪士尼频道
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_23_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" tvg-id="6083" tvg-name="HBO" group-title="台湾（翻墙看）",HBO
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_65_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" tvg-id="6085" tvg-name="AXN" group-title="台湾（翻墙看）",AXN
+http://58.99.33.2:1935/liveedge4/jEYEGeIf_84_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" tvg-id="6087" tvg-name="FOXMOVIES" group-title="台湾（翻墙看）",FOX MOVIES
+http://58.99.33.2:1935/liveedge4/jEYEGeIf_115_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" tvg-id="6089" tvg-name="CINEMAX" group-title="台湾（翻墙看）",CINEMAX
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_71_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports.png" tvg-id="6091" tvg-name="FOXSports" group-title="台湾（翻墙看）",FOX Sports
+http://58.99.33.2:1935/liveedge4/jEYEGeIf_73_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports2.png" tvg-id="6092" tvg-name="FOXSports2" group-title="台湾（翻墙看）",FOX Sports 2
+http://58.99.33.2:1935/liveedge4/jEYEGeIf_74_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" tvg-id="6097" tvg-name="FOX" group-title="台湾（翻墙看）",FOX
+http://58.99.33.2:1935/liveedge4/jEYEGeIf_101_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" tvg-id="6113" tvg-name="NHK" group-title="台湾（翻墙看）",NHK
+http://58.99.33.2:1935/liveedge2/jEYEGeIf_98_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" tvg-id="6139" tvg-name="ChannelNewsAsia" group-title="台湾（翻墙看）",亚洲新闻台
+http://58.99.33.2:1935/liveedge4/jEYEGeIf_205_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" tvg-id="6147" tvg-name="BBCLifestyle" group-title="台湾（翻墙看）",BBC Lifestyle
+http://58.99.33.2:1935/liveedge4/jEYEGeIf_135_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/WarnerTV.png" tvg-id="6149" tvg-name="WarnerTV" group-title="台湾（翻墙看）",Warner TV
+http://58.99.33.2:1935/liveedge4/jEYEGeIf_137_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" tvg-id="6152" tvg-name="HBOHD" group-title="台湾（翻墙看）",HBO HD
+http://58.99.33.2:1935/liveedge4/jEYEGeIf_301_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" tvg-id="6153" tvg-name="HBOHits" group-title="台湾（翻墙看）",HBO 强档钜献
+http://58.99.33.2:1935/liveedge4/jEYEGeIf_304_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" tvg-id="6154" tvg-name="HBOSignature" group-title="台湾（翻墙看）",HBO 原创钜献
+http://58.99.33.2:1935/liveedge4/jEYEGeIf_302_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" tvg-id="6155" tvg-name="HBOFamily" group-title="台湾（翻墙看）",HBO 温馨家庭
+http://58.99.33.2:1935/liveedge4/jEYEGeIf_303_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" tvg-id="6159" tvg-name="tvN" group-title="台湾（翻墙看）",tvN
+http://58.99.33.2:1935/liveedge4/jEYEGeIf_117_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DMAX.png" tvg-id="6170" tvg-name="DMAX" group-title="台湾（翻墙看）",DMAX
+http://58.99.33.2:1935/liveedge4/jEYEGeIf_202_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png" tvg-id="6189" tvg-name="BBCEarth" group-title="台湾（翻墙看）",BBC Earth
+http://58.99.33.2:1935/liveedge4/jEYEGeIf_133_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+
 #欧美频道
 #EXTINF:-1 tvg-id="7144" tvg-name="Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/200px-Rai_Italia_-_Logo_2017.svg.png" group-title="欧美频道",Rai Italia
 https://usb.bozztv.com/ssh101/BX784769/BX784769/index.m3u8
