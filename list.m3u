@@ -329,6 +329,10 @@ http://pull.scphsd.com/live/756cbe791f7da81c0ed50caa833b0b86.flv
 http://pull.scphsd.com/live/e5fd20090f6a010ab3e2c6b6c7090382.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" tvg-id="527" tvg-name="CHANNEL[V]" group-title="台湾一日行",CHANNEL [V]
 rtmp://ivi.bupt.edu.cn/livetv/channelv
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" tvg-id="7135" tvg-name="民视" group-title="台湾",民视
+http://80.245.105.119:8008/live/twtv2.m3u8?channel=4gtv-4gtv002&type=sd
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" tvg-id="6071" tvg-name="民视新闻台" group-title="台湾",民视新闻台
+http://80.245.105.119:8008/live/twtv2.m3u8?channel=litv-ftv13&type=sd
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" tvg-id="6067" tvg-name="壹电视新闻台" group-title="台湾一日行",壹电视新闻台
 http://pull.scphsd.com/live/490c583afa2ce0bd776a527ddad2d5f6/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" tvg-id="6171" tvg-name="寰宇新闻" group-title="台湾一日行",寰宇新闻
