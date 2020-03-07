@@ -224,6 +224,7 @@ HBO原创,vjms://58.215.133.161:8500/live/cid=436
 HBO強檔,vjms://58.215.133.161:8500/live/cid=238
 HBO溫馨,vjms://58.215.133.161:8500/live/cid=181
 now剧集台,https://vod.mudu.tv/watch/2020-03-06/mwnxw4_3510.m3u8
+now爆谷台,https://vod.mudu.tv/watch/2020-03-07/5eesof_16593.m3u8
 邵氏影院,https://url.cn/5HB5JUU#https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/164215/live_97065163_17925468.m3u8
 邵氏鬼片,http://pull.kktv8.com/livekktv/143960119.flv
 寰宇娱乐台,http://hls.jingchangkan.tv/jingchangkan/156725993_5Xjy/index.m3u8
