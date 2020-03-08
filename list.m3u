@@ -385,7 +385,7 @@ http://192.200.120.82:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" tvg-id="6086" tvg-name="好莱坞电影台" group-title="台湾一日行",好莱坞电影台
 http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" tvg-id="6090" tvg-name="纬来体育台" group-title="台湾一日行",纬来体育台
-http://pull.scphsd.com/live/3cb9b230ad4cdec8b04fad67db28cc0e.flv
+http://pull.scphsd.com/live/7cae7775ff4516d996b8a46520cffab0/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" tvg-id="6060" tvg-name="TVBS欢乐台" group-title="台湾一日行",TVBS欢乐台
 http://pull.scphsd.com/live/922ef4176d9142d6ba5ad74243249317.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/JETVariety.png" tvg-id="6063" tvg-name="JET综合台" group-title="台湾一日行",JET综合台
