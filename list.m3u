@@ -282,6 +282,8 @@ http://60.255.149.248/tslive/c211_scc_20190618_g0ecxw42_original_r10/c211_scc_20
 http://60.255.149.248/tslive/c213_scc_20190618_4jwk1euz_original_r10/c213_scc_20190618_4jwk1euz_original_r10.m3u8&
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" tvg-id="1964" tvg-name="劲爆体育" group-title="体育频道",劲爆体育
 http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=74&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/gdty.jpg" tvg-id="" tvg-name="广东体育" group-title="体育频道",广东体育
+http://sk.live.otvcloud.com/otv/skcc/live/channel34/2300.m3u8?k=00512d957c9b1863aff57fc3916c3e77&t=5D84817C&UID=1568964988
 
 #港澳一日游
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="港澳一日游",翡翠台
@@ -334,11 +336,17 @@ http://stream.mastvnet.com/MASTV/sd/live.m3u8
 http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
 #EXTINF:-1 tvg-logo="http://www.iptv16.com/wp-content/uploads/2019/08/HK-CH-6.jpg" tvg-id="" tvg-name="有线电影台" group-title="港澳一日游",有线电影台
 http://pull.scphsd.com/live/ab5599cd8fbb3de8e51aba47e512cf01.flv
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbgongfu.jpg" tvg-id="" tvg-name="TVB功夫台" group-title="港澳一日游",TVB功夫台
+https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/164215/live_97065163_17925468.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cabletv301.jpg" tvg-id="" tvg-name="有线娱乐台" group-title="港澳一日游",有线娱乐台
+https://ottproxy2.mott.tv/livehls/MOB-CN/03.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/celestialmovies.jpg" tvg-id="" tvg-name="天映频道" group-title="港澳一日游",天映频道
+http://47.91.213.59/live/t6u5b1q4/y7sd1aqy/index.m3u8
 
 #台湾一日行
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" tvg-id="" tvg-name="寰宇娱乐台" group-title="台湾一日行",寰宇娱乐台
 http://hls.jingchangkan.tv/jingchangkan/156725993_5Xjy/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" tvg-id="" tvg-name="星空电影" group-title="台湾一日行",星空电影
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/starmovieshd.jpg" tvg-id="" tvg-name="星空电影" group-title="台湾一日行",星空电影
 https://hdl0903.plures.net/onlive/d1ede7e982d81c76affd1ab12b44b268.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" tvg-id="145" tvg-name="美亚高清电影台" group-title="台湾一日行",美亚高清电影台
 http://pull.scphsd.com/live/756cbe791f7da81c0ed50caa833b0b86.flv
