@@ -264,6 +264,12 @@ http://60.255.149.209/tslive/c212_scc_20190618_5nvsifwn_original_r10/c212_scc_20
 #体育频道
 #EXTINF:-1 tvg-id="17" tvg-name="Olympic Channel 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="体育频道",Olympic Channel 1
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Olympic Channel 1" tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="体育频道",Olympic Channel 1
+https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Olympic Channel 2" tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="体育频道",Olympic Channel 2
+https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png" group-title="体育频道",ESPN
+http://npse.brots.world/espn2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" tvg-id="1987" tvg-name="五星体育频道" group-title="体育频道",五星体育频道
 http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" tvg-id="1872" tvg-name="北京纪实" group-title="体育频道",北京冬奥纪实
