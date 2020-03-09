@@ -215,7 +215,7 @@ CCTV-8蓝光,http://223.110.242.204:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/
 广电4K测试频道,http://60.255.149.248/tslive/c214_scc_20191122_m4avmczq_original_r10/c214_scc_20191122_m4avmczq_original_r10.m3u8&
 纯享4K(移动),http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 爱上4K测试,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
-CCTV4K超高清,https://liveali-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8?wsSecret=e67db9d9c343f345dce7d727a2e576e8&wsTime=1583464217
+
 CCTV4K,http://60.255.149.248/tslive/c214_scc_20190618_pr3jsp04_original_r10/c214_scc_20190618_pr3jsp04_original_r10.m3u8&
 广东综艺4K(官网),http://nclive.grtn.cn/4K/sd/live.m3u8
 CHC高清电影,http://60.255.149.248/tslive/c211_scc_20190618_ek4k254b_original_r10/c211_scc_20190618_ek4k254b_original_r10.m3u8&
