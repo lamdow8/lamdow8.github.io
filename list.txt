@@ -95,12 +95,12 @@ CGTN,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 凤凰中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 凤凰资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 凤凰香港台,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
-无线新闻台,http://hdtv.ubdata.info/ublive/c668f47092beb6a792ad0c1bae48e47c/index.m3u8#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+无线新闻台,http://hdtv.ubdata.info/ublive/c668f47092beb6a792ad0c1bae48e47c/index.m3u8#https://app.kds.tw/live/tvb1.php?id=inews&u=97058412
 无线新闻台,https://hdl0901.plures.net/onlive/195f07a-caa-4c4d-1156e791c.flv
-有线新闻台,http://pull.scphsd.com/live/8b1a5b171c1615f921bf0329c/playlist.m3u8
+有线新闻台,http://pull.scphsd.com/live/615f921bf0329c8b1a5b171c1/playlist.m3u8
 有线新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
 
-壹電視新聞,p2p://51.79.41.138:18912/5c724897000cb1861d5316f515e3763e.ts
+壹電視新聞,http://pull.scphsd.com/live/490c583afa2ce0bd776a527ddad2d5f6/playlist.m3u8#p2p://51.79.41.138:18912/5c724897000cb1861d5316f515e3763e.ts
 NOW新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
 三立新聞,vjms://58.215.133.161:8500/live/cid=352
 年代新聞,vjms://58.215.133.161:8500/live/cid=455
@@ -114,7 +114,10 @@ TVBS新闻,vjms://58.215.133.161:8500/live/cid=348#rtmp://59.124.75.156/sat/tv55
 J2,https://hdl0901.plures.net/onlive/195f07a-caa-4c4d-1156e791bc.flv
 明珠台,https://hdl0901.plures.net/onlive/195f07a-caa-4c4d-1156e791cde.flv
 翡翠台,http://hdtv.ubdata.info/ublive/54cac64e1139594701a6bba957c0ded2/index.m3u8
-香港开电视,http://p2.live.126.net/live/4363b7666f857829e4e2983214723a2c.flv
+翡翠台,https://app.kds.tw/live/tvb1.php?id=jade&u=123456
+J2,https://app.kds.tw/live/tvb1.php?id=j2&u=123456
+明珠台,https://app.kds.tw/live/tvb1.php?id=pearl&u=123456
+香港开电视,http://pull.scphsd.com/live/4a5e54978789269e2ee9de203ae9259b/playlist.m3u8
 有线财经咨询台,https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8#https://ottproxy2.mott.tv/livehls/MOB-NGW/03.m3u8
 有线娱乐台,https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8#https://ottproxy2.mott.tv/livehls/MOB-CN/03.m3u8
 VIUtv,http://hls.globaliptv.ml/viu99.php#https://viutv99-i.akamaihd.net/hls/live/265284/live1/stream2/streamPlaylist.m3u8
@@ -230,10 +233,6 @@ HBOHD,vjms://58.215.133.161:8500/live/cid=261
 HBO原创,vjms://58.215.133.161:8500/live/cid=436
 HBO強檔,vjms://58.215.133.161:8500/live/cid=238
 HBO溫馨,vjms://58.215.133.161:8500/live/cid=181
-爆谷台,https://livesec.mudu.tv/watch/5eesof.m3u8?auth_key=1583673426-935862-0-24ad713b63482bf41774ee03128220a0
-NOW华剧台,https://vod.mudu.tv/watch/2020-03-06/awea6x_3652.m3u8
-NOW剧集台,https://vod.mudu.tv/watch/2020-03-06/mwnxw4_3510.m3u8
-
 邵氏影院,https://url.cn/5HB5JUU#https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/164215/live_97065163_17925468.m3u8
 邵氏鬼片,http://pull.kktv8.com/livekktv/143960119.flv
 寰宇娱乐台,http://hls.jingchangkan.tv/jingchangkan/156725993_5Xjy/index.m3u8
@@ -257,6 +256,7 @@ CCTV15,http://60.255.149.248/tslive/c212_scc_20190618_sa0rcja5_original_r10/c212
 新视觉,http://60.255.149.248/tslive/c213_scc_20190618_ccee1od1_original_r10/c213_scc_20190618_ccee1od1_original_r10.m3u8&
 體育FOX3HD,vjms://58.215.133.161:8500/live/cid=95
 體育FOX2 Sports,vjms://58.215.133.161:8500/live/cid=444
+北京体育,http://by4.nty.tv189.cn/live/tm-btvjishihd-4000k.m3u8
 
 新马澳,#genre#
 新 U频道,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
