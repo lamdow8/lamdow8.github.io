@@ -296,11 +296,11 @@ http://pull.scphsd.com/live/7cae7775ff4516d996b8a46520cffab0/playlist.m3u8
 
 #港澳一日游
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="港澳一日游",翡翠台
-https://app.kds.tw/live/tvb1.php?id=jade&u=123456
+https://hdl0901.plures.net/onlive/195f07a-caa-4c4d-1156e791a.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" tvg-id="127" tvg-name="明珠台" group-title="港澳一日游",明珠台
-https://app.kds.tw/live/tvb1.php?id=pearl&u=123456
+https://hdl0901.plures.net/onlive/195f07a-caa-4c4d-1156e791cde.flv
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" tvg-id="130" tvg-name="无线新闻" group-title="港澳一日游",无线新闻台
-https://app.kds.tw/live/tvb1.php?id=inews&u=97058412
+https://hdl0901.plures.net/onlive/195f07a-caa-4c4d-1156e791c.flv
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-finance.jpg" tvg-id="133" tvg-name="无线财经" group-title="港澳一日游",无线财经资讯台
 http://hzyhjg.cc/cs/gat/wxcjzx.php
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-id="141" tvg-name="凤凰中文" group-title="港澳一日游",凤凰卫视中文台
