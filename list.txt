@@ -117,12 +117,14 @@ J2,https://hdl0901.plures.net/onlive/195f07a-caa-4c4d-1156e791bc.flv
 翡翠台,https://app.kds.tw/live/tvb1.php?id=jade&u=123456
 J2,https://app.kds.tw/live/tvb1.php?id=j2&u=123456
 明珠台,https://app.kds.tw/live/tvb1.php?id=pearl&u=123456
+
 香港开电视,http://pull.scphsd.com/live/4a5e54978789269e2ee9de203ae9259b/playlist.m3u8
 有线财经咨询台,https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8#https://ottproxy2.mott.tv/livehls/MOB-NGW/03.m3u8
 有线娱乐台,https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8#https://ottproxy2.mott.tv/livehls/MOB-CN/03.m3u8
 VIUtv,http://hls.globaliptv.ml/viu99.php#https://viutv99-i.akamaihd.net/hls/live/265284/live1/stream2/streamPlaylist.m3u8
 VIUtv six,http://hls.globaliptv.ml/viu96.php
 C+,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
+TVBS HD,vjms://58.215.133.161:8500/live/cid=349
 中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 中天娱乐,http://104.250.154.42:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
