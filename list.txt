@@ -99,7 +99,7 @@ CGTN,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 无线新闻台,https://hdl0901.plures.net/onlive/195f07a-caa-4c4d-1156e791c.flv
 有线新闻台,http://pull.scphsd.com/live/615f921bf0329c8b1a5b171c1/playlist.m3u8
 有线新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
-
+NOW爆谷,http://107.148.215.110:13164/v/md.php?id=198626
 壹電視新聞,http://pull.scphsd.com/live/490c583afa2ce0bd776a527ddad2d5f6/playlist.m3u8#p2p://51.79.41.138:18912/5c724897000cb1861d5316f515e3763e.ts
 NOW新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
 三立新聞,vjms://58.215.133.161:8500/live/cid=352
