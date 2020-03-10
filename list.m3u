@@ -326,7 +326,7 @@ http://pull.scphsd.com/live/615f921bf0329c8b1a5b171c1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkong603.png" tvg-id="7239" tvg-name="香港603" group-title="港澳一日游",香港有线603
 rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch215
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" tvg-id="131" tvg-name="TVB星河频道" group-title="港澳一日游",TVB星河频道
-http://pull.scphsd.com/live/62731dea80b2de785e2ed6ed0f0005c4.flv
+http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yangguangweishi.png" tvg-id="144" tvg-name="阳光卫视" group-title="港澳一日游",阳光卫视
 https://stream.chinasuntv.com/680k/mid_video_index.m3u8
 #EXTINF:-1 tvg-id="511" tvg-name="星空卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" group-title="港澳一日游",星空卫视
