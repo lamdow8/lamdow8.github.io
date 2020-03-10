@@ -360,29 +360,29 @@ viu tv,http://hzyhjg.cc/cs/gat/viu tv.php
 三立台湾,http://hzyhjg.cc/cs/gat/sltwt.php
 RHK31,http://hzyhjg.cc/cs/gat/rhk31.php
 HBO HD,http://hzyhjg.cc/cs/gat/hbo.php
+凤凰中文,http://103.218.3.150/dl/147258.php?id=2
+凤凰資訊,http://103.218.3.150/dl/147258.php?id=3
+星空衛視,http://103.218.3.150/dl/147258.php?id=18
+TVB 明珠,http://103.218.3.150/dl/147258.php?id=13
+TVB 翡翠,http://103.218.3.150/dl/147258.php?id=1
+TVB J2,http://103.218.3.150/dl/147258.php?id=12
+Viu TV,http://103.218.3.150/dl/147258.php?id=8
+耀才財經,http://103.218.3.150/dl/147258.php?id=19
+无线财经,http://103.218.3.150/dl/147258.php?id=10
+无线新闻,http://103.218.3.150/dl/147258.php?id=9
+有线新闻,http://103.218.3.150/dl/147258.php?id=31
+澳門衛視,http://103.218.3.150/dl/147258.php?id=23
+澳亞衛視,http://103.218.3.150/dl/147258.php?id=24
+香港卫视,http://103.218.3.150/dl/147258.php?id=6
+RHK32,http://103.218.3.150/dl/147258.php?id=21
+有线电影台,http://103.218.3.150/dl/147258.php?id=30
+星河台,http://103.218.3.150/dl/147258.php?id=17
+莲花卫视,http://103.218.3.150/dl/147258.php?id=33
+澳門衛視,,http://103.218.3.150/dl/147258.php?id=23
+澳亞衛視,,,http://103.218.3.150/dl/147258.php?id=24
+澳門互動新聞台,http://103.218.3.150/dl/147258.php?id=26
+澳門有線一台,http://103.218.3.150/dl/147258.php?id=25
 
-凤凰中文,http://103.145.38.152/kds/xgt.php?id=2
-凤凰資訊,http://103.145.38.152/kds/xgt.php?id=3
-星空衛視,http://103.145.38.152/kds/xgt.php?id=18
-TVB 明珠,http://103.145.38.152/kds/xgt.php?id=13
-TVB 翡翠,http://103.145.38.152/kds/xgt.php?id=1
-TVB J2,http://103.145.38.152/kds/xgt.php?id=12
-Viu TV,http://103.145.38.152/kds/xgt.php?id=8
-耀才財經,http://103.145.38.152/kds/xgt.php?id=19
-无线财经,http://103.145.38.152/kds/xgt.php?id=10
-无线新闻,http://103.145.38.152/kds/xgt.php?id=9
-有线新闻,http://103.145.38.152/kds/xgt.php?id=31
-澳門衛視,http://103.145.38.152/kds/xgt.php?id=23
-澳亞衛視,http://103.145.38.152/kds/xgt.php?id=24
-香港卫视,http://103.145.38.152/kds/xgt.php?id=6
-RHK32,http://103.145.38.152/kds/xgt.php?id=21
-有线电影台,http://103.145.38.152/kds/xgt.php?id=30
-星河台,http://103.145.38.152/kds/xgt.php?id=17
-莲花卫视,http://103.145.38.152/kds/xgt.php?id=33
-澳門衛視,,http://103.145.38.152/kds/xgt.php?id=23
-澳亞衛視,,,http://103.145.38.152/kds/xgt.php?id=24
-澳門互動新聞台,http://103.145.38.152/kds/xgt.php?id=26
-澳門有線一台,http://103.145.38.152/kds/xgt.php?id=25
 
 vjms源测试,#genre#
 民視HD,vjms://58.215.133.161:8500/live/cid=450
