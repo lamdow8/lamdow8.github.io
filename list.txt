@@ -95,6 +95,7 @@ CGTN,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 凤凰中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 凤凰资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 凤凰香港台,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
+无线新闻台,http://hdtv.ubdata.info/ublive/c668f47092beb6a792ad0c1bae48e47c/index.m3u8
 无线新闻台,http://pull.scphsd.com/live/c1f25b13221a3c91a0b7621a7/playlist.m3u8
 有线新闻台,http://pull.scphsd.com/live/615f921bf0329c8b1a5b171c1/playlist.m3u8
 有线新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
@@ -109,7 +110,7 @@ NOW新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/ind
 TVBS新闻,vjms://58.215.133.161:8500/live/cid=348#rtmp://59.124.75.156/sat/tv551
 
 港台综合,#genre#
-
+翡翠台,http://hdtv.ubdata.info/ublive/54cac64e1139594701a6bba957c0ded2/index.m3u8
 翡翠台,http://pull.scphsd.com/live/b71btc9e83d80b3b1c2g6d9d98ac8/playlist.m3u8
 J2台,http://pull.scphsd.com/live/a7a2734ba1a9a0ca7a142817f2/playlist.m3u8
 明珠台,http://pull.scphsd.com/live/eb6d3e05d5f6d5fd3ad73s32c9/playlist.m3u8
