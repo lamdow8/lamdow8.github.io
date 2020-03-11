@@ -19,24 +19,24 @@ CCTV 15,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/200020
 CCTV 17,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
 CGTN,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2001656801.m3u8
 
-超高清4K,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
-CCTV1,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
-CCTV2,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
-CCTV3,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
-CCTV4,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
-CCTV5,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
-CCTV5+,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
-CCTV6,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8
-CCTV7,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
-CCTV8,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
-CCTV9,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
-CCTV10,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
-CCTV11,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
-CCTV12,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
-CCTV13,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
-CCTV14,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
-CCTV15,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
-CCTV17,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
+超高清 4K,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+CCTV 1,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
+CCTV 2,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
+CCTV 3,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
+CCTV 4,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
+CCTV 5,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
+CCTV 5+,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
+CCTV 6,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8
+CCTV 7,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
+CCTV 8,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
+CCTV 9,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
+CCTV 10,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
+CCTV 11,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
+CCTV 12,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
+CCTV 13,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+CCTV 14,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
+CCTV 15,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
+CCTV 17,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
 
 地方卫视,#genre#
 湖南卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
@@ -238,7 +238,7 @@ CCTV-8蓝光,http://223.110.242.204:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/
 爱上4K测试,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 
 广东综艺4K(官网),http://nclive.grtn.cn/4K/sd/live.m3u8
-
+CHC高清电影,http://otvstream-hnsec.otvcloud.com/otv/skcc/live/channel43063/2300.m3u8?k=2d62c518efbc63054dcb6c26763931f4&t=5E68D6BA&UID=9C5BB708
 CHC高清电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8
 CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD_H265.m3u8
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
