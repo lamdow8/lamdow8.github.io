@@ -19,26 +19,6 @@ CCTV 15,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/200020
 CCTV 17,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
 CGTN,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2001656801.m3u8
 
-超高清 4K,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
-CCTV 1,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
-CCTV 2,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
-CCTV 3,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
-CCTV 4,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
-CCTV 5,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
-CCTV 5+,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
-CCTV 6,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8
-CCTV 7,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
-CCTV 8,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
-CCTV 9,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
-CCTV 10,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
-CCTV 11,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
-CCTV 12,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
-CCTV 13,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
-CCTV 14,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
-CCTV 15,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
-CCTV 17,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
-CGTN,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
-
 内地卫视,#genre#
 湖南卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
 东方卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
@@ -64,30 +44,6 @@ CGTN,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 重庆卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000297801.m3u8
 安徽卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000298001.m3u8
 
-湖南卫视,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
-东方卫视,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
-黑龙江卫视,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000293903.m3u8
-广东卫视,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
-深圳卫视,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
-江苏卫视,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
-浙江卫视,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
-江苏卫视,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
-深圳卫视,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
-北京卫视,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000272103.m3u8
-海南卫视,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000291503.m3u8
-山东卫视,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000294803.m3u8
-江西卫视,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000294103.m3u8
-湖北卫视,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000294503.m3u8
-河南卫视,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000296103.m3u8
-河北卫视,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000293403.m3u8
-贵州卫视,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000293303.m3u8
-东南卫视,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000292503.m3u8
-广西卫视,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8
-四川卫视,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
-辽宁卫视,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000281303.m3u8
-重庆卫视,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
-安徽卫视,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
-
 港台新闻,#genre#
 儋州新闻,http://36009.hlsplay.aodianyun.com/tv_radio_36009/tv_channel_1330.m3u8
 凤凰资讯台,http://liveali.ifeng.com/live/FHZX.flv
@@ -100,7 +56,6 @@ CGTN,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 有线新闻台,http://pull.scphsd.com/live/5608c7e37b784443f4c7ab01a75c1974/playlist.m3u8
 有线新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
 港台32,http://pull.scphsd.com/live/a1656ed5dabf7a886220a0db9fe530f2/playlist.m3u8
-NOW爆谷,http://107.148.215.110:13164/v/md.php?id=198626
 壹電視新聞,http://pull.scphsd.com/live/490c583afa2ce0bd776a527ddad2d5f6/playlist.m3u8#p2p://51.79.41.138:18912/5c724897000cb1861d5316f515e3763e.ts
 NOW新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
 三立新聞,vjms://58.215.133.161:8500/live/cid=352
@@ -216,22 +171,18 @@ CCTV-8蓝光,http://223.110.242.204:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/
 东方卫视超清-8M,http://223.110.242.204:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/
 山东卫视超清,http://223.110.242.204:6610/gitv/live1/G_SHANDONG-HQ/G_SHANDONG-HQ/
 
-影视,#genre#
-广电4K测试频道,http://60.255.149.248/tslive/c214_scc_20191122_m4avmczq_original_r10/c214_scc_20191122_m4avmczq_original_r10.m3u8&
+影视频道,#genre#
 纯享4K(移动),http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 爱上4K测试,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 
-CCTV4K,http://60.255.149.248/tslive/c214_scc_20190618_pr3jsp04_original_r10/c214_scc_20190618_pr3jsp04_original_r10.m3u8&
 广东综艺4K(官网),http://nclive.grtn.cn/4K/sd/live.m3u8
-CHC高清电影,http://60.255.149.248/tslive/c211_scc_20190618_ek4k254b_original_r10/c211_scc_20190618_ek4k254b_original_r10.m3u8&
-CHC家庭影院,http://60.255.149.248/tslive/c212_scc_20190618_q0ktot1t_original_r10/c212_scc_20190618_q0ktot1t_original_r10.m3u8&
-CHC动作电影,http://60.255.149.248/tslive/c213_scc_20190618_wzkayvu1_original_r10/c213_scc_20190618_wzkayvu1_original_r10.m3u8&
+
 CHC高清电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8
 CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD_H265.m3u8
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
 
-峨眉电影-1 HD,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-峨眉电影-2 FHD,http://60.255.149.248/tslive/c212_scc_20190618_5nvsifwn_original_r10/c212_scc_20190618_5nvsifwn_original_r10.m3u8&
+峨眉电影HD,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+
 
 有线电影台,http://pull.scphsd.com/live/ab5599cd8fbb3de8e51aba47e512cf01.flv
 TVB星河台,http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
@@ -248,8 +199,6 @@ HBO溫馨,vjms://58.215.133.161:8500/live/cid=181
 广东科教(官网),http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
 
 体育综合,#genre#
-CCTV5,http://60.255.149.248/tslive/c211_scc_20190618_g0ecxw42_original_r10/c211_scc_20190618_g0ecxw42_original_r10.m3u8&
-CCTV5+,http://60.255.149.248/tslive/c213_scc_20190618_4jwk1euz_original_r10/c213_scc_20190618_4jwk1euz_original_r10.m3u8&
 纬来体育[HD],vjms://58.215.133.185:8500:3502/live/cid=202#rtmp://59.124.75.156/sat/tv721
 纬来体育[HD],vjms://58.215.133.161:8500/live/cid=202
 ELTA體育1台,vjms://58.215.133.161:8500/live/cid=266
@@ -260,8 +209,7 @@ ELTA體育1台,https://hdl0903.plures.net/onlive/3ca17d17faeb6e483adf74de4175646
 Channel V,rtmp://58.200.131.2/livetv/channelv
 MTV 音乐频道,https://116.77.72.195/streams/d/mtv/playlist.m3u8#http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 M2O音乐台,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-CCTV15,http://60.255.149.248/tslive/c212_scc_20190618_sa0rcja5_original_r10/c212_scc_20190618_sa0rcja5_original_r10.m3u8&
-新视觉,http://60.255.149.248/tslive/c213_scc_20190618_ccee1od1_original_r10/c213_scc_20190618_ccee1od1_original_r10.m3u8&
+
 新视觉,https://keonline.shanghai.liveplay.qq.com/live/program/live/xsjhd/2300000/mnf.m3u8
 體育FOX3HD,vjms://58.215.133.161:8500/live/cid=95
 體育FOX2 Sports,vjms://58.215.133.161:8500/live/cid=444
