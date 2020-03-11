@@ -290,13 +290,13 @@ http://192.200.120.82:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" tvg-id="6069" tvg-name="东森新闻台" group-title="台湾一日行",东森新闻台
 http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" tvg-id="6070" tvg-name="中天新闻台" group-title="台湾一日行",中天新闻台
-http://pull.scphsd.com/live/b37a2a70f54a4dt3a4b23n7b361d5c4/playlist.m3u8
+http://pull.scphsd.com/live/efbae1ab1c317aad1f657d59a975c383/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" tvg-id="6072" tvg-name="三立新闻台" group-title="台湾一日行",三立新闻台
 http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" tvg-id="6073" tvg-name="TVBS新闻台" group-title="台湾一日行",TVBS 新闻台
 http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" tvg-id="6076" tvg-name="非凡新闻台" group-title="台湾一日行",非凡新闻台
-http://pull.scphsd.com/live/341480361f526bff12223a56b9d8c091/playlist.m3u8
+http://pull.scphsd.com/live/f80b3571f34de3bb5d7bb41281640eee/playlist.m3u8
 #EXTINF:-1 tvg-id="6031" tvg-name="公视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="台湾一日行",公视
 http://pull.scphsd.com/live/e2724154e38f15a7007aecc3cb03ad59.flv
 #EXTINF:-1 tvg-id="6192" tvg-name="靖天卡通台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天卡通.png" group-title="台湾一日行",靖天卡通台(W)
