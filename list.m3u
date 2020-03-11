@@ -205,7 +205,7 @@ http://pull.scphsd.com/live/fefc5b4090b978cbb911f98ba68b6fe4/playlist.m3u8
 http://pull.scphsd.com/live/b3edd0268ef497113c895c4c101e54c0/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" tvg-id="127" tvg-name="明珠台" group-title="港澳一日游",明珠台
 http://pull.scphsd.com/live/eb6d3e05d5f6d5fd3ad73s32c9/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" tvg-id="130" tvg-name="无线新闻" group-title="港台测试",无线新闻台
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" tvg-id="130" tvg-name="无线新闻" group-title="港澳一日游",无线新闻台
 http://pull.scphsd.com/live/f8d845d48fc50225de9fce143f2f300c/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" tvg-id="130" tvg-name="无线新闻" group-title="港澳一日游",无线新闻台(备)
 http://www.liveviptv.xyz/tv/tvb.php?vid=wx
@@ -249,13 +249,13 @@ rtmp://58.200.131.2:1935/livetv/fhdy
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港电台32" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk32.jpg" group-title="港澳一日游",RHK32
 http://pull.scphsd.com/live/608ca78a50092adcea117d248f919dfd/playlist.m3u8
-#
+
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/澳亚卫视.png" tvg-id="476" tvg-name="澳亚卫视" group-title="港澳一日游",澳亚卫视
 http://stream.mastvnet.com/MASTV/sd/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/lotustv.jpg" tvg-id="" tvg-name="莲花卫视" group-title="港澳一日游",莲花卫视
 http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
 #EXTINF:-1 tvg-logo="http://www.iptv16.com/wp-content/uploads/2019/08/HK-CH-6.jpg" tvg-id="" tvg-name="有线电影" group-title="港澳一日游",有线电影台
-http://pull.scphsd.com/live/ab5599cd8fbb3de8e51aba47e512cf01.flv
+http://pull.scphsd.com/live/88108fbf774636cf2d530b17e4b80cfa/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbgongfu.jpg" tvg-id="10092" tvg-name="功夫台" group-title="港澳一日游",TVB功夫台
 http://pull.scphsd.com/live/11e006e621278b229febef45dbecac3c/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cabletv301.jpg" tvg-id="" tvg-name="有线娱乐" group-title="港澳一日游",有线娱乐台
@@ -341,7 +341,7 @@ http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 http://hdtv.ubdata.info/ublive/54cac64e1139594701a6bba957c0ded2/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" tvg-id="130" tvg-name="无线新闻" group-title="港台测试",无线新闻台
 http://hdtv.ubdata.info/ublive/c668f47092beb6a792ad0c1bae48e47c/index.m3u8
-EXTINF:-1 tvg-id="" tvg-name="Now NEWS" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch332_170_122" group-title="港澳一日游",now新闻台
+#EXTINF:-1 tvg-id="" tvg-name="Now NEWS" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch332_170_122" group-title="港澳一日游",now新闻台
 http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港台测试",有线新闻HD
 http://hdtv.ubdata.info/ublive/b9fdf1403d642e79e87d6e8fba2bcedd/index.m3u8
@@ -355,6 +355,8 @@ http://hdtv.ubdata.info/ublive/5be6b08a66ee95583a5f967b0c91546a/index.m3u8
 http://hdtv.ubdata.info/ublive/38983779f7ef436c9883b10f8d7ccdef/index.m3u8
 #EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港台测试",华视HD
 http://hdtv.ubdata.info/ublive/ab9d37bd8b842a54234598ca59ca30bf/index.m3u8
+
+
 #欧美频道
 #EXTINF:-1 tvg-id="7144" tvg-name="Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/200px-Rai_Italia_-_Logo_2017.svg.png" group-title="欧美频道",Rai Italia
 https://usb.bozztv.com/ssh101/BX784769/BX784769/index.m3u8
