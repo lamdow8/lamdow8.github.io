@@ -209,6 +209,8 @@ http://pull.scphsd.com/live/aadf387306ff4dfd1f815eb0afb4eeef/playlist.m3u8
 http://pull.scphsd.com/live/3c51168be296cb2ccc9db0642a7991ab/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" tvg-id="130" tvg-name="无线新闻" group-title="港澳一日游",无线新闻台(备)
 http://www.liveviptv.xyz/tv/tvb.php?vid=wx
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" tvg-id="7122" tvg-name="有线新闻台" group-title="港澳一日游",有线新闻台HD
+http://pull.scphsd.com/live/9b80c5553f3f1cfcbd48236215ad775b.flv
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-finance.jpg" tvg-id="133" tvg-name="无线财经" group-title="港澳一日游",无线财经咨询台
 http://www.liveviptv.xyz/tv/tvb.php?vid=wxzx
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-id="141" tvg-name="凤凰中文" group-title="港澳一日游",凤凰卫视中文HD
