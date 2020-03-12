@@ -341,21 +341,21 @@ http://hdtv.ubdata.info/ublive/5be6b08a66ee95583a5f967b0c91546a/index.m3u8
 http://hdtv.ubdata.info/ublive/38983779f7ef436c9883b10f8d7ccdef/index.m3u8
 #EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港台测试",华视HD
 http://hdtv.ubdata.info/ublive/ab9d37bd8b842a54234598ca59ca30bf/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" tvg-id="145" tvg-name="美亚高清电影台" group-title="台湾一日行",美亚高清电影台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" tvg-id="145" tvg-name="美亚高清电影台" group-title="港台测试",美亚高清电影台
 http://pull.scphsd.com/live/756cbe791f7da81c0ed50caa833b0b86.flv
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmov.png" tvg-id="517" tvg-name="星卫HD电影" group-title="台湾一日行",星卫HD电影台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmov.png" tvg-id="517" tvg-name="星卫HD电影" group-title="港台测试",星卫HD电影台
 http://pull.scphsd.com/live/e5fd20090f6a010ab3e2c6b6c7090382.flv
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" tvg-id="6171" tvg-name="寰宇新闻" group-title="台湾一日行",寰宇新闻
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" tvg-id="6171" tvg-name="寰宇新闻" group-title="港台测试",寰宇新闻
 http://pull.scphsd.com/live/00806b530ddd4e15afec865b007e1f36/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews2.png" tvg-id="7177" tvg-name="寰宇新闻2" group-title="台湾一日行",寰宇新闻二台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews2.png" tvg-id="7177" tvg-name="寰宇新闻2" group-title="港台测试",寰宇新闻二台
 http://pull.scphsd.com/live/874991bbba4c4edfb179a52ff4f2dbaa/playlist.m3u8
-#EXTINF:-1 tvg-id="6192" tvg-name="靖天卡通台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天卡通.png" group-title="台湾一日行",靖天卡通台(W)
+#EXTINF:-1 tvg-id="6192" tvg-name="靖天卡通台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天卡通.png" group-title="港台测试",靖天卡通台(W)
 https://pull.scphsd.com/live/a83af223093a44b6a6cbee590491ab39.flv
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" tvg-id="6079" tvg-name="卫视电影台" group-title="台湾一日行",卫视电影台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" tvg-id="6079" tvg-name="卫视电影台" group-title="港台测试",卫视电影台
 http://pull.scphsd.com/live/6bb767aec321d39c54a60370d98a4e4b.flv
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" tvg-id="6060" tvg-name="TVBS欢乐台" group-title="台湾一日行",TVBS欢乐台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" tvg-id="6060" tvg-name="TVBS欢乐台" group-title="港台测试",TVBS欢乐台
 http://pull.scphsd.com/live/922ef4176d9142d6ba5ad74243249317.flv
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/JETVariety.png" tvg-id="6063" tvg-name="JET综合台" group-title="台湾一日行",JET综合台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/JETVariety.png" tvg-id="6063" tvg-name="JET综合台" group-title="港台测试",JET综合台
 http://pull.scphsd.com/live/d30fd8815e0248e4be415ae4c6a8a2cf.flv
 
 
