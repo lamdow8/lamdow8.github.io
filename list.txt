@@ -101,7 +101,7 @@ CCTV 17,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
 无线新闻台,http://pull.scphsd.com/live/3c51168be296cb2ccc9db0642a7991ab/playlist.m3u8
 无线新闻台,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 无线新闻台,http://hdtv.ubdata.info/ublive/c668f47092beb6a792ad0c1bae48e47c/index.m3u8
-有线新闻台,http://pull.scphsd.com/live/5608c7e37b784443f4c7ab01a75c1974/playlist.m3u8
+有线新闻台,http://pull.scphsd.com/live/087a58ed96db1a08ca696fd7e077b01d/playlist.m3u8
 有线新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
 港台32,http://pull.scphsd.com/live/608ca78a50092adcea117d248f919dfd/playlist.m3u8
 壹電視新聞,http://pull.scphsd.com/live/490c583afa2ce0bd776a527ddad2d5f6/playlist.m3u8#p2p://51.79.41.138:18912/5c724897000cb1861d5316f515e3763e.ts
