@@ -240,7 +240,7 @@ http://pull.scphsd.com/live/087a58ed96db1a08ca696fd7e077b01d/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkong603.png" tvg-id="7239" tvg-name="香港603" group-title="港澳一日游",香港有线603
 rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch215
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" tvg-id="131" tvg-name="TVB星河频道" group-title="港澳一日游",TVB星河频道
-http://pull.scphsd.com/live/5a398b0c224b9dd0b0f775b7d9f49f7e/playlist.m3u8
+http://pull.scphsd.com/live/3f4f8d88f47282526fc1740f25d596ed/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" tvg-id="131" tvg-name="TVB星河频道" group-title="港澳一日游",TVB星河频道(备)
 http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yangguangweishi.png" tvg-id="144" tvg-name="阳光卫视" group-title="港澳一日游",阳光卫视
@@ -260,7 +260,7 @@ http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
 #EXTINF:-1 tvg-logo="http://www.iptv16.com/wp-content/uploads/2019/08/HK-CH-6.jpg" tvg-id="" tvg-name="有线电影" group-title="港澳一日游",有线电影台
 http://pull.scphsd.com/live/88108fbf774636cf2d530b17e4b80cfa/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbgongfu.jpg" tvg-id="10092" tvg-name="功夫台" group-title="港澳一日游",TVB功夫台
-http://pull.scphsd.com/live/11e006e621278b229febef45dbecac3c/playlist.m3u8
+http://pull.scphsd.com/live/26d332e998577c02196cbdb2af51aa00/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cabletv301.jpg" tvg-id="" tvg-name="有线娱乐" group-title="港澳一日游",有线娱乐台
 https://ottproxy2.mott.tv/livehls/MOB-CN/03.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/celestialmovies.jpg" tvg-id="" tvg-name="天映电影HD" group-title="港澳一日游",天映频道
