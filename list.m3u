@@ -224,7 +224,7 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226120/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" tvg-id="143" tvg-name="凤凰香港" group-title="港澳一日游",凤凰卫视香港台(备)
 http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" tvg-id="408" tvg-name="ViuTV" group-title="港澳一日游",Viu TV
-ttp://pull.scphsd.com/live/d1291fb792a7f6089abd68605b3fb072/playlist.m3u8
+http://pull.scphsd.com/live/d1291fb792a7f6089abd68605b3fb072/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" tvg-id="412" tvg-name="HKS" group-title="港澳一日游",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" tvg-id="416" tvg-name="J2" group-title="港澳一日游",J2
@@ -327,7 +327,7 @@ http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 http://hdtv.ubdata.info/ublive/54cac64e1139594701a6bba957c0ded2/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" tvg-id="130" tvg-name="无线新闻" group-title="港台测试",无线新闻台
 http://hdtv.ubdata.info/ublive/c668f47092beb6a792ad0c1bae48e47c/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Now NEWS" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch332_170_122" group-title="港澳一日游",now新闻台
+#EXTINF:-1 tvg-id="" tvg-name="Now NEWS" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch332_170_122" group-title="港台测试",now新闻台
 http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港台测试",有线新闻HD
 http://hdtv.ubdata.info/ublive/b9fdf1403d642e79e87d6e8fba2bcedd/index.m3u8
