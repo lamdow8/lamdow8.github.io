@@ -318,38 +318,7 @@ AEC,p2p://sdgdklwos.finetv.tv:9906/5b2c873100007ef4067c1d2352642785.ts
 澳门互动新闻,http://202.175.127.77/live/show/ch2/index.m3u8
 澳门有线三台,http://202.175.127.77/live/show/ch3/index.m3u8
 
-全友源测试,#genre#
-翡翠臺,tvbus://3cQ49Q394wz82zQPDgApQRrFPv57HJ4rmSsBWVGd34ZdiRDqkk
-明珠臺,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
-VIUTV,tvbus://3NQgHKwgbbKdJ4LhEnt2KuvtxU7zbshzQL3UrV2k3oz5XYNVyS
-無線財經,p8p://0198.02686.cc:16871/5d6000ef00075fa1eddd111e1452c6bc.ts
-TVB星河,tvbus://2x1hbZ9nHnRxGmUz74sgiW6BfXNr3KFgbbLFgryHAEVvP7UfUD
-TVBJ2,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
-RTHK31,p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
-RTHK32,tvbus://3vqLa5eRdbsXvENdt3wBAQcCvTvKNRZM2kTNyA4P2FkSmpN23w
-鳳凰資訊,http://liveali.ifeng.com/live/FHZX.flv
-鳳凰資訊,tvbus://4Wj3KvuZsZT6uZi6hbi6Sv1WdmG1JeeybkKkcTMESvRczz4zF7
-鳳凰衛視,http://liveali.ifeng.com/live/FHZW.flv
-鳳凰衛視,p8p://0198.02686.cc:16871/5d8c9f670007a9fa196ffb97ed55bbac.ts
-鳳凰香港,tvbus://3TnLG4CSBJC4D3NesXB6v4EhuRW33PeYMrNPrixpuz9Z8aYMrp
-功夫台,tvbus://3UDxSDBsNf7wbYsxBLm5SuD3ZRXLavzGGRseREr62WmGuxBPUr
-now直播,tvbus://3JGDpXioJpH6NRBQFeUgju8mCcYQUHiFYz6GRBkkSWnbGPRABS
-now新闻,tvbus://3iBaeeta2PhkXUTh6G9jzKNjGn98D72gUnhB8QxsqnPr9JgXuB
-香港開電視,tvbus://4tEWVwazfYxEPmrqU5Xhr9GNDF7a9LR3JXhDKX2MFWRwoJYTDN
-now sport prime,tvbus://3uEWvczEzfF8ZRzBh1YYaP76zdHhqw6ZMWqkBJCSedb4oXFt2S
-有線體育,tvbus://4i5jLEWEzxnQbezFuJRwgJTuVnRnAniDYC7WxeJLdskPhCTYvE
-有線18臺,tvbus://4JxHjvQYy8ejrj2dJYMurugKF1VV418b4k5yrSB2C4JNdVVMv1
-有線財經,tvbus://3WLtb7Fwsr5CRigDf6uK3mX83q3QXFXh6pBXum8Ebq58u1327W
-有線娛樂,tvbus://3CrMPFZqaFxTGeDtQX2E5gkF6ZdVKk2bj72ff3RTSwJdYWwhg6
-有線電影,tvbus://4f5jNLdAYjb6hn5rU9HCA8atb5cJwx9PK41ZDunEG66ymTVyXE
-澳門蓮花,tvbus://4nWfBmd6L8EmK4UPZbCNRALnGVq9b18Fx7mhLttnHbjdFmBKnd
-有線體育2,tvbus://3VVyGVyQB7hhcuRxWDKb7nxgCqJcBSkZCd9qBnWGp3k5hH74uf
-星空衛視,tvbus://4WgJvu3twfaxg3KT9ifofPST2Jjty1UmoVeK5X48WXgpgbfjEs
-有線劇集,tvbus://3Rbj86H1Lktcv6Hg1etW9KgsC5hwb4142EQu8qznRXqwK72sET
-有線新聞,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts
-香港衛視,tvbus://3Cfrdt2QESpinW8tc6eA5ksB4kE63h5CdWJpUqg9qqGHeyueEv
-澳亞衛視,tvbus://4SRjZx5zSQ2srSstaZ3vCpGuEhgTUXBLaacrR6eYNFgcdJzZBb
-澳門衛視,tvbus://3ALuqstPh5asKRD1BKeD7CaVBhbKSqZDGRNirsNXebdr1HeNc6
+
 
 代理源测试,#genre#
 翡翠台,http://hzyhjg.cc/cs/gat/fct.php
@@ -462,8 +431,108 @@ StarMovies,vjms://121.14.222.77:8500/live/cid=94
 DiscoveryAsia,vjms://121.14.222.77:8500/live/cid=440
 DiscoveryScience,vjms://121.14.222.77:8500/live/cid=457
 DiscoveryChannel,vjms://121.14.222.77:8500/live/cid=3
+纳加测试,#genre#
+民視HD,vjms://58.215.133.184:8500:3502/live/cid=450
+華視HD,vjms://58.215.133.184:8500:3502/live/cid=451
+中視HD,vjms://58.215.133.184:8500:3502/live/cid=452
+臺視HD,vjms://58.215.133.184:8500:3502/live/cid=453
+公視3HD,vjms://58.215.133.184:8500:3502/live/cid=436
+大愛,vjms://58.215.133.184:8500:3502/live/cid=442
+###民視新聞,vjms://58.215.133.184:8500:3502/live/cid=454###
+年代MUCH,vjms://58.215.133.184:8500:3502/live/cid=439
+年代新聞,vjms://58.215.133.184:8500:3502/live/cid=455
+东森新聞,vjms://58.215.133.184:8500:3502/live/cid=340
+中天新聞,vjms://58.215.133.184:8500:3502/live/cid=407
+非凡新聞,vjms://58.215.133.184:8500:3502/live/cid=443
+###华视新闻,vjms://58.215.133.184:8500:3502/live/cid=451###
+###壹新闻,vjms://58.215.133.184:8500:3502/live/cid=445###
+TVBS新聞臺,vjms://58.215.133.184:8500:3502/live/cid=348
+TVBS HD,vjms://58.215.133.184:8500:3502/live/cid=349
+緯來體育,vjms://58.215.133.184:8500:3502/live/cid=202
+緯來戲劇,vjms://58.215.133.184:8500:3502/live/cid=137
+八大第一,vjms://58.215.133.184:8500:3502/live/cid=441
+三立新闻,vjms://58.215.133.184:8500:3502/live/cid=352
+三立都會,vjms://58.215.133.184:8500:3502/live/cid=226
+博斯高球,vjms://58.215.133.184:8500:3502/live/cid=265
+迪士尼卡通,vjms://58.215.133.184:8500:3502/live/cid=361
+HBOHD,vjms://58.215.133.184:8500:3502/live/cid=261
+HBO原创,vjms://58.215.133.184:8500:3502/live/cid=236
+HBO強檔,vjms://58.215.133.184:8500:3502/live/cid=238
+HBO溫馨,vjms://58.215.133.184:8500:3502/live/cid=181
+ELTA體育HD,vjms://58.215.133.184:8500:3502/live/cid=266
+TLC旅游生活,vjms://58.215.133.184:8500:3502/live/cid=103
+法國國際五臺,vjms://58.215.133.184:8500:3502/live/cid=396
+東森財經新闻,vjms://58.215.133.184:8500:3502/live/cid=456
+國家地理HD,vjms://58.215.133.184:8500:3502/live/cid=115
+國家地理野生,vjms://58.215.133.184:8500:3502/live/cid=263
+體育博斯高球,vjms://58.215.133.184:8500:3502/live/cid=265
+體育ELTA,vjms://58.215.133.184:8500:3502/live/cid=266
+體育FOX3HD,vjms://58.215.133.184:8500:3502/live/cid=95
+體育FOX2 Sports,vjms://58.215.133.184:8500:3502/live/cid=444
+AXN,vjms://58.215.133.184:8500:3502/live/cid=2
+BBC,vjms://58.215.133.184:8500:3502/live/cid=418
+CNN,vjms://58.215.133.184:8500:3502/live/cid=428
+CNBC,vjms://58.215.133.184:8500:3502/live/cid=98
+FOX2,vjms://58.215.133.184:8500:3502/live/cid=444
+FOX3,vjms://58.215.133.184:8500:3502/live/cid=95
+StarMovies,vjms://58.215.133.184:8500:3502/live/cid=94
+DiscoveryAsia,vjms://58.215.133.184:8500:3502/live/cid=440
+DiscoveryScience,vjms://58.215.133.184:8500:3502/live/cid=457
+DiscoveryChannel,vjms://58.215.133.184:8500:3502/live/cid=3
+日本电视台,vjms://58.215.133.184:8500:3502/live/cid=492
+日FIGHTING TV,vjms://58.215.133.184:8500:3502/live/cid=408
+日-Family theather,vjms://58.215.133.184:8500:3502/live/cid=493
+日-kids,vjms://58.215.133.184:8500:3502/live/cid=494
+日-J,vjms://58.215.133.184:8500:3502/live/cid=495
+日-Discovery,vjms://58.215.133.184:8500:3502/live/cid=496
+日-Movie Plus,vjms://58.215.133.184:8500:3502/live/cid=497
+日-迪士尼,vjms://58.215.133.184:8500:3502/live/cid=499
+日-GOLF NTWORK,vjms://58.215.133.184:8500:3502/live/cid=409
+日-Sports ESPN,vjms://58.215.133.184:8500:3502/live/cid=410
+日-Sports Plus,vjms://58.215.133.184:8500:3502/live/cid=411
+日-Green,vjms://58.215.133.184:8500:3502/live/cid=412
+日-GAORA,vjms://58.215.133.184:8500:3502/live/cid=413
+日-Sports,vjms://58.215.133.184:8500:3502/live/cid=414
+日-sports1,vjms://58.215.133.184:8500:3502/live/cid=415
+日-Sports 2,vjms://58.215.133.184:8500:3502/live/cid=416
+关西-地面波电视台,vjms://58.215.133.184:8500:3502/live/cid=323
+NHK综合CS-NHK-G CS,vjms://58.215.133.184:8500:3502/live/cid=139
+Fighting-TV,vjms://58.215.133.184:8500:3502/live/cid=408
+GOLF,vjms://58.215.133.184:8500:3502/live/cid=409
+J-Sports-3,vjms://58.215.133.184:8500:3502/live/cid=410
+J-Sports-4,vjms://58.215.133.184:8500:3502/live/cid=411
+BS-GREEN,vjms://58.215.133.184:8500:3502/live/cid=412
+GAORA SPORTS,vjms://58.215.133.184:8500:3502/live/cid=413
+EX-Sports-TV,vjms://58.215.133.184:8500:3502/live/cid=414
+J-Sports-1,vjms://58.215.133.184:8500:3502/live/cid=415
+J-Sports-2,vjms://58.215.133.184:8500:3502/live/cid=416
+日テレPLUS - NTV-PLUS,vjms://58.215.133.184:8500:3502/live/cid=492
+ファミリ?`剧场 - Fami Gekijo HD,vjms://58.215.133.184:8500:3502/live/cid=493
+KIDS,vjms://58.215.133.184:8500:3502/live/cid=494
+Music-JAPAN,vjms://58.215.133.184:8500:3502/live/cid=495
+Discovery,vjms://58.215.133.184:8500:3502/live/cid=496
+Movie Plus,vjms://58.215.133.184:8500:3502/live/cid=497
+
+
 
 p2p源测试,#genre#
+香港有綫新聞台HD,mitv://198.255.74.57:12396/5e502080000cac0a3d32fddab505f816.ts
+香港有綫電影台HD,mitv://198.255.74.57:12396/5e502080000bda4b3d32fda5c67d4497.ts
+鳳凰衛視中文台HD,mitv://198.255.74.56:19906/5dcf835d00003223057e0ab1ecce4f95.ts#mitv://198.255.74.57:12396/5e502080000f31733d32fe803275a3b2.ts
+鳳凰衛視資訊台HD,mitv://198.255.74.57:12396/5e502080000e56cc3d32fe486f65861e.t
+鳳凰衛視香港台HD,mitv://198.255.74.57:12396/5e502080000d81ed3d32fe1146391509.ts
+星空衛視,mitv://198.255.74.57:12396/5e5020810001975d3d32feec7da3a9d1.ts
+TVB J2,mitv://198.255.74.57:12396/5e5020840001a1223d330aa74cb1ccd5.ts
+TVB無綫新聞台,mitv://198.255.74.57:12396/5e5020840000cc1e3d330a70ca1a8614.ts
+TVB星河,mitv://198.255.74.57:12396/5e50207e00034a933d32f3a42bd947a2.ts
+TVB翡翠台,mitv://198.255.74.57:12396/5e502083000f32013d330a38c5462049.ts
+TVB Pearl明珠台,mitv://198.255.74.57:12396/5e5020810005fbee3d33000cecd53652.ts
+ViuTV,mitv://198.255.74.57:12396/5e502081000434db3d32ff98c2c3e2b6.ts
+EBC東森新聞HD,mitv://198.255.74.57:12396/5e50207b000262053d32e7b0043e9cd8.ts
+香港開電視,mitv://198.255.74.57:12396/5e502083000ee1003d330a23da058f45.ts
+香港電台RTHK32,mitv://198.255.74.57:12396/5e5020810005111f3d32ffd0f7c066b7.ts
+Viu6TV,mitv://198.255.74.57:12396/5e5020810003593f3d32ff5f0b34caac.ts
+TVB無綫財經資訊台,mitv://198.255.74.57:12396/5e5020810002752f3d32ff252f84c69d.ts
 華 視,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
 民視,P2p://190.2.146.92:18912/5c72483f0003db4b1d51bcf349367c26.ts
 中視,P2p://190.2.146.92:18912/5c72484b000b1d091d51edb7087b7686.ts#http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
