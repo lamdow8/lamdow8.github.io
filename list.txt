@@ -103,7 +103,7 @@ CCTV 17,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
 无线新闻台,http://hdtv.ubdata.info/ublive/c668f47092beb6a792ad0c1bae48e47c/index.m3u8
 有线新闻台,http://pull.scphsd.com/live/087a58ed96db1a08ca696fd7e077b01d/playlist.m3u8
 有线新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
-港台32,http://pull.scphsd.com/live/608ca78a50092adcea117d248f919dfd/playlist.m3u8
+港台32,http://pull.scphsd.com/live/ff733a1be5a3e4e9beead85605dcafe8/playlist.m3u8
 壹電視新聞,http://pull.scphsd.com/live/490c583afa2ce0bd776a527ddad2d5f6/playlist.m3u8#p2p://51.79.41.138:18912/5c724897000cb1861d5316f515e3763e.ts
 NOW新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
 三立新闻,vjms://58.215.133.161:8500/live/cid=352
@@ -132,6 +132,7 @@ J2台,http://pull.scphsd.com/live/bb879ab67026a96762c0ed5d901514e9/playlist.m3u8
 香港开电视,http://pull.scphsd.com/live/4a5e54978789269e2ee9de203ae9259b/playlist.m3u8
 有线财经咨询台,https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8#https://ottproxy2.mott.tv/livehls/MOB-NGW/03.m3u8
 有线娱乐台,https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8#https://ottproxy2.mott.tv/livehls/MOB-CN/03.m3u8
+VIUtv,http://pull.scphsd.com/live/d1291fb792a7f6089abd68605b3fb072/playlist.m3u8
 VIUtv,http://hls.globaliptv.ml/viu99.php#https://viutv99-i.akamaihd.net/hls/live/265284/live1/stream2/streamPlaylist.m3u8
 VIUtv six,http://hls.globaliptv.ml/viu96.php
 C+,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
@@ -245,6 +246,7 @@ CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
 峨眉电影HD,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 
 有线电影台,http://pull.scphsd.com/live/88108fbf774636cf2d530b17e4b80cfa/playlist.m3u8
+TVB星河台,http://pull.scphsd.com/live/5a398b0c224b9dd0b0f775b7d9f49f7e/playlist.m3u8
 TVB星河台,http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 TVB功夫台,http://pull.scphsd.com/live/11e006e621278b229febef45dbecac3c/playlist.m3u8
 凤凰电影台,http://47.240.60.73/gzyx.php?id=fhdy
