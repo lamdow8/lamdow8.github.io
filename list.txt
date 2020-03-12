@@ -99,8 +99,10 @@ CCTV 17,http://120.233.115.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
 凤凰资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 凤凰香港台,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 无线新闻台,http://pull.scphsd.com/live/3c51168be296cb2ccc9db0642a7991ab/playlist.m3u8
+无线新闻台,https://tv.elibei.com/tv/play?token=c53c2425123852327994cc6b8b57e2e2&k=7449867010c26a0b26566c330d124e1e&cid=196&uid=36808
 无线新闻台,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 无线新闻台,http://hdtv.ubdata.info/ublive/c668f47092beb6a792ad0c1bae48e47c/index.m3u8
+有线新闻台,http://pull.scphsd.com/live/9b80c5553f3f1cfcbd48236215ad775b.flv
 有线新闻台,http://pull.scphsd.com/live/087a58ed96db1a08ca696fd7e077b01d/playlist.m3u8
 有线新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
 港台32,http://pull.scphsd.com/live/ff733a1be5a3e4e9beead85605dcafe8/playlist.m3u8
@@ -125,8 +127,9 @@ TVBS新闻,vjms://58.215.133.184:8500:3502/live/cid=348
 港台综合,#genre#
 翡翠台,http://pull.scphsd.com/live/c582f74ef38df67aed1406c82d53f5f8/playlist.m3u8
 翡翠台,http://hdtv.ubdata.info/ublive/54cac64e1139594701a6bba957c0ded2/index.m3u8
-
+翡翠台,https://tv.elibei.com/tv/play?token=499b831fdfbdb8bc62b5a3b23ee3b27a&k=7449867010c26a0b26566c330d124e1e&cid=183&uid=36808
 J2台,http://pull.scphsd.com/live/bb879ab67026a96762c0ed5d901514e9/playlist.m3u8
+J2台,https://tv.elibei.com/tv/play?token=489c8d68b159f764ef9b6f1ce13638df&k=7449867010c26a0b26566c330d124e1e&cid=178&uid=36808
 明珠台,http://pull.scphsd.com/live/aadf387306ff4dfd1f815eb0afb4eeef/playlist.m3u8
 无线财经咨询台,http://www.liveviptv.xyz/tv/tvb.php?vid=wxzx
 香港开电视,http://pull.scphsd.com/live/4a5e54978789269e2ee9de203ae9259b/playlist.m3u8
@@ -279,6 +282,7 @@ M2O音乐台,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 北京体育,http://by4.nty.tv189.cn/live/tm-btvjishihd-4000k.m3u8
 劲爆体育,https://keonline.shanghai.liveplay.qq.com/live/program/live/jbtyhd/2300000/mnf.m3u8
 北京冬奥纪实,http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
+北京体育,http://49.234.207.217/tv/migu.php?id=641874369
 
 新马澳,#genre#
 新 U频道,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
