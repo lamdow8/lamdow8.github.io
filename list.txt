@@ -55,16 +55,15 @@ CGTN,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/200165680
 凤凰中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 凤凰资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 凤凰香港台,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
-无线新闻台,http://pull.scphsd.com/live/3c51168be296cb2ccc9db0642a7991ab/playlist.m3u8
+
 无线新闻台,https://tv.elibei.com/tv/play?token=c53c2425123852327994cc6b8b57e2e2&k=7449867010c26a0b26566c330d124e1e&cid=196&uid=36808
 无线新闻台,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
-无线新闻台,http://hdtv.ubdata.info/ublive/c668f47092beb6a792ad0c1bae48e47c/index.m3u8
-有线新闻台,http://pull.scphsd.com/live/9b80c5553f3f1cfcbd48236215ad775b.flv
-有线新闻台,http://pull.scphsd.com/live/087a58ed96db1a08ca696fd7e077b01d/playlist.m3u8
+
+有线新闻台,http://pull.scphsd.com/live/9476c44cdf496a56c80d2d8eda6ccfb0/playlist.m3u8
 有线新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
-港台32,http://pull.scphsd.com/live/ff733a1be5a3e4e9beead85605dcafe8/playlist.m3u8
+港台32,http://pull.scphsd.com/live/e8b2c4675f040ddcee4f1393238e1879/playlist.m3u8
 壹電視新聞,http://pull.scphsd.com/live/490c583afa2ce0bd776a527ddad2d5f6/playlist.m3u8#p2p://51.79.41.138:18912/5c724897000cb1861d5316f515e3763e.ts
-NOW新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
+
 三立新闻,vjms://58.215.133.161:8500/live/cid=352
 年代新闻,vjms://58.215.133.161:8500/live/cid=455
 东森新闻,vjms://58.215.133.161:8500/live/cid=340
@@ -82,17 +81,16 @@ TVBS新闻,vjms://58.215.133.184:8500:3502/live/cid=348
 
 
 港台综合,#genre#
-翡翠台,http://pull.scphsd.com/live/c582f74ef38df67aed1406c82d53f5f8/playlist.m3u8
-翡翠台,http://hdtv.ubdata.info/ublive/54cac64e1139594701a6bba957c0ded2/index.m3u8
+
 翡翠台,https://tv.elibei.com/tv/play?token=499b831fdfbdb8bc62b5a3b23ee3b27a&k=7449867010c26a0b26566c330d124e1e&cid=183&uid=36808
-J2台,http://pull.scphsd.com/live/bb879ab67026a96762c0ed5d901514e9/playlist.m3u8
+
 J2台,https://tv.elibei.com/tv/play?token=489c8d68b159f764ef9b6f1ce13638df&k=7449867010c26a0b26566c330d124e1e&cid=178&uid=36808
-明珠台,http://pull.scphsd.com/live/aadf387306ff4dfd1f815eb0afb4eeef/playlist.m3u8
+明珠台,https://tv.elibei.com/tv/play?token=f7d2c7dd769c478bfe767c01d4026db7&k=7449867010c26a0b26566c330d124e1e&cid=184&uid=36808
 无线财经咨询台,http://www.liveviptv.xyz/tv/tvb.php?vid=wxzx
 香港开电视,http://pull.scphsd.com/live/4a5e54978789269e2ee9de203ae9259b/playlist.m3u8
 有线财经咨询台,https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8#https://ottproxy2.mott.tv/livehls/MOB-NGW/03.m3u8
 有线娱乐台,https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8#https://ottproxy2.mott.tv/livehls/MOB-CN/03.m3u8
-VIUtv,http://pull.scphsd.com/live/d1291fb792a7f6089abd68605b3fb072/playlist.m3u8
+VIUtv,http://pull.scphsd.com/live/b22074773d8ac4e346036d727dc2eca6/playlist.m3u8
 VIUtv,http://hls.globaliptv.ml/viu99.php#https://viutv99-i.akamaihd.net/hls/live/265284/live1/stream2/streamPlaylist.m3u8
 VIUtv six,http://hls.globaliptv.ml/viu96.php
 C+,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
@@ -100,7 +98,6 @@ TVBS HD,vjms://58.215.133.161:8500/live/cid=349
 民视卫视,vjms://58.215.133.184:8500:3502/live/cid=450
 八大第一,vjms://58.215.133.184:8500:3502/live/cid=441
 年代综合,vjms://58.215.133.184:8500:3502/live/cid=439
-
 中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 中天娱乐,http://104.250.154.42:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
@@ -205,10 +202,10 @@ CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD_H265.m3u8
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
 峨眉电影HD,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 
-有线电影台,http://pull.scphsd.com/live/88108fbf774636cf2d530b17e4b80cfa/playlist.m3u8
-TVB星河台,http://pull.scphsd.com/live/3f4f8d88f47282526fc1740f25d596ed/playlist.m3u8
+有线电影台,http://pull.scphsd.com/live/91d5319910d1ae553d74397b49d3d396/playlist.m3u8
+TVB星河台,http://pull.scphsd.com/live/288528eb47fc1eb8a8e1a31b72246038/playlist.m3u8
 TVB星河台,http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
-TVB功夫台,http://pull.scphsd.com/live/26d332e998577c02196cbdb2af51aa00/playlist.m3u8
+TVB功夫台,http://pull.scphsd.com/live/cbf5496a05ef2725b226db6f1fdc0fe2/playlist.m3u8
 凤凰电影台,http://47.240.60.73/gzyx.php?id=fhdy
 HBOHD,vjms://58.215.133.184:8500:3502/live/cid=261
 HBOHD,vjms://58.215.133.161:8500/live/cid=261
