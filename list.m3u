@@ -270,8 +270,6 @@ http://47.91.213.59/live/t6u5b1q4/y7sd1aqy/index.m3u8
 
 #台湾一日行
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" tvg-id="" tvg-name="寰宇娱乐台" group-title="台湾一日行",寰宇娱乐台
-http://hls.jingchangkan.tv/jingchangkan/156725993_5Xjy/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/starmovieshd.jpg" tvg-id="" tvg-name="星空电影" group-title="台湾一日行",星空电影
 https://hdl0903.plures.net/onlive/d1ede7e982d81c76affd1ab12b44b268.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" tvg-id="527" tvg-name="CHANNEL[V]" group-title="台湾一日行",CHANNEL [V]
@@ -326,55 +324,14 @@ http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 #EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="台湾一日行",CTI中天新闻
 http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 
-#港台测试
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="港台测试",翡翠台
-http://hdtv.ubdata.info/ublive/54cac64e1139594701a6bba957c0ded2/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" tvg-id="130" tvg-name="无线新闻" group-title="港台测试",无线新闻台
-http://hdtv.ubdata.info/ublive/c668f47092beb6a792ad0c1bae48e47c/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Now NEWS" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch332_170_122" group-title="港台测试",now新闻台
-http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
-#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港台测试",有线新闻HD
-http://hdtv.ubdata.info/ublive/b9fdf1403d642e79e87d6e8fba2bcedd/index.m3u8
-#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港台测试",民视新闻台HD
-http://hdtv.ubdata.info/ublive/c5b62e561c12e682a67a781914042f20/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台测试",三立news
-http://hdtv.ubdata.info/ublive/d77e5cb5ebeb5923bd916af5e923ef6a/index.m3u8
-#EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="港台测试",中天新闻HD
-http://hdtv.ubdata.info/ublive/5be6b08a66ee95583a5f967b0c91546a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台测试",三立LIVE
-http://hdtv.ubdata.info/ublive/38983779f7ef436c9883b10f8d7ccdef/index.m3u8
-#EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港台测试",华视HD
-http://hdtv.ubdata.info/ublive/ab9d37bd8b842a54234598ca59ca30bf/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" tvg-id="145" tvg-name="美亚高清电影台" group-title="港台测试",美亚高清电影台
-http://pull.scphsd.com/live/756cbe791f7da81c0ed50caa833b0b86.flv
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmov.png" tvg-id="517" tvg-name="星卫HD电影" group-title="港台测试",星卫HD电影台
-http://pull.scphsd.com/live/e5fd20090f6a010ab3e2c6b6c7090382.flv
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" tvg-id="6171" tvg-name="寰宇新闻" group-title="港台测试",寰宇新闻
-http://pull.scphsd.com/live/00806b530ddd4e15afec865b007e1f36/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews2.png" tvg-id="7177" tvg-name="寰宇新闻2" group-title="港台测试",寰宇新闻二台
-http://pull.scphsd.com/live/874991bbba4c4edfb179a52ff4f2dbaa/playlist.m3u8
-#EXTINF:-1 tvg-id="6192" tvg-name="靖天卡通台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天卡通.png" group-title="港台测试",靖天卡通台(W)
-https://pull.scphsd.com/live/a83af223093a44b6a6cbee590491ab39.flv
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" tvg-id="6079" tvg-name="卫视电影台" group-title="港台测试",卫视电影台
-http://pull.scphsd.com/live/6bb767aec321d39c54a60370d98a4e4b.flv
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" tvg-id="6060" tvg-name="TVBS欢乐台" group-title="港台测试",TVBS欢乐台
-http://pull.scphsd.com/live/922ef4176d9142d6ba5ad74243249317.flv
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/JETVariety.png" tvg-id="6063" tvg-name="JET综合台" group-title="港台测试",JET综合台
-http://pull.scphsd.com/live/d30fd8815e0248e4be415ae4c6a8a2cf.flv
-
-
-#欧美频道
-#EXTINF:-1 tvg-id="7144" tvg-name="Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/200px-Rai_Italia_-_Logo_2017.svg.png" group-title="欧美频道",Rai Italia
-https://usb.bozztv.com/ssh101/BX784769/BX784769/index.m3u8
 
 #精彩4K
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg" group-title="精彩4K",BesTV4K
 http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg" group-title="精彩4K",纯享4K
 http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="精彩4K",CCTV4K
-http://60.255.149.248/tslive/c214_scc_20190618_pr3jsp04_original_r10/c214_scc_20190618_pr3jsp04_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="精彩4K",CCTV4K（备）
 http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/12/29/XhAaZzVgo42ESfc.png" group-title="精彩4K",爱上4K
 http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
