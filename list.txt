@@ -15,6 +15,19 @@
 一生何求,https://rescdn.yishihui.com/longvideo/transcode/video/20190211/5623330NnwODJXvf8gTloLSsy.m3u8?Expires=1584419740&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=BZDAn0M8DQ92QQwl%2BFox%2FBaYl8U%3D
 云朵,https://rescdn.yishihui.com/longvideo/transcode/video/20190129/5623330jbrJ9K7xz5TmDZEMa8.m3u8?Expires=1584420006&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=oQQjt7QiJ9HbTBWjgM0LaZKtuwc%3D
 一对旧皮鞋,https://rescdn.yishihui.com/longvideo/transcode/video/live/201905165623330OE3C8kacHqodislfe0.m3u8?Expires=1584420275&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=AsTDayRYqRCYj%2B5tNtK7Kcz18Nk%3D
+夜夜夜夜,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzsKv5wUokuDIcg.m3u8
+So sad,https://rescdn.yishihui.com/longvideo/transcode/video/live/201907095623330aOBuDmx5Di7vTQihj1.m3u8?Expires=1584436139&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=0QdIOnrbqDjfhulZ4Jys6bZAT1s%3D
+说不出的未来,https://rescdn.yishihui.com/longvideo/transcode/video/live/201906195623330y6X0L2La1vJIBqlepM.m3u8?Expires=1584436743&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=kuZXdyh02QGLFgS9NFLzQ8ksAxo%3D
+梦伴,https://rescdn.yishihui.com/longvideo/transcode/video/live/201906155623330RH5BtmGZk1IEqEI8IV.m3u8?Expires=1584436872&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=ogWQGOJ%2FL7hSJ2kcuIdRIa2%2FJbY%3D
+海上花,https://rescdn.yishihui.com/longvideo/transcode/video/live/201905105623330zdvSxb1v3dSEdIZDG4.m3u8?Expires=1584439140&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=8wfR5v3dbWm%2BWVXHKMUXEy2Jb70%3D
+冰冻女人,https://rescdn.yishihui.com/longvideo/transcode/video/live/201903195623330IY2kXc7pLiRs0vpfAe.m3u8?Expires=1584437836&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=jMJ1rELpJwFZjOYx94D61tfkn3A%3D
+蒙古人,https://rescdn.yishihui.com/longvideo/transcode/video/20190302/5623330Jp2tnhiLg1Dv2pwICE.m3u8?Expires=1584438199&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=x8HJ%2BVAm1U2OXF2vttPY%2BB7o%2FXM%3D
+男朋友,https://rescdn.yishihui.com/longvideo/transcode/video/20190216/5623330k4vjN8sqCblLOUMBCw.m3u8?Expires=1584438147&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=JXWkpNFuWE0%2F8X1YpiBdK%2FSr7F4%3D
+ShaLaLaLA,https://rescdn.yishihui.com/longvideo/transcode/video/20190211/5623330f5IX4SiBU9hZhe7tHE.m3u8?Expires=1584439274&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=UyAZWS9z%2Fy3oySzqXfD2DhrxwJY%3D
+交织千个心,https://rescdn.yishihui.com/longvideo/transcode/video/2019-1-3/b6f749ce7eba4994980fe94c8dd4d39b1548393675798.m3u8?Expires=1584438640&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=L9oIWyu8A7LFd6OFhONJsMTqHSg%3D
+Heyy Babeyy,https://rescdn.yishihui.com/longvideo/transcode/video/2019-1-3/2593fef38e714c249d224942c40db78b1548255126531.m3u8?Expires=1584438734&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=5DKg%2F2V4al2TL23N%2FuZXCtMS1IE%3D
+春江花月夜,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20191020/5623330R3lGnd9BvLf5p93IQT.m3u8?Expires=1584438965&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=ksGAC4mgA4nBvevF1mqqNuPrxCE%3D
+海阔天空,https://rescdn.yishihui.com/longvideo/transcode/video/live/2019041656233308bafYetuMBPoF5a3gH.m3u8?Expires=1584439084&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=yxaHChRToO4XUyCenHdl0JmDC00%3D
 
 央视频道,#genre#
 超高清 4K,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
