@@ -73,13 +73,13 @@ CGTN,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/200165680
 凤凰中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 凤凰资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 凤凰香港台,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
-
+NOW新闻,http://pull.scphsd.com/live/df7e62c6af19af13dc9147768729c82f/playlist.m3u8
 无线新闻台,https://tv.elibei.com/tv/play?token=c53c2425123852327994cc6b8b57e2e2&k=7449867010c26a0b26566c330d124e1e&cid=196&uid=36808
 无线新闻台,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 
-有线新闻台,http://pull.scphsd.com/live/9476c44cdf496a56c80d2d8eda6ccfb0/playlist.m3u8
+有线新闻台,http://pull.scphsd.com/live/a56c80d2d8eda6ccfb09476c44cdf496/playlist.m3u8
 有线新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
-港台32,http://pull.scphsd.com/live/79adc430f847b08711bc55604bdcade8/playlist.m3u8
+港台32,http://pull.scphsd.com/live/3ef32adc4f2e5262406eaaa1c9ffe1db/playlist.m3u8
 壹電視新聞,http://pull.scphsd.com/live/ea8d68473faf93cd9ebbe18ec48b55ad/playlist.m3u8#p2p://51.79.41.138:18912/5c724897000cb1861d5316f515e3763e.ts
 
 三立新闻,vjms://58.215.133.161:8500/live/cid=352
@@ -220,10 +220,10 @@ CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD_H265.m3u8
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
 峨眉电影HD,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 
-有线电影台,http://pull.scphsd.com/live/91d5319910d1ae553d74397b49d3d396/playlist.m3u8
+有线电影台,http://pull.scphsd.com/live/d7d02941e83ca1951699d1e237d07c74/playlist.m3u8
 TVB星河台,http://pull.scphsd.com/live/288528eb47fc1eb8a8e1a31b72246038/playlist.m3u8
 TVB星河台,http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
-TVB功夫台,http://pull.scphsd.com/live/cbf5496a05ef2725b226db6f1fdc0fe2/playlist.m3u8
+http://pull.scphsd.com/live/bcbf8f8b06f6bc1cf31e5edbf230286d/playlist.m3u8
 凤凰电影台,http://47.240.60.73/gzyx.php?id=fhdy
 HBOHD,vjms://58.215.133.184:8500:3502/live/cid=261
 HBOHD,vjms://58.215.133.161:8500/live/cid=261
