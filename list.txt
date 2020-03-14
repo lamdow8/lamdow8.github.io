@@ -6,9 +6,15 @@
 中岛美雪 この世に二人だけ,https://rescdn.yishihui.com/longvideo/transcode/video/2019-1-3/6abe05f7397249d9a2bcf90d372669f61548290067589.m3u8?Expires=1584374170&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=oInfKSsaacrMwraipko2UWN49ok%3D
 祝福,https://rescdn.yishihui.com/longvideo/transcode/video/live/201905145623330aCm0SD3BtrQpdu4aE0.m3u8?Expires=1584374534&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=ryhtpcIz6deVSmNmp7KX%2BVIhGko%3D
 西海情歌,https://rescdn.yishihui.com/longvideo/transcode/video/20190211/5623330miLkhSho5ndJuzfitI.m3u8?Expires=1584381261&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=sjIlA8hezITdsF6eukhiPXph9s0%3D
-把根留住,http://ykugc.cp31.ott.cibntv.net.csy302.myalicdn.com/6777134C4C6367163DCDC33EB/0300200100556FA6266CDC14F453B159E758C6-C4E0-1B2B-8A51-4E5844E504A2.mp4?ccode=0505&duration=240&expire=18000&psid=fa3b10c4f64ff3f47cebb40ee7a79d3e&ups_client_netip=dfc66a9b&ups_ts=1584123644&ups_userid=&utid=1evWFdgYHl8CAd9oF1ReN31S&vid=XMTI1NDQ1MjQ0OA&vkey=B3f840943460b287acb886588b2d220e8&eo=1&bc=1&dre=u21&si=42&dst=1&ali_redirect_domain=ykugc.cp31.ott.cibntv.net&ali_redirect_ex_ftag=272d9bda2513feccd91fe533b931411caeb301af554a93b7&ali_redirect_ex_tmining_ts=1584123645&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=0
+
 明天会更好,https://rescdn.yishihui.com/longvideo/transcode/video/live/20191025/5623330EaBkagf7rZCC7Ea7so.m3u8?Expires=1584409311&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=TCz424C1VyEg2Quk3Rsz01iiQco%3D
 加州旅馆,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20191009/5623330j6JM7ikGlkhwJjy1Ex.m3u8?Expires=1584409716&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=bkiloHTsJ%2FOigjgvUvNDwsAUSec%3D
+沉默是金,https://rescdn.yishihui.com/longvideo/transcode/video/live/201904155623330rBMy6XY2rSdHj2JMAW.m3u8?Expires=1584418618&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=ObgG8qKQfdZUxXCzi5z%2FCf2iZxg%3D
+走天涯,https://rescdn.yishihui.com/longvideo/transcode/video/live/201903195623330Ci9D8opKfn5uycdVzC.m3u8?Expires=1584418731&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=5DXj3G8aalaR9G3Eof1z6Vw8WEc%3D
+似是故人来,https://rescdn.yishihui.com/longvideo/transcode/video/20190212/5623330AcllmC0HGNfgNlsEZQ.m3u8?Expires=1584419582&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=B1vPSRt%2BRv4Uzrow0AU3Ornj4HM%3D
+一生何求,https://rescdn.yishihui.com/longvideo/transcode/video/20190211/5623330NnwODJXvf8gTloLSsy.m3u8?Expires=1584419740&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=BZDAn0M8DQ92QQwl%2BFox%2FBaYl8U%3D
+云朵,https://rescdn.yishihui.com/longvideo/transcode/video/20190129/5623330jbrJ9K7xz5TmDZEMa8.m3u8?Expires=1584420006&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=oQQjt7QiJ9HbTBWjgM0LaZKtuwc%3D
+一对旧皮鞋,https://rescdn.yishihui.com/longvideo/transcode/video/live/201905165623330OE3C8kacHqodislfe0.m3u8?Expires=1584420275&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=AsTDayRYqRCYj%2B5tNtK7Kcz18Nk%3D
 
 央视频道,#genre#
 超高清 4K,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
