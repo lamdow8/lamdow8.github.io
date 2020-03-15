@@ -93,8 +93,7 @@ NOW新闻,http://pull.scphsd.com/live/df7e62c6af19af13dc9147768729c82f/playlist.
 有线新闻台,http://pull.scphsd.com/live/a56c80d2d8eda6ccfb09476c44cdf496/playlist.m3u8
 有线新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
 港台32,http://pull.scphsd.com/live/3ef32adc4f2e5262406eaaa1c9ffe1db/playlist.m3u8
-壹電視新聞,http://pull.scphsd.com/live/ea8d68473faf93cd9ebbe18ec48b55ad/playlist.m3u8#p2p://51.79.41.138:18912/5c724897000cb1861d5316f515e3763e.ts
-
+壹電視新聞,http://pull.scphsd.com/live/380c4d6c56dbb8ff73e032cd61908b6e/playlist.m3u8
 三立新闻,vjms://58.215.133.161:8500/live/cid=352
 年代新闻,vjms://58.215.133.161:8500/live/cid=455
 东森新闻,vjms://58.215.133.161:8500/live/cid=340
@@ -179,48 +178,7 @@ TVBS新闻台,rtmp://59.124.75.156:1935/sat/tv552
 东森财*新闻台,rtmp://59.124.75.156/sat/tv572
 东森财*新闻台,rtmp://59.124.75.156:1935/sat/tv571
 东森财*新闻台,rtmp://59.124.75.156:1935/sat/tv572
-
-移动超清源,#genre#
-CCTV4K超高清,http://112.17.40.145/PLTV/88888888/224/3221226758/index.m3u8
-CCTV4K(移动高码率),http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
-BesTV 4K(移动),http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
-凤凰中文HD,http://112.17.40.145/PLTV/88888888/224/3221226368/index.m3u8
-凤凰资讯HD,http://112.17.40.145/PLTV/88888888/224/3221226491/index.m3u8
-求索记录HD,http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
-求索动物HD,http://112.17.40.145/PLTV/88888888/224/3221226695/index.m3u8
-凤凰资讯HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/01.m3u8
-凤凰中文HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/01.m3u8
-CCTV-1超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/
-CCTV-2高清,http://223.110.242.204:6610/gitv/live1/G_CCTV-2-HD/G_CCTV-2-HD/
-CCTV-3超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/
-CCTV-4超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/
-CCTV-5超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
-CCTV-5+超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ/
-CCTV-6超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/
-CCTV-7超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/
-CCTV-8超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/
-CCTV-9超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-9/G_CCTV-9/
-CCTV-10超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/
-CCTV-11超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/
-CCTV-12超清,http://223.110.242.204:6610/gitv/live1/CCTV-12/CCTV-12/
-CCTV-13超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
-CCTV-14超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-14/G_CCTV-14/
-CCTV-15超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
-CCTV-NEWS,http://223.110.242.204:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/
-CCTV-1蓝光,http://223.110.242.204:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
-CCTV-2蓝光,http://223.110.242.204:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/
-CCTV-3蓝光,http://223.110.242.204:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/
-CCTV-4蓝光,http://223.110.242.204:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/
-CCTV-5蓝光,http://223.110.242.204:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/
-CCTV-5+蓝光,http://223.110.242.204:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/
-CCTV-6蓝光,http://223.110.242.204:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/
-CCTV-8蓝光,http://223.110.242.204:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/
-湖南卫视超清-8M,http://223.110.242.204:6610/gitv/live1/G_HUNAN-CQ/G_HUNAN-CQ/
-江苏卫视超清,http://223.110.242.204:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/
-北京卫视超清-8M,http://223.110.242.204:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/
-浙江卫视超清,http://223.110.242.204:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/
-东方卫视超清-8M,http://223.110.242.204:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/
-山东卫视超清,http://223.110.242.204:6610/gitv/live1/G_SHANDONG-HQ/G_SHANDONG-HQ/
+華 視,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
 
 影视频道,#genre#
 纯享4K(移动),http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
@@ -233,10 +191,9 @@ CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD_H265.m3u8
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
 峨眉电影HD,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 
-有线电影台,http://pull.scphsd.com/live/d7d02941e83ca1951699d1e237d07c74/playlist.m3u8
-TVB星河台,http://pull.scphsd.com/live/288528eb47fc1eb8a8e1a31b72246038/playlist.m3u8
+有线电影台,http://pull.scphsd.com/live/c484c2972a551003f77e13c9c3354b46/playlist.m3u8
+TVB星河台,http://pull.scphsd.com/live/166eb0f8dda23fdcb011f63620e49281/playlist.m3u8
 TVB星河台,http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
-http://pull.scphsd.com/live/bcbf8f8b06f6bc1cf31e5edbf230286d/playlist.m3u8
 凤凰电影台,http://47.240.60.73/gzyx.php?id=fhdy
 HBOHD,vjms://58.215.133.184:8500:3502/live/cid=261
 HBOHD,vjms://58.215.133.161:8500/live/cid=261
@@ -307,53 +264,47 @@ AEC,p2p://sdgdklwos.finetv.tv:9906/5b2c873100007ef4067c1d2352642785.ts
 澳门互动新闻,http://202.175.127.77/live/show/ch2/index.m3u8
 澳门有线三台,http://202.175.127.77/live/show/ch3/index.m3u8
 
-
-
-代理源测试,#genre#
-翡翠台,http://hzyhjg.cc/cs/gat/fct.php
-TVB J2,http://hzyhjg.cc/cs/gat/tvbj2.php
-TVB J2,http://hzyhjg.cc/cs/gat/tvbj2-2.php
-无线新闻,http://hzyhjg.cc/cs/gat/wxxw.php
-无线新闻,http://hzyhjg.cc/cs/gat/wxxw-2.php
-明珠台,http://hzyhjg.cc/cs/gat/mzt.php
-明珠台,http://hzyhjg.cc/cs/gat/mzt-2.php
-viu tv,http://hzyhjg.cc/cs/gat/viu tv.php
-无线财经,http://hzyhjg.cc/cs/gat/wxcjzx.php
-有线新闻,http://hzyhjg.cc/cs/gat/yxxw.php
-有线603,http://hzyhjg.cc/cs/gat/yx603.php
-中天新闻,http://hzyhjg.cc/cs/gat/ztxw.php
-东森新闻,http://hzyhjg.cc/cs/gat/dsxw.php
-中视,http://hzyhjg.cc/cs/gat/zs.php
-台视,http://hzyhjg.cc/cs/gat/ts.php
-民视,http://hzyhjg.cc/cs/gat/ms.php
-年代新闻,http://hzyhjg.cc/cs/gat/ndxw.php
-非凡新闻,http://hzyhjg.cc/cs/gat/ffxw.php
-三立台湾,http://hzyhjg.cc/cs/gat/sltwt.php
-RHK31,http://hzyhjg.cc/cs/gat/rhk31.php
-HBO HD,http://hzyhjg.cc/cs/gat/hbo.php
-凤凰中文,http://103.218.3.150/dl/147258.php?id=2
-凤凰資訊,http://103.218.3.150/dl/147258.php?id=3
-星空衛視,http://103.218.3.150/dl/147258.php?id=18
-TVB 明珠,http://103.218.3.150/dl/147258.php?id=13
-TVB 翡翠,http://103.218.3.150/dl/147258.php?id=1
-TVB J2,http://103.218.3.150/dl/147258.php?id=12
-Viu TV,http://103.218.3.150/dl/147258.php?id=8
-耀才財經,http://103.218.3.150/dl/147258.php?id=19
-无线财经,http://103.218.3.150/dl/147258.php?id=10
-无线新闻,http://103.218.3.150/dl/147258.php?id=9
-有线新闻,http://103.218.3.150/dl/147258.php?id=31
-澳門衛視,http://103.218.3.150/dl/147258.php?id=23
-澳亞衛視,http://103.218.3.150/dl/147258.php?id=24
-香港卫视,http://103.218.3.150/dl/147258.php?id=6
-RHK32,http://103.218.3.150/dl/147258.php?id=21
-有线电影台,http://103.218.3.150/dl/147258.php?id=30
-星河台,http://103.218.3.150/dl/147258.php?id=17
-莲花卫视,http://103.218.3.150/dl/147258.php?id=33
-澳門衛視,,http://103.218.3.150/dl/147258.php?id=23
-澳亞衛視,,,http://103.218.3.150/dl/147258.php?id=24
-澳門互動新聞台,http://103.218.3.150/dl/147258.php?id=26
-澳門有線一台,http://103.218.3.150/dl/147258.php?id=25
-
+移动超清源,#genre#
+CCTV4K超高清,http://112.17.40.145/PLTV/88888888/224/3221226758/index.m3u8
+CCTV4K(移动高码率),http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
+BesTV 4K(移动),http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+凤凰中文HD,http://112.17.40.145/PLTV/88888888/224/3221226368/index.m3u8
+凤凰资讯HD,http://112.17.40.145/PLTV/88888888/224/3221226491/index.m3u8
+求索记录HD,http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
+求索动物HD,http://112.17.40.145/PLTV/88888888/224/3221226695/index.m3u8
+凤凰资讯HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/01.m3u8
+凤凰中文HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/01.m3u8
+CCTV-1超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/
+CCTV-2高清,http://223.110.242.204:6610/gitv/live1/G_CCTV-2-HD/G_CCTV-2-HD/
+CCTV-3超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/
+CCTV-4超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/
+CCTV-5超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
+CCTV-5+超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ/
+CCTV-6超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/
+CCTV-7超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/
+CCTV-8超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/
+CCTV-9超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-9/G_CCTV-9/
+CCTV-10超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/
+CCTV-11超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/
+CCTV-12超清,http://223.110.242.204:6610/gitv/live1/CCTV-12/CCTV-12/
+CCTV-13超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
+CCTV-14超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-14/G_CCTV-14/
+CCTV-15超清,http://223.110.242.204:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
+CCTV-NEWS,http://223.110.242.204:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/
+CCTV-1蓝光,http://223.110.242.204:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
+CCTV-2蓝光,http://223.110.242.204:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/
+CCTV-3蓝光,http://223.110.242.204:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/
+CCTV-4蓝光,http://223.110.242.204:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/
+CCTV-5蓝光,http://223.110.242.204:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/
+CCTV-5+蓝光,http://223.110.242.204:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/
+CCTV-6蓝光,http://223.110.242.204:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/
+CCTV-8蓝光,http://223.110.242.204:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/
+湖南卫视超清-8M,http://223.110.242.204:6610/gitv/live1/G_HUNAN-CQ/G_HUNAN-CQ/
+江苏卫视超清,http://223.110.242.204:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/
+北京卫视超清-8M,http://223.110.242.204:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/
+浙江卫视超清,http://223.110.242.204:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/
+东方卫视超清-8M,http://223.110.242.204:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/
+山东卫视超清,http://223.110.242.204:6610/gitv/live1/G_SHANDONG-HQ/G_SHANDONG-HQ/
 
 vjms源测试,#genre#
 民視HD,vjms://58.215.133.161:8500/live/cid=450
@@ -505,24 +456,6 @@ Movie Plus,vjms://58.215.133.184:8500:3502/live/cid=497
 
 
 p2p源测试,#genre#
-香港有綫新聞台HD,mitv://198.255.74.57:12396/5e502080000cac0a3d32fddab505f816.ts
-香港有綫電影台HD,mitv://198.255.74.57:12396/5e502080000bda4b3d32fda5c67d4497.ts
-鳳凰衛視中文台HD,mitv://198.255.74.56:19906/5dcf835d00003223057e0ab1ecce4f95.ts#mitv://198.255.74.57:12396/5e502080000f31733d32fe803275a3b2.ts
-鳳凰衛視資訊台HD,mitv://198.255.74.57:12396/5e502080000e56cc3d32fe486f65861e.t
-鳳凰衛視香港台HD,mitv://198.255.74.57:12396/5e502080000d81ed3d32fe1146391509.ts
-星空衛視,mitv://198.255.74.57:12396/5e5020810001975d3d32feec7da3a9d1.ts
-TVB J2,mitv://198.255.74.57:12396/5e5020840001a1223d330aa74cb1ccd5.ts
-TVB無綫新聞台,mitv://198.255.74.57:12396/5e5020840000cc1e3d330a70ca1a8614.ts
-TVB星河,mitv://198.255.74.57:12396/5e50207e00034a933d32f3a42bd947a2.ts
-TVB翡翠台,mitv://198.255.74.57:12396/5e502083000f32013d330a38c5462049.ts
-TVB Pearl明珠台,mitv://198.255.74.57:12396/5e5020810005fbee3d33000cecd53652.ts
-ViuTV,mitv://198.255.74.57:12396/5e502081000434db3d32ff98c2c3e2b6.ts
-EBC東森新聞HD,mitv://198.255.74.57:12396/5e50207b000262053d32e7b0043e9cd8.ts
-香港開電視,mitv://198.255.74.57:12396/5e502083000ee1003d330a23da058f45.ts
-香港電台RTHK32,mitv://198.255.74.57:12396/5e5020810005111f3d32ffd0f7c066b7.ts
-Viu6TV,mitv://198.255.74.57:12396/5e5020810003593f3d32ff5f0b34caac.ts
-TVB無綫財經資訊台,mitv://198.255.74.57:12396/5e5020810002752f3d32ff252f84c69d.ts
-華 視,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
 民視,P2p://190.2.146.92:18912/5c72483f0003db4b1d51bcf349367c26.ts
 中視,P2p://190.2.146.92:18912/5c72484b000b1d091d51edb7087b7686.ts#http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 TVBS精彩台,P2p://190.2.146.92:18912/5bdbf3b20000e966d2177540400d0818.ts
@@ -737,13 +670,6 @@ ELTA體育3,p2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
 出水芙蓉,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/28f9967b04984830b3a1f6fb27561000/850.m3u8
 桂河大桥,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b125a3edccb34637b336cb867e8a5d5d/850.m3u8
 
-轮播,#genre#
-DOX新艺 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxxinyihd
-DOX新知 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxxinzhihd
-DOX怡家 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyijiahd
-DOX英伦 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyinglunhd
-DOX映画 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyinghuahd
-DOX院线 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyuanxianhd
 
 一本道_4600,#genre#
 3P插到潮喷,https://qqc1107.phpdaniu.com/japan/20191013/lcMXHzfW/500kb/hls/index.m3u8
