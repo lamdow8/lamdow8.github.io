@@ -202,6 +202,8 @@ http://pull.scphsd.com/live/fefc5b4090b978cbb911f98ba68b6fe4/playlist.m3u8
 
 
 #港澳一日游
+#EXTINF:-1 tvg-id="" tvg-name="Now NEWS" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch332_170_122" group-title="港澳一日游",now新闻台
+http://pull.scphsd.com/live/df7e62c6af19af13dc9147768729c82f/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="港澳一日游",翡翠台
 https://tv.elibei.com/tv/play?token=499b831fdfbdb8bc62b5a3b23ee3b27a&k=7449867010c26a0b26566c330d124e1e&cid=183&uid=36808
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" tvg-id="127" tvg-name="明珠台" group-title="港澳一日游",明珠台
