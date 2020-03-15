@@ -28,6 +28,19 @@ ShaLaLaLA,https://rescdn.yishihui.com/longvideo/transcode/video/20190211/5623330
 Heyy Babeyy,https://rescdn.yishihui.com/longvideo/transcode/video/2019-1-3/2593fef38e714c249d224942c40db78b1548255126531.m3u8?Expires=1584438734&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=5DKg%2F2V4al2TL23N%2FuZXCtMS1IE%3D
 春江花月夜,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20191020/5623330R3lGnd9BvLf5p93IQT.m3u8?Expires=1584438965&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=ksGAC4mgA4nBvevF1mqqNuPrxCE%3D
 海阔天空,https://rescdn.yishihui.com/longvideo/transcode/video/live/2019041656233308bafYetuMBPoF5a3gH.m3u8?Expires=1584439084&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=yxaHChRToO4XUyCenHdl0JmDC00%3D
+故乡的云,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20190925/10014627eTrWsSU1Vidd2DLFI8.m3u8?Expires=1584457937&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=ockQwA7s%2BnD3DRKFcEVzOrOigHQ%3D
+黄玫瑰,https://rescdn.yishihui.com/longvideo/transcode/video/live/201907115572522LlScnCwldCVsSDVg4b.m3u8?Expires=1584458335&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=ck3HjfuS81CLm%2F0iKlFnbKhpQfU%3D
+天长地久,https://rescdn.yishihui.com/longvideo/transcode/video/live/201907095623330fMIGbfhNGL2arPi87P.m3u8?Expires=1584545654&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=dj1VSM44YGM2i9kl69YPZ0yWUek%3D
+葬心,https://rescdn.yishihui.com/longvideo/transcode/video/live/201906235623330zV6ozKjAEHU2P2Cjgg.m3u8?Expires=1584545862&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=4%2F%2Fr%2FkqCoLrsdM1jAV6lfIogxjE%3D
+孩儿,https://rescdn.yishihui.com/longvideo/transcode/video/live/201906045623330TmHJGBUo0dKXLDUtjC.m3u8?Expires=1584545928&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=%2FjZFQ9QpNX75p8ERiLNNthi7BQc%3D
+军港之夜,https://rescdn.yishihui.com/longvideo/transcode/video/live/201904145623330ZHWcqk2vLMtb7Ea6Vb.m3u8?Expires=1584546177&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=cLSYiNF%2FMPmm41a2Je%2FESMZPxlA%3D
+青藏高原,https://rescdn.yishihui.com/longvideo/transcode/video/live/201903295540464orpD5b61feTqUeVcTo.m3u8?Expires=1584546114&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=TxLM4LWofjMRckWw8IpcJm75KPY%3D
+Alizee-La.isla.bonita,https://rescdn.yishihui.com/longvideo/transcode/video/20190317/5623330vlfE1Rak9bUmCKgbZy.m3u8?Expires=1584546387&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=lIPY6hqX3MkDEIJOeftjDOvNjpQ%3D
+鸿雁,https://rescdn.yishihui.com/longvideo/transcode/video/live/201903295540464uehNWmz3FsGcY00WK1.m3u8?Expires=1584546394&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=Z7H3xMPupRuZWmde6wp6yiwFvho%3D
+Robert Miles - Children,https://rescdn.yishihui.com/longvideo/transcode/video/20190316/5623330sUEQCqny8ntdmZzAR5.m3u8?Expires=1584546668&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=kKxzJ1zqLI%2BOilKtoTW9x91goMg%3D
+Jordy - Dur Dur D'être Bébé!,https://rescdn.yishihui.com/longvideo/transcode/video/20190316/5623330FKHPJXGDGzVEZGwH3y.m3u8?Expires=1584546781&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=ggAswjgAnZ2Vu9yKl5WPeeD6jg4%3D
+下辈子我还记得你,https://rescdn.yishihui.com/longvideo/transcode/video/20190308/5623330ZXlYyjFGpiEStJNGxV.m3u8?Expires=1584546902&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=5Uz6pcT4BThVaM0VYW5OPobTXJI%3D
+没有情人的情人节,https://rescdn.yishihui.com/longvideo/transcode/video/20190214/5623330IBfbFHHcDCe6HHCX2I.m3u8?Expires=1584547064&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=WtEU8bCeLy4LZIt4URUulPoVowk%3D
 
 央视频道,#genre#
 超高清 4K,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
