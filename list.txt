@@ -142,10 +142,6 @@ TVBS HD,vjms://58.215.133.161:8500/live/cid=349
 中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 中天娱乐,http://104.250.154.42:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-東森電影,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-龍祥時代,http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
-好萊塢,http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-FOX電影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 華 視,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
 
 影视频道,#genre#
@@ -173,6 +169,35 @@ HBO溫馨,vjms://58.215.133.161:8500/live/cid=181
 寰宇娱乐台,http://hls.jingchangkan.tv/jingchangkan/156725993_5Xjy/index.m3u8
 星空电影,https://hdl0903.plures.net/onlive/d1ede7e982d81c76affd1ab12b44b268.flv
 广东科教(官网),http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
+东森电影,http://cdn1.idcva.com/hls/live.m3u8
+东森电影,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+龍祥時代,http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
+好萊塢,http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+FOX電影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+海爷TV动漫,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/492270/live_189986442_7728008.m3u8
+海爷TV动作,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/366214/live_199793349_7660540.m3u8
+海爷TV海外,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/471169/live_27444411_4287972.m3u8
+海爷TV国产,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/750227/live_268522326_2538218.m3u8
+海爷TV国外,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/211012/live_52370715_1734265.m3u8
+海爷TV科幻,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/243318/live_261831479_8429255.m3u8
+海爷TV恐怖,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/428049/live_280698572_9101071.m3u8
+海爷TV小新,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/293317/live_255137759_7132099.m3u8
+海爷TV9号厅,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/141477/live_82436982_2406441.m3u8
+
+测试港台,#genre#
+年代新闻HD,http://104.243.17.219/qq/ndxw.php
+TVB翡翠台HD,http://104.243.17.219/qq/tvbfc.php
+台湾壹新闻HD,http://104.243.17.219/qq/twyxw.php
+非凡新闻台HD,http://104.243.17.219/qq/ffxw.php
+无线新闻台HD,http://104.243.17.219/qq/wxxw.php
+有线新闻台HD,http://104.243.17.219/qq/yxxw.php
+RHK32,http://104.243.17.219/qq/rhk32.php
+三立新闻台,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298998_I3GDL.m3u8
+東森新聞台,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8
+非凡新聞台,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298641_fQSGz.m3u8
+東森電影台,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298786_WkyL7.m3u8
+有线18台,rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch211
+有线603,rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch215
 
 体育综合,#genre#
 纬来体育[HD],vjms://58.215.133.185:8500:3502/live/cid=202#rtmp://59.124.75.156/sat/tv721
@@ -185,7 +210,7 @@ ELTA體育1台,https://hdl0903.plures.net/onlive/3ca17d17faeb6e483adf74de4175646
 Channel V,rtmp://58.200.131.2/livetv/channelv
 MTV 音乐频道,https://116.77.72.195/streams/d/mtv/playlist.m3u8#http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 M2O音乐台,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-
+岭南戏曲,http://szlive.grtn.cn/lnxq/sd/live.m3u8
 新视觉,https://keonline.shanghai.liveplay.qq.com/live/program/live/xsjhd/2300000/mnf.m3u8
 體育FOX3HD,vjms://58.215.133.161:8500/live/cid=95
 體育FOX2 Sports,vjms://58.215.133.161:8500/live/cid=444
