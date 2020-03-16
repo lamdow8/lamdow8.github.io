@@ -117,13 +117,15 @@ TVBS新闻,vjms://58.215.133.161:8500/live/cid=348#rtmp://59.124.75.156/sat/tv55
 TVBS新闻,vjms://58.215.133.184:8500:3502/live/cid=348
 年代新闻,vjms://58.215.133.184:8500:3502/live/cid=455
 东森财经新闻,vjms://58.215.133.184:8500:3502/live/cid=456
+中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8#http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 中天新闻,vjms://58.215.133.184:8500:3502/live/cid=407
 东森新闻,vjms://58.215.133.185:8500:3502/live/cid=340
 非凡新闻,vjms://58.215.133.184:8500:3502/live/cid=443
+东森新闻,http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+年代新闻,http://192.200.120.82:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 
 
 港台综合,#genre#
-
 翡翠台,https://tv.elibei.com/tv/play?token=499b831fdfbdb8bc62b5a3b23ee3b27a&k=7449867010c26a0b26566c330d124e1e&cid=183&uid=36808
 J2台,https://tv.elibei.com/tv/play?token=489c8d68b159f764ef9b6f1ce13638df&k=7449867010c26a0b26566c330d124e1e&cid=178&uid=36808
 明珠台,https://tv.elibei.com/tv/play?token=f7d2c7dd769c478bfe767c01d4026db7&k=7449867010c26a0b26566c330d124e1e&cid=184&uid=36808
@@ -139,22 +141,26 @@ TVBS HD,vjms://58.215.133.161:8500/live/cid=349
 民视卫视,vjms://58.215.133.184:8500:3502/live/cid=450
 八大第一,vjms://58.215.133.184:8500:3502/live/cid=441
 年代综合,vjms://58.215.133.184:8500:3502/live/cid=439
-中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 中天娱乐,http://104.250.154.42:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-華 視,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
+华视HD,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
+中视HD,http://192.200.120.82:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+华视HD,http://192.200.120.82:8080/ZZ_huashi/ZZ_huashi.m3u8
+八大综合台,http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+中天综合,http://192.200.120.82:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+中天娱乐,http://192.200.120.82:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+国家地理,http://192.200.120.82:8080/ZZ_hbo/ZZ_hbo.m3u8
+
 
 影视频道,#genre#
 纯享4K(移动),http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 爱上4K测试,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
-
 广东综艺4K(官网),http://nclive.grtn.cn/4K/sd/live.m3u8
 CHC高清电影,http://otvstream-hnsec.otvcloud.com/otv/skcc/live/channel43063/2300.m3u8?k=2d62c518efbc63054dcb6c26763931f4&t=5E68D6BA&UID=9C5BB708
 CHC高清电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8
 CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD_H265.m3u8
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
 峨眉电影HD,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-
 有线电影台,http://pull.scphsd.com/live/f15904de1dbd91e7d921ddacbf0067e5/playlist.m3u8
 TVB星河台,http://pull.scphsd.com/live/aa445116a142c4cdec47f7edd95b22b9/playlist.m3u8
 TVB星河台,http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
@@ -171,9 +177,18 @@ HBO溫馨,vjms://58.215.133.161:8500/live/cid=181
 广东科教(官网),http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
 东森电影,http://cdn1.idcva.com/hls/live.m3u8
 东森电影,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-龍祥時代,http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
-好萊塢,http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-FOX電影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+龙祥时代,http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
+好莱坞电影,http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+FOX动作电影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+东森电影,http://192.200.120.82:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+东森洋片,http://192.200.120.82:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+龙祥时代,http://192.200.120.82:8080/ZZ_shidai/ZZ_shidai.m3u8
+好莱坞电影,http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+FOX动作电影,http://192.200.120.82:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+动物星球,http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
+华纳电影,http://192.200.120.82:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
+CHC動作電影,http://192.200.120.82:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8
+CHC高清電影,http://192.200.120.82:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8
 海爷TV动漫,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/492270/live_189986442_7728008.m3u8
 海爷TV动作,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/366214/live_199793349_7660540.m3u8
 海爷TV海外,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/471169/live_27444411_4287972.m3u8
