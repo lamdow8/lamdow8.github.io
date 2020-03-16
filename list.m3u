@@ -203,7 +203,7 @@ http://pull.scphsd.com/live/fefc5b4090b978cbb911f98ba68b6fe4/playlist.m3u8
 
 #港澳一日游
 #EXTINF:-1 tvg-id="" tvg-name="Now NEWS" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch332_170_122" group-title="港澳一日游",now新闻台
-http://pull.scphsd.com/live/df7e62c6af19af13dc9147768729c82f/playlist.m3u8
+http://pull.scphsd.com/live/3dc9147768729c82fdf7e62c6af19af1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="港澳一日游",翡翠台
 https://tv.elibei.com/tv/play?token=499b831fdfbdb8bc62b5a3b23ee3b27a&k=7449867010c26a0b26566c330d124e1e&cid=183&uid=36808
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" tvg-id="127" tvg-name="明珠台" group-title="港澳一日游",明珠台
@@ -213,7 +213,7 @@ https://tv.elibei.com/tv/play?token=c53c2425123852327994cc6b8b57e2e2&k=744986701
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" tvg-id="130" tvg-name="无线新闻" group-title="港澳一日游",无线新闻台(备)
 http://www.liveviptv.xyz/tv/tvb.php?vid=wx
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" tvg-id="7122" tvg-name="有线新闻台" group-title="港澳一日游",有线新闻台HD
-http://pull.scphsd.com/live/a56c80d2d8eda6ccfb09476c44cdf496/playlist.m3u8
+http://pull.scphsd.com/live/acfb09476c44cdf49656c80d2d8eda6c/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-finance.jpg" tvg-id="133" tvg-name="无线财经" group-title="港澳一日游",无线财经咨询台
 http://www.liveviptv.xyz/tv/tvb.php?vid=wxzx
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-id="141" tvg-name="凤凰中文" group-title="港澳一日游",凤凰卫视中文HD
@@ -229,7 +229,7 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226120/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" tvg-id="143" tvg-name="凤凰香港" group-title="港澳一日游",凤凰卫视香港台(备)
 http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" tvg-id="408" tvg-name="ViuTV" group-title="港澳一日游",Viu TV
-http://pull.scphsd.com/live/b22074773d8ac4e346036d727dc2eca6/playlist.m3u8
+http://pull.scphsd.com/live/074773d8ac4e3460b6d727dc2eca6223/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" tvg-id="412" tvg-name="HKS" group-title="港澳一日游",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" tvg-id="416" tvg-name="J2" group-title="港澳一日游",J2
@@ -255,7 +255,7 @@ rtmp://58.200.131.2:1935/livetv/fhdy
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk31.jpg" group-title="港澳一日游",RHK31
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港电台32" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk32.jpg" group-title="港澳一日游",RHK32
-http://pull.scphsd.com/live/e8b2c4675f040ddcee4f1393238e1879/playlist.m3u8
+http://pull.scphsd.com/live/0a7fb5ad1f1efa2d415b2f8a3733d15b/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/澳亚卫视.png" tvg-id="476" tvg-name="澳亚卫视" group-title="港澳一日游",澳亚卫视
 http://stream.mastvnet.com/MASTV/sd/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/lotustv.jpg" tvg-id="" tvg-name="莲花卫视" group-title="港澳一日游",莲花卫视
@@ -265,7 +265,7 @@ http://pull.scphsd.com/live/f15904de1dbd91e7d921ddacbf0067e5/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbgongfu.jpg" tvg-id="10092" tvg-name="功夫台" group-title="港澳一日游",TVB功夫台
 http://pull.scphsd.com/live/dca9ff1fe1006eedf86e845cc7425d67/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cabletv301.jpg" tvg-id="" tvg-name="有线娱乐" group-title="港澳一日游",有线娱乐台
-https://ottproxy2.mott.tv/livehls/MOB-CN/03.m3u8
+https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/celestialmovies.jpg" tvg-id="" tvg-name="天映电影HD" group-title="港澳一日游",天映频道(失效)
 http://47.91.213.59/live/t6u5b1q4/y7sd1aqy/index.m3u8
 
@@ -280,15 +280,15 @@ http://pull.scphsd.com/live/380c4d6c56dbb8ff73e032cd61908b6e/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" tvg-id="6068" tvg-name="年代新闻台" group-title="台湾一日行",年代新闻台
 http://192.200.120.82:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" tvg-id="6069" tvg-name="东森新闻台" group-title="台湾一日行",东森新闻台
-http://pull.scphsd.com/live/839bd9f243bfbd911a13065c9c8b0ca5/playlist.m3u8
+http://pull.scphsd.com/live/831a13065c9c8b0ca59bd9f243bfbd91/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" tvg-id="6070" tvg-name="中天新闻台" group-title="台湾一日行",中天新闻台
-http://pull.scphsd.com/live/7fd79b5cf48c42278cfb02bf038156bc/playlist.m3u8
+http://pull.scphsd.com/live/7fd702bf038156bc9b5cf48c42278cfb/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" tvg-id="6072" tvg-name="三立新闻台" group-title="台湾一日行",三立新闻台
 http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" tvg-id="6073" tvg-name="TVBS新闻台" group-title="台湾一日行",TVBS 新闻台
 http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" tvg-id="6076" tvg-name="非凡新闻台" group-title="台湾一日行",非凡新闻台
-http://pull.scphsd.com/live/f80b3571f34de3bb5d7bb41281640eee/playlist.m3u8
+http://pull.scphsd.com/live/a89739d997afda15598b849ad332b5c1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV2.png" tvg-id="565" tvg-name="公视2" group-title="台湾一日行",公视台语台(公视2)
 http://pull.scphsd.com/live/e2724154e38f15a7007aecc3cb03ad59.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" tvg-id="6080" tvg-name="东森电影台" group-title="台湾一日行",东森电影台
@@ -297,7 +297,6 @@ http://192.200.120.82:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 http://192.200.120.82:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" tvg-id="6086" tvg-name="好莱坞电影台" group-title="台湾一日行",好莱坞电影台
 http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" tvg-id="6030" tvg-name="华视" group-title="台湾一日行",华视
 http://192.200.120.82:8080/ZZ_huashi/ZZ_huashi.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" tvg-id="6046" tvg-name="八大综合台" group-title="台湾一日行",八大综合台
