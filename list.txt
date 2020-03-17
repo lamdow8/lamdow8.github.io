@@ -116,7 +116,7 @@ NOW新闻,http://pull.scphsd.com/live/3dc9147768729c82fdf7e62c6af19af1/playlist.
 港台32,http://pull.scphsd.com/live/0a7fb5ad1f1efa2d415b2f8a3733d15b/playlist.m3u8
 壹電視新聞,http://pull.scphsd.com/live/380c4d6c56dbb8ff73e032cd61908b6e/playlist.m3u8
 三立新闻,vjms://58.215.133.161:8500/live/cid=352
-年代新闻,vjms://58.215.133.161:8500/live/cid=455
+年代新闻,http://pull.scphsd.com/live/d7a674428b86b562a71a8a15ba71d76e/playlist.m3u8#vjms://58.215.133.161:8500/live/cid=455
 东森新闻,vjms://58.215.133.161:8500/live/cid=340
 中天新闻,vjms://58.215.133.161:8500/live/cid=407
 非凡新闻,vjms://58.215.133.161:8500/live/cid=443
@@ -145,6 +145,7 @@ VIUtv,http://hls.globaliptv.ml/viu99.php#https://viutv99-i.akamaihd.net/hls/live
 VIUtv six,http://hls.globaliptv.ml/viu96.php
 C+,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
 TVBS HD,vjms://58.215.133.161:8500/live/cid=349
+卫视中文台,http://pull.scphsd.com/live/58835097fe9e63cea28a0a0a4585ab4b.flv
 民视卫视,vjms://58.215.133.184:8500:3502/live/cid=450
 八大第一,vjms://58.215.133.184:8500:3502/live/cid=441
 年代综合,vjms://58.215.133.184:8500:3502/live/cid=439
@@ -158,17 +159,49 @@ TVBS HD,vjms://58.215.133.161:8500/live/cid=349
 中天娱乐,http://192.200.120.82:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 国家地理,http://192.200.120.82:8080/ZZ_hbo/ZZ_hbo.m3u8
 
+体育综合,#genre#
+纬来体育[HD],vjms://58.215.133.185:8500:3502/live/cid=202#rtmp://59.124.75.156/sat/tv721
+纬来体育[HD],vjms://58.215.133.161:8500/live/cid=202
+ELTA體育1台,vjms://58.215.133.161:8500/live/cid=266
+ELTA體育1台,vjms://58.215.133.185:8500:3502/live/cid=266
+ELTA體育1台,https://hdl0903.plures.net/onlive/3ca17d17faeb6e483adf74de41756462.flv
+广东体育HD,https://116.77.72.195/streams/d/gdty/playlist.m3u8#http://sk.live.otvcloud.com/otv/skcc/live/channel34/2300.m3u8?k=00512d957c9b1863aff57fc3916c3e77&t=5D84817C&UID=1568964988
+五星体育HD,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+Channel V,rtmp://58.200.131.2/livetv/channelv
+MTV 音乐频道,https://116.77.72.195/streams/d/mtv/playlist.m3u8#http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+M2O音乐台,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+岭南戏曲,
+体育综合,#genre#
+纬来体育[HD],vjms://58.215.133.185:8500:3502/live/cid=202#rtmp://59.124.75.156/sat/tv721
+纬来体育[HD],vjms://58.215.133.161:8500/live/cid=202
+ELTA體育1台,vjms://58.215.133.161:8500/live/cid=266
+ELTA體育1台,vjms://58.215.133.185:8500:3502/live/cid=266
+ELTA體育1台,https://hdl0903.plures.net/onlive/3ca17d17faeb6e483adf74de41756462.flv
+广东体育HD,https://116.77.72.195/streams/d/gdty/playlist.m3u8#http://sk.live.otvcloud.com/otv/skcc/live/channel34/2300.m3u8?k=00512d957c9b1863aff57fc3916c3e77&t=5D84817C&UID=1568964988
+五星体育HD,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+Channel V,rtmp://58.200.131.2/livetv/channelv
+MTV 音乐频道,https://116.77.72.195/streams/d/mtv/playlist.m3u8#http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+M2O音乐台,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+岭南戏曲,http://szlive.grtn.cn/lnxq/sd/live.m3u8
+新视觉,https://keonline.shanghai.liveplay.qq.com/live/program/live/xsjhd/2300000/mnf.m3u8
+體育FOX3HD,vjms://58.215.133.161:8500/live/cid=95
+體育FOX2 Sports,vjms://58.215.133.161:8500/live/cid=444
+北京体育,http://by4.nty.tv189.cn/live/tm-btvjishihd-4000k.m3u8
+劲爆体育,https://keonline.shanghai.liveplay.qq.com/live/program/live/jbtyhd/2300000/mnf.m3u8
+北京冬奥纪实,http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
+北京体育,http://49.234.207.217/tv/migu.php?id=641874369
 
 影视频道,#genre#
-纯享4K(移动),http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
+纯享4K,http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 爱上4K测试,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 广东综艺4K(官网),http://nclive.grtn.cn/4K/sd/live.m3u8
-CHC高清电影,http://otvstream-hnsec.otvcloud.com/otv/skcc/live/channel43063/2300.m3u8?k=2d62c518efbc63054dcb6c26763931f4&t=5E68D6BA&UID=9C5BB708
 CHC高清电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8
 CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD_H265.m3u8
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
 峨眉电影HD,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 有线电影台,http://pull.scphsd.com/live/f15904de1dbd91e7d921ddacbf0067e5/playlist.m3u8
+卫视电影,http://pull.scphsd.com/live/d07191c97afedb5fe4e525290b4b8a16.flv
+星卫HD电影,http://pull.scphsd.com/live/39c2724f18c01807eed99dbd0da48d40.flv
 TVB星河台,http://pull.scphsd.com/live/aa445116a142c4cdec47f7edd95b22b9/playlist.m3u8
 TVB星河台,http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 凤凰电影台,http://47.240.60.73/gzyx.php?id=fhdy
@@ -221,25 +254,6 @@ RHK32,http://104.243.17.219/qq/rhk32.php
 有线18台,rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch211
 有线603,rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch215
 
-体育综合,#genre#
-纬来体育[HD],vjms://58.215.133.185:8500:3502/live/cid=202#rtmp://59.124.75.156/sat/tv721
-纬来体育[HD],vjms://58.215.133.161:8500/live/cid=202
-ELTA體育1台,vjms://58.215.133.161:8500/live/cid=266
-ELTA體育1台,vjms://58.215.133.185:8500:3502/live/cid=266
-ELTA體育1台,https://hdl0903.plures.net/onlive/3ca17d17faeb6e483adf74de41756462.flv
-广东体育HD,https://116.77.72.195/streams/d/gdty/playlist.m3u8#http://sk.live.otvcloud.com/otv/skcc/live/channel34/2300.m3u8?k=00512d957c9b1863aff57fc3916c3e77&t=5D84817C&UID=1568964988
-五星体育HD,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
-Channel V,rtmp://58.200.131.2/livetv/channelv
-MTV 音乐频道,https://116.77.72.195/streams/d/mtv/playlist.m3u8#http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-M2O音乐台,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-岭南戏曲,http://szlive.grtn.cn/lnxq/sd/live.m3u8
-新视觉,https://keonline.shanghai.liveplay.qq.com/live/program/live/xsjhd/2300000/mnf.m3u8
-體育FOX3HD,vjms://58.215.133.161:8500/live/cid=95
-體育FOX2 Sports,vjms://58.215.133.161:8500/live/cid=444
-北京体育,http://by4.nty.tv189.cn/live/tm-btvjishihd-4000k.m3u8
-劲爆体育,https://keonline.shanghai.liveplay.qq.com/live/program/live/jbtyhd/2300000/mnf.m3u8
-北京冬奥纪实,http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
-北京体育,http://49.234.207.217/tv/migu.php?id=641874369
 
 新马澳,#genre#
 新 U频道,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
