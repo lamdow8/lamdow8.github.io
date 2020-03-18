@@ -93,13 +93,13 @@ CGTN,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/200165680
 凤凰资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 凤凰香港台,http://104.250.154.42:8080/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
 凤凰香港台,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
-NOW新闻,http://pull.scphsd.com/live/3dc9147768729c82fdf7e62c6af19af1/playlist.m3u8
+NOW新闻,http://pull.scphsd.com/live/2fdf7e62c6af19af13dc9147768729c8/playlist.m3u8
 无线新闻台,https://tv.elibei.com/tv/play?token=c53c2425123852327994cc6b8b57e2e2&k=7449867010c26a0b26566c330d124e1e&cid=196&uid=36808
 无线新闻台,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 无线新闻台,https://ootori.xyz/tv/tvb.php?id=inews
-有线新闻台,http://pull.scphsd.com/live/acfb09476c44cdf49656c80d2d8eda6c/playlist.m3u8
+有线新闻台,http://pull.scphsd.com/live/df49656c80d2d8eda6cacfb09476c44c/playlist.m3u8
 有线新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
-港台32,http://pull.scphsd.com/live/0a7fb5ad1f1efa2d415b2f8a3733d15b/playlist.m3u8
+港台32,http://pull.scphsd.com/live/b6a8d96d0c5fbdd5217326af7a64574c/playlist.m3u8
 壹電視新聞,http://pull.scphsd.com/live/380c4d6c56dbb8ff73e032cd61908b6e/playlist.m3u8
 三立新闻,vjms://58.215.133.161:8500/live/cid=352
 年代新闻,http://pull.scphsd.com/live/d7a674428b86b562a71a8a15ba71d76e/playlist.m3u8#vjms://58.215.133.161:8500/live/cid=455
@@ -121,12 +121,13 @@ TVBS新闻,vjms://58.215.133.184:8500:3502/live/cid=348
 港台综合,#genre#
 翡翠台,https://tv.elibei.com/tv/play?token=499b831fdfbdb8bc62b5a3b23ee3b27a&k=7449867010c26a0b26566c330d124e1e&cid=183&uid=36808
 J2台,https://tv.elibei.com/tv/play?token=489c8d68b159f764ef9b6f1ce13638df&k=7449867010c26a0b26566c330d124e1e&cid=178&uid=36808
+明珠台,http://pull.scphsd.com/live/0283db9ad5c8faf6c3a638635b934623.flv
 明珠台,https://tv.elibei.com/tv/play?token=f7d2c7dd769c478bfe767c01d4026db7&k=7449867010c26a0b26566c330d124e1e&cid=184&uid=36808
 无线财经咨询台,http://www.liveviptv.xyz/tv/tvb.php?vid=wxzx
 香港开电视,http://pull.scphsd.com/live/4a5e54978789269e2ee9de203ae9259b/playlist.m3u8
 有线财经咨询台,https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8#https://ottproxy2.mott.tv/livehls/MOB-NGW/03.m3u8
 有线娱乐台,https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8#https://ottproxy2.mott.tv/livehls/MOB-CN/03.m3u8
-VIUtv,http://pull.scphsd.com/live/074773d8ac4e3460b6d727dc2eca6223/playlist.m3u8
+VIUtv,http://pull.scphsd.com/live/0b6d727dc2eca622074773d8ac4e3463/playlist.m3u8#http://pull.scphsd.com/live/c6e4d29fe10d0e588f9e2e136f4067b7.flv
 VIUtv,http://hls.globaliptv.ml/viu99.php#https://viutv99-i.akamaihd.net/hls/live/265284/live1/stream2/streamPlaylist.m3u8
 VIUtv six,http://hls.globaliptv.ml/viu96.php
 C+,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
@@ -145,18 +146,6 @@ TVBS HD,vjms://58.215.133.161:8500/live/cid=349
 中天娱乐,http://192.200.120.82:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 国家地理,http://192.200.120.82:8080/ZZ_hbo/ZZ_hbo.m3u8
 
-体育综合,#genre#
-纬来体育[HD],vjms://58.215.133.185:8500:3502/live/cid=202#rtmp://59.124.75.156/sat/tv721
-纬来体育[HD],vjms://58.215.133.161:8500/live/cid=202
-ELTA體育1台,vjms://58.215.133.161:8500/live/cid=266
-ELTA體育1台,vjms://58.215.133.185:8500:3502/live/cid=266
-ELTA體育1台,https://hdl0903.plures.net/onlive/3ca17d17faeb6e483adf74de41756462.flv
-广东体育HD,https://116.77.72.195/streams/d/gdty/playlist.m3u8#http://sk.live.otvcloud.com/otv/skcc/live/channel34/2300.m3u8?k=00512d957c9b1863aff57fc3916c3e77&t=5D84817C&UID=1568964988
-五星体育HD,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
-Channel V,rtmp://58.200.131.2/livetv/channelv
-MTV 音乐频道,https://116.77.72.195/streams/d/mtv/playlist.m3u8#http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-M2O音乐台,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-岭南戏曲,
 体育综合,#genre#
 纬来体育[HD],vjms://58.215.133.185:8500:3502/live/cid=202#rtmp://59.124.75.156/sat/tv721
 纬来体育[HD],vjms://58.215.133.161:8500/live/cid=202
@@ -188,6 +177,7 @@ CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
 有线电影台,http://pull.scphsd.com/live/f15904de1dbd91e7d921ddacbf0067e5/playlist.m3u8
 卫视电影,http://pull.scphsd.com/live/d07191c97afedb5fe4e525290b4b8a16.flv
 星卫HD电影,http://pull.scphsd.com/live/39c2724f18c01807eed99dbd0da48d40.flv
+功夫台,http://pull.scphsd.com/live/2c6c469f67c443345199a67bf1681838/playlist.m3u8
 TVB星河台,http://pull.scphsd.com/live/aa445116a142c4cdec47f7edd95b22b9/playlist.m3u8
 TVB星河台,http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 凤凰电影台,http://47.240.60.73/gzyx.php?id=fhdy
