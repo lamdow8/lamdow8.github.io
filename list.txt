@@ -93,11 +93,11 @@ CGTN,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/200165680
 凤凰资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 凤凰香港台,http://104.250.154.42:8080/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
 凤凰香港台,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
-NOW新闻,http://pull.scphsd.com/live/2fdf7e62c6af19af13dc9147768729c8/playlist.m3u8
+NOW新闻,http://pull.scphsd.com/live/f13dc9147768729c82fdf7e62c6af19a/playlist.m3u8
 无线新闻台,https://tv.elibei.com/tv/play?token=c53c2425123852327994cc6b8b57e2e2&k=7449867010c26a0b26566c330d124e1e&cid=196&uid=36808
 无线新闻台,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 无线新闻台,https://ootori.xyz/tv/tvb.php?id=inews
-有线新闻台,http://pull.scphsd.com/live/df49656c80d2d8eda6cacfb09476c44c/playlist.m3u8
+有线新闻台,http://pull.scphsd.com/live/8eda6cacfb09476c4df49656c80d2d4c/playlist.m3u8
 有线新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
 港台32,http://pull.scphsd.com/live/b6a8d96d0c5fbdd5217326af7a64574c/playlist.m3u8
 壹電視新聞,http://pull.scphsd.com/live/380c4d6c56dbb8ff73e032cd61908b6e/playlist.m3u8
@@ -127,7 +127,7 @@ J2台,https://tv.elibei.com/tv/play?token=489c8d68b159f764ef9b6f1ce13638df&k=744
 香港开电视,http://pull.scphsd.com/live/4a5e54978789269e2ee9de203ae9259b/playlist.m3u8
 有线财经咨询台,https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8#https://ottproxy2.mott.tv/livehls/MOB-NGW/03.m3u8
 有线娱乐台,https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8#https://ottproxy2.mott.tv/livehls/MOB-CN/03.m3u8
-VIUtv,http://pull.scphsd.com/live/0b6d727dc2eca622074773d8ac4e3463/playlist.m3u8#http://pull.scphsd.com/live/c6e4d29fe10d0e588f9e2e136f4067b7.flv
+VIUtv,http://pull.scphsd.com/live/a622074773d8ac4e3460b6d727dc2ec3/playlist.m3u8
 VIUtv,http://hls.globaliptv.ml/viu99.php#https://viutv99-i.akamaihd.net/hls/live/265284/live1/stream2/streamPlaylist.m3u8
 VIUtv six,http://hls.globaliptv.ml/viu96.php
 C+,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
@@ -216,13 +216,6 @@ CHC高清電影,http://192.200.120.82:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8
 海爷TV9号厅,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/141477/live_82436982_2406441.m3u8
 
 测试港台,#genre#
-年代新闻HD,http://104.243.17.219/qq/ndxw.php
-TVB翡翠台HD,http://104.243.17.219/qq/tvbfc.php
-台湾壹新闻HD,http://104.243.17.219/qq/twyxw.php
-非凡新闻台HD,http://104.243.17.219/qq/ffxw.php
-无线新闻台HD,http://104.243.17.219/qq/wxxw.php
-有线新闻台HD,http://104.243.17.219/qq/yxxw.php
-RHK32,http://104.243.17.219/qq/rhk32.php
 三立新闻台,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298998_I3GDL.m3u8
 東森新聞台,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8
 非凡新聞台,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298641_fQSGz.m3u8
