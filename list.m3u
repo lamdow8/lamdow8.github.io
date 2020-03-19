@@ -332,6 +332,75 @@ http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 #EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="台湾一日行",CTI中天新闻
 http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 
+#测试台湾
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试台湾",星卫电影台
+http://pull.scphsd.com/live/39c2724f18c01807eed99dbd0da48d40.flv
+#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="测试台湾",卫视电影台
+http://pull.scphsd.com/live/d07191c97afedb5fe4e525290b4b8a16.flv
+#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="测试台湾",美亚电影台
+http://pull.scphsd.com/live/1a01ecada1e5a3c040aa568cd0b8bdf5.flv
+#EXTINF:-1 tvg-id="6049" tvg-name="卫视中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/卫视中文.png" group-title="测试台湾",卫视中文台
+http://pull.scphsd.com/live/58835097fe9e63cea28a0a0a4585ab4b.flv
+#EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="测试台湾",壹新闻
+http://pull.scphsd.com/live/380c4d6c56dbb8ff73e032cd61908b6e.flv
+#EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="测试台湾",年代新闻
+http://pull.scphsd.com/live/d7a674428b86b562a71a8a15ba71d76e.flv
+#EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="测试台湾",中天新闻
+http://pull.scphsd.com/live/9b5cf48c42278cf7fd702bf038156bcb.flv
+#EXTINF:-1 tvg-id="6076" tvg-name="非凡新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="测试台湾",非凡新闻
+http://pull.scphsd.com/live/a89739d997afda15598b849ad332b5c1.flv
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="测试台湾",寰宇新闻台
+https://hdl0903.plures.net/onlive/e6492e438a1de67b24cc51d9950cac2a.flv
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="测试台湾",寰宇新闻台2
+https://hdl0903.plures.net/onlive/e138498b32cd6e908a79cccb99a16636.flv
+#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="测试台湾",台视新闻
+https://hdl0903.plures.net/onlive/633b41894a58817e1243d02bb113f476.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试台湾",华视新闻
+https://hdl0903.plures.net/onlive/efdc878ad7d32154ae332e509e591906.flv
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="测试台湾",tvbs新闻
+https://hdl0903.plures.net/onlive/63bf0a630cc73b8c13ce8979b04f982b.flv
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="测试台湾",民视新闻台
+https://hdl0903.plures.net/onlive/61c80d7ca0ebd1b05fdd7ec32fd70377.flv
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="测试台湾",东森新闻
+https://hdl0903.plures.net/onlive/dabfcdde4c97fd9471e474b0f2626500.flv
+#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="测试台湾",中视新闻
+https://hdl0903.plures.net/onlive/56a91cdf05bc92647b347e8badb9588f.flv
+#EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="测试台湾",三立财经新闻
+https://hdl0903.plures.net/onlive/4f61f8a2a5335dc41041c891d0141b40.flv
+#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="测试台湾",东森财经新闻
+https://hdl0903.plures.net/onlive/b387668b207b092e2e73ea340f5fcd55.flv
+#EXTINF:-1 tvg-id="543" tvg-name="东森亚洲新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EbcAsiaNews.png" group-title="测试台湾",东森亚洲新闻
+https://hdl0903.plures.net/onlive/67ee75be229325695efce82ab4a6c1e2.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试台湾",VOA
+https://hdl0903.plures.net/onlive/bd7b73ccb69e4d5f93ee65b9c1a1684a.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试台湾",BBC
+http://hdl0901.plures.net/onlive/b1071be0a9bbf0238142281f4500c6af.flv
+#EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="测试台湾",CNN
+http://hdl0901.plures.net/onlive/571d185db4f9a5b280b44d6f2a37d270.flv
+#EXTINF:-1 tvg-id="6161" tvg-name="韩国娱乐台KMTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/KMTV.png" group-title="测试台湾",韩国娱乐台
+https://hdl0903.plures.net/onlive/afca78f5fbd80c892b87da8d74c0caa8.flv
+#EXTINF:-1 tvg-id="7212" tvg-name="爱尔达体育1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png" group-title="测试台湾",爱尔达体育1
+http://pull.scphsd.com/live/4e2d4b408b3ff50476906b46b1b85746.flv
+#EXTINF:-1 tvg-id="7192" tvg-name="爱尔达体育2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_sports2.png" group-title="测试台湾",爱尔达体育2
+http://hdl0901.plures.net/onlive/39769cc3220ca28d81a4b270056edd44.flv
+#EXTINF:-1 tvg-id="7213" tvg-name="爱尔达体育3" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports3.png" group-title="测试台湾",爱尔达体育3
+http://hdl0901.plures.net/onlive/97806f7b45884a976b3e518a943ad277.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试台湾",WWE
+http://hdl0901.plures.net/onlive/7a764ce872c4fac39450cb0442e80f9b.flv
+#EXTINF:-1 tvg-id="7145" tvg-name="民视综艺台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png" group-title="测试台湾",民视综艺
+https://hdl0903.plures.net/onlive/5b4d00e4722aea7324454d319dabb85a.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试台湾",龙翔时代
+http://hdl0901.plures.net/onlive/bbbfafecd3096114713b0259a28b35f3.flv
+#EXTINF:-1 tvg-id="6060" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="测试台湾",tvbs欢乐
+http://hdl0901.plures.net/onlive/879fa7dffb03fa984fecdd76b0b084a2.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试台湾",tvbs精彩
+https://hdl0903.plures.net/onlive/8b002ee9ff84fad8ad857ac2c77e64b5.flv
+#EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="测试台湾",tvbs
+https://hdl0903.plures.net/onlive/ac3db0239de198f6a4ed83efa62c8570.flv
+#EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="测试台湾",民视
+http://hdl0901.plures.net/onlive/307320bb676baae4187aa7124db0dc81.flv
+#EXTINF:-1 tvg-id="6047" tvg-name="三立台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="测试台湾",三立台湾
+http://hdl0901.plures.net/onlive/df5b4abdc459e03e963a4f17dd5b4994.flv
 
 #精彩4K
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg" group-title="精彩4K",BesTV4K
