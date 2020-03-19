@@ -94,16 +94,20 @@ CGTN,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/200165680
 凤凰香港台,http://104.250.154.42:8080/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
 凤凰香港台,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 NOW新闻,http://pull.scphsd.com/live/f13dc9147768729c82fdf7e62c6af19a/playlist.m3u8
+无线新闻台,http://pull.scphsd.com/live/df51c376793660e72f1ef485a40a9d66/playlist.m3u8
 无线新闻台,https://tv.elibei.com/tv/play?token=c53c2425123852327994cc6b8b57e2e2&k=7449867010c26a0b26566c330d124e1e&cid=196&uid=36808
 无线新闻台,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
-无线新闻台,https://ootori.xyz/tv/tvb.php?id=inews
+
 有线新闻台,http://pull.scphsd.com/live/8eda6cacfb09476c4df49656c80d2d4c/playlist.m3u8
 有线新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
 港台32,http://pull.scphsd.com/live/b6a8d96d0c5fbdd5217326af7a64574c/playlist.m3u8
 壹電視新聞,http://pull.scphsd.com/live/380c4d6c56dbb8ff73e032cd61908b6e/playlist.m3u8
-三立新闻,vjms://58.215.133.161:8500/live/cid=352
+非凡新闻,http://pull.scphsd.com/live/a89739d997afda15598b849ad332b5c1/playlist.m3u8
 年代新闻,http://pull.scphsd.com/live/d7a674428b86b562a71a8a15ba71d76e/playlist.m3u8#vjms://58.215.133.161:8500/live/cid=455
+东森新闻,http://pull.scphsd.com/live/d91831a13065c9c8b0ca59bd9f243bfb/playlist.m3u8
 东森新闻,vjms://58.215.133.161:8500/live/cid=340
+三立新闻,vjms://58.215.133.161:8500/live/cid=352
+中天新闻,http://pull.scphsd.com/live/02bf038156bcb9b5cf48c42278cf7fd7/playlist.m3u8
 中天新闻,vjms://58.215.133.161:8500/live/cid=407
 非凡新闻,vjms://58.215.133.161:8500/live/cid=443
 TVBS新闻,vjms://58.215.133.161:8500/live/cid=348#rtmp://59.124.75.156/sat/tv551
@@ -119,6 +123,7 @@ TVBS新闻,vjms://58.215.133.184:8500:3502/live/cid=348
 
 
 港台综合,#genre#
+翡翠台,http://pull.scphsd.com/live/66afc32511ae35245ff2d28e7f404642/playlist.m3u8
 翡翠台,https://tv.elibei.com/tv/play?token=499b831fdfbdb8bc62b5a3b23ee3b27a&k=7449867010c26a0b26566c330d124e1e&cid=183&uid=36808
 J2台,https://tv.elibei.com/tv/play?token=489c8d68b159f764ef9b6f1ce13638df&k=7449867010c26a0b26566c330d124e1e&cid=178&uid=36808
 明珠台,http://pull.scphsd.com/live/0283db9ad5c8faf6c3a638635b934623.flv
