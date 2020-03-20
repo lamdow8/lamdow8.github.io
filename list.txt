@@ -1,5 +1,5 @@
 最爱歌曲,#genre#
-排笛[老鹰之歌],https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200317/5623330n7oQ6uBlXFhUdZTz3A.m3u8?Expires=1584673063&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=QNbrMAIqZpoilqcfOL4lMIS8fjA%3D
+排笛[老鹰之歌],https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200317/5623330n7oQ6uBlXFhUdZTz3A.m3u8?Expires=1584961504&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=GmzMFWptmKyZardlvzk5q3pBUqI%3D
 疫境同行,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200312/5623330aku7oH8WuD6OOvydPy.m3u8?Expires=1584958903&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=7ajy39IAx8CHMJG0VmNQVcqBxpQ%3D
 潇洒的走,https://rescdn.yishihui.com/longvideo/transcode/video/20190211/5623330hARITCFGlPjuV3gh1D.m3u8?Expires=1584959239&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=wdpgKgb%2BHuc7Ds326qeGa%2FU6B54%3D
 哭砂,https://rescdn.yishihui.com/longvideo/transcode/video/live/201903265623330b7Y5a9jnTT1ZgnKF62.m3u8?Expires=1584959290&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=F7IeOvfJJlMqBwgFIb1kl1QBIZs%3D
@@ -11,7 +11,7 @@
 似是故人来,https://rescdn.yishihui.com/longvideo/transcode/video/20190212/5623330AcllmC0HGNfgNlsEZQ.m3u8?Expires=1584958711&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=cl6Jf30EwI%2FSqzXnVGcoCQAEH9s%3D
 云朵,https://rescdn.yishihui.com/longvideo/transcode/video/20190129/5623330jbrJ9K7xz5TmDZEMa8.m3u8?Expires=1584958780&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=br%2FaepJ9GjAJjyAhLZ2Es8lwd0k%3D
 一对旧皮鞋,https://rescdn.yishihui.com/longvideo/transcode/video/live/201905165623330OE3C8kacHqodislfe0.m3u8?Expires=1584958677&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=qE5xVHdJK7I8lw0mEkRxqvfw4ac%3D
-夜夜夜夜,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzsKv5wUokuDIcg.m3u8
+
 男朋友,https://rescdn.yishihui.com/longvideo/transcode/video/20190216/5623330k4vjN8sqCblLOUMBCw.m3u8?Expires=1584958602&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=u%2FMKYEJNrN7fUo28u6Cw80tETHc%3D
 天长地久,https://rescdn.yishihui.com/longvideo/transcode/video/live/201907095623330fMIGbfhNGL2arPi87P.m3u8?Expires=1584958533&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=lMuzYo%2Fr4QxQLczGbo9JroOiDl8%3D
 葬心,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200316/5623330ZesaRCiezJr3oUoIfq.m3u8?Expires=1584958332&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=PEvtrhnH2mdbI5WFhCSwbkp6yik%3D
@@ -160,7 +160,7 @@ tvbs,https://hdl0903.plures.net/onlive/ac3db0239de198f6a4ed83efa62c8570.flv
 爱尔达体育1,http://pull.scphsd.com/live/4e2d4b408b3ff50476906b46b1b85746.flv
 爱尔达体育2,http://hdl0901.plures.net/onlive/39769cc3220ca28d81a4b270056edd44.flv
 爱尔达体育3,http://hdl0901.plures.net/onlive/97806f7b45884a976b3e518a943ad277.flv
-纬来体育,mitv://198.255.74.57:12396/5e50207b000513753d32e86125cd09c9.ts
+
 wwe,http://hdl0901.plures.net/onlive/7a764ce872c4fac39450cb0442e80f9b.flv
 纬来体育[HD],vjms://58.215.133.185:8500:3502/live/cid=202#rtmp://59.124.75.156/sat/tv721
 纬来体育[HD],vjms://58.215.133.161:8500/live/cid=202
@@ -521,6 +521,7 @@ DiscoveryChannel,vjms://121.14.222.77:8500/live/cid=3
 王心凌-我会好好的,http://vodcdn.video.taobao.com/oss/ali-video/8f327fd6bce61d0cf4159601a64b395b/video.m3u8
 王心凌-我会好好的,http://hc.yinyuetai.com/uploads/videos/common/8153012D1E870D4F4CAB88333BD9FE16.flv
 张学友-一颗不变心,http://vodcdn.video.taobao.com/oss/ali-video/1dcf180669ab98697e49c4c9b5f76cd7/video.m3u8
+夜夜夜夜,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzsKv5wUokuDIcg.m3u8
 王杰-王杰谁明浪子心,http://hc.yinyuetai.com/uploads/videos/common/26D4013866916BCB4A8F7207809DD419.flv?sc=4e1d3c11564efdc3&br=746&vid=456539&aid=2697&area=HT&vst=2Y
 张雨生-大海,http://hc.yinyuetai.com/uploads/videos/common/51A101449A344269C175455030FD4AAF.flv?sc=6a7dfe229a18d1f2&br=777&vid=159548&aid=1337&area=HT&vst=0Y
 辛晓琪-领悟,http://vodcdn.video.taobao.com/oss/ali-video/2a4e61d4bba6b712bd5638fd508e85a5/video.m3u8
