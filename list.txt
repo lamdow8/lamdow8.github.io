@@ -1,39 +1,28 @@
 最爱歌曲,#genre#
-排笛[老鹰之歌],https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200317/5623330n7oQ6uBlXFhUdZTz3A.m3u8?Expires=1584673063&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=YWPks1sO0rEfb0QRcNrhviBoYgA%3D
-人生何处不相逢,https://rescdn.yishihui.com/longvideo/transcode/video/20190211/5623330GSuwKguJceBn8T3IEb.m3u8?Expires=1584673061&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=%2BKOe4V%2BwYkmq3dzHaP1ZeWiZujA%3D
-疫境同行,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200312/5623330aku7oH8WuD6OOvydPy.m3u8?Expires=1584664764&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=57Vm%2BxqEDB%2B0mQq%2Fcdj7Qysqivw%3D
-潇洒的走,https://rescdn.yishihui.com/longvideo/transcode/video/20190211/5623330hARITCFGlPjuV3gh1D.m3u8?Expires=1584664854&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=8r5zj5orhNx1jCvMu0VGOHeTqDw%3D
-哭砂,https://rescdn.yishihui.com/longvideo/transcode/video/live/201903265623330b7Y5a9jnTT1ZgnKF62.m3u8?Expires=1584667705&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=og4S3wRgdRfvjvhuDEPOytoe3i8%3D
-中岛美雪 この世に二人だけ,https://rescdn.yishihui.com/longvideo/transcode/video/2019-1-3/6abe05f7397249d9a2bcf90d372669f61548290067589.m3u8?Expires=1584667951&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=WjISFwhkBNScDjgQ5Fu%2FqpINSY8%3D
-祝福,https://rescdn.yishihui.com/longvideo/transcode/video/live/201905145623330aCm0SD3BtrQpdu4aE0.m3u8?Expires=1584665024&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=gR1%2BA5gEzs2WPAbEW6NuZvoTzZc%3D
-西海情歌,https://rescdn.yishihui.com/longvideo/transcode/video/20190211/5623330miLkhSho5ndJuzfitI.m3u8?Expires=1584665346&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=jX9VEfJXQYBuiVvxL0eQufcXJv8%3D
-
-来自心海的消息,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200316/5623330N9v4hPrnbtvPeyOrFS.m3u8?Expires=1584611329&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=e%2BOqEr8WcyAswNWMjf0mE02xnYA%3D
-雪在烧,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200316/56233309EkqM8soDBZZLqj4vj.m3u8?Expires=1584611323&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=JWeegoXRu%2F5qANwkWItywMdodkk%3D
-北京欢迎你,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200316/5623330xNMfl6zgFzJtp4KmNs.m3u8?Expires=1584611500&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=EKM5cDhwtQeW%2FHcI%2F1CtpxusGr4%3D
-套马杆,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200316/5623330y3oE8Rxs4Rmygd3NwS.m3u8?Expires=1584614648&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=ygDj5R7tDd%2Fa4dPIUCUUaMwNHyU%3D
-我要去西藏,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200316/5623330SrPMOGycmf4LVtBPf1.m3u8?Expires=1584614736&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=1ODrG4TlkKWdtgbEYm%2B8rZTzdI4%3D
-
-明天会更好,https://rescdn.yishihui.com/longvideo/transcode/video/live/20191025/5623330EaBkagf7rZCC7Ea7so.m3u8?Expires=1584722346&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=0NRNsohHdJRiZOVYoc6nrOWEZ%2B8%3D
-走天涯,https://rescdn.yishihui.com/longvideo/transcode/video/live/201903195623330Ci9D8opKfn5uycdVzC.m3u8?Expires=1584722444&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=xOxUd91bsUDKdPnRAkvGSMieqWQ%3D
-似是故人来,https://rescdn.yishihui.com/longvideo/transcode/video/20190212/5623330AcllmC0HGNfgNlsEZQ.m3u8?Expires=1584722597&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=GLfflkJurIra1g11e4MW9Gvh8ro%3D
-云朵,https://rescdn.yishihui.com/longvideo/transcode/video/20190129/5623330jbrJ9K7xz5TmDZEMa8.m3u8?Expires=1584722769&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=8UbCXQIcmx9jQ6wbaAW8V2gdvak%3D
-一对旧皮鞋,https://rescdn.yishihui.com/longvideo/transcode/video/live/201905165623330OE3C8kacHqodislfe0.m3u8?Expires=1584722756&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=mQUl%2B%2BwpMGKmfxWwVP4s1rDPgCg%3D
+排笛[老鹰之歌],https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200317/5623330n7oQ6uBlXFhUdZTz3A.m3u8?Expires=1584673063&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=QNbrMAIqZpoilqcfOL4lMIS8fjA%3D
+疫境同行,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200312/5623330aku7oH8WuD6OOvydPy.m3u8?Expires=1584958903&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=7ajy39IAx8CHMJG0VmNQVcqBxpQ%3D
+潇洒的走,https://rescdn.yishihui.com/longvideo/transcode/video/20190211/5623330hARITCFGlPjuV3gh1D.m3u8?Expires=1584959239&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=wdpgKgb%2BHuc7Ds326qeGa%2FU6B54%3D
+哭砂,https://rescdn.yishihui.com/longvideo/transcode/video/live/201903265623330b7Y5a9jnTT1ZgnKF62.m3u8?Expires=1584959290&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=F7IeOvfJJlMqBwgFIb1kl1QBIZs%3D
+中岛美雪 この世に二人だけ,https://rescdn.yishihui.com/longvideo/transcode/video/2019-1-3/6abe05f7397249d9a2bcf90d372669f61548290067589.m3u8?Expires=1584958065&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=%2FEj8di74SNaKTxBNCNX%2BPh%2BRczI%3D
+祝福,https://rescdn.yishihui.com/longvideo/transcode/video/live/201905145623330aCm0SD3BtrQpdu4aE0.m3u8?Expires=1584958892&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=sY8TqeS7Bcm0HSwBGY21QmgHkvE%3D
+西海情歌,https://rescdn.yishihui.com/longvideo/transcode/video/20190211/5623330miLkhSho5ndJuzfitI.m3u8?Expires=1584958903&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=Ror0dbwAbTS7kOWH%2FUHTGwBANPA%3D
+明天会更好,https://rescdn.yishihui.com/longvideo/transcode/video/live/20191025/5623330EaBkagf7rZCC7Ea7so.m3u8?Expires=1584958885&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=FxDb6v6WZDjWzcWw8AtIcuhlXQw%3D
+走天涯,https://rescdn.yishihui.com/longvideo/transcode/video/live/201903195623330Ci9D8opKfn5uycdVzC.m3u8?Expires=1584958766&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=OsZUHb%2BYZi1xz7T1PdBa%2BJOYTV4%3D
+似是故人来,https://rescdn.yishihui.com/longvideo/transcode/video/20190212/5623330AcllmC0HGNfgNlsEZQ.m3u8?Expires=1584958711&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=cl6Jf30EwI%2FSqzXnVGcoCQAEH9s%3D
+云朵,https://rescdn.yishihui.com/longvideo/transcode/video/20190129/5623330jbrJ9K7xz5TmDZEMa8.m3u8?Expires=1584958780&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=br%2FaepJ9GjAJjyAhLZ2Es8lwd0k%3D
+一对旧皮鞋,https://rescdn.yishihui.com/longvideo/transcode/video/live/201905165623330OE3C8kacHqodislfe0.m3u8?Expires=1584958677&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=qE5xVHdJK7I8lw0mEkRxqvfw4ac%3D
 夜夜夜夜,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzsKv5wUokuDIcg.m3u8
+男朋友,https://rescdn.yishihui.com/longvideo/transcode/video/20190216/5623330k4vjN8sqCblLOUMBCw.m3u8?Expires=1584958602&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=u%2FMKYEJNrN7fUo28u6Cw80tETHc%3D
+天长地久,https://rescdn.yishihui.com/longvideo/transcode/video/live/201907095623330fMIGbfhNGL2arPi87P.m3u8?Expires=1584958533&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=lMuzYo%2Fr4QxQLczGbo9JroOiDl8%3D
+葬心,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200316/5623330ZesaRCiezJr3oUoIfq.m3u8?Expires=1584958332&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=PEvtrhnH2mdbI5WFhCSwbkp6yik%3D
+青藏高原,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20190917/1776031sg92Yl248FvyIEwHJj.m3u8?Expires=1584959534&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=vdEWkzD6FqMzLi7Ht9TrA%2FCRqJU%3D
+卓玛,https://rescdn.yishihui.com/longvideo/multitranscode/pic/live/20190806/357773IjwJW5t5JHkgSDhm4F20190813230000015705540-3HD.m3u8?Expires=1584960450&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=Y5f8wUnvBqdZZnpYLz2Xhg%2F93oU%3D
+来自心海的消息,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200316/5623330N9v4hPrnbtvPeyOrFS.m3u8?Expires=1584958637&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=4%2B6NLcebC186iwmqtSo4UdVUcro%3D
+雪在烧,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200316/56233309EkqM8soDBZZLqj4vj.m3u8?Expires=1584958501&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=mS7po0x4ARmV5R1S1rzoMjfymxo%3D
+北京欢迎你,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200316/5623330xNMfl6zgFzJtp4KmNs.m3u8?Expires=1584958578&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=QUTdsbX4CDhkvXSxHDvAy4DYop0%3D
+套马杆,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200316/5623330y3oE8Rxs4Rmygd3NwS.m3u8?Expires=1584958405&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=FDCI1tTfng5ApvqymYFmIc7V2z4%3D
+我要去西藏,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200316/5623330SrPMOGycmf4LVtBPf1.m3u8?Expires=1584958374&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=H1sj9zFOnc3H7v9yHUb5abBlwUs%3D
 
-故乡的云,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20190925/10014627eTrWsSU1Vidd2DLFI8.m3u8?Expires=1584457937&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=ockQwA7s%2BnD3DRKFcEVzOrOigHQ%3D
-黄玫瑰,https://rescdn.yishihui.com/longvideo/transcode/video/live/201907115572522LlScnCwldCVsSDVg4b.m3u8?Expires=1584458335&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=ck3HjfuS81CLm%2F0iKlFnbKhpQfU%3D
-天长地久,https://rescdn.yishihui.com/longvideo/transcode/video/live/201907095623330fMIGbfhNGL2arPi87P.m3u8?Expires=1584545654&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=dj1VSM44YGM2i9kl69YPZ0yWUek%3D
-葬心,https://rescdn.yishihui.com/longvideo/transcode/video/live/201906235623330zV6ozKjAEHU2P2Cjgg.m3u8?Expires=1584545862&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=4%2F%2Fr%2FkqCoLrsdM1jAV6lfIogxjE%3D
-孩儿,https://rescdn.yishihui.com/longvideo/transcode/video/live/201906045623330TmHJGBUo0dKXLDUtjC.m3u8?Expires=1584545928&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=%2FjZFQ9QpNX75p8ERiLNNthi7BQc%3D
-军港之夜,https://rescdn.yishihui.com/longvideo/transcode/video/live/201904145623330ZHWcqk2vLMtb7Ea6Vb.m3u8?Expires=1584546177&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=cLSYiNF%2FMPmm41a2Je%2FESMZPxlA%3D
-青藏高原,https://rescdn.yishihui.com/longvideo/transcode/video/live/201903295540464orpD5b61feTqUeVcTo.m3u8?Expires=1584546114&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=TxLM4LWofjMRckWw8IpcJm75KPY%3D
-Alizee-La.isla.bonita,https://rescdn.yishihui.com/longvideo/transcode/video/20190317/5623330vlfE1Rak9bUmCKgbZy.m3u8?Expires=1584546387&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=lIPY6hqX3MkDEIJOeftjDOvNjpQ%3D
-鸿雁,https://rescdn.yishihui.com/longvideo/transcode/video/live/201903295540464uehNWmz3FsGcY00WK1.m3u8?Expires=1584546394&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=Z7H3xMPupRuZWmde6wp6yiwFvho%3D
-Robert Miles - Children,https://rescdn.yishihui.com/longvideo/transcode/video/20190316/5623330sUEQCqny8ntdmZzAR5.m3u8?Expires=1584546668&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=kKxzJ1zqLI%2BOilKtoTW9x91goMg%3D
-Jordy - Dur Dur D'être Bébé!,https://rescdn.yishihui.com/longvideo/transcode/video/20190316/5623330FKHPJXGDGzVEZGwH3y.m3u8?Expires=1584546781&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=ggAswjgAnZ2Vu9yKl5WPeeD6jg4%3D
-下辈子我还记得你,https://rescdn.yishihui.com/longvideo/transcode/video/20190308/5623330ZXlYyjFGpiEStJNGxV.m3u8?Expires=1584546902&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=5Uz6pcT4BThVaM0VYW5OPobTXJI%3D
-没有情人的情人节,https://rescdn.yishihui.com/longvideo/transcode/video/20190214/5623330IBfbFHHcDCe6HHCX2I.m3u8?Expires=1584547064&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=WtEU8bCeLy4LZIt4URUulPoVowk%3D
 
 央视频道,#genre#
 超高清 4K,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
