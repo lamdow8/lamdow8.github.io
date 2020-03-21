@@ -76,10 +76,9 @@ CGTN,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/200165680
 
 港台新闻,#genre#
 儋州新闻,http://36009.hlsplay.aodianyun.com/tv_radio_36009/tv_channel_1330.m3u8
-凤凰资讯台,http://liveali.ifeng.com/live/FHZX.flv
-凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv
 凤凰中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 凤凰资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+凤凰资讯,https://116.77.72.195/streams/d/fhzx/playlist.m3u8
 凤凰香港台,http://104.250.154.42:8080/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
 凤凰香港台,http://192.154.103.75:8080//ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
 NOW新闻,http://pull.scphsd.com/live/8af13dc9147768729c2fdf7e62c6af19/playlist.m3u8
@@ -114,9 +113,10 @@ TVBS新闻,vjms://58.215.133.184:8500:3502/live/cid=348
 港台综合,#genre#
 翡翠台,http://pull.scphsd.com/live/646afc32511ae3526245ff2d28e7f404/playlist.m3u8
 翡翠台,http://play.ggiptv.com:13164/v/tvb.php
+TVB翡翠台,https://116.77.72.195/streams/d/fct/playlist.m3u8
+TVB明珠,https://116.77.72.195/streams/d/mzt/playlist.m3u8
 无线财经咨询台,http://hdl0901.plures.net/onlive/dd3d17f8a09168271ef8cb42dd10746c.flv
 J2台,http://pull.scphsd.com/live/2056a7d90acc311e54a8946823b25378/playlist.m3u8
-明珠台,http://pull.scphsd.com/live/e20a7679c32a12f0de0b3ae783bbfc4a/playlist.m3u8
 无线财经咨询台,http://www.liveviptv.xyz/tv/tvb.php?vid=wxzx
 香港开电视,http://pull.scphsd.com/live/4a5e54978789269e2ee9de203ae9259b/playlist.m3u8
 有线财经咨询台,https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8#https://ottproxy2.mott.tv/livehls/MOB-NGW/03.m3u8
@@ -147,7 +147,6 @@ TVBS HD,vjms://58.215.133.161:8500/live/cid=349
 爱尔达体育1,http://pull.scphsd.com/live/4e2d4b408b3ff50476906b46b1b85746.flv
 爱尔达体育2,http://hdl0901.plures.net/onlive/39769cc3220ca28d81a4b270056edd44.flv
 爱尔达体育3,http://hdl0901.plures.net/onlive/97806f7b45884a976b3e518a943ad277.flv
-
 wwe,http://hdl0901.plures.net/onlive/7a764ce872c4fac39450cb0442e80f9b.flv
 纬来体育[HD],vjms://58.215.133.185:8500:3502/live/cid=202#rtmp://59.124.75.156/sat/tv721
 纬来体育[HD],vjms://58.215.133.161:8500/live/cid=202
@@ -187,6 +186,7 @@ tvb经典,http://hdl0901.plures.net/onlive/580876d9897b17e6b1a1e79deb5941e7.flv
 TVB功夫,http://pull.scphsd.com/live/ad50a46b51a7a8c443bb2563ffc40995/playlist.m3u8
 TVB星河台,http://pull.scphsd.com/live/5c06ab476a44c744200ac93e80d820a4/playlist.m3u8
 TVB星河台,http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
+凤凰电影台,https://116.77.72.195/streams/d/fhdy/playlist.m3u8
 凤凰电影台,https://116.77.72.195/streams/d/fhdy/playlist.m3u8
 HBOHD,vjms://58.215.133.184:8500:3502/live/cid=261
 HBOHD,vjms://58.215.133.161:8500/live/cid=261
