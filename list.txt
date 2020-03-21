@@ -82,29 +82,18 @@ CGTN,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/200165680
 凤凰资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 凤凰香港台,http://104.250.154.42:8080/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
 凤凰香港台,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
-NOW新闻,http://pull.scphsd.com/live/82fdf7e62c6af19af13dc9147768729c/playlist.m3u8
-无线新闻台,http://pull.scphsd.com/live/f1ef485a40a9d6df51c376793660e726/playlist.m3u8
+NOW新闻,http://pull.scphsd.com/live/8af13dc9147768729c2fdf7e62c6af19/playlist.m3u8
+无线新闻台,http://pull.scphsd.com/live/6df51c376793660e726f1ef485a40a9d/playlist.m3u8
 无线新闻台,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
-有线新闻台,http://pull.scphsd.com/live/76c4df49656c80d2d48eda6cacfb094c/playlist.m3u8
+有线新闻台,http://pull.scphsd.com/live/72d48eda6cacfb094c6c4df49656c80d/playlist.m3u8
 有线新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
 RHK31,http://hdl0901.plures.net/onlive/daa2da82ddf1dc04dbc82f6841eacea7.flv
 RHK32,http://pull.scphsd.com/live/b6a8d96d0c5fbdd5217326af7a64574c/playlist.m3u8
-寰宇新闻台,https://hdl0903.plures.net/onlive/e6492e438a1de67b24cc51d9950cac2a.flv
-寰宇新闻台2,https://hdl0903.plures.net/onlive/e138498b32cd6e908a79cccb99a16636.flv
-台视新闻,https://hdl0903.plures.net/onlive/633b41894a58817e1243d02bb113f476.flv
-华视新闻,https://hdl0903.plures.net/onlive/efdc878ad7d32154ae332e509e591906.flv
-tvbs新闻,https://hdl0903.plures.net/onlive/63bf0a630cc73b8c13ce8979b04f982b.flv
-民视新闻台,https://hdl0903.plures.net/onlive/61c80d7ca0ebd1b05fdd7ec32fd70377.flv
-东森新闻,https://hdl0903.plures.net/onlive/dabfcdde4c97fd9471e474b0f2626500.flv
-中视新闻,https://hdl0903.plures.net/onlive/56a91cdf05bc92647b347e8badb9588f.flv
-三立财经新闻,https://hdl0903.plures.net/onlive/4f61f8a2a5335dc41041c891d0141b40.flv
-东森财经新闻,https://hdl0903.plures.net/onlive/b387668b207b092e2e73ea340f5fcd55.flv
-东森亚洲新闻,https://hdl0903.plures.net/onlive/67ee75be229325695efce82ab4a6c1e2.flv
 壹電視新聞,http://pull.scphsd.com/live/380c4d6c56dbb8ff73e032cd61908b6e/playlist.m3u8
 非凡新闻,http://pull.scphsd.com/live/a89739d997afda15598b849ad332b5c1/playlist.m3u8
 年代新闻,http://pull.scphsd.com/live/d7a674428b86b562a71a8a15ba71d76e/playlist.m3u8#vjms://58.215.133.161:8500/live/cid=455
 东森新闻,http://pull.scphsd.com/live/d91831a13065c9c8b0ca59bd9f243bfb/playlist.m3u8
-中天新闻,http://pull.scphsd.com/live/08c42278cf7fd72bf038156bcb9b5cf4/playlist.m3u8
+中天新闻,http://pull.scphsd.com/live/f038156bcb9b5cf408c42278cf7fd72b/playlist.m3u8
 东森新闻,vjms://58.215.133.161:8500/live/cid=340
 三立新闻,vjms://58.215.133.161:8500/live/cid=352
 中天新闻,vjms://58.215.133.161:8500/live/cid=407
@@ -122,9 +111,9 @@ TVBS新闻,vjms://58.215.133.184:8500:3502/live/cid=348
 
 
 港台综合,#genre#
-翡翠台,http://pull.scphsd.com/live/6245ff2d28e7f404646afc32511ae352/playlist.m3u8
+翡翠台,http://pull.scphsd.com/live/646afc32511ae3526245ff2d28e7f404/playlist.m3u8
 无线财经咨询台,http://hdl0901.plures.net/onlive/dd3d17f8a09168271ef8cb42dd10746c.flv
-J2台,http://pull.scphsd.com/live/254a8946823b25378056a7d90acc311e/playlist.m3u8
+J2台,http://pull.scphsd.com/live/2056a7d90acc311e54a8946823b25378/playlist.m3u8
 明珠台,http://pull.scphsd.com/live/e20a7679c32a12f0de0b3ae783bbfc4a/playlist.m3u8
 无线财经咨询台,http://www.liveviptv.xyz/tv/tvb.php?vid=wxzx
 香港开电视,http://pull.scphsd.com/live/4a5e54978789269e2ee9de203ae9259b/playlist.m3u8
@@ -148,13 +137,7 @@ TVBS HD,vjms://58.215.133.161:8500/live/cid=349
 中天综合,http://192.200.120.82:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 中天娱乐,http://192.200.120.82:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 国家地理,http://192.200.120.82:8080/ZZ_hbo/ZZ_hbo.m3u8
-民视综艺,https://hdl0903.plures.net/onlive/5b4d00e4722aea7324454d319dabb85a.flv
-龙翔时代,http://hdl0901.plures.net/onlive/bbbfafecd3096114713b0259a28b35f3.flv
-tvbs欢乐,http://hdl0901.plures.net/onlive/879fa7dffb03fa984fecdd76b0b084a2.flv
-tvbs精彩,https://hdl0903.plures.net/onlive/8b002ee9ff84fad8ad857ac2c77e64b5.flv
-tvbs,https://hdl0903.plures.net/onlive/ac3db0239de198f6a4ed83efa62c8570.flv
-民视,http://hdl0901.plures.net/onlive/307320bb676baae4187aa7124db0dc81.flv
-三立台湾,http://hdl0901.plures.net/onlive/df5b4abdc459e03e963a4f17dd5b4994.flv
+
 
 体育综合,#genre#
 爱尔达体育1,http://pull.scphsd.com/live/4e2d4b408b3ff50476906b46b1b85746.flv
@@ -189,13 +172,13 @@ CHC高清电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8
 CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD_H265.m3u8
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
 峨眉电影HD,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-有线电影台,http://pull.scphsd.com/live/f15904de1dbd91e7d921ddacbf0067e5/playlist.m3u8
+有线电影台,http://pull.scphsd.com/live/2cf6c6949619dae764965b3e963ef24a/playlist.m3u8
 卫视电影,http://pull.scphsd.com/live/d07191c97afedb5fe4e525290b4b8a16.flv
 星卫HD电影,http://pull.scphsd.com/live/39c2724f18c01807eed99dbd0da48d40.flv
 美亚电影台,http://pull.scphsd.com/live/1a01ecada1e5a3c040aa568cd0b8bdf5.flv
 tvb经典,http://hdl0901.plures.net/onlive/580876d9897b17e6b1a1e79deb5941e7.flv
-TVB功夫,http://pull.scphsd.com/live/c36e13e03828708aa42b06d1ebfa733c.flv
-TVB星河台,http://pull.scphsd.com/live/b70865538323f160b0195a08f340467e/playlist.m3u8
+TVB功夫,http://pull.scphsd.com/live/ad50a46b51a7a8c443bb2563ffc40995/playlist.m3u8
+TVB星河台,http://pull.scphsd.com/live/5c06ab476a44c744200ac93e80d820a4/playlist.m3u8
 TVB星河台,http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 凤凰电影台,https://116.77.72.195/streams/d/fhdy/playlist.m3u8
 HBOHD,vjms://58.215.133.184:8500:3502/live/cid=261
@@ -250,7 +233,24 @@ cnn,http://hdl0901.plures.net/onlive/571d185db4f9a5b280b44d6f2a37d270.flv#tvbus:
 東森電影台,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298786_WkyL7.m3u8
 有线18台,rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch211
 有线603,rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch215
-
+寰宇新闻台,https://hdl0903.plures.net/onlive/e6492e438a1de67b24cc51d9950cac2a.flv
+寰宇新闻台2,https://hdl0903.plures.net/onlive/e138498b32cd6e908a79cccb99a16636.flv
+台视新闻,https://hdl0903.plures.net/onlive/633b41894a58817e1243d02bb113f476.flv
+华视新闻,https://hdl0903.plures.net/onlive/efdc878ad7d32154ae332e509e591906.flv
+tvbs新闻,https://hdl0903.plures.net/onlive/63bf0a630cc73b8c13ce8979b04f982b.flv
+民视新闻台,https://hdl0903.plures.net/onlive/61c80d7ca0ebd1b05fdd7ec32fd70377.flv
+东森新闻,https://hdl0903.plures.net/onlive/dabfcdde4c97fd9471e474b0f2626500.flv
+中视新闻,https://hdl0903.plures.net/onlive/56a91cdf05bc92647b347e8badb9588f.flv
+三立财经新闻,https://hdl0903.plures.net/onlive/4f61f8a2a5335dc41041c891d0141b40.flv
+东森财经新闻,https://hdl0903.plures.net/onlive/b387668b207b092e2e73ea340f5fcd55.flv
+东森亚洲新闻,https://hdl0903.plures.net/onlive/67ee75be229325695efce82ab4a6c1e2.flv
+民视综艺,https://hdl0903.plures.net/onlive/5b4d00e4722aea7324454d319dabb85a.flv
+龙翔时代,http://hdl0901.plures.net/onlive/bbbfafecd3096114713b0259a28b35f3.flv
+tvbs欢乐,http://hdl0901.plures.net/onlive/879fa7dffb03fa984fecdd76b0b084a2.flv
+tvbs精彩,https://hdl0903.plures.net/onlive/8b002ee9ff84fad8ad857ac2c77e64b5.flv
+tvbs,https://hdl0903.plures.net/onlive/ac3db0239de198f6a4ed83efa62c8570.flv
+民视,http://hdl0901.plures.net/onlive/307320bb676baae4187aa7124db0dc81.flv
+三立台湾,http://hdl0901.plures.net/onlive/df5b4abdc459e03e963a4f17dd5b4994.flv
 
 新马澳,#genre#
 新 U频道,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
