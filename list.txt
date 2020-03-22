@@ -79,6 +79,7 @@ CGTN,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/200165680
 凤凰中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 凤凰资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 凤凰资讯,https://116.77.72.195/streams/d/fhzx/playlist.m3u8
+凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.m3u8?txSecret=c6549e31264bab38de30fb2b5a0dc43b&txTime=5e6f5d57
 凤凰香港台,http://104.250.154.42:8080/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
 凤凰香港台,http://192.154.103.75:8080//ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
 NOW新闻,http://pull.scphsd.com/live/89c2fdf7e62c6af19af13dc914776872/playlist.m3u8
@@ -145,9 +146,7 @@ TVBS HD,vjms://58.215.133.161:8500/live/cid=349
 
 体育综合,#genre#
 爱尔达体育1,http://pull.scphsd.com/live/4e2d4b408b3ff50476906b46b1b85746.flv
-爱尔达体育2,http://hdl0901.plures.net/onlive/39769cc3220ca28d81a4b270056edd44.flv
-爱尔达体育3,http://hdl0901.plures.net/onlive/97806f7b45884a976b3e518a943ad277.flv
-wwe,http://hdl0901.plures.net/onlive/7a764ce872c4fac39450cb0442e80f9b.flv
+
 纬来体育[HD],vjms://58.215.133.185:8500:3502/live/cid=202#rtmp://59.124.75.156/sat/tv721
 纬来体育[HD],vjms://58.215.133.161:8500/live/cid=202
 ELTA體育1台,vjms://58.215.133.161:8500/live/cid=266
@@ -166,6 +165,7 @@ M2O音乐台,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 劲爆体育,https://keonline.shanghai.liveplay.qq.com/live/program/live/jbtyhd/2300000/mnf.m3u8
 北京冬奥纪实,http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
 北京体育,http://49.234.207.217/tv/migu.php?id=641874369
+魅力足球,http://liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 
 影视频道,#genre#
 纯享4K,http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
@@ -178,6 +178,8 @@ CHC家庭影院,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.
 CHC动作电影,http://192.200.120.82:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8
 CHC高清电影,http://192.200.120.82:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8
 峨眉电影HD,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+卡式台,https://livedoomovies.com/02_SCM_720p/chunklist.m3u8
+天映经典,https://www.livedoomovie.com/02_CCM_720p/chunklist.m3u8
 有线电影台,http://pull.scphsd.com/live/2cf6c6949619dae764965b3e963ef24a/playlist.m3u8
 卫视电影,http://pull.scphsd.com/live/d07191c97afedb5fe4e525290b4b8a16.flv
 星卫HD电影,http://pull.scphsd.com/live/39c2724f18c01807eed99dbd0da48d40.flv
