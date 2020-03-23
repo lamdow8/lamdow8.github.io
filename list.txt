@@ -311,6 +311,34 @@ VIVUTV,http://hk.tv0668.com/dl/hk520.php?id=8
 奥亚卫视,http://hk.tv0668.com/dl/hk520.php?id=24
 HKC新闻,http://hk.tv0668.com/dl/hk520.php?id=31
 
+代理测试③,#genre#
+凤凰中文,http://47.56.167.95/iptv222.php?id=2
+凤凰资讯,http://47.56.167.95/iptv222.php?id=3
+凤凰香港,http://47.56.167.95/iptv222.php?id=4
+香港卫视,http://47.56.167.95/iptv222.php?id=6
+VIUtv,http://47.56.167.95/iptv222.php?id=8
+无线新闻,http://47.56.167.95/iptv222.php?id=9
+无线财经,http://47.56.167.95/iptv222.php?id=10
+翡翠台,http://47.56.167.95/iptv222.php?id=1
+J2,http://47.56.167.95/iptv222.php?id=12
+耀财证券,http://47.56.167.95/iptv222.php?id=19
+澳门卫视,http://47.56.167.95/iptv222.php?id=23
+澳亚卫视,http://47.56.167.95/iptv222.php?id=24
+互动新闻台,http://47.56.167.95/iptv222.php?id=26
+HBO HD,http://47.56.167.95/iptv222.php?id=27
+有线新闻,http://47.56.167.95/iptv222.php?id=31
+有线娱乐,http://47.56.167.95/iptv222.php?id=34
+三立台湾,http://47.56.167.95/iptv222.php?id=42
+中天新闻,http://47.56.167.95/iptv222.php?id=44
+东森新闻,http://47.56.167.95/iptv222.php?id=46
+寰宇新闻,http://47.56.167.95/iptv222.php?id=54
+八大综合,http://47.56.167.95/iptv222.php?id=57
+东森电影,http://47.56.167.95/iptv222.php?id=59
+东森洋片,http://47.56.167.95/iptv222.php?id=63
+好莱坞电影,http://47.56.167.95/iptv222.php?id=66
+龙翔时代电影,http://47.56.167.95/iptv222.php?id=67
+华纳电影,http://47.56.167.95/iptv222.php?id=69
+ 
 
 新马澳,#genre#
 新 U频道,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
