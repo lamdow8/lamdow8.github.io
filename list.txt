@@ -223,7 +223,7 @@ FOX动作电影,http://192.200.120.82:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 海爷TV小新,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/293317/live_255137759_7132099.m3u8
 海爷TV9号厅,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/141477/live_82436982_2406441.m3u8
 
-代理源测试,#genre#
+代理测试①,#genre#
 翡翠台,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=1
 凤凰中文,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=2
 凤凰资讯,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=3
@@ -251,43 +251,58 @@ TVBS新闻,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=45
 东森新闻,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=46
 三立新闻,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=48
 壹电视新闻,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=49
+民视新闻,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=50
+年代新闻,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=52
+非凡新闻,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=53
+环宇新闻,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=54
+环宇新闻2,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=55
+八大综合,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=57
+东森电影,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=59
+东森洋片,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=63
+好莱坞电影,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=66
+龙祥时代,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=67
+华纳TV,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=69
+中视,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=73
+台视,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=74
+公视,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=76
+华视,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=77
+博斯魅力,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=88
+Baby First,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=92
+中天综合,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=100
+中天娱乐,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=101
+纬来体育,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=110
+FOX 3,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=113
+迪士尼卡通,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=122
+动物星球,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=124
+TVBS,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=127
+TVBS欢乐,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=129
+FOX,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=159
+FOX Sports,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=161
+FOX Sports 2,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=162
+FOX Movie,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=165
 
-
-测试台湾,#genre#
-卫视中文台,http://pull.scphsd.com/live/58835097fe9e63cea28a0a0a4585ab4b.flv
-壹新闻,http://pull.scphsd.com/live/380c4d6c56dbb8ff73e032cd61908b6e.flv
-年代新闻,http://pull.scphsd.com/live/d7a674428b86b562a71a8a15ba71d76e.flv
-中天新闻,http://pull.scphsd.com/live/9b5cf48c42278cf7fd702bf038156bcb.flv
-非凡新闻,http://pull.scphsd.com/live/a89739d997afda15598b849ad332b5c1.flv
-东森新闻,http://pull.scphsd.com/live/de40860438e011bfaf85f4b32af7e924.flv
-voa,https://hdl0903.plures.net/onlive/bd7b73ccb69e4d5f93ee65b9c1a1684a.flv
-bbc,http://hdl0901.plures.net/onlive/b1071be0a9bbf0238142281f4500c6af.flv#tvbus://3FbsUkmTzxn2F4fqEkLpcMvNbPNUFFWivQSFembcDiwQDdUYGY
-cnn,http://hdl0901.plures.net/onlive/571d185db4f9a5b280b44d6f2a37d270.flv#tvbus://3TzruULpqcD5bjBjWBmUY4UdqH8eboy88JrU4LgXJHsqoJBdbq
-韩国娱乐台,https://hdl0903.plures.net/onlive/afca78f5fbd80c892b87da8d74c0caa8.flv
+代理测试②,#genre#
 三立新闻台,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298998_I3GDL.m3u8
 東森新聞台,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8
 非凡新聞台,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298641_fQSGz.m3u8
 東森電影台,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298786_WkyL7.m3u8
 有线18台,rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch211
 有线603,rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch215
-寰宇新闻台,https://hdl0903.plures.net/onlive/e6492e438a1de67b24cc51d9950cac2a.flv
-寰宇新闻台2,https://hdl0903.plures.net/onlive/e138498b32cd6e908a79cccb99a16636.flv
-台视新闻,https://hdl0903.plures.net/onlive/633b41894a58817e1243d02bb113f476.flv
-华视新闻,https://hdl0903.plures.net/onlive/efdc878ad7d32154ae332e509e591906.flv
-tvbs新闻,https://hdl0903.plures.net/onlive/63bf0a630cc73b8c13ce8979b04f982b.flv
-民视新闻台,https://hdl0903.plures.net/onlive/61c80d7ca0ebd1b05fdd7ec32fd70377.flv
-东森新闻,https://hdl0903.plures.net/onlive/dabfcdde4c97fd9471e474b0f2626500.flv
-中视新闻,https://hdl0903.plures.net/onlive/56a91cdf05bc92647b347e8badb9588f.flv
-三立财经新闻,https://hdl0903.plures.net/onlive/4f61f8a2a5335dc41041c891d0141b40.flv
-东森财经新闻,https://hdl0903.plures.net/onlive/b387668b207b092e2e73ea340f5fcd55.flv
-东森亚洲新闻,https://hdl0903.plures.net/onlive/67ee75be229325695efce82ab4a6c1e2.flv
-民视综艺,https://hdl0903.plures.net/onlive/5b4d00e4722aea7324454d319dabb85a.flv
-龙翔时代,http://hdl0901.plures.net/onlive/bbbfafecd3096114713b0259a28b35f3.flv
-tvbs欢乐,http://hdl0901.plures.net/onlive/879fa7dffb03fa984fecdd76b0b084a2.flv
-tvbs精彩,https://hdl0903.plures.net/onlive/8b002ee9ff84fad8ad857ac2c77e64b5.flv
-tvbs,https://hdl0903.plures.net/onlive/ac3db0239de198f6a4ed83efa62c8570.flv
-民视,http://hdl0901.plures.net/onlive/307320bb676baae4187aa7124db0dc81.flv
-三立台湾,http://hdl0901.plures.net/onlive/df5b4abdc459e03e963a4f17dd5b4994.flv
+翡翠台,http://hk.tv0668.com/dl/hk520.php?id=1#http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+明珠台,http://hk.tv0668.com/dl/hk520.php?id=13
+无线新闻,http://hk.tv0668.com/dl/hk520.php?id=9
+无线财经,http://hk.tv0668.com/dl/hk520.php?id=10
+TVB J2,http://hk.tv0668.com/dl/hk520.php?id=12
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+凤凰卫视资讯台,http://hk.tv0668.com/dl/hk520.php?id=3#http://112.17.40.197:80/PLTV/88888888/224/3221226491/index.m3u8?icpid=88888888&from=30&hms_devid=1452,1481&online=1580892610&vqe=1
+凤凰卫视中文台,http://hk.tv0668.com/dl/hk520.php?id=2#http://112.17.40.139:80/PLTV/88888888/224/3221226368/index.m3u8?icpid=88888888&from=30&hms_devid=1452,1451&online=1580892662&vqe=1
+凤凰卫视香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=0738ce47619ffb6578bb658b7d7927d3&txTime=16f9470cacc
+VIVUTV,http://hk.tv0668.com/dl/hk520.php?id=8
+星空卫视,http://hk.tv0668.com/dl/hk520.php?id=18
+澳门卫视,http://hk.tv0668.com/dl/hk520.php?id=23
+奥亚卫视,http://hk.tv0668.com/dl/hk520.php?id=24
+HKC新闻,http://hk.tv0668.com/dl/hk520.php?id=31
+
 
 新马澳,#genre#
 新 U频道,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
