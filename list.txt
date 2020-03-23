@@ -90,6 +90,12 @@ NOW新闻,http://pull.scphsd.com/live/f13dc9147768789c2fdf7e62c6af19a2/playlist.
 有线新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
 
 RHK32,http://pull.scphsd.com/live/c1f40496f70f0ae4ec097db5ec9d0ccb/playlist.m3u8
+寰宇新闻1,http://ter.live2.ksmobile.net/yolo/6ee8eca08e034383bef58398900a6586/playlist.m3u8
+寰宇新闻2,http://ter.live2.ksmobile.net/yolo/bd32f1abace7427387a79feadcda0768/playlist.m3u8
+
+TVBS新闻,http://ter.live2.ksmobile.net/yolo/a03da3521aec45d2b36ceb5e98695906/playlist.m3u8
+
+
 壹電視新聞,http://pull.scphsd.com/live/380c4d6c56dbb8ff73e032cd61908b6e/playlist.m3u8
 非凡新闻,http://pull.scphsd.com/live/a89739d997afda15598b849ad332b5c1/playlist.m3u8
 年代新闻,http://pull.scphsd.com/live/d7a674428b86b562a71a8a15ba71d76e/playlist.m3u8#vjms://58.215.133.161:8500/live/cid=455
@@ -129,6 +135,8 @@ VIUtv six,http://hls.globaliptv.ml/viu96.php
 C+,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
 TVBS HD,vjms://58.215.133.161:8500/live/cid=349
 卫视中文台,http://pull.scphsd.com/live/58835097fe9e63cea28a0a0a4585ab4b.flv
+三立都会台,http://ter.live2.ksmobile.net/yolo/ce107f7dfbd14be0bc5d90d251633695/playlist.m3u8
+三立台湾台,http://ter.live2.ksmobile.net/yolo/98ce6265082849558c4ae962bc706a8b/playlist.m3u8
 民视卫视,vjms://58.215.133.184:8500:3502/live/cid=450
 八大第一,vjms://58.215.133.184:8500:3502/live/cid=441
 年代综合,vjms://58.215.133.184:8500:3502/live/cid=439
@@ -147,7 +155,7 @@ TVBS HD,vjms://58.215.133.161:8500/live/cid=349
 
 体育综合,#genre#
 爱尔达体育1,http://pull.scphsd.com/live/4e2d4b408b3ff50476906b46b1b85746.flv
-
+纬来体育,http://ter.live2.ksmobile.net/yolo/a57e7396ba1b4bb8b12bcd25794e14ad/playlist.m3u8
 纬来体育[HD],vjms://58.215.133.185:8500:3502/live/cid=202#rtmp://59.124.75.156/sat/tv721
 纬来体育[HD],vjms://58.215.133.161:8500/live/cid=202
 ELTA體育1台,vjms://58.215.133.161:8500/live/cid=266
