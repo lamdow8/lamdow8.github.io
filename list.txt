@@ -93,7 +93,7 @@ RHK32,http://pull.scphsd.com/live/c1f40496f70f0ae4ec097db5ec9d0ccb/playlist.m3u8
 壹電視新聞,http://pull.scphsd.com/live/380c4d6c56dbb8ff73e032cd61908b6e/playlist.m3u8
 非凡新闻,http://pull.scphsd.com/live/a89739d997afda15598b849ad332b5c1/playlist.m3u8
 年代新闻,http://pull.scphsd.com/live/d7a674428b86b562a71a8a15ba71d76e/playlist.m3u8#vjms://58.215.133.161:8500/live/cid=455
-东森新闻,http://pull.scphsd.com/live/d91831a13065c9c8b0ca59bd9f243bfb/playlist.m3u8
+东森新闻,http://pull.scphsd.com/live/91831a13065c9b0ca59bd9f243bfbdc8/playlist.m3u8
 中天新闻,http://pull.scphsd.com/live/b038156bcb9b5cf4f08c42278cf7fd72/playlist.m3u8
 壹電視新聞,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 东森新闻,vjms://58.215.133.161:8500/live/cid=340
@@ -123,7 +123,7 @@ J2台,http://pull.scphsd.com/live/a7d90acc31178e54a8946823b2532056/playlist.m3u8
 香港开电视,http://pull.scphsd.com/live/4a5e54978789269e2ee9de203ae9259b/playlist.m3u8
 有线财经咨询台,https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8#https://ottproxy2.mott.tv/livehls/MOB-NGW/03.m3u8
 有线娱乐台,https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8#https://ottproxy2.mott.tv/livehls/MOB-CN/03.m3u8
-VIUtv,http://pull.scphsd.com/live/c4e3460b6d727dc2ec3a622074773d8a/playlist.m3u8
+VIUtv,http://pull.scphsd.com/live/2ec3a622074773d8ac4e3460b6d727dc/playlist.m3u8
 VIUtv,http://hls.globaliptv.ml/viu99.php#https://viutv99-i.akamaihd.net/hls/live/265284/live1/stream2/streamPlaylist.m3u8
 VIUtv six,http://hls.globaliptv.ml/viu96.php
 C+,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
