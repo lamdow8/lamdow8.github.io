@@ -153,8 +153,7 @@ TVBS HD,vjms://58.215.133.161:8500/live/cid=349
 
 
 体育综合,#genre#
-爱尔达体育1,http://pull.scphsd.com/live/4e2d4b408b3ff50476906b46b1b85746.flv
-
+ELTA 体育1 HD,vjms://23.237.115.18:8500:3502/live/cid=266
 纬来体育[HD],vjms://58.215.133.185:8500:3502/live/cid=202#rtmp://59.124.75.156/sat/tv721
 纬来体育[HD],vjms://58.215.133.161:8500/live/cid=202
 ELTA體育1台,vjms://58.215.133.161:8500/live/cid=266
