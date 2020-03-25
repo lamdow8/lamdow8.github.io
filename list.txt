@@ -187,7 +187,8 @@ CHC高清电影,http://192.200.120.82:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8
 峨眉电影HD,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 卡式台,https://livedoomovies.com/02_SCM_720p/chunklist.m3u8
 天映经典,https://www.livedoomovie.com/02_CCM_720p/chunklist.m3u8
-有线电影台,http://pull.scphsd.com/live/0867baa52e694977145efc1597c2a2d4/playlist.m3u8
+有线电影台,http://pull.scphsd.com/live/c237f8d840a2a3fff828a0b09d6ae80d/playlist.m3u8
+
 TVB功夫,http://pull.scphsd.com/live/cb9b5cf4f08c42278cf7fdb038156b72/playlist.m3u8
 TVB星河台,http://pull.scphsd.com/live/f52ba7c5e58fea5eec9861c3e1deff48/playlist.m3u8
 TVB星河台,http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
