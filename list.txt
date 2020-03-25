@@ -90,12 +90,15 @@ NOW新闻,http://pull.scphsd.com/live/f2fdf7e62c6af19a213dc9147768789c/playlist.
 有线新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
 
 RHK32,http://pull.scphsd.com/live/43c748e4dde4b495696bac5dff4b5ee4/playlist.m3u8
-
+寰宇新闻Ⅰ,http://ter.live2.ksmobile.net/yolo/1ae22efc5ced4cd6b14570bf2e903380/playlist.m3u8
+寰宇新闻Ⅱ,http://ter.live2.ksmobile.net/yolo/7cfe4b6e86df451fb40e223eb2c2908b/playlist.m3u8
 壹電視新聞,http://pull.scphsd.com/live/99d75c63961dfc39b74da7b0b97299dd/playlist.m3u8
 非凡新闻,http://pull.scphsd.com/live/42d66d47074d5e441445b5eb19c6b142/playlist.m3u8
 年代新闻,http://pull.scphsd.com/live/45f76a9322788687c0ae4508d4220874/playlist.m3u8#vjms://58.215.133.161:8500/live/cid=455
 东森新闻,http://pull.scphsd.com/live/59bd9f243bfbdc91831a13065c9b0ca8/playlist.m3u8
-中天新闻,http://pull.scphsd.com/live/0d6cacfb094c6c4df4a965672d48edc8/playlist.m3u8
+中天新闻,http://pull.scphsd.com/live/cb9b5cf4f08c42278cf7fdb038156b72/playlist.m3u8
+三立新闻,http://ter.live2.ksmobile.net/yolo/1ae22efc5ced4cd6b14570bf2e903380/playlist.m3u8
+TVBS新闻,http://ter.live2.ksmobile.net/yolo/c4067f5de985403b88450cadb5e1c45b/playlist.m3u8
 壹電視新聞,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 东森新闻,vjms://58.215.133.161:8500/live/cid=340
 三立新闻,vjms://58.215.133.161:8500/live/cid=352
@@ -186,8 +189,8 @@ CHC高清电影,http://192.200.120.82:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8
 卡式台,https://livedoomovies.com/02_SCM_720p/chunklist.m3u8
 天映经典,https://www.livedoomovie.com/02_CCM_720p/chunklist.m3u8
 有线电影台,http://pull.scphsd.com/live/0867baa52e694977145efc1597c2a2d4/playlist.m3u8
-TVB功夫,http://pull.scphsd.com/live/41502a0a7b26b5f621d55270249e48a1/playlist.m3u8
-TVB星河台,http://pull.scphsd.com/live/238ac5465c600175629b0fa04d537a25/playlist.m3u8
+TVB功夫,http://pull.scphsd.com/live/cb9b5cf4f08c42278cf7fdb038156b72/playlist.m3u8
+TVB星河台,http://pull.scphsd.com/live/f52ba7c5e58fea5eec9861c3e1deff48/playlist.m3u8
 TVB星河台,http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 凤凰电影台,https://116.77.72.195/streams/d/fhdy/playlist.m3u8
 HBOHD,vjms://58.215.133.184:8500:3502/live/cid=261
