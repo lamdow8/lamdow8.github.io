@@ -90,7 +90,7 @@ NOW新闻,http://pull.scphsd.com/live/f2fdf7e62c6af19a213dc9147768789c/playlist.
 有线新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
 
 RHK32,http://pull.scphsd.com/live/43c748e4dde4b495696bac5dff4b5ee4/playlist.m3u8
-寰宇新闻Ⅰ,http://ter.live2.ksmobile.net/yolo/c4067f5de985403b88450cadb5e1c45b/playlist.m3u8
+寰宇新闻Ⅰ,http://ter.live2.ksmobile.net/yolo/5077ecc649bf461ea4e84cdea466189a/playlist.m3u8
 寰宇新闻Ⅱ,http://ter.live2.ksmobile.net/yolo/7cfe4b6e86df451fb40e223eb2c2908b/playlist.m3u8
 壹電視新聞,http://pull.scphsd.com/live/99d75c63961dfc39b74da7b0b97299dd/playlist.m3u8
 非凡新闻,http://pull.scphsd.com/live/42d66d47074d5e441445b5eb19c6b142/playlist.m3u8
