@@ -1,51 +1,49 @@
 最爱歌曲,#genre#
-排笛[老鹰之歌],https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200317/5623330n7oQ6uBlXFhUdZTz3A.m3u8?Expires=1585236091&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=hbrg7mPKkltJvqZHpkYyKL7coNc%3D
-疫境同行,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200312/5623330aku7oH8WuD6OOvydPy.m3u8?Expires=1585236789&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=lrvIiR6TRZfb4A%2BuAaJ6iTVHvSM%3D
-哭砂,https://rescdn.yishihui.com/longvideo/transcode/video/live/201903265623330b7Y5a9jnTT1ZgnKF62.m3u8?Expires=1585236102&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=cXT%2FgvS1QIyS%2BJ%2BKIby2toMUM%2F0%3D
-潇洒的走,https://rescdn.yishihui.com/longvideo/transcode/video/20190211/5623330hARITCFGlPjuV3gh1D.m3u8?Expires=1585236157&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=Kdal2rzZao2YWsEXJCjGHHM8n%2F8%3D
-中岛美雪 この世に二人だけ,https://rescdn.yishihui.com/longvideo/transcode/video/2019-1-3/6abe05f7397249d9a2bcf90d372669f61548290067589.m3u8?Expires=1585236294&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=j6DhbCA1xCoSFhLRd2ZphAdzZeM%3D
-祝福,https://rescdn.yishihui.com/longvideo/transcode/video/live/201905145623330aCm0SD3BtrQpdu4aE0.m3u8?Expires=1585236784&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=xWSWr8ltoyKnxGCJmHTp9BP0Jm8%3D
-西海情歌,https://rescdn.yishihui.com/longvideo/transcode/video/20190211/5623330miLkhSho5ndJuzfitI.m3u8?Expires=1585236814&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=16XV4mfjCWI5fRH%2BIfEK4BuX9Yo%3D
-明天会更好,https://rescdn.yishihui.com/longvideo/transcode/video/live/20191025/5623330EaBkagf7rZCC7Ea7so.m3u8?Expires=1585236793&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=yYBXvmMCzh7Nw90wfwCQo9LMn74%3D
-走天涯,https://rescdn.yishihui.com/longvideo/transcode/video/live/201903195623330Ci9D8opKfn5uycdVzC.m3u8?Expires=1585236678&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=xKsq2xItkrDUbHic4CTsR8%2BaN6k%3D
-似是故人来,https://rescdn.yishihui.com/longvideo/transcode/video/20190212/5623330AcllmC0HGNfgNlsEZQ.m3u8?Expires=1585236622&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=9rPFsPSicFjtb3gWxyVzh1GwJN0%3D
-云朵,https://rescdn.yishihui.com/longvideo/transcode/video/20190129/5623330jbrJ9K7xz5TmDZEMa8.m3u8?Expires=1585236655&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=Ikjth%2Fdz0h5mSmm3qBSN%2FZbvQ%2BE%3D
-一对旧皮鞋,https://rescdn.yishihui.com/longvideo/transcode/video/live/201905165623330OE3C8kacHqodislfe0.m3u8?Expires=1585236613&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=3XaJPVO9pZz%2BzuosyvvjyOzDa8w%3D
-来自心海的消息,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200316/5623330N9v4hPrnbtvPeyOrFS.m3u8?Expires=1585236530&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=gY4eu%2FI313KKGcQV1qAKsyVn62A%3D
-雪在烧,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200316/56233309EkqM8soDBZZLqj4vj.m3u8?Expires=1585236417&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=dl8t1TbNVlTuhOS%2FCrA5yBV5lww%3D
-男朋友,https://rescdn.yishihui.com/longvideo/transcode/video/20190216/5623330k4vjN8sqCblLOUMBCw.m3u8?Expires=1585236493&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=cE2e1nDMQz9D3rLcjLmiGtJovzs%3D
-葬心,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200316/5623330ZesaRCiezJr3oUoIfq.m3u8?Expires=1585236261&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=W1buG02RnPLEeL1THxjIxBBk8Fc%3D
-青藏高原,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20190917/1776031sg92Yl248FvyIEwHJj.m3u8?Expires=1585235995&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=xYHsNYcBFVEn9C5nMhctTHTigN8%3D
-卓玛,https://rescdn.yishihui.com/longvideo/multitranscode/pic/live/20190806/357773IjwJW5t5JHkgSDhm4F20190813230000015705540-3HD.m3u8?Expires=1585235926&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=WrRe1S5Skse2vjB45iX1y8Rr%2F0k%3D
-北京欢迎你,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200316/5623330xNMfl6zgFzJtp4KmNs.m3u8?Expires=1585236490&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=U7C5i0YUEGPaP4cmpY8xcEaf%2BRs%3D
-套马杆,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200316/5623330y3oE8Rxs4Rmygd3NwS.m3u8?Expires=1585236325&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=6ylzNZBwltxtIRsa7UhIsn%2FfNzw%3D
-我要去西藏,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200316/5623330SrPMOGycmf4LVtBPf1.m3u8?Expires=1585236287&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=fAcSmzBJq4zNTTBVH0LsP7XbPeI%3D
-天长地久,https://rescdn.yishihui.com/longvideo/transcode/video/live/201907095623330fMIGbfhNGL2arPi87P.m3u8?Expires=1585236405&OSSAccessKeyId=LTAIHZz0zdTMC7HN&Signature=pFQIcVHlF1O5DYk5IrOc3BfrdiI%3D
-
+排笛[老鹰之歌],https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200317/5623330n7oQ6uBlXFhUdZTz3A.m3u8
+疫境同行,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200312/5623330aku7oH8WuD6OOvydPy.m3u8
+哭砂,https://rescdn.yishihui.com/longvideo/transcode/video/live/201903265623330b7Y5a9jnTT1ZgnKF62.m3u8
+潇洒的走,https://rescdn.yishihui.com/longvideo/transcode/video/20190211/5623330hARITCFGlPjuV3gh1D.m3u8
+中岛美雪 この世に二人だけ,https://rescdn.yishihui.com/longvideo/transcode/video/2019-1-3/6abe05f7397249d9a2bcf90d372669f61548290067589.m3u8
+祝福,https://rescdn.yishihui.com/longvideo/transcode/video/live/201905145623330aCm0SD3BtrQpdu4aE0.m3u8
+西海情歌,https://rescdn.yishihui.com/longvideo/transcode/video/20190211/5623330miLkhSho5ndJuzfitI.m3u8
+明天会更好,https://rescdn.yishihui.com/longvideo/transcode/video/live/20191025/5623330EaBkagf7rZCC7Ea7so.m3u8
+走天涯,https://rescdn.yishihui.com/longvideo/transcode/video/live/201903195623330Ci9D8opKfn5uycdVzC.m3u8
+似是故人来,https://rescdn.yishihui.com/longvideo/transcode/video/20190212/5623330AcllmC0HGNfgNlsEZQ.m3u8
+云朵,https://rescdn.yishihui.com/longvideo/transcode/video/20190129/5623330jbrJ9K7xz5TmDZEMa8.m3u8
+一对旧皮鞋,https://rescdn.yishihui.com/longvideo/transcode/video/live/201905165623330OE3C8kacHqodislfe0.m3u8
+来自心海的消息,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200316/5623330N9v4hPrnbtvPeyOrFS.m3u8
+雪在烧,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200316/56233309EkqM8soDBZZLqj4vj.m3u8
+男朋友,https://rescdn.yishihui.com/longvideo/transcode/video/20190216/5623330k4vjN8sqCblLOUMBCw.m3u8
+葬心,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200316/5623330ZesaRCiezJr3oUoIfq.m3u8
+青藏高原,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20190917/1776031sg92Yl248FvyIEwHJj.m3u8
+卓玛,https://rescdn.yishihui.com/longvideo/multitranscode/pic/live/20190806/357773IjwJW5t5JHkgSDhm4F20190813230000015705540-3HD.m3u8
+北京欢迎你,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200316/5623330xNMfl6zgFzJtp4KmNs.m3u8
+套马杆,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200316/5623330y3oE8Rxs4Rmygd3NwS.m3u8
+我要去西藏,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200316/5623330SrPMOGycmf4LVtBPf1.m3u8
+天长地久,https://rescdn.yishihui.com/longvideo/transcode/video/live/201907095623330fMIGbfhNGL2arPi87P.m3u8
 
 
 央视频道,#genre#
-超高清 4K,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
-CCTV 1,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
-CCTV 2,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
-CCTV 3,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
-CCTV 4,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
-CCTV 5,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
-CCTV 5+,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
-CCTV 6,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8
-CCTV 7,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
-CCTV 8,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
-CCTV 9,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
-CCTV 10,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
-CCTV 11,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
-CCTV 12,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
-CCTV 13,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
-CCTV 14,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
-CCTV 15,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
-CCTV 17,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
-CGTN,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2001656801.m3u8
-
-
+CCTV-1,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
+CCTV-2,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
+CCTV-3,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
+CCTV-4,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
+CCTV-5,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
+CCTV-5+,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
+CCTV-6,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8
+CCTV-7,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
+CCTV-8,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
+CCTV-9,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
+CCTV-10,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
+CCTV-11,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
+CCTV-12,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
+CCTV-13,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+CCTV-14,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
+CCTV-15,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
+CCTV-17,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
+CCTV-4K,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+CGTN,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
+CCTV-5+,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204502.m3u8
 
 地方卫视,#genre#
 湖南卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
@@ -76,29 +74,30 @@ CGTN,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/200165680
 
 港台新闻,#genre#
 儋州新闻,http://36009.hlsplay.aodianyun.com/tv_radio_36009/tv_channel_1330.m3u8
-凤凰中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
-凤凰资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
-凤凰资讯,https://116.77.72.195/streams/d/fhzx/playlist.m3u8
-凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.m3u8?txSecret=c6549e31264bab38de30fb2b5a0dc43b&txTime=5e6f5d57
-凤凰香港台,http://104.250.154.42:8080/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
-凤凰香港台,http://192.154.103.75:8080//ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
-NOW新闻,http://pull.scphsd.com/live/f2fdf7e62c6af19a213dc9147768789c/playlist.m3u8
-无线新闻台,http://pull.scphsd.com/live/6df51c3767936a9d60e726f1ef485a40/playlist.m3u8
+凤凰中文,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
+凤凰资讯,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+凤凰中文,http://qlive.fengshows.cn/live720p/PCC.m3u8?txSecret=d676f9bf172bc1e1c3aae06a3bc5bcf5&txTime=5e6f5d9d#http://24tl.qingk.cn/live/fhws988.flv
+凤凰资讯,http://qlive.fengshows.cn/live720p/PIN.m3u8?txSecret=3de72b2a2ab4c44574d7202d9c7281bb&txTime=5e6f5cde#http://24tl.qingk.cn/live/fhzx889.flv
+凤凰香港,http://qlive.fengshows.cn/live720p/PHK.m3u8?txSecret=c6549e31264bab38de30fb2b5a0dc43b&txTime=5e6f5d57
+凤凰香港,http://104.250.154.42:8080/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
+凤凰香港,http://192.154.103.75:8080//ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
+NOW新闻,http://pull.scphsd.com/live/2fdf7e62c6af19a2f13dc9147768789c/playlist.m3u8
+无线新闻台,http://pull.scphsd.com/live/a9d60e726f1ef485a46df51c37679360/playlist.m3u8
 无线新闻台,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 无线新闻台,https://ootori.xyz/tv/tvb.php?id=inews
-有线新闻台,http://pull.scphsd.com/live/df4a965672d48edc80d6cacfb094c6c4/playlist.m3u8
+有线新闻台,http://pull.scphsd.com/live/d80d6cacfb094c6c4f4a965672d48edc/playlist.m3u8
 有线新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
+RHK32,http://pull.scphsd.com/live/316dcdb29473ba740ec5c25f544ac2e4/playlist.m3u8
+寰宇新闻Ⅰ,https://ter.live2.ksmobile.net/yolo/9b731f35b08b4ee89eb49f1f44a7a810/playlist.m3u8
+寰宇新闻Ⅱ,https://ter.live2.ksmobile.net/yolo/04c77beb60c04067ae0a92ab14099c01/playlist.m3u8
+壹電視新聞,http://pull.scphsd.com/live/3309bf28508d49141a6ca9ff7c7a4206/playlist.m3u8
+非凡新闻,http://pull.scphsd.com/live/bcfd6df616fe25896108c93aee920294/playlist.m3u8
+年代新闻,http://pull.scphsd.com/live/8ac774367d02a6baded94fe3be06990d/playlist.m3u8#vjms://58.215.133.161:8500/live/cid=455
+东森新闻,http://pull.scphsd.com/live/dc91831a13065c9b0ca859bd9f243bfb/playlist.m3u8
+中天新闻,http://pull.scphsd.com/live/6b72b9b5cf4f08c4227c8cf7fdb03815/playlist.m3u8
+三立新闻,http://ter.live2.ksmobile.net/yolo/f06734cfaf9e43b89ebb073b6043cbe0/playlist.m3u8#http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
+TVBS新闻,http://ter.live2.ksmobile.net/yolo/fb60c11f25b14315af95e32942a893d6/playlist.m3u8#http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
 
-RHK32,http://pull.scphsd.com/live/43c748e4dde4b495696bac5dff4b5ee4/playlist.m3u8
-寰宇新闻Ⅰ,http://ter.live2.ksmobile.net/yolo/5077ecc649bf461ea4e84cdea466189a/playlist.m3u8
-寰宇新闻Ⅱ,http://ter.live2.ksmobile.net/yolo/7cfe4b6e86df451fb40e223eb2c2908b/playlist.m3u8
-壹電視新聞,http://pull.scphsd.com/live/99d75c63961dfc39b74da7b0b97299dd/playlist.m3u8
-非凡新闻,http://pull.scphsd.com/live/42d66d47074d5e441445b5eb19c6b142/playlist.m3u8
-年代新闻,http://pull.scphsd.com/live/45f76a9322788687c0ae4508d4220874/playlist.m3u8#vjms://58.215.133.161:8500/live/cid=455
-东森新闻,http://pull.scphsd.com/live/59bd9f243bfbdc91831a13065c9b0ca8/playlist.m3u8
-中天新闻,http://pull.scphsd.com/live/cb9b5cf4f08c42278cf7fdb038156b72/playlist.m3u8
-三立新闻,http://ter.live2.ksmobile.net/yolo/1ae22efc5ced4cd6b14570bf2e903380/playlist.m3u8
-TVBS新闻,http://ter.live2.ksmobile.net/yolo/c4067f5de985403b88450cadb5e1c45b/playlist.m3u8
 壹電視新聞,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 东森新闻,vjms://58.215.133.161:8500/live/cid=340
 三立新闻,vjms://58.215.133.161:8500/live/cid=352
@@ -117,14 +116,14 @@ TVBS新闻,vjms://58.215.133.184:8500:3502/live/cid=348
 中天新闻,http://192.154.103.75:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 
 港台综合,#genre#
-翡翠台,http://pull.scphsd.com/live/7f4646afc32511ae043526245ff2d28e/playlist.m3u8
+翡翠台,http://pull.scphsd.com/live/7043526245ff2d28ef4646afc32511ae/playlist.m3u8
 翡翠台,http://play.ggiptv.com:13164/v/tvb.php
 TVB翡翠台,https://116.77.72.195/streams/d/fct/playlist.m3u8
 TVB明珠,https://116.77.72.195/streams/d/mzt/playlist.m3u8
 无线财经咨询台,https://ootori.xyz/tv/tvb.php?id=j5_ch85
 J2台,http://pull.scphsd.com/live/a320567d90acc31178e54a8946823b25/playlist.m3u8
 无线财经咨询台,http://www.liveviptv.xyz/tv/tvb.php?vid=wxzx
-香港开电视,http://pull.scphsd.com/live/79f552bb3062818a58cf0dea132a5e65/playlist.m3u8
+香港开电视,http://pull.scphsd.com/live/42f6beed8ffbd6953af7e1dc8b3310d6/playlist.m3u8
 有线财经咨询台,https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8#https://ottproxy2.mott.tv/livehls/MOB-NGW/03.m3u8
 有线娱乐台,https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8#https://ottproxy2.mott.tv/livehls/MOB-CN/03.m3u8
 有线18台,rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch211
@@ -185,12 +184,12 @@ CHC家庭影院,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.
 CHC动作电影,http://192.200.120.82:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8
 CHC高清电影,http://192.200.120.82:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8
 峨眉电影HD,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-卡式台,https://livedoomovies.com/02_SCM_720p/chunklist.m3u8
+卡式台,http://cdn-laos.workpoint.news/sd-starchineselegend_480/index.m3u8#https://livedoomovies.com/02_SCM_720p/chunklist.m3u8
 天映经典,https://www.livedoomovie.com/02_CCM_720p/chunklist.m3u8
-有线电影台,http://pull.scphsd.com/live/c237f8d840a2a3fff828a0b09d6ae80d/playlist.m3u8
+有线电影台,http://pull.scphsd.com/live/a622074773d8ac2c4e3460b6d727dec3/playlist.m3u8
 
-TVB功夫,http://pull.scphsd.com/live/cb9b5cf4f08c42278cf7fdb038156b72/playlist.m3u8
-TVB星河台,http://pull.scphsd.com/live/f52ba7c5e58fea5eec9861c3e1deff48/playlist.m3u8
+TVB功夫,http://pull.scphsd.com/live/715f40b83409d0cf08f9217e7d75e593/playlist.m3u8
+TVB星河台,http://pull.scphsd.com/live/d46e1e61c2ae40740c8c6cfc6c9281ee/playlist.m3u8
 TVB星河台,http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 凤凰电影台,https://116.77.72.195/streams/d/fhdy/playlist.m3u8
 HBOHD,vjms://58.215.133.184:8500:3502/live/cid=261
