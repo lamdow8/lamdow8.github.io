@@ -24,68 +24,79 @@
 
 
 央视频道,#genre#
-CCTV-1,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
-CCTV-2,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
-CCTV-3,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
-CCTV-4,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
-CCTV-5,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
-CCTV-5+,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
-CCTV-6,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8
-CCTV-7,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
-CCTV-8,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
-CCTV-9,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
-CCTV-10,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
-CCTV-11,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
-CCTV-12,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
-CCTV-13,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
-CCTV-14,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
-CCTV-15,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
-CCTV-17,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
-CCTV-4K,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
-CGTN,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
-CCTV-5+,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204502.m3u8
+CCTV-1 综合,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
+CCTV-2 财经,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
+CCTV-3 综艺,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
+CCTV-4 国际,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204803.m3u8
+CCTV-5 体育,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
+CCTV-5+ 体育赛事,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204503.m3u8
+CCTV-6 电影,http://118.123.60.5:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=093&Provider_id=&Pcontent_id=index.m3u8
+CCTV-7 国防军事,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000510003.m3u8
+CCTV-8 电视剧,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203903.m3u8
+CCTV-9 纪录,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000499403.m3u8
+CCTV-10 科教,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203503.m3u8
+CCTV-11 戏曲,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204103.m3u8
+CCTV-12 社会与法,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000202603.m3u8
+CCTV-13 新闻,http://221.230.141.252/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+CCTV-14 少儿,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204403.m3u8
+CCTV-15 音乐,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000205003.m3u8
+CCTV-17 农村农业,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204203.m3u8
+CGTN,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2001656803.m3u8
+CCTV 4K版,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
 
-地方卫视,#genre#
-湖南卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
-东方卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
-黑龙江卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293903.m3u8
-广东卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
-深圳卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
-江苏卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
-浙江卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
-江苏卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
-深圳卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292201.m3u8
-北京卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000272101.m3u8
-海南卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000291501.m3u8
-山东卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294801.m3u8
-江西卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294101.m3u8
-湖北卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294501.m3u8
-河南卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296101.m3u8
-河北卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293401.m3u8
-贵州卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293301.m3u8
-东南卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292501.m3u8
-广西卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294201.m3u8
-四川卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295001.m3u8
-辽宁卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000281301.m3u8
-重庆卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000297801.m3u8
-安徽卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000298001.m3u8
+卫视频道,#genre#
 
+湖南卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000296203.m3u8
+江苏卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000295603.m3u8
+浙江卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000295503.m3u8
+东方卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292403.m3u8
+四川卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000295003.m3u8
+北京卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000272103.m3u8
+广东卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292703.m3u8
+深圳卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292203.m3u8
+山东卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000294803.m3u8
+海南卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000291503.m3u8
+东南卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292503.m3u8
+黑龙江卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000293903.m3u8
+湖北卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000294503.m3u8
+辽宁卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000281303.m3u8
+重庆卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000297803.m3u8
+安徽卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000298003.m3u8
+河北卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000293403.m3u8
+河南卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000296103.m3u8
+贵州卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000293303.m3u8
+广西卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
+江西卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000294101.m3u8
+天津卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
+吉林卫视 HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=011&Provider_id=&Pcontent_id=index.m3u8
+山西卫视 HD,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=010&Provider_id=&Pcontent_id=index.m3u8
+陕西卫视 HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=049&Provider_id=&Pcontent_id=index.m3u8
+云南卫视 HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=013&Provider_id=&Pcontent_id=index.m3u8
+甘肃卫视 HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=012&Provider_id=&Pcontent_id=index.m3u8
+宁夏卫视 SD,http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=017&Provider_id=&Pcontent_id=index.m3u8
+青海卫视 SD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=016&Provider_id=&Pcontent_id=index.m3u8
+西藏卫视 SD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=018&Provider_id=&Pcontent_id=index.m3u8
+新疆卫视 HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=058&Provider_id=&Pcontent_id=index.m3u8
+内蒙古卫视 ,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=016&Provider_id=&Pcontent_id=index.m3u8
+兵团卫视 SD,http://ivi.bupt.edu.cn/hls/bttv.m3u8
+康巴卫视 SD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=017&Provider_id=&Pcontent_id=index.m3u8
+海峡卫视 SD,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=024&Provider_id=&Pcontent_id=index.m3u8
 
 
 港台新闻,#genre#
 儋州新闻,http://36009.hlsplay.aodianyun.com/tv_radio_36009/tv_channel_1330.m3u8
 凤凰中文,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 凤凰资讯,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
-凤凰中文,http://qlive.fengshows.cn/live720p/PCC.m3u8?txSecret=d676f9bf172bc1e1c3aae06a3bc5bcf5&txTime=5e6f5d9d#http://24tl.qingk.cn/live/fhws988.flv
-凤凰资讯,http://qlive.fengshows.cn/live720p/PIN.m3u8?txSecret=3de72b2a2ab4c44574d7202d9c7281bb&txTime=5e6f5cde#http://24tl.qingk.cn/live/fhzx889.flv
-凤凰香港,http://qlive.fengshows.cn/live720p/PHK.m3u8?txSecret=c6549e31264bab38de30fb2b5a0dc43b&txTime=5e6f5d57
+凤凰中文,http://qlive.fengshows.cn/live720p/PCC.m3u8#http://24tl.qingk.cn/live/fhws988.flv
+凤凰资讯,http://qlive.fengshows.cn/live720p/PIN.m3u8#http://24tl.qingk.cn/live/fhzx889.flv
+凤凰香港,http://qlive.fengshows.cn/live720p/PHK.m3u8
 凤凰香港,http://104.250.154.42:8080/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
 凤凰香港,http://192.154.103.75:8080//ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
 NOW新闻,http://pull.scphsd.com/live/2fdf7e62c6af19a2f13dc9147768789c/playlist.m3u8
 无线新闻台,http://pull.scphsd.com/live/a9d60e726f1ef485a46df51c37679360/playlist.m3u8
 无线新闻台,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 无线新闻台,https://ootori.xyz/tv/tvb.php?id=inews
-有线新闻台,http://pull.scphsd.com/live/d80d6cacfb094c6c4f4a965672d48edc/playlist.m3u8
+
 有线新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
 RHK32,http://pull.scphsd.com/live/316dcdb29473ba740ec5c25f544ac2e4/playlist.m3u8
 寰宇新闻Ⅰ,https://ter.live2.ksmobile.net/yolo/9b731f35b08b4ee89eb49f1f44a7a810/playlist.m3u8
@@ -283,11 +294,6 @@ FOX Sports,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=161
 FOX Sports 2,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=162
 FOX Movie,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=165
 
-代理测试②,#genre#
-三立新闻台,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298998_I3GDL.m3u8
-東森新聞台,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8
-非凡新聞台,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298641_fQSGz.m3u8
-東森電影台,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298786_WkyL7.m3u8
 
 翡翠台,http://hk.tv0668.com/dl/hk520.php?id=1#http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 明珠台,http://hk.tv0668.com/dl/hk520.php?id=13
@@ -304,33 +310,6 @@ VIVUTV,http://hk.tv0668.com/dl/hk520.php?id=8
 奥亚卫视,http://hk.tv0668.com/dl/hk520.php?id=24
 HKC新闻,http://hk.tv0668.com/dl/hk520.php?id=31
 
-代理测试③,#genre#
-凤凰中文,http://47.56.167.95/iptv222.php?id=2
-凤凰资讯,http://47.56.167.95/iptv222.php?id=3
-凤凰香港,http://47.56.167.95/iptv222.php?id=4
-香港卫视,http://47.56.167.95/iptv222.php?id=6
-VIUtv,http://47.56.167.95/iptv222.php?id=8
-无线新闻,http://47.56.167.95/iptv222.php?id=9
-无线财经,http://47.56.167.95/iptv222.php?id=10
-翡翠台,http://47.56.167.95/iptv222.php?id=1
-J2,http://47.56.167.95/iptv222.php?id=12
-耀财证券,http://47.56.167.95/iptv222.php?id=19
-澳门卫视,http://47.56.167.95/iptv222.php?id=23
-澳亚卫视,http://47.56.167.95/iptv222.php?id=24
-互动新闻台,http://47.56.167.95/iptv222.php?id=26
-HBO HD,http://47.56.167.95/iptv222.php?id=27
-有线新闻,http://47.56.167.95/iptv222.php?id=31
-有线娱乐,http://47.56.167.95/iptv222.php?id=34
-三立台湾,http://47.56.167.95/iptv222.php?id=42
-中天新闻,http://47.56.167.95/iptv222.php?id=44
-东森新闻,http://47.56.167.95/iptv222.php?id=46
-寰宇新闻,http://47.56.167.95/iptv222.php?id=54
-八大综合,http://47.56.167.95/iptv222.php?id=57
-东森电影,http://47.56.167.95/iptv222.php?id=59
-东森洋片,http://47.56.167.95/iptv222.php?id=63
-好莱坞电影,http://47.56.167.95/iptv222.php?id=66
-龙翔时代电影,http://47.56.167.95/iptv222.php?id=67
-华纳电影,http://47.56.167.95/iptv222.php?id=69
 
 娜迦23源,#genre#
 鳳凰中文,vjms://23.237.115.18:8500:3502/live/cid=400
