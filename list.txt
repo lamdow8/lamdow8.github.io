@@ -92,22 +92,11 @@ CCTV 4K版,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
 凤凰香港,http://qlive.fengshows.cn/live720p/PHK.m3u8
 凤凰香港,http://104.250.154.42:8080/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
 凤凰香港,http://192.154.103.75:8080//ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
-NOW新闻,http://pull.scphsd.com/live/2fdf7e62c6af19a2f13dc9147768789c/playlist.m3u8
-无线新闻台,http://pull.scphsd.com/live/a9d60e726f1ef485a46df51c37679360/playlist.m3u8
+
 无线新闻台,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 无线新闻台,https://ootori.xyz/tv/tvb.php?id=inews
-
+有线新闻台,http://prdsecurelive.ainemo.com/live/2020sanwu.flv
 有线新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
-RHK32,http://pull.scphsd.com/live/316dcdb29473ba740ec5c25f544ac2e4/playlist.m3u8
-寰宇新闻Ⅰ,https://ter.live2.ksmobile.net/yolo/9b731f35b08b4ee89eb49f1f44a7a810/playlist.m3u8
-寰宇新闻Ⅱ,https://ter.live2.ksmobile.net/yolo/04c77beb60c04067ae0a92ab14099c01/playlist.m3u8
-壹電視新聞,http://pull.scphsd.com/live/3309bf28508d49141a6ca9ff7c7a4206/playlist.m3u8
-非凡新闻,http://pull.scphsd.com/live/bcfd6df616fe25896108c93aee920294/playlist.m3u8
-年代新闻,http://pull.scphsd.com/live/8ac774367d02a6baded94fe3be06990d/playlist.m3u8#vjms://58.215.133.161:8500/live/cid=455
-东森新闻,http://pull.scphsd.com/live/dc91831a13065c9b0ca859bd9f243bfb/playlist.m3u8
-中天新闻,http://pull.scphsd.com/live/6b72b9b5cf4f08c4227c8cf7fdb03815/playlist.m3u8
-三立新闻,http://ter.live2.ksmobile.net/yolo/f06734cfaf9e43b89ebb073b6043cbe0/playlist.m3u8#http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
-TVBS新闻,http://ter.live2.ksmobile.net/yolo/fb60c11f25b14315af95e32942a893d6/playlist.m3u8#http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
 
 壹電視新聞,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 东森新闻,vjms://58.215.133.161:8500/live/cid=340
@@ -127,10 +116,9 @@ TVBS新闻,vjms://58.215.133.184:8500:3502/live/cid=348
 中天新闻,http://192.154.103.75:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 
 港台综合,#genre#
-翡翠台,http://pull.scphsd.com/live/7043526245ff2d28ef4646afc32511ae/playlist.m3u8
 翡翠台,http://play.ggiptv.com:13164/v/tvb.php
 TVB翡翠台,https://116.77.72.195/streams/d/fct/playlist.m3u8
-TVB明珠,https://116.77.72.195/streams/d/mzt/playlist.m3u8
+TVB明珠,http://prdsecurelive.ainemo.com/live/yx09hitv.flv#https://116.77.72.195/streams/d/mzt/playlist.m3u8
 无线财经咨询台,https://ootori.xyz/tv/tvb.php?id=j5_ch85
 J2台,http://pull.scphsd.com/live/a320567d90acc31178e54a8946823b25/playlist.m3u8
 无线财经咨询台,http://www.liveviptv.xyz/tv/tvb.php?vid=wxzx
@@ -144,8 +132,6 @@ VIUtv,http://hls.globaliptv.ml/viu99.php#https://viutv99-i.akamaihd.net/hls/live
 VIUtv six,http://hls.globaliptv.ml/viu96.php
 C+,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
 TVBS HD,vjms://58.215.133.161:8500/live/cid=349
-卫视中文台,http://pull.scphsd.com/live/58835097fe9e63cea28a0a0a4585ab4b.flv
-
 民视卫视,vjms://58.215.133.184:8500:3502/live/cid=450
 八大第一,vjms://58.215.133.184:8500:3502/live/cid=441
 年代综合,vjms://58.215.133.184:8500:3502/live/cid=439
@@ -158,7 +144,6 @@ TVBS HD,vjms://58.215.133.161:8500/live/cid=349
 中天综合,http://192.200.120.82:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 中天娱乐,http://192.200.120.82:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 国家地理,http://192.200.120.82:8080/ZZ_hbo/ZZ_hbo.m3u8
-中华卫视台湾台,http://pull.leshantangjt.com/live/playlist.m3u8
 八大综合台,http://192.154.103.75:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 
 
@@ -197,8 +182,7 @@ CHC高清电影,http://192.200.120.82:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8
 峨眉电影HD,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 卡式台,http://cdn-laos.workpoint.news/sd-starchineselegend_480/index.m3u8#https://livedoomovies.com/02_SCM_720p/chunklist.m3u8
 天映经典,https://www.livedoomovie.com/02_CCM_720p/chunklist.m3u8
-有线电影台,http://pull.scphsd.com/live/a622074773d8ac2c4e3460b6d727dec3/playlist.m3u8
-
+有线电影台,http://prdsecurelive.ainemo.com/live/yx09hitv.flv
 TVB功夫,http://pull.scphsd.com/live/715f40b83409d0cf08f9217e7d75e593/playlist.m3u8
 TVB星河台,http://pull.scphsd.com/live/d46e1e61c2ae40740c8c6cfc6c9281ee/playlist.m3u8
 TVB星河台,http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
@@ -210,7 +194,6 @@ HBO強檔,vjms://58.215.133.161:8500/live/cid=238
 HBO溫馨,vjms://58.215.133.161:8500/live/cid=181
 邵氏影院,https://url.cn/5HB5JUU#https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/164215/live_97065163_17925468.m3u8
 邵氏鬼片,http://pull.kktv8.com/livekktv/143960119.flv
-寰宇娱乐台,http://hls.jingchangkan.tv/jingchangkan/156725993_5Xjy/index.m3u8
 星空电影,https://hdl0903.plures.net/onlive/d1ede7e982d81c76affd1ab12b44b268.flv
 广东科教(官网),http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
 东森电影,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
@@ -237,64 +220,6 @@ FOX动作电影,http://192.200.120.82:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 海爷TV9号厅,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/141477/live_82436982_2406441.m3u8
 
 代理测试①,#genre#
-翡翠台,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=1
-凤凰中文,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=2
-凤凰资讯,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=3
-凤凰香港,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=4
-HKS,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=6
-香港开电视,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=7
-Viu TV,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=8
-无线新闻,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=9
-无线财经资讯,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=10
-J2,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=12
-明珠台,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=13
-星河频道,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=17
-星空卫视,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=18
-耀财财经,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=19
-HBO,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=27
-有线电影,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=30
-有线新闻,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=31
-有线18台,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=32
-有线603,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=33
-功夫台,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=35
-三立都会,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=40
-三立台湾,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=42
-中天新闻,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=44
-TVBS新闻,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=45
-东森新闻,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=46
-三立新闻,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=48
-壹电视新闻,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=49
-民视新闻,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=50
-年代新闻,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=52
-非凡新闻,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=53
-环宇新闻,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=54
-环宇新闻2,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=55
-八大综合,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=57
-东森电影,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=59
-东森洋片,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=63
-好莱坞电影,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=66
-龙祥时代,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=67
-华纳TV,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=69
-中视,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=73
-台视,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=74
-公视,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=76
-华视,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=77
-博斯魅力,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=88
-Baby First,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=92
-中天综合,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=100
-中天娱乐,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=101
-纬来体育,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=110
-FOX 3,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=113
-迪士尼卡通,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=122
-动物星球,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=124
-TVBS,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=127
-TVBS欢乐,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=129
-FOX,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=159
-FOX Sports,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=161
-FOX Sports 2,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=162
-FOX Movie,http://103.218.3.150/proxy.php?vid=iptv805&tid=gt&id=165
-
-
 翡翠台,http://hk.tv0668.com/dl/hk520.php?id=1#http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 明珠台,http://hk.tv0668.com/dl/hk520.php?id=13
 无线新闻,http://hk.tv0668.com/dl/hk520.php?id=9
