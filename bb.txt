@@ -1,5 +1,6 @@
 喜爱频道,#genre#
 书画频道,http://117.59.8.1/PLTV/88888888/224/3221227574/index.m3u8?icpid=88888888&from=4&hms_devid=2704
+书画频道,http://ott.cqccn.com/PLTV/88888888/224/3221227574/index.m3u8
 朱昌耀二胡曲,#genre#
 二胡之夜上半场,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200623/15455718gz2E76s8LhmuOHis16.m3u8
 二胡之夜下半场,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200623/15455718smSaJWlrEwj7dLi31l.m3u8
