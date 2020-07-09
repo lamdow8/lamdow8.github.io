@@ -4,7 +4,7 @@
 朱昌耀二胡曲,#genre#
 二胡之夜上半场,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200623/15455718gz2E76s8LhmuOHis16.m3u8
 二胡之夜下半场,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200623/15455718smSaJWlrEwj7dLi31l.m3u8
-渔舟唱晚,https://rescdn.yishihui.com/longvideo//transcode/video/vpc/20200628/5623330OyHSJjz9IN7tiA9BBF.m3u8
+渔舟唱晚,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200628/5623330OyHSJjz9IN7tiA9BBF.m3u8
 二泉映月,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200628/5623330SaS5D59f8HwKSY3ySk.m3u8
 闵惠芬二胡曲,#genre#
 洪湖主题随想曲,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200628/5623330gVyyFeMUuXQYbwWCsO.m3u8
