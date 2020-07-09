@@ -5,8 +5,11 @@
 二胡之夜上半场,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200623/15455718gz2E76s8LhmuOHis16.m3u8
 二胡之夜下半场,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200623/15455718smSaJWlrEwj7dLi31l.m3u8
 闵惠芬二胡曲,#genre#
+江河水,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200628/5623330DYzmEeXKlp3gtjgLRw
 昭君出塞,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200623/15455718ghr81YTJ819zPaoykp.m3u8
 邓建栋二胡曲,#genre#
+赞歌,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200628/5623330fsjwhJKsQn2wbC8Sdu.m3u8
+我的祖国,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200628/5623330b4rhJ6JTdAO2rF7spG.m3u8
 洪湖主题随想曲,https://rescdn.yishihui.com/longvideo/transcode/video/live/20190803/5207112533hXSCAGCZ6wu8PrA.m3u8
 宋飞二胡曲,#genre#
 洪湖人民的心愿,https://rescdn.yishihui.com/longvideo/transcode/video/live/201903255207112esv08sCFwlEmLJhCqN20190421183000231485265.m3u8
@@ -14,7 +17,10 @@
 周维于红梅二胡曲,#genre#
 葡萄熟了,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200628/5623330aUkTjP9wh70OLeymI7.m3u8
 兰花花叙事曲,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200628/5623330ijpo3io8VDH8h9Tv9o.m3u8
+小城故事,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200628/5623330AB4SUQxRCgt2azyDPH.m3u8
 琵琶曲,#genre#
 彝族舞曲,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200628/5623330mPRliXAIhCooXo4yU8.m3u8
+春江花月夜,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200628/5623330E8l1Jo6tL71lsR3Ij2.m3u8
 其他乐器,#genre#
 （小提琴）渔家姑娘在海边,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200628/56233300oZLjqAdHibquEBU7H.m3u8
+（小提琴）牧歌,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200628/5623330Ezr14jSD3iGndDI9Qf.m3u8
