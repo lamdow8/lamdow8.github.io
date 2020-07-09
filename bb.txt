@@ -11,3 +11,10 @@
 宋飞二胡曲,#genre#
 洪湖人民的心愿,https://rescdn.yishihui.com/longvideo/transcode/video/live/201903255207112esv08sCFwlEmLJhCqN20190421183000231485265.m3u8
 清明上河图,https://rescdn.yishihui.com/longvideo/transcode/video/live/201903255207112m6WS3N6ieaVpWRNwSh.m3u8
+周维于红梅二胡曲,#genre#
+葡萄熟了,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200628/5623330aUkTjP9wh70OLeymI7.m3u8
+兰花花叙事曲,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200628/5623330ijpo3io8VDH8h9Tv9o.m3u8
+琵琶曲,#genre#
+彝族舞曲,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200628/5623330mPRliXAIhCooXo4yU8.m3u8
+其他乐器,#genre#
+（小提琴）渔家姑娘在海边,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200628/56233300oZLjqAdHibquEBU7H.m3u8
