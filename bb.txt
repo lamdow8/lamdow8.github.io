@@ -37,9 +37,9 @@ CCTV-15,http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.li
 兰花花叙事曲,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200628/5623330ijpo3io8VDH8h9Tv9o.m3u8
 小城故事,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200628/5623330AB4SUQxRCgt2azyDPH.m3u8
 琵琶曲,#genre#
-春江花月夜,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20191020/5623330R3lGnd9BvLf5p93IQT.m3u8
+赵聪-春江花月夜,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20191020/5623330R3lGnd9BvLf5p93IQT.m3u8
 彝族舞曲,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200628/5623330mPRliXAIhCooXo4yU8.m3u8
-赵聪-春江花月夜,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200628/5623330E8l1Jo6tL71lsR3Ij2.m3u8
+吴玉霞-春江花月夜,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200628/5623330E8l1Jo6tL71lsR3Ij2.m3u8
 十面埋伏,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200628/5623330Qm9qizpXUXVtHZqFfr.m3u8
 其他乐器,#genre#
 音乐组合 _ 北风吹随想,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200709/15455718VqQ1W9HSZzWYuCIiMf.m3u8
