@@ -16,10 +16,14 @@ CCTV-15,http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.li
 渔舟唱晚,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200628/5623330OyHSJjz9IN7tiA9BBF.m3u8
 二泉映月,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200628/5623330SaS5D59f8HwKSY3ySk.m3u8
 闵惠芬二胡曲,#genre#
+王国潼《二泉映月》,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200713/15455718wrGKrWihNnxnKfwZ8z.m3u8
 洪湖主题随想曲,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200628/5623330gVyyFeMUuXQYbwWCsO.m3u8
 江河水,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200628/5623330DYzmEeXKlp3gtjgLRw.m3u8
 昭君出塞,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200623/15455718ghr81YTJ819zPaoykp.m3u8
 邓建栋二胡曲,#genre#
+浏阳河,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200713/15455718rVWzLLQ4UuCSDcSnYV.m3u8
+赛马,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200713/15455718PZEaSYjb1P8XgXOGkA.m3u8
+草原风韵,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200713/15455718DolgtXfYHm5qKkGG07.m3u8
 赞歌,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200628/5623330fsjwhJKsQn2wbC8Sdu.m3u8
 我的祖国,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200628/5623330b4rhJ6JTdAO2rF7spG.m3u8
 洪湖主题随想曲,https://rescdn.yishihui.com/longvideo/transcode/video/live/20190803/5207112533hXSCAGCZ6wu8PrA.m3u8
