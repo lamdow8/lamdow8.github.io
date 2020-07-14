@@ -28,6 +28,8 @@
 我要去西藏,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200316/5623330SrPMOGycmf4LVtBPf1.m3u8
 天长地久,https://rescdn.yishihui.com/longvideo/transcode/video/live/201907095623330fMIGbfhNGL2arPi87P.m3u8
 
+央视频道,#genre#
+
 CCTV-1 综合,http://119.28.95.11/outlivecloud-cdn.ysp.cctv.cn/cctv/2000210103.m3u8
 CCTV-2 财经,http://119.28.95.11/outlivecloud-cdn.ysp.cctv.cn/cctv/2000203603.m3u8
 CCTV-3 综艺,http://119.28.95.11/outlivecloud-cdn.ysp.cctv.cn/cctv/2000203803.m3u8
