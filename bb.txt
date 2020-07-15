@@ -1,6 +1,6 @@
 喜爱频道,#genre#
-书画频道（失效）,http://117.59.8.1/PLTV/88888888/224/3221227574/index.m3u8?icpid=88888888&from=4&hms_devid=2704
-书画频道（失效）,http://ott.cqccn.com/PLTV/88888888/224/3221227574/index.m3u8
+书画频道（高清）,http://117.59.8.1/PLTV/88888888/224/3221227574/index.m3u8?icpid=88888888&from=4&hms_devid=2704#http://ott.cqccn.com/PLTV/88888888/224/3221227574/index.m3u8
+书画频道（标清）,rtmp://112.73.66.59/livepkgr/shtv#rtmp://112.73.66.58/livepkgr/shtv
 CCTV-央视台球,http://106.54.30.243/gz009/gz.php?id=ystq#http://live.hcs.cmvideo.cn:8088/ws_v/2018/ystq/ystq711/1000/index.m3u8?&encrypt=
 CCTV-高尔夫网球,http://live.hcs.cmvideo.cn:8088/ws_v/2018/gefwq/gefwq711/1000/index.m3u8?&encrypt=
 中华美食,http://106.54.30.243/gz009/gz.php?id=zhms
