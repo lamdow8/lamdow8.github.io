@@ -7,8 +7,8 @@ CCTV-高尔夫网球,http://live.hcs.cmvideo.cn:8088/ws_v/2018/gefwq/gefwq711/10
 CCTV-风云音乐,http://106.54.30.243/gz009/gz.php?id=fyyl#http://live.hcs.cmvideo.cn:8088/ws_v/2018/fyyy/fyyy711/1000/index.m3u8?&encrypt=
 经典音乐会,http://v.iam7.top/iptv/cibn/?id=1108&code=128
 CCTV-15,http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-凤凰卫视HD,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
-凤凰资讯HD,http://112.50.243.8//PLTV/88888888/224/3221225901/1.m3u8
+凤凰卫视HD,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#http://117.169.120.98:8080/ysten-businessmobile/live/fhchinese/1.m3u8
+凤凰资讯HD,http://112.50.243.8//PLTV/88888888/224/3221225901/1.m3u8#http://117.169.120.98:8080/ysten-businessmobile/live/fhzixun/1.m3u8
 朱昌耀二胡曲,#genre#
 春江花月夜,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200628/5623330Y1mHgtfusz1alIZ98H.m3u8
 二胡之夜上半场,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200623/15455718gz2E76s8LhmuOHis16.m3u8
