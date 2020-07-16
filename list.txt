@@ -29,21 +29,21 @@
 天长地久,https://rescdn.yishihui.com/longvideo/transcode/video/live/201907095623330fMIGbfhNGL2arPi87P.m3u8
 
 央视频道,#genre#
-CCTV-1HD,http://101.71.255.229:6610/zjhs/2/10079/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV-2HD,http://101.71.255.229:6610/zjhs/2/10082/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV-3HD,http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV-4HD,http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV-5HD,http://101.71.255.229:6610/zjhs/2/10076/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-1 HD,http://101.71.255.229:6610/zjhs/2/10079/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-2 HD,http://101.71.255.229:6610/zjhs/2/10082/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-3 HD,http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-4 HD,http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-5 HD,http://101.71.255.229:6610/zjhs/2/10076/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-6,http://101.71.255.229:6610/zjhs/2/10066/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV-7HD,http://101.71.255.229:6610/zjhs/2/10091/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV-8HD,http://101.71.255.229:6610/zjhs/2/10062/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV-9HD,http://101.71.255.229:6610/zjhs/2/10092/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV-10HD,http://101.71.255.229:6610/zjhs/2/10084/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV-11HD,http://101.71.255.229:6610/zjhs/2/10085/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV-12HD,http://101.71.255.229:6610/zjhs/2/10086/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-7 HD,http://101.71.255.229:6610/zjhs/2/10091/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-8 HD,http://101.71.255.229:6610/zjhs/2/10062/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-9 HD,http://101.71.255.229:6610/zjhs/2/10092/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-10 HD,http://101.71.255.229:6610/zjhs/2/10084/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-11 HD,http://101.71.255.229:6610/zjhs/2/10085/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-12 HD,http://101.71.255.229:6610/zjhs/2/10086/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-13,http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV-14HD,http://101.71.255.229:6610/zjhs/2/10087/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV-15HD,http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-14 HD,http://101.71.255.229:6610/zjhs/2/10087/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-15 HD,http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-1 HD,http://112.50.243.8/PLTV/88888888/224/3221225829/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225755/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
 CCTV-2 HD,http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
 CCTV-3 HD,http://223.110.243.170//PLTV/3/224/3221225588/index.m3u8#http://112.17.40.8:80/PLTV/88888888/224/3221226485/index.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225754/index.m3u8
@@ -293,13 +293,12 @@ CCTV 4K版,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 凤凰香港,http://104.250.154.42:8080/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
 凤凰香港,http://192.154.103.75:8080//ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
-now新闻,http://pullstream-ucan.speedws.com/live/bc82357523802736f6e8e2037787c0ef/playlist.m3u8
-有线新闻,http://pullstream-ucan.speedws.com/live/d947c78ce7c895e3e66902fcb73804eb/playlist.m3u8
 Channel[V],https://www.fanmingming.cn/hls/channelv.m3u8
 ChannelV],rtmp://58.200.131.2:1935/livetv/channelv 
 MTV,http://106.54.30.243/gz009/gz.php?id=mtv
-无线新闻,http://pullstream-ucan.speedws.com/live/6a1f154ac83e07b6eed0316a7d7feea5/playlist.m3u8#http://pullstream-ucan.speedws.com/live/c3b2cf07af71468ab10b7724f16e2dde/playlist.m3u8
-翡翠台,http://pullstream-ucan.speedws.com/live/c1de6173a0e39833a792466117cba0c3/playlist.m3u8
+无线财经,http://45.93.217.106/jiuban/hg.php?id=2
+无线新闻,http://45.93.217.106/jiuban/hg.php?id=1
+J2,http://nb.iptv88888.xyz/hls/longtvj2.m3u8
 有线新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
 壹電視新聞,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 东森新闻,http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
@@ -356,15 +355,7 @@ CHC高清影院,http://61.160.152.55/live.aishang.ctlcdn.com/00000110240325_1/en
 凤凰电影台,https://116.77.72.195/streams/d/fhdy/playlist.m3u8
 邵氏影院,https://url.cn/5HB5JUU#https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/164215/live_97065163_17925468.m3u8
 邵氏鬼片,http://pull.kktv8.com/livekktv/143960119.flv
-海爷TV动漫,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/492270/live_189986442_7728008.m3u8
-海爷TV动作,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/366214/live_199793349_7660540.m3u8
-海爷TV海外,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/471169/live_27444411_4287972.m3u8
-海爷TV国产,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/750227/live_268522326_2538218.m3u8
-海爷TV国外,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/211012/live_52370715_1734265.m3u8
-海爷TV科幻,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/243318/live_261831479_8429255.m3u8
-海爷TV恐怖,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/428049/live_280698572_9101071.m3u8
-海爷TV小新,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/293317/live_255137759_7132099.m3u8
-海爷TV9号厅,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/141477/live_82436982_2406441.m3u8
+
 DOXTV,http://106.54.30.243/gz009/gz.php?id=doxtv
 DOX劇場HD,http://106.54.30.243/gz009/gz.php?id=doxjchd
 DOX怡家HD,http://106.54.30.243/gz009/gz.php?id=doxyjhd
@@ -463,7 +454,9 @@ TVB星河台,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=17
 公视3台,http://p06.iptv2asia.com:18888/http/018
 HakkaTV,http://p06.iptv2asia.com:18888/http/019
 原住民TV,http://p06.iptv2asia.com:18888/http/020
+
 移动超清源,#genre#
+
 CCTV4K超高清,http://112.17.40.145/PLTV/88888888/224/3221226758/index.m3u8
 CCTV4K(移动高码率),http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 BesTV 4K(移动),http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
