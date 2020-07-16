@@ -258,6 +258,29 @@ GTV八大戏剧台HD,https://pullstream-ucan.speedws.com/live/c6dfe8ef684548058c
 CTI中天亚洲台,https://pullstream-ucan.speedws.com/live/9b4cf4e3ef384a3a988d844fe0b9ad4e/playlist.m3u8
 CTI中天娱乐HD,https://pullstream-ucan.speedws.com/live/8780a411a13549cf98a747729ee1ecf1/playlist.m3u8
 高点综合HD,https://pullstream-ucan.speedws.com/live/4635b4274a8b47a8a471c5394ff3dcbc/playlist.m3u8
+台视,http://nb.iptv88888.xyz/hls/taishi.m3u8
+中视,http://nb.iptv88888.xyz/hls/zhongshi.m3u8
+华视,http://nb.iptv88888.xyz/hls/huashi.m3u8
+民视,http://nb.iptv88888.xyz/hls/minshi.m3u8
+公视,http://nb.iptv88888.xyz/hls/gongshi.m3u8
+博斯魅力,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+神州卫视,http://pull.leshantangjt.com/live/playlist.m3u8
+中天娱乐,http://nb.iptv88888.xyz/hls/ztyule.m3u8
+东森戏剧,http://nb.iptv88888.xyz/hls/dsxiju.m3u8
+东森超视,http://nb.iptv88888.xyz/hls/dschaoshi.m3u8
+东森洋片,http://nb.iptv88888.xyz/hls/dsyangpian.m3u8
+东森呦呦,http://nb.iptv88888.xyz/hls/dsyouyou.m3u8
+三立新闻,http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
+八大娱乐,http://nb.iptv88888.xyz/hls/bdyule.m3u8
+纬来戏剧,http://nb.iptv88888.xyz/hls/wlxiju.m3u8
+纬来精采,http://nb.iptv88888.xyz/hls/wljingcai.m3u8
+纬来日本,http://nb.iptv88888.xyz/hls/wljpan.m3u8
+纬来电影,http://nb.iptv88888.xyz/hls/wlmovie.m3u8
+龙翔电影,http://nb.iptv88888.xyz/hls/lxtime.m3u8
+星卫电影,http://nb.iptv88888.xyz/hls/xwtime.m3u8
+好莱坞电影台,http://nb.iptv88888.xyz/hls/haolaiwu.m3u8
+TVBS 新闻频道,http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
+靖天电影,http://nb.iptv88888.xyz/hls/jtmovie.m3u8
 体育综合,#genre#
 广东体育HD,https://116.77.72.195/streams/d/gdty/playlist.m3u8#http://sk.live.otvcloud.com/otv/skcc/live/channel34/2300.m3u8?k=00512d957c9b1863aff57fc3916c3e77&t=5D84817C&UID=1568964988
 五星体育HD,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
@@ -616,6 +639,21 @@ FOX动作电影,http://192.200.120.82:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 
 
 一本道_4600,#genre#
+happy,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8
+松视,https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8
+
+Happy 頻道,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDAy 
+HOT 頻道,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDAz 
+松視4台,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDA0 
+松視1台,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDA1 
+松視2台,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDA2 
+松視3台,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDA3 
+彩虹r台,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDA4 
+樂活頻道,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDEw 
+潘多拉完美台,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDEx 
+潘多拉粉紅台,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDEy 
+驚艷台,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDEz 
+香蕉台,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDE0
 3P插到潮喷,https://qqc1107.phpdaniu.com/japan/20191013/lcMXHzfW/500kb/hls/index.m3u8
 牛仔裤女郎,https://qqc1107.phpdaniu.com/japan/20191013/jz4knROn/500kb/hls/index.m3u8
 操到翻白眼,https://qqc1107.phpdaniu.com/japan/wuma/031116-519_06/index.m3u8
