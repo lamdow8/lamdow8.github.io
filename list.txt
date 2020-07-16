@@ -322,12 +322,7 @@ FOX动作电影,http://192.200.120.82:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 新加坡5频道(英语),https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 新加坡8频道(普通话),https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 新加坡春天频道vsnthmctv(泰米尔语),https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
-华丽,p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0
-双星,p2p://sdgdklwos.finetv.tv:9906/5b2f26bb000f257c10bb53ec280e5f3f.ts
-欢喜,p2p://sdgdklwos.finetv.tv:9906/5b2c86ff000b8df6067b5ca240b93635.ts
-AEC,p2p://sdgdklwos.finetv.tv:9906/5b2c873100007ef4067c1d2352642785.ts
-小太阳,p2p://sdgdklwos.finetv.tv:9906/5b2c879d000424bd067dc3ee45d96446.ts
-越南ktv,http://210.245.20.94/hls/ktv1.m3u8
+
 澳視體育,http://103.233.191.138/ch4/sport_ch4.live/playlist.m3u8
 澳门资讯,http://103.233.191.138/ch5/info_ch5.live/playlist.m3u8
 澳門莲花,rtmp://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c
@@ -352,7 +347,111 @@ AEC,p2p://sdgdklwos.finetv.tv:9906/5b2c873100007ef4067c1d2352642785.ts
 澳门有线一台,http://202.175.127.77/live/show/ch1/index.m3u8
 澳门互动新闻,http://202.175.127.77/live/show/ch2/index.m3u8
 澳门有线三台,http://202.175.127.77/live/show/ch3/index.m3u8
-
+代理测试,#genre# 
+ 无线新闻,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=9 
+ 翡翠台,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=1 
+ 明珠台,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=13 
+ TVB J2,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=12 
+ 无线财经资讯,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=10 
+ 有线新闻,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=31 
+ 有线综合,http://v.exdnd.com/dl/proxy.php?vid=utvhk&id=662547571 
+ 有线财经,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=35#http://v.exdnd.com/dl/proxy.php?vid=utvhk&id=657254837 
+ 有线18台,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=32 
+ 有线电影,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=30#http://v.exdnd.com/dl/xg.php?id=30 
+ 星空卫视,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=18 
+ 港台电视31,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=20 
+ 港台电视32,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=21 
+ 星河频道,http://v.exdnd.com/dl/proxy.php? 
+ TVB星河台,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=17 
+ 澳門互動新聞台,http://v.exdnd.com/dl/xg.php?id=26 
+ 澳門有線一台,http://v.exdnd.com/dl/xg.php?id=25 
+ 澳门莲花,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=22#http://v.exdnd.com/dl/proxy.php?flv&vid=iptv805&tid=gt&id=22 
+ 台视,http://p06.iptv2asia.com:18888/http/001 
+ 台视综合,http://p06.iptv2asia.com:18888/http/002 
+ 台视财经,http://p06.iptv2asia.com:18888/http/003 
+ 台视新闻,http://p06.iptv2asia.com:18888/http/004 
+ 中視無線HD,http://p06.iptv2asia.com:18888/http/005 
+ 中視新聞HD,http://p06.iptv2asia.com:18888/http/006 
+ 中視經典HD,http://p06.iptv2asia.com:18888/http/007 
+ 中視菁采HD,http://p06.iptv2asia.com:18888/http/008 
+ 华视,http://p06.iptv2asia.com:18888/http/009 
+ 华视新闻,http://p06.iptv2asia.com:18888/http/010 
+ 华视教育体育,http://p06.iptv2asia.com:18888/http/011 
+ 民视,http://p06.iptv2asia.com:18888/http/012 
+ 民视台湾,http://p06.iptv2asia.com:18888/http/013 
+ 民视第一,http://p06.iptv2asia.com:18888/http/014 
+ 民视新闻,http://p06.iptv2asia.com:18888/http/015 
+ 公视,http://p06.iptv2asia.com:18888/http/016 
+ 公视台语,http://p06.iptv2asia.com:18888/http/017 
+ 公视3台,http://p06.iptv2asia.com:18888/http/018 
+ HakkaTV,http://p06.iptv2asia.com:18888/http/019 
+ 原住民TV,http://p06.iptv2asia.com:18888/http/020 
+央视频道,#genre# 
+   CCTV-1HD,http://101.71.255.229:6610/zjhs/2/10079/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ CCTV-2HD,http://101.71.255.229:6610/zjhs/2/10082/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ CCTV-3HD,http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ CCTV-4HD,http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ CCTV-5HD,http://101.71.255.229:6610/zjhs/2/10076/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ CCTV-6,http://101.71.255.229:6610/zjhs/2/10066/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ CCTV-7HD,http://101.71.255.229:6610/zjhs/2/10091/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ CCTV-8HD,http://101.71.255.229:6610/zjhs/2/10062/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ CCTV-9HD,http://101.71.255.229:6610/zjhs/2/10092/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ CCTV-10HD,http://101.71.255.229:6610/zjhs/2/10084/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ CCTV-11HD,http://101.71.255.229:6610/zjhs/2/10085/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ CCTV-12HD,http://101.71.255.229:6610/zjhs/2/10086/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ CCTV-13,http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ CCTV-14HD,http://101.71.255.229:6610/zjhs/2/10087/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ CCTV-15HD,http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+     卫视频道,#genre# 
+ 浙江卫视高清,http://101.71.255.229:6610/zjhs/2/10059/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 湖南卫视高清,http://101.71.255.229:6610/zjhs/2/10024/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 东南卫视,http://101.71.255.229:6610/zjhs/2/10010/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 安徽卫视高清,http://101.71.255.229:6610/zjhs/2/10003/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 贵州卫视高清,http://101.71.255.229:6610/zjhs/2/10015/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 江西卫视高清,http://101.71.255.229:6610/zjhs/2/10029/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 天津卫视高清,http://101.71.255.229:6610/zjhs/2/10048/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 黑龙江高清,http://101.71.255.229:6610/zjhs/2/10020/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 四川卫视高清,http://101.71.255.229:6610/zjhs/2/10046/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 湖北卫视高清,http://101.71.255.229:6610/zjhs/2/10022/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 山东卫视高清,http://101.71.255.229:6610/zjhs/2/10040/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 深圳卫视高清,http://101.71.255.229:6610/zjhs/2/10045/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 广东卫视高清,http://101.71.255.229:6610/zjhs/2/10013/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 江苏卫视高清,http://101.71.255.229:6610/zjhs/2/10028/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 东方卫视高清,http://101.71.255.229:6610/zjhs/2/10009/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 北京卫视高清,http://101.71.255.229:6610/zjhs/2/10005/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 河北卫视高清,http://101.71.255.229:6610/zjhs/2/10017/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 北京卫视,http://101.71.255.229:6610/zjhs/2/10004/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 内蒙卫视,http://101.71.255.229:6610/zjhs/2/10035/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 安徽卫视,http://101.71.255.229:6610/zjhs/2/10002/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 兵团卫视,http://101.71.255.229:6610/zjhs/2/10006/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 东方卫视,http://101.71.255.229:6610/zjhs/2/10008/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 东南卫视,http://101.71.255.229:6610/zjhs/2/10010/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 甘肃卫视,http://101.71.255.229:6610/zjhs/2/10011/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 广东卫视,http://101.71.255.229:6610/zjhs/2/10012/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 广西卫视,http://101.71.255.229:6610/zjhs/2/10014/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 河南卫视,http://101.71.255.229:6610/zjhs/2/10018/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 黑龙江视,http://101.71.255.229:6610/zjhs/2/10019/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 湖北卫视,http://101.71.255.229:6610/zjhs/2/10021/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 湖南卫视,http://101.71.255.229:6610/zjhs/2/10023/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 吉林卫视,http://101.71.255.229:6610/zjhs/2/10025/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 江苏卫视,http://101.71.255.229:6610/zjhs/2/10027/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 金鹰卡通,http://101.71.255.229:6610/zjhs/2/10030/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 卡酷少儿,http://101.71.255.229:6610/zjhs/2/10031/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 辽宁卫视,http://101.71.255.229:6610/zjhs/2/10032/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 旅游卫视,http://101.71.255.229:6610/zjhs/2/10034/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 宁夏卫视,http://101.71.255.229:6610/zjhs/2/10036/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 青海卫视,http://101.71.255.229:6610/zjhs/2/10038/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 山东卫视,http://101.71.255.229:6610/zjhs/2/10039/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 山西卫视,http://101.71.255.229:6610/zjhs/2/10041/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 陕西卫视,http://101.71.255.229:6610/zjhs/2/10042/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 深圳卫视,http://101.71.255.229:6610/zjhs/2/10044/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 四川卫视,http://101.71.255.229:6610/zjhs/2/10046/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 天津卫视,http://101.71.255.229:6610/zjhs/2/10047/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 西藏卫视,http://101.71.255.229:6610/zjhs/2/10049/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 新疆卫视,http://101.71.255.229:6610/zjhs/2/10050/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 云南卫视,http://101.71.255.229:6610/zjhs/2/10054/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 浙江卫视,http://101.71.255.229:6610/zjhs/2/10058/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
+ 重庆卫视,http://101.71.255.229:6610/zjhs/2/10081/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
 
 中国老电影,#genre#
 地雷战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458e40508615d711b8aae1af/850.m3u8
