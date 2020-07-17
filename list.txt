@@ -47,7 +47,7 @@ CCTV-14 HD,http://112.50.243.8/PLTV/88888888/224/3221225819/1.m3u8#http://112.50
 CCTV-15 HD,http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8#http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
 CCTV-16 HD,http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8#http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 CCTV-17 HD,http://112.50.243.8/PLTV/88888888/224/3221226986/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
-
+CCTV 4K,http://www.itvi.vip/cctv.php?id=2000266303#http://106.54.30.243/gz009/gz.php?id=cctv4k
 央视频,#genre#
 CCTV-1 综合,http://119.28.95.11/outlivecloud-cdn.ysp.cctv.cn/cctv/2000210103.m3u8
 CCTV-2 财经,http://119.28.95.11/outlivecloud-cdn.ysp.cctv.cn/cctv/2000203603.m3u8
