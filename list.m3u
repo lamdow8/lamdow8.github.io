@@ -35,7 +35,9 @@ http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-id="17" tvg-name="CCTV17" group-title="央视频道",CCTV-17农村农业
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视频道",CCTV 4K[移动]
-http://112.50.243.8/PLTV/88888888/224/3221226758/1.m3u8
+http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u
+
+
 
 #卫视高清
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视频道",湖南卫视高清
@@ -67,6 +69,189 @@ http://112.50.243.8/PLTV/88888888/224/3221225862/1.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视频道",湖北卫视高清
 http://112.50.243.8/PLTV/88888888/224/3221225948/1.m3u8
 
+#港台高清
+#EXTINF:-1 group-title="香港",翡翠台
+http://nb.iptv88888.xyz/hls/feicui.m3u8
+#EXTINF:-1 group-title="香港",J2
+http://nb.iptv88888.xyz/hls/longtvj2.m3u8
+#EXTINF:-1 group-title="香港",J5
+http://nb.iptv88888.xyz/hls/longj5.m3u8
+#EXTINF:-1 group-title="香港",pearl
+http://nb.iptv88888.xyz/hls/pearl.m3u8
+#EXTINF:-1 group-title="香港",互动新闻
+http://nb.iptv88888.xyz/hls/inews.m3u8
+#EXTINF:-1 group-title="香港",有线新闻
+http://nb.iptv88888.xyz/hls/hkcxw.m3u8
+#EXTINF:-1 group-title="香港",有线娱乐
+http://nb.iptv88888.xyz/hls/hkcyule.m3u8
+#EXTINF:-1 group-title="香港",有线财经
+http://nb.iptv88888.xyz/hls/hkccj.m3u8
+#EXTINF:-1 group-title="香港",VIUTV
+http://nb.iptv88888.xyz/hls/viutv.m3u8
+#EXTINF:-1 group-title="香港",VIUTV6
+http://nb.iptv88888.xyz/hls/viutv6.m3u8
+#EXTINF:-1 group-title="香港",明珠台
+http://61.238.6.49:8001/bysid/2
+#EXTINF:-1 group-title="香港",無綫新聞台
+http://61.238.6.49:8001/bysid/83
+#EXTINF:-1 group-title="香港",無綫財經 · 資訊台
+http://61.238.6.49:8001/bysid/85
+#EXTINF:-1 group-title="香港",翡翠台
+http://61.238.6.49:8000/bysid/1
+#EXTINF:-1 group-title="香港",ViuTVsix
+http://61.238.6.49:8000/bysid/96
+#EXTINF:-1 group-title="香港",ViuTV
+http://61.238.6.49:8000/bysid/99
+#EXTINF:-1 group-title="香港",J2台
+http://61.238.6.49:8001/bysid/82
+#EXTINF:-1 group-title="台湾",民视
+http://nb.iptv88888.xyz/hls/minshi.m3u8
+#EXTINF:-1 group-title="台湾",民视新闻
+http://nb.iptv88888.xyz/hls/msxinwen.m3u8
+#EXTINF:-1 group-title="台湾",民视第一
+http://nb.iptv88888.xyz/hls/msone.m3u8
+#EXTINF:-1 group-title="台湾",民视台湾
+http://nb.iptv88888.xyz/hls/mstaiwan.m3u8
+#EXTINF:-1 group-title="台湾",华视
+http://nb.iptv88888.xyz/hls/huashi.m3u8
+#EXTINF:-1 group-title="台湾",华视新闻
+http://nb.iptv88888.xyz/hls/hsnews.m3u8
+#EXTINF:-1 group-title="台湾",华视教育
+http://nb.iptv88888.xyz/hls/hsedu.m3u8
+#EXTINF:-1 group-title="台湾",公视
+http://nb.iptv88888.xyz/hls/gongshi.m3u8
+#EXTINF:-1 group-title="台湾",公視2
+http://nb.iptv88888.xyz/hls/gongshi2.m3u8
+#EXTINF:-1 group-title="台湾",公視3
+http://nb.iptv88888.xyz/hls/gongshi3.m3u8
+#EXTINF:-1 group-title="台湾",台视
+http://nb.iptv88888.xyz/hls/taishi.m3u8
+#EXTINF:-1 group-title="台湾",台视综合
+http://nb.iptv88888.xyz/hls/ttvzonghe.m3u8
+#EXTINF:-1 group-title="台湾",大爱
+http://nb.iptv88888.xyz/hls/daaiws.m3u8
+#EXTINF:-1 group-title="台湾",台视新闻
+http://nb.iptv88888.xyz/hls/tsxinwen.m3u8
+#EXTINF:-1 group-title="台湾",中视
+http://nb.iptv88888.xyz/hls/zhongshi.m3u8
+#EXTINF:-1 group-title="台湾",中视经典
+http://nb.iptv88888.xyz/hls/zsjingdian.m3u8
+#EXTINF:-1 group-title="台湾",中视新闻
+http://nb.iptv88888.xyz/hls/zsxinwen.m3u8
+#EXTINF:-1 group-title="台湾",中视箐采
+http://nb.iptv88888.xyz/hls/zsqingcai.m3u8
+#EXTINF:-1 group-title="台湾",TVBS
+http://nb.iptv88888.xyz/hls/tvbsm.m3u8
+#EXTINF:-1 group-title="台湾",TVBS新闻
+http://nb.iptv88888.xyz/hls/tvbsxwm.m3u8
+#EXTINF:-1 group-title="台湾",TVBS欢乐
+http://nb.iptv88888.xyz/hls/tvbshuanle.m3u8
+#EXTINF:-1 group-title="台湾",中天综合
+http://nb.iptv88888.xyz/hls/ztzonghe.m3u8
+#EXTINF:-1 group-title="台湾",中天娱乐
+http://nb.iptv88888.xyz/hls/ztyule.m3u8
+#EXTINF:-1 group-title="台湾",八大综合
+http://nb.iptv88888.xyz/hls/bdzonghe.m3u8
+#EXTINF:-1 group-title="台湾",八大第一
+http://nb.iptv88888.xyz/hls/bddiyi.m3u8
+#EXTINF:-1 group-title="台湾",八大戏剧
+http://nb.iptv88888.xyz/hls/bdxiju.m3u8
+#EXTINF:-1 group-title="台湾",八大娱乐
+http://nb.iptv88888.xyz/hls/bdyule.m3u8
+#EXTINF:-1 group-title="台湾",东森综合
+http://nb.iptv88888.xyz/hls/dongsenzh.m3u8
+#EXTINF:-1 group-title="台湾",东森戏剧
+http://nb.iptv88888.xyz/hls/dsxiju.m3u8
+#EXTINF:-1 group-title="台湾",东森电影
+http://nb.iptv88888.xyz/hls/dsmovie.m3u8
+#EXTINF:-1 group-title="台湾",东森超视
+http://nb.iptv88888.xyz/hls/dschaoshi.m3u8
+#EXTINF:-1 group-title="台湾",东森洋片
+http://nb.iptv88888.xyz/hls/dsyangpian.m3u8
+#EXTINF:-1 group-title="台湾",东森新闻
+http://nb.iptv88888.xyz/hls/dsxinwen.m3u8
+#EXTINF:-1 group-title="台湾",东森财经
+http://nb.iptv88888.xyz/hls/dscaiji.m3u8
+#EXTINF:-1 group-title="台湾",东森亚洲
+http://nb.iptv88888.xyz/hls/dsyazhou.m3u8
+#EXTINF:-1 group-title="台湾",纬来综合
+http://nb.iptv88888.xyz/hls/wlzonghe.m3u8
+#EXTINF:-1 group-title="台湾",纬来戏剧
+http://nb.iptv88888.xyz/hls/wlxiju.m3u8
+#EXTINF:-1 group-title="台湾",纬来精采
+http://nb.iptv88888.xyz/hls/wljingcai.m3u8
+#EXTINF:-1 group-title="台湾",纬来电影
+http://nb.iptv88888.xyz/hls/wlmovie.m3u8
+#EXTINF:-1 group-title="台湾",纬来日本
+http://nb.iptv88888.xyz/hls/wljpan.m3u8
+#EXTINF:-1 group-title="台湾",纬来体育
+http://nb.iptv88888.xyz/hls/wltiyu.m3u8
+#EXTINF:-1 group-title="台湾",三立综合
+http://nb.iptv88888.xyz/hls/slzonghe.m3u8
+#EXTINF:-1 group-title="台湾",三立都会
+http://nb.iptv88888.xyz/hls/sldouhui.m3u8
+#EXTINF:-1 group-title="台湾",三立戏剧
+http://nb.iptv88888.xyz/hls/slxiju.m3u8
+#EXTINF:-1 group-title="台湾",三立台湾
+http://nb.iptv88888.xyz/hls/sltaiwan.m3u8
+#EXTINF:-1 group-title="台湾",三立新闻
+http://nb.iptv88888.xyz/hls/slxinwen.m3u8
+#EXTINF:-1 group-title="台湾",ELTA综合
+http://nb.iptv88888.xyz/hls/elzonghe.m3u8
+#EXTINF:-1 group-title="台湾",ELTA影剧
+http://nb.iptv88888.xyz/hls/elyingju.m3u8
+#EXTINF:-1 group-title="台湾",ELTA体育1
+http://nb.iptv88888.xyz/hls/eltiyu1.m3u8
+#EXTINF:-1 group-title="台湾",ELTA体育2
+http://nb.iptv88888.xyz/hls/eltiyu2.m3u8
+#EXTINF:-1 group-title="台湾",ELTA体育3
+http://nb.iptv88888.xyz/hls/eltiyu3.m3u8
+#EXTINF:-1 group-title="台湾",寰宇新闻
+http://nb.iptv88888.xyz/hls/huanyu1.m3u8
+#EXTINF:-1 group-title="台湾",寰宇台湾
+http://nb.iptv88888.xyz/hls/huanyu2.m3u8
+#EXTINF:-1 group-title="台湾",非凡新闻
+http://nb.iptv88888.xyz/hls/ffxinwen.m3u8
+#EXTINF:-1 group-title="台湾",年代新闻
+http://nb.iptv88888.xyz/hls/ndxinwen.m3u8
+#EXTINF:-1 group-title="台湾",壹新闻
+http://nb.iptv88888.xyz/hls/yixinwen.m3u8
+#EXTINF:-1 group-title="台湾",龙翔电影
+http://nb.iptv88888.xyz/hls/lxtime.m3u8
+#EXTINF:-1 group-title="台湾",星卫电影
+http://nb.iptv88888.xyz/hls/xwtime.m3u8
+#EXTINF:-1 group-title="台湾",卫视电影
+http://nb.iptv88888.xyz/hls/wstime.m3u8
+#EXTINF:-1 group-title="台湾",天映频道
+http://nb.iptv88888.xyz/hls/tianyingpd.m3u8
+#EXTINF:-1 group-title="台湾",天映经典
+http://nb.iptv88888.xyz/hls/tianyingjd.m3u8
+#EXTINF:-1 group-title="台湾",mtvlive
+http://nb.iptv88888.xyz/hls/mtvlive.m3u8
+#EXTINF:-1 group-title="台湾",国家地理
+http://nb.iptv88888.xyz/hls/natgeo.m3u8
+#EXTINF:-1 group-title="台湾",地理人文
+http://nb.iptv88888.xyz/hls/dilipeople.m3u8
+#EXTINF:-1 group-title="台湾",地理野生
+http://nb.iptv88888.xyz/hls/geowild.m3u8
+#EXTINF:-1 group-title="台湾",龙华偶像
+http://nb.iptv88888.xyz/hls/longhuaox.m3u8
+#EXTINF:-1 group-title="台湾",龙华电影
+http://nb.iptv88888.xyz/hls/longhuamovie.m3u8
+#EXTINF:-1 group-title="台湾",龙华洋片
+http://nb.iptv88888.xyz/hls/longhuayangpian.m3u8
+#EXTINF:-1 group-title="台湾",龙华戏剧
+http://nb.iptv88888.xyz/hls/longhuaxiju.m3u8
+#EXTINF:-1 group-title="台湾",靖天电影
+http://nb.iptv88888.xyz/hls/jtmovie.m3u8
+#EXTINF:-1 group-title="台湾",靖天映画
+http://nb.iptv88888.xyz/hls/jtyinghua.m3u8
+#EXTINF:-1 group-title="台湾",靖天国际
+http://nb.iptv88888.xyz/hls/jtguoji.m3u8
+#EXTINF:-1 group-title="台湾",靖天卡通
+http://nb.iptv88888.xyz/hls/jtkatong.m3u8
+#EXTINF:-1 group-title="台湾",寰宇财经
+http://nb.iptv88888.xyz/hls/hycaiji.m3u8
 
 #影视频道
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://pic.downk.cc/item/5e5652f46127cc0713d5e11c.png" group-title="影视频道",CHC高清电影
@@ -87,26 +272,23 @@ http://39.135.32.143:6610/000000001000/8785669936177902664/1.m3u8?
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="影视频道",湖南潇湘电影HD
 http://124.232.231.246:6610/000000001001/201600020006/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020005&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
-
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="影视频道",4k超清电影
+http://www.dszbdq.cn/v/d/yfy0708.php?id=51024
 #体育频道
-#EXTINF:-1 tvg-id="17" tvg-name="Olympic Channel 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="体育频道",Olympic Channel 1
-https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Olympic Channel 1" tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="体育频道",Olympic Channel 1
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Olympic Channel 2" tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="体育频道",Olympic Channel 2
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png" group-title="体育频道",ESPN
-http://npse.brots.world/espn2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" tvg-id="1987" tvg-name="五星体育频道" group-title="体育频道",五星体育频道
-http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225964/3.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" tvg-id="1872" tvg-name="北京纪实" group-title="体育频道",北京冬奥纪实
+http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" tvg-id="1872" tvg-name="北京纪实" group-title="体育频道",北京冬奥纪实
 http://by4.nty.tv189.cn/tm-btvjishihd-4000k.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" tvg-id="1964" tvg-name="劲爆体育" group-title="体育频道",劲爆体育(备)
-http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=74&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1 tvg-logo="https://ae01.alicdn.com/kf/H684e28cefa9c4869ac8bf5401937551eM.png" tvg-id="9919" tvg-name="广东体育" group-title="体育频道",广东体育
-http://sk.live.otvcloud.com/otv/skcc/live/channel34/2300.m3u8?k=00512d957c9b1863aff57fc3916c3e77&t=5D84817C&UID=1568964988
+http://gslb.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8?k=0e9c779668ea63007948538f0f57f3ca&t=5EFDE4BB&UID=29AAB394
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="体育频道",劲爆体育
-https://keonline.shanghai.liveplay.qq.com/live/program/live/jbtyhd/2300000/mnf.m3u8
+http://183.207.249.9/PLTV/2/224/3221226045/1.m3u8
 #EXTINF:-1 tvg-id="6093" tvg-name="ELEVEN体育一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="体育频道",ELEVEN体育1台
 http://pull.scphsd.com/live/7a64a6f8a6bd572c802ca6b7195bea7a/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" tvg-id="6090" tvg-name="纬来体育台" group-title="体育频道",纬来体育台
