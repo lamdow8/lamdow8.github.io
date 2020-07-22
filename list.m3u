@@ -433,23 +433,21 @@ http://111.229.73.84/dl/xg235.php?id=13&xl=2
 http://danielwu.gz01.bdysite.com/iptv/?id=wxxw2
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" tvg-id="130" tvg-name="无线新闻" group-title="港澳一日游",无线新闻台(备)
 http://45.93.217.106/jiuban/hg.php?id=1
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" tvg-id="7122" tvg-name="有线新闻台" group-title="港澳一日游",有线新闻台HD
-http://webftp7055008.ushost05.08jt.com/iptv.php?token=guWL0dq26ecl2wUhCUnJ4qotnqX3GjmWBcNa7eJ15jHt2jXp7grt6aq81kjSC
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳一日游",无线财经
 http://111.229.73.84/dl/xg235.php?id=10&xl=2
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-finance.jpg" tvg-id="133" tvg-name="无线财经" group-title="港澳一日游",无线财经咨询台
 http://www.liveviptv.xyz/tv/tvb.php?vid=wxzx
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" tvg-id="7122" tvg-name="有线新闻台" group-title="港澳一日游",有线新闻台HD
+http://liveicm2.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" tvg-id="7119" tvg-name="有线财经资讯台" group-title="港澳一日游",有线财经资讯台
+http://liveicm2.utvlive.top/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8
+#EXTINF:-1 tvg-logo="http://www.utvhk.com/maint/images/channel/7ac969f6ec0ff483fcb34b05a257d7d1.png" tvg-id="" tvg-name="有线娱乐" group-title="港澳一日游",有线娱乐台
+http://liveicm2.utvlive.top/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-id="141" tvg-name="凤凰中文" group-title="港澳一日游",凤凰卫视中文HD
 http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-id="142" tvg-name="凤凰资讯" group-title="港澳一日游",凤凰卫视资讯台HD
 http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-id="141" tvg-name="凤凰中文" group-title="港澳一日游",凤凰卫视中文台
-http://qlive.fengshows.cn/live720p/PCC.m3u8?txSecret=d676f9bf172bc1e1c3aae06a3bc5bcf5&txTime=5e6f5d9d
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-id="142" tvg-name="凤凰资讯" group-title="港澳一日游",凤凰卫视资讯台
-http://qlive.fengshows.cn/live720p/PIN.m3u8?txSecret=3de72b2a2ab4c44574d7202d9c7281bb&txTime=5e6f5cde
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" tvg-id="143" tvg-name="凤凰香港" group-title="港澳一日游",凤凰卫视香港台
-http://qlive.fengshows.cn/live720p/PHK.m3u8?txSecret=c6549e31264bab38de30fb2b5a0dc43b&txTime=5e6f5d57
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" tvg-id="143" tvg-name="凤凰香港" group-title="港澳一日游",凤凰卫视香港台(备)
 http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" tvg-id="408" tvg-name="ViuTV" group-title="港澳一日游",Viu TV
 http://111.229.73.84/dl/xg235.php?id=8&xl=2
@@ -459,8 +457,7 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://111.229.73.84/dl/xg235.php?id=12&xl=2
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" tvg-id="7118" tvg-name="香港开电视" group-title="港澳一日游",香港开电视
 http://pull.scphsd.com/live/79f552bb3062818a58cf0dea132a5e65/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" tvg-id="7119" tvg-name="有线财经资讯台" group-title="港澳一日游",有线财经资讯台
-https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" tvg-id="7122" tvg-name="有线新闻台" group-title="港澳一日游",有线新闻台
 http://pullstream-ucan.speedws.com/live/d947c78ce7c895e3e66902fcb73804eb/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkong603.png" tvg-id="7239" tvg-name="香港603" group-title="港澳一日游",香港有线603
@@ -489,8 +486,7 @@ http://hdl0901.plures.net/onlive/580876d9897b17e6b1a1e79deb5941e7.flv
 http://prdsecurelive.ainemo.com/live/yx09hitv.flv
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbgongfu.jpg" tvg-id="10092" tvg-name="功夫台" group-title="港澳一日游",TVB功夫台
 http://pull.scphsd.com/live/41502a0a7b26b5f621d55270249e48a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.utvhk.com/maint/images/channel/7ac969f6ec0ff483fcb34b05a257d7d1.png" tvg-id="" tvg-name="有线娱乐" group-title="港澳一日游",有线娱乐台
-https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/celestialmovies.jpg" tvg-id="" tvg-name="天映电影HD" group-title="港澳一日游",天映频道(失效)
 http://47.91.213.59/live/t6u5b1q4/y7sd1aqy/index.m3u8
 
