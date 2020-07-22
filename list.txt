@@ -72,7 +72,7 @@ CCTV-9 纪录,http://36.152.7.33/tlivecloud-cdn.ysp.cctv.cn/ysp/2000499403.m3u8
 CCTV-10 科教,http://36.152.7.33/tlivecloud-cdn.ysp.cctv.cn/ysp/2000203503.m3u8
 CCTV-11 戏曲,http://36.152.7.33/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204103.m3u8
 CCTV-12 社会与法,http://36.152.7.33/tlivecloud-cdn.ysp.cctv.cn/ysp/2000202603.m3u8
-CCTV-13 新闻,http://119.28.95.11/outlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+CCTV-13 新闻,http://36.152.7.33/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 CCTV-14 少儿,http://36.152.7.33/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204403.m3u8
 CCTV-15 音乐,http://36.152.7.33/tlivecloud-cdn.ysp.cctv.cn/ysp/2000205003.m3u8
 CCTV-17 农村农业,http://36.152.7.33/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204203.m3u8
