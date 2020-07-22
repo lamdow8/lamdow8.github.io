@@ -190,12 +190,12 @@ CCTV 4K版,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 凤凰资讯,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 凤凰香港,http://qlive.fengshows.cn/live720p/PHK.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
-有线综合娱乐台,http://liveicm2.utvlive.top/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-3.m3u8
-有线财经资讯台,http://liveicm2.utvlive.top/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d-3.m3u8
-有线新闻,http://111.229.73.84/dl/xg235.php?id=31&xl=2
+有线综合娱乐台,http://liveicm2.utvlive.top/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8
+有线财经资讯台,http://liveicm2.utvlive.top/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8
+有线新闻,http://liveicm2.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
 翡翠台,http://www.cjtv.vip/iptv/jade.m3u8
-香港,#genre#
 
+龙腾源,#genre#
 凤凰卫视,http://nb.iptv88888.xyz/hls/fhzwt.m3u8
 凤凰咨询,http://nb.iptv88888.xyz/hls/fhzixun.m3u8
 凤凰香港,http://nb.iptv88888.xyz/hls/fhhongkong.m3u8
@@ -214,8 +214,6 @@ VIUTV6,http://nb.iptv88888.xyz/hls/viutv6.m3u8
 澳亚卫视,http://nb.iptv88888.xyz/hls/aoyws.m3u8
 澳门卫视,http://nb.iptv88888.xyz/hls/aomws.m3u8
 星空卫视,http://nb.iptv88888.xyz/hls/xingkongws.m3u8
-
-台湾,#genre#
 民视,http://nb.iptv88888.xyz/hls/minshi.m3u8
 民视新闻,http://nb.iptv88888.xyz/hls/msxinwen.m3u8
 民视第一,http://nb.iptv88888.xyz/hls/msone.m3u8
@@ -315,9 +313,9 @@ M2O音乐台,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 新视觉,https://keonline.shanghai.liveplay.qq.com/live/program/live/xsjhd/2300000/mnf.m3u8
 北京体育,http://by4.nty.tv189.cn/live/tm-btvjishihd-4000k.m3u8
 劲爆体育,https://keonline.shanghai.liveplay.qq.com/live/program/live/jbtyhd/2300000/mnf.m3u8
-北京冬奥纪实,http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
+北京冬奥纪实,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=4
 北京体育,http://49.234.207.217/tv/migu.php?id=641874369
-魅力足球,http://liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+五星体育,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5000000010000017540&livemode=1&stbId=4
 
 影视频道,#genre#
 CCTV4K UHD,http://111.161.121.214/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8#http://112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8#http://39.134.185.69/PLTV/88888888/224/3221226758/1.m3u8
@@ -334,9 +332,7 @@ CHC动作影院,http://61.160.152.55/live.aishang.ctlcdn.com/00000110240324_1/en
 CHC高清影院,http://61.160.152.55/live.aishang.ctlcdn.com/00000110240325_1/encoder/0/playlist.m3u8?CONTENTID=00000110240325_1
 峨眉电影HD,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 卡式台,http://cdn-laos.workpoint.news/sd-starchineselegend_480/index.m3u8#https://livedoomovies.com/02_SCM_720p/chunklist.m3u8
-黑莓电影,http://112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226755/index.m3u8
-黑莓动画,http://112.50.243.8/PLTV/88888888/224/3221225878/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226654/index.m3u8
-凤凰电影台,https://116.77.72.195/streams/d/fhdy/playlist.m3u8
+黑莓电影,ttp://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=4#http://112.17.40.140/PLTV/88888888/224/3221226755/index.m3u8
 邵氏影院,https://url.cn/5HB5JUU#https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/164215/live_97065163_17925468.m3u8
 邵氏鬼片,http://pull.kktv8.com/livekktv/143960119.flv
 
@@ -362,6 +358,7 @@ FOX动作电影,http://192.200.120.82:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 动物星球,http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 华纳电影,http://192.200.120.82:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
 华纳电影,http://192.154.103.75:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
+
 新马澳,#genre#
 新 U频道,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 新传媒8频道,https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
@@ -369,7 +366,6 @@ FOX动作电影,http://192.200.120.82:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 新加坡5频道(英语),https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 新加坡8频道(普通话),https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 新加坡春天频道vsnthmctv(泰米尔语),https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
-
 澳視體育,http://103.233.191.138/ch4/sport_ch4.live/playlist.m3u8
 澳门资讯,http://103.233.191.138/ch5/info_ch5.live/playlist.m3u8
 澳門莲花,rtmp://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c
@@ -394,6 +390,7 @@ FOX动作电影,http://192.200.120.82:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 澳门有线一台,http://202.175.127.77/live/show/ch1/index.m3u8
 澳门互动新闻,http://202.175.127.77/live/show/ch2/index.m3u8
 澳门有线三台,http://202.175.127.77/live/show/ch3/index.m3u8
+
 代理测试,#genre# 
  无线新闻,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=9 
  翡翠台,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=1 
