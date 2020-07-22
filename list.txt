@@ -1,4 +1,13 @@
 最爱歌曲,#genre#
+哭砂,https://rescdn.yishihui.com/longvideo/transcode/video/live/201903265623330b7Y5a9jnTT1ZgnKF62.m3u8
+祝福,https://rescdn.yishihui.com/longvideo/transcode/vide/live/201905145623330aCm0SD3BtrQpdu4aE0.m3u8
+梦醒时分,https://rescdn.yishihui.com/longvideo/transcode/vide/vpc/20200523/5623330Vw1jOChC0fofHlT3Bw.m3u8
+人在青山在,https://rescdn.yishihui.com/longvideo/transcode/vide/vpc/20200615/5623330f1vpZ2KwRdxuU6NwBp.m3u8
+我和你,https://rescdn.yishihui.com/longvideo/transcode/vide/vpc/20200615/5623330a89QV1ykCAfSGyH6QE.m3u8
+你走你的路,https://rescdn.yishihui.com/longvideo/transcode/vide/vpc/20200615/5623330HPxKHoJfO7RXJCtJXo.m3u8
+问,https://rescdn.yishihui.com/longvideo/transcode/vide/vpc/20200615/5623330C7bjwgLbdo4zyupzZx.m3u8
+九月的高跟鞋,https://rescdn.yishihui.com/longvideo/transcode/vide/vpc/20200615/5623330AK2nGmocq9wuJrD5yg.m3u8
+爱似流星,https://rescdn.yishihui.com/longvideo/transcode/vide/vpc/20200628/5623330Rl5cekxxONCmFRZCq5.m3u8
 一切为明天,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200520/5623330j0YJr1bw3zneuoKEe2.m3u8
 沉默的母亲,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200506/5623330vFNS6CS9tiqFS7rZAs.m3u8
 不要问我过得好不好,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200502/5623330QJKpPLgIDxcpzifdWP.m3u8
