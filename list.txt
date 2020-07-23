@@ -191,6 +191,16 @@ CCTV 4K版,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 兵团卫视 SD,http://ivi.bupt.edu.cn/hls/bttv.m3u8
 康巴卫视 SD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=017&Provider_id=&Pcontent_id=index.m3u8
 海峡卫视 SD,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=024&Provider_id=&Pcontent_id=index.m3u8
+H265编码,#genre#
+CCTV1 HEVC,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/migu/kailu/cctv1hd265/57/20191230/index.m3u8?&encrypt=1
+CCTV2 HEVC,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/migu/kailu/cctv2hd265/55/20200407/index.m3u8?&encrypt=1
+CCTV4 HEVC,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/migu/kailu/cctv4hd265/57/20191230/index.m3u8?&encrypt=1
+CCTV5 HEVC,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/migu/kailu/cctv5hd265/57/20191230/index.m3u8?&encrypt=1
+CCTV6 HEVC,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/migu/kailu/cctv6hd265/55/20200407/index.m3u8?&encrypt=1
+CCTV8 HEVC,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/migu/kailu/cctv8hd265/55/20200407/index.m3u8?&encrypt=1
+CCTV11 HEVC,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/migu/kailu/cctv11hd265/55/20200407/index.m3u8?&encrypt=1
+CCTV14 HEVC,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/migu/kailu/cctv14hd265/55/20200407/index.m3u8?&encrypt=1
+湖南卫视 HEVC,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/migu/kailu/hunanhd265/57/20191230/index.m3u8?&encrypt=1
 
 
 港台新闻,#genre#
