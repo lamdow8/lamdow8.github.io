@@ -297,6 +297,37 @@ http://pull.scphsd.com/live/7a64a6f8a6bd572c802ca6b7195bea7a/playlist.m3u8
 http://pull.scphsd.com/live/fefc5b4090b978cbb911f98ba68b6fe4/playlist.m3u8
 #EXTINF:-1 tvg-id="7212" tvg-name="爱尔达体育1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png" group-title="体育频道",爱尔达体育1
 http://pull.scphsd.com/live/4e2d4b408b3ff50476906b46b1b85746.flv
+#DOX专区
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOXTV.jpg" tvg-id="6601" tvg-name="DOXTV" group-title="DOX专区",DOXTV
+http://106.54.30.243/gz009/gz.php?id=doxtv
+#EXTINF:-1 tvg-logo="http://www.doxtv.com/Template/pc/default/Static/images/home/nav2.png" tvg-id="1972" tvg-name="DOX映画" group-title="DOX专区",DOX映画
+http://106.54.30.243/gz009/gz.php?id=doxyhhd
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_juchang.png" tvg-id="1971" tvg-name="DOX剧场" group-title="DOX专区",DOX剧场
+http://106.54.30.243/gz009/gz.php?id=doxjchd
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_xinzhi.png" tvg-id="1969" tvg-name="DOX新知" group-title="DOX专区",DOX新知
+http://106.54.30.243/gz009/gz.php?id=doxxzhd
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_xinyi.png" tvg-id="1970" tvg-name="DOX新艺" group-title="DOX专区",DOX新艺
+http://106.54.30.243/gz009/gz.php?id=doxxyhd
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX-CINEMA.png" tvg-id="1968" tvg-name="DOX院线" group-title="DOX专区",DOX院线
+http://106.54.30.243/gz009/gz.php?id=doxyxhd
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_YAQU.png" tvg-id="1955" tvg-name="DOX雅趣" group-title="DOX专区",DOX雅趣
+http://106.54.30.243/gz009/gz.php?id=doxyqhd
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yijia.png" tvg-id="1967" tvg-name="DOX怡家" group-title="DOX专区",DOX怡家
+http://106.54.30.243/gz009/gz.php?id=doxyjhd
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yinglun.png" tvg-id="1966" tvg-name="DOX英伦" group-title="DOX专区",DOX英伦
+http://106.54.30.243/gz009/gz.php?id=doxylhd
+
+#精彩4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg" group-title="精彩4K",BesTV4K
+http://117.148.187.46/PLTV/88888888/224/3221226718/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg" group-title="精彩4K",纯享4K
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="精彩4K",CCTV4K
+http://112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/12/29/XhAaZzVgo42ESfc.png" group-title="精彩4K",爱上4K
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.gdtv.cn/t/icon/201912/20191212173944KLNW.png" group-title="精彩4K",廣東綜藝4K
+http://27.36.62.163:9090/live/GDZYHD4K_38000.m3u8?ci=123&srchost=172.16.149.181:8060
 
 #港澳一日游
 #EXTINF:-1 tvg-id="" tvg-name="Now NEWS" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch332_170_122" group-title="港澳一日游",now新闻台
@@ -423,15 +454,4 @@ http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 #EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="台湾一日行",CTI中天新闻
 http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 
-#精彩4K
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg" group-title="精彩4K",BesTV4K
-http://117.148.187.46/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg" group-title="精彩4K",纯享4K
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="精彩4K",CCTV4K
-http://112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/12/29/XhAaZzVgo42ESfc.png" group-title="精彩4K",爱上4K
-http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.gdtv.cn/t/icon/201912/20191212173944KLNW.png" group-title="精彩4K",廣東綜藝4K
-http://27.36.62.163:9090/live/GDZYHD4K_38000.m3u8?ci=123&srchost=172.16.149.181:8060
 
