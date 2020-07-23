@@ -300,7 +300,7 @@ http://pull.scphsd.com/live/4e2d4b408b3ff50476906b46b1b85746.flv
 #DOX专区
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOXTV.jpg" tvg-id="6601" tvg-name="DOXTV" group-title="DOX专区",DOXTV
 http://106.54.30.243/gz009/gz.php?id=doxtv
-#EXTINF:-1 tvg-logo="http://www.doxtv.com/Template/pc/default/Static/images/home/nav2.png" tvg-id="1972" tvg-name="DOX映画" group-title="DOX专区",DOX映画
+#EXTINF:-1 tvg-id="110" tvg-name="DOX映画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/doxyinghua.png" group-title="DOX专区",DOX映画
 http://106.54.30.243/gz009/gz.php?id=doxyhhd
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_juchang.png" tvg-id="1971" tvg-name="DOX剧场" group-title="DOX专区",DOX剧场
 http://106.54.30.243/gz009/gz.php?id=doxjchd
