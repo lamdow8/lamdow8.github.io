@@ -56,7 +56,7 @@ CCTV-14 HD,http://112.50.243.8/PLTV/88888888/224/3221225819/1.m3u8#http://112.50
 CCTV-15 HD,http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8#http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
 CCTV-16 HD,http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8#http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 CCTV-17 HD,http://112.50.243.8/PLTV/88888888/224/3221226986/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
-CCTV 4K,http://www.itvi.vip/cctv.php?id=2000266303#http://106.54.30.243/gz009/gz.php?id=cctv4k
+CCTV4K,http://111.161.121.214/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8#http://www.itvi.vip/cctv.php?id=2000266303#http://106.54.30.243/gz009/gz.php?id=cctv4k
 CCTV世界地理,http://39.135.19.169:18890/PLTV/88888888/224/3221225733//index.m3u8?fmt=ts2hls
 CCTV兵器科技,http://39.135.19.169:18890/PLTV/88888888/224/3221225676//index.m3u8?fmt=ts2hls
 CCTV文化精品,http://39.135.19.169:18890/PLTV/88888888/224/3221225675//index.m3u8?fmt=ts2hls
