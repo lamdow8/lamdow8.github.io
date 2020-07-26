@@ -1,3 +1,7 @@
+百花迎春晚会,#genre#
+2016年,https://ugcbsy.qq.com/uwMROfz2r5zAoaQXGdGnC2dfhzkrvqBxjTHFA2hC4m2Yr1g7/x0192t420oo.m701.mp4?sdtfrom=v5010&guid=cb3cee2f49bc1a21a6176cb1c337c2e8&vkey=B783C7E64CA183909AAB5C4E3F1D2F55B84B87CCCFBA6854FAEE1A439003A721867A8CFA1ADC6C3ECB9CCE522F015E1F69E105443B33272FBB85421DC88E90CFA3ADFC0AC92FA7CC20D7AAAE9CC2F4347D2549FCFA824572E9DC6483A1FA615FDA26277648623BDE4F20A56B46EBD96034B0ABF384AA9904C3D3C52E5FE9980B&platform=2
+2019年,https://rescdn.yishihui.com/longvideo/transcode/video/live/201905301885618UgHvkjVyWXOEoY4K6A.m3u8
+2020年,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200128/6799382qfg4DLos2ts6O0dudy.m3u8
 喜爱频道,#genre#
 书画频道（高清）,http://117.59.8.3/PLTV/88888888/224/3221227574/index.m3u8?icpid=88888888&from=4&hms_devid=2764#http://cg0.hunancatv.cn:9090/live/SHPD.m3u8?ci=123#http://117.59.8.1/PLTV/88888888/224/3221227574/index.m3u8?icpid=88888888&from=4&hms_devid=2704#http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000081.m3u8
 书画频道（标清）,http://106.54.30.243/gz009/gz.php?id=sh#http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=sh#http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&playtoken=31667LZMVCGFXDL10&verifycode=2000000576&rate=org&programid=4200000101.m3u8&ts=50&auth=no#http://ott.cqccn.com/PLTV/88888888/224/3221227574/index.m3u8
