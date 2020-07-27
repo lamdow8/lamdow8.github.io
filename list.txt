@@ -232,12 +232,13 @@ CCTV17 HEVC,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227726/
 儋州新闻,http://36009.hlsplay.aodianyun.com/tv_radio_36009/tv_channel_1330.m3u8
 凤凰中文,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8
 凤凰资讯,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
-凤凰香港,http://qlive.fengshows.cn/live720p/PHK.m3u8
+凤凰香港,http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8#http://183.207.249.36/PLTV/3/224/3221226975/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
 有线综合娱乐台,http://liveicm2.utvlive.top/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8
 有线财经资讯台,http://liveicm2.utvlive.top/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8
 有线新闻,http://liveicm2.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
 翡翠台,http://www.cjtv.vip/iptv/jade.m3u8
+无线新闻台,http://61.238.6.49:8001/bysid/83#http://tv.tonyt.top/iptv/tvb.php?id=1
 
 体育综合,#genre#
 广东体育HD,http://gslb.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8?k=0e9c779668ea63007948538f0f57f3ca&t=5EFDE4BB&UID=29AAB394
@@ -251,7 +252,12 @@ PP体育 真4K,http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/tysy201903/75/i
 劲爆体育,https://keonline.shanghai.liveplay.qq.com/live/program/live/jbtyhd/2300000/mnf.m3u8
 新视觉,https://keonline.shanghai.liveplay.qq.com/live/program/live/xsjhd/2300000/mnf.m3u8
 北京体育,http://49.234.207.217/tv/migu.php?id=641874369
-
+上海五星体育HD,http://183.207.255.188/live/program/live/ssty/4000000/mnf.m3u8#http://39.135.248.141/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225964/3.m3u8
+新视觉台 HD,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8#http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000114
+劲爆体育HD,http://183.207.255.188/live/program/live/jbtyhd/4000000/mnf.m3u8#http://ott.cqccn.com/PLTV/88888888/224/3221227511/index.m3u8
+皇马足球台,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+魅力足球HD,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8#http://ott.cqccn.com/PLTV/88888888/224/3221227588/index.m3u8
+足球频道,http://ott.cqccn.com/PLTV/88888888/224/3221227585/index.m3u8
 Channel V,rtmp://58.200.131.2/livetv/channelv
 Channel[V],https://www.fanmingming.cn/hls/channelv.m3u8
 Channel V,rtmp://58.200.131.2:1935/livetv/channelv 
@@ -264,15 +270,25 @@ M2O音乐台,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 CCTV4K UHD,http://111.161.121.214/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8#http://112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8#http://39.134.185.69/PLTV/88888888/224/3221226758/1.m3u8
 纯享4K UHD,http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/1.m3u8
 BesTV4K UHD,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8#http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8#http://39.134.176.157/PLTV/88888888/224/3221226718/index.m3u8
+广东影视4K,http://27.36.62.163:9090/live/gdyingshi4k_30000.m3u8?ci=123&srchost=172.16.149.181:8060
+广东综艺4K,http://27.36.62.163:9090/live/GDZYHD4K_38000.m3u8?ci=123&srchost=172.16.149.181:8060
 爱上4K测试,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 CHC家庭影院,http://61.160.152.55/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1
-CHC动作影院,http://61.160.152.55/live.aishang.ctlcdn.com/00000110240324_1/encoder/0/playlist.m3u8?CONTENTID=00000110240324_1
-CHC高清影院,http://61.160.152.55/live.aishang.ctlcdn.com/00000110240325_1/encoder/0/playlist.m3u8?CONTENTID=00000110240325_1
+CHC动作电影,http://61.160.152.55/live.aishang.ctlcdn.com/00000110240324_1/encoder/0/playlist.m3u8?CONTENTID=00000110240324_1
+CHC高清电影,http://61.160.152.55/live.aishang.ctlcdn.com/00000110240325_1/encoder/0/playlist.m3u8?CONTENTID=00000110240325_1
+CHC高清电影,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=chcgqdy
+CHC家庭影院,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=chcjtyy
+CHC动作电影,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=chcdzdy
+CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 峨眉电影HD,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 黑莓电影,ttp://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=4#http://112.17.40.140/PLTV/88888888/224/3221226755/index.m3u8
 邵氏电影,http://tx2play1.douyucdn.cn/live/4246519r63tieRdJ_2000p.xs?uuid=
 邵氏影院,https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/164215/live_97065163_17925468.m3u8
 邵氏鬼片,http://pull.kktv8.com/livekktv/143960119.flv
+
 DOX专区,#genre#
 Dox剧场,http://39.135.19.169:18890/PLTV/88888888/224/3221226013//index.m3u8?fmt=ts2hls
 Dox怡家,http://39.135.19.169:18890/PLTV/88888888/224/3221226016//index.m3u8?fmt=ts2hls
@@ -284,6 +300,14 @@ Dox英伦,http://39.135.19.169:18890/PLTV/88888888/224/3221226045//index.m3u8?fm
 Dox雅趣,http://39.135.19.169:18890/PLTV/88888888/224/3221226042//index.m3u8?fmt=ts2hls
 Dox4K 30M2160,http://39.135.19.169:18890/PLTV/88888888/224/3221226019//index.m3u8?fmt=ts2hls
 DoxTV 576,http://39.135.19.169:18890/PLTV/88888888/224/3221226048//index.m3u8?fmt=ts2hls
+DOX映画,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=doxyhhd
+DOX剧场,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=doxjchd
+DOX新知,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=doxxzhd
+DOX新艺,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=doxxyhd
+DOX院线,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=doxyxhd
+DOX雅趣,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=doxyqhd
+DOX怡家,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=doxyjhd
+DOX英伦,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=doxylhd
 DOXTV,http://106.54.30.243/gz009/gz.php?id=doxtv
 DOX劇場HD,http://106.54.30.243/gz009/gz.php?id=doxjchd
 DOX怡家HD,http://106.54.30.243/gz009/gz.php?id=doxyjhd
