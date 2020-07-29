@@ -68,48 +68,6 @@ CCTV风云剧场,http://39.135.19.169:18890/PLTV/88888888/224/3221225700//index.
 CCTV风云足球,http://39.135.19.169:18890/PLTV/88888888/224/3221225734//index.m3u8?fmt=ts2hls
 CCTV风云音乐,http://39.135.19.169:18890/PLTV/88888888/224/3221225698//index.m3u8?fmt=ts2hls
 CCTV高尔夫网球,http://39.135.19.169:18890/PLTV/88888888/224/3221225674//index.m3u8?fmt=ts2hls
-央视频,#genre#
-CCTV 4K版,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
-CCTV-1 综合,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
-CCTV-2 财经,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
-CCTV-3 综艺,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
-CCTV-4 国际,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
-CCTV-5 体育,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
-CCTV-5+ 体育赛事,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
-CCTV-6 电影,http://118.123.60.5:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=093&Provider_id=&Pcontent_id=index.m3u8
-CCTV-7 国防军事,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
-CCTV-8 电视剧,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
-CCTV-9 纪录,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
-CCTV-10 科教,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
-CCTV-11 戏曲,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
-CCTV-12 社会与法,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
-CCTV-13 新闻,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
-CCTV-14 少儿,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
-CCTV-15 音乐,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
-CCTV-17 农村农业,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
-CGTN,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
-
-湖南卫视,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
-江苏卫视,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
-浙江卫视,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
-东方卫视,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
-四川卫视,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
-北京卫视,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000272103.m3u8
-广东卫视,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
-深圳卫视,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
-山东卫视,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000294803.m3u8
-海南卫视,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000291503.m3u8
-东南卫视,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000292503.m3u8
-黑龙江卫视,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000293903.m3u8
-湖北卫视,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000294503.m3u8
-辽宁卫视,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000281303.m3u8
-重庆卫视,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
-安徽卫视,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
-河北卫视,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000293403.m3u8
-河南卫视,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000296103.m3u8
-贵州卫视,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000293303.m3u8
-广西卫视,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8
-江西卫视,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000294101.m3u8
 
 卫视频道,#genre#
 东南卫视HD,http://39.135.19.169:18890/PLTV/88888888/224/3221225739//index.m3u8?fmt=ts2hls
@@ -186,6 +144,53 @@ CGTN,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 康巴卫视SD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=017&Provider_id=&Pcontent_id=index.m3u8
 海峡卫视SD,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=024&Provider_id=&Pcontent_id=index.m3u8
 
+央视频,#genre#
+CCTV-1综合,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
+CCTV-2财经,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
+CCTV-3综艺,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
+CCTV-4中文国际,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204803.m3u8
+CCTV-5体育,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
+CCTV-5+体育赛事,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204503.m3u8
+CCTV-6电影,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000203303.m3u8
+CCTV-7国防军事,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000510003.m3u8
+CCTV-8电视剧,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000203903.m3u8
+CCTV-9纪录,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000499403.m3u8
+CCTV-10科教,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000203503.m3u8
+CCTV-11戏曲,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204103.m3u8
+CCTV-12社会与法,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000202603.m3u8
+CCTV-13新闻,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
+CCTV-14少儿,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204403.m3u8
+CCTV-15音乐,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000205003.m3u8
+CCTV-17农村农业,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204203.m3u8
+CCTV4K,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
+CGTN,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2001656803.m3u8
+湖南卫视,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000296203.m3u8
+浙江卫视,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000295503.m3u8
+江苏卫视,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000295603.m3u8
+东方卫视,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000292403.m3u8
+山东卫视,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000294803.m3u8
+北京卫视,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000272103.m3u8
+辽宁卫视,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000281303.m3u8
+黑龙江卫视,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000293903.m3u8
+广东卫视,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000292703.m3u8
+安徽卫视,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000298003.m3u8
+深圳卫视,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000292203.m3u8
+天津卫视,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000295103.m3u8
+重庆卫视,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000297803.m3u8
+东南卫视,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000292503.m3u8
+广西卫视,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
+河北卫视,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000293403.m3u8
+河南卫视,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000296103.m3u8
+湖北卫视,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000294503.m3u8
+江西卫视,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000294103.m3u8
+吉林卫视,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000284703.m3u8
+陕西卫视,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000294403.m3u8
+甘肃卫视,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000294603.m3u8
+四川卫视,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000295003.m3u8
+贵州卫视,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000293303.m3u8
+海南卫视,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000291503.m3u8
+青海卫视,http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000294703.m3u8
+
 H265编码,#genre#
 CCTV1 HEVC,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/migu/kailu/cctv1hd265/57/20191230/index.m3u8?&encrypt=1
 CCTV2 HEVC,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/migu/kailu/cctv2hd265/55/20200407/index.m3u8?&encrypt=1#http://223.110.245.142/ott.js.chinamobile.com/PLTV/3/224/3221227708/index.m3u8
@@ -221,7 +226,6 @@ CCTV17 HEVC,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227726/
 黑龙江卫视 HEVC,http://223.110.243.142/ott.js.chinamobile.com/PLTV/3/224/3221227662/index.m3u8
 上海纪实人文 HEVC,http://223.110.245.156/ott.js.chinamobile.com/PLTV/3/224/3221227674/index.m3u8
 北京冬奥纪实 HEVC,http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227711/index.m3u8
-时移源,#genre#
 东南卫视 8M1080,rtsp://183.252.166.199/PLTV/88888888/224/3221226121/10000100000000060000000002358085_0.smil
 海南卫视 8M1080,rtsp://183.252.166.199/PLTV/88888888/224/3221226048/10000100000000060000000002296889_0.smil
 云南卫视 8M1080,rtsp://183.252.166.199/PLTV/88888888/224/3221226108/10000100000000060000000002310150_0.smil
@@ -241,6 +245,7 @@ CCTV17 HEVC,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227726/
 翡翠台,http://fuck.elibei.com/wzdl.php?qq1658083247&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRHR2YmZj#http://www.cjtv.vip/iptv/jade.m3u8
 无线新闻台,http://lynns.ddns.net:4080/index.php?id=inews#http://61.238.6.49:8001/bysid/83#http://tv.tonyt.top/iptv/tvb.php?id=1
 TVB无线财经,http://lynns.ddns.net:4080/index.php?id=finance
+
 体育综合,#genre#
 广东体育HD,http://gslb.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8?k=0e9c779668ea63007948538f0f57f3ca&t=5EFDE4BB&UID=29AAB394#http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 上海五星体育HD,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000#http://183.207.255.188/live/program/live/ssty/4000000/mnf.m3u8#http://39.135.248.141/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225964/3.m3u8#http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=004003FF0017301364008422F151297C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5000000010000017540&owchid=bestzb&owsid=4493204831455228383&AuthInfo=N%2biD7%2bHgi9LcszGFRGa51uAqiHNpkS5d0%2fEIXqMyy8J6GNpZ%2bE47AWi696WsOzmj7u8gynrDaeemmd3KgHvW7jm8s%2fkPykV1GmMdpMkc7doBK82U9CVAXx34x1%2fYjl4A
@@ -328,6 +333,7 @@ G+TV热门综艺 8M1080,http://39.135.19.169:18890/PLTV/88888888/224/3221226004/
 G+TV科普中国 8M1080,http://39.135.19.169:18890/PLTV/88888888/224/3221226036//index.m3u8?fmt=ts2hls
 G+TV海外佳片 8M1080,http://39.135.19.169:18890/PLTV/88888888/224/3221225786//index.m3u8?fmt=ts2hls
 G+TV华语影院 8M1080,http://39.135.19.169:18890/PLTV/88888888/224/3221225787//index.m3u8?fmt=ts2hls
+
 代理测试,#genre# 
  无线新闻,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=9 
  翡翠台,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=1 
