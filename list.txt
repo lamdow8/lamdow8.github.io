@@ -241,11 +241,14 @@ CCTV17 HEVC,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227726/
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
 有线综合娱乐台,http://liveicm2.utvlive.top/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8
 有线财经资讯台,http://liveicm2.utvlive.top/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8
+有线新闻,http://f9.apps1818.com:8080/live/395/a3c458c7b437288c06fd6c875b8608ef/index.m3u8
 有线新闻,http://liveicm2.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
+翡翠台,http://tv.kksyw.top/tv_199/gat/xg.php?id=1&pd=8000
 翡翠台,http://fuck.elibei.com/wzdl.php?qq1658083247&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRHR2YmZj#http://www.cjtv.vip/iptv/jade.m3u8
-无线新闻台,http://lynns.ddns.net:4080/index.php?id=inews#http://61.238.6.49:8001/bysid/83#http://tv.tonyt.top/iptv/tvb.php?id=1
-TVB无线财经,http://lynns.ddns.net:4080/index.php?id=finance
-
+无线新闻,http://lynns.ddns.net:4080/index.php?id=inews#http://61.238.6.49:8001/bysid/83#http://tv.tonyt.top/iptv/tvb.php?id=1
+无线新闻,http://f9.apps1818.com:8080/live/394/883ac735dad91c214ae0953514862708/index.m3u8
+无线财经,http://lynns.ddns.net:4080/index.php?id=finance
+明珠台,http://tv.kksyw.top/tv_199/gat/xg.php?id=2&pd=8001
 体育综合,#genre#
 广东体育HD,http://gslb.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8?k=0e9c779668ea63007948538f0f57f3ca&t=5EFDE4BB&UID=29AAB394#http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 上海五星体育HD,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000#http://183.207.255.188/live/program/live/ssty/4000000/mnf.m3u8#http://39.135.248.141/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225964/3.m3u8#http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=004003FF0017301364008422F151297C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5000000010000017540&owchid=bestzb&owsid=4493204831455228383&AuthInfo=N%2biD7%2bHgi9LcszGFRGa51uAqiHNpkS5d0%2fEIXqMyy8J6GNpZ%2bE47AWi696WsOzmj7u8gynrDaeemmd3KgHvW7jm8s%2fkPykV1GmMdpMkc7doBK82U9CVAXx34x1%2fYjl4A
@@ -664,3 +667,79 @@ HOT 頻道,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0d
 色即是空【后篇】,https://qqc1107.phpdaniu.com/japan/20190821/Lg2355tx/index.m3u8
 满清十大酷刑【赤裸凌迟】,https://qqc1107.phpdaniu.com/japan/20190829/LR1VP55H/800kb/hls/index.m3u8
 玉女心经,https://qqc1107.phpdaniu.com/japan/20190820/VSPnfvCr/800kb/hls/index.m3u8
+
+测试频道_36969,#genre#
+松视1,https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8  
+happy,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8
+18禁 Ⅰ 东京热美少妇全穴中出,https://qqc1107.phpdaniu.com/japan/ZW0910/8F8YJ4lB/800kb/hls/index.m3u8
+18禁 Ⅰ 东京热大轮奸性感空姐,https://qqc1107.phpdaniu.com/japan/ZW0910/AITV4deO/index.m3u8
+18禁 Ⅰ 牛仔裤女郎,https://qqc1107.phpdaniu.com/japan/20191013/jz4knROn/500kb/hls/index.m3u8
+18禁 Ⅰ 操到翻白眼,https://qqc1107.phpdaniu.com/japan/wuma/031116-519_06/index.m3u8
+18禁 Ⅰ 加藤椿是我老婆,https://qqc1107.phpdaniu.com/japan/20191013/P0ITeExQ/index.m3u8
+18禁 Ⅰ 爆弹肉体小衣,https://qqc1107.phpdaniu.com/japan/20191013/S9iMljUH/500kb/hls/index.m3u8
+18禁 Ⅰ 被秒插却很爽,https://qqc1107.phpdaniu.com/japan/20191013/TnoqbCFH/500kb/hls/index.m3u8
+18禁 Ⅰ 让少妇淫叫潮吹,https://qqc1107.phpdaniu.com/japan/20191101/M5PFQupR/index.m3u8
+18禁 Ⅰ 女孩的最终幻想,https://qqc1107.phpdaniu.com/oumei/2019922/qqc002/1000kb/hls/index.m3u8
+18禁 Ⅰ 小猫咪搬的女孩,https://qqc1107.phpdaniu.com/oumei/2019922/qqc001/index.m3u8
+18禁 Ⅰ 和你老婆来一炮,https://qqc1107.phpdaniu.com/japan/20191013/wC5HedHl/index.m3u8
+18禁 Ⅰ 我老婆是雾岛樱的话,https://qqc1107.phpdaniu.com/japan/20191013/uh131Qgy/index.m3u8
+18禁 Ⅰ 朋友的女友西野亚子,https://qqc1107.phpdaniu.com/japan/20191013/Wny3sG2o/500kb/hls/index.m3u8
+18禁 Ⅰ 热吻浓情干炮【江波凉】,https://qqc1107.phpdaniu.com/japan/20191003/040518_667/index.m3u8
+18禁 Ⅰ 喷精快手松本芽依精选,https://qqc1107.phpdaniu.com/japan/20191013/alQxYPic/500kb/hls/index.m3u8
+18禁 Ⅰ 喷精快手上原麻衣精选,https://qqc1107.phpdaniu.com/japan/20191013/LdqeJHSd/index.m3u8
+18禁 Ⅰ 淫乱小穴操到爆射大满足,https://qqc1107.phpdaniu.com/japan/20191013/ijyp7jqd/index.m3u8
+18禁 Ⅰ 被隔壁的巨乳大姐榨干了,https://qqc1107.phpdaniu.com/japan/20191013/YUTeYB6h/500kb/hls/index.m3u8
+18禁 Ⅰ 超淫荡美少妇的激情爱爱,https://qqc1107.phpdaniu.com/japan/20191013/NQ1YjAsl/index.m3u8
+18禁 Ⅰ 叶山瞳操得爽翻天啊,https://qqc1107.phpdaniu.com/japan/20191126/QoTyft88/500kb/hls/index.m3u8
+18禁 Ⅰ 我情人水鸟文乃的话,https://qqc1107.phpdaniu.com/japan/20191126/5dZmgYGB/500kb/hls/index.m3u8
+18禁 Ⅰ 从背后开干贴身内裤,https://qqc1107.phpdaniu.com/japan/20191126/F3xvS5CF/1000kb/hls/index.m3u8
+18禁 Ⅰ 发情好色制服诱惑女,https://qqc1107.phpdaniu.com/japan/20191126/bqZa7Jyp/1000kb/hls/index.m3u8
+18禁 Ⅰ 爽到艳丽女优直高潮,https://qqc1107.phpdaniu.com/japan/20191126/e26hvaVw/1000kb/hls/index.m3u8
+18禁 Ⅰ 别人老婆就是刺激啊,https://qqc1107.phpdaniu.com/japan/20191126/rcahBf2Q/1000kb/hls/index.m3u8
+18禁 Ⅰ 禁止的爱善良小姨子,https://qqc1107.phpdaniu.com/japan/20190930/p4VeVi7L/index.m3u8
+18禁 Ⅰ 激烈热吻发情的少妇,https://qqc1107.phpdaniu.com/japan/20191126/28uyhWP8/500kb/hls/index.m3u8
+18禁 Ⅰ 好色的少妇被内射出,https://qqc1107.phpdaniu.com/japan/20191126/Ad9Ar3OV/index.m3u8
+18禁 Ⅰ 住宿约会野外激情篇,https://qqc1107.phpdaniu.com/japan/20191126/bjUORdgn/index.m3u8
+18禁 Ⅰ 朋友的女友本泽朋美,https://qqc1107.phpdaniu.com/japan/20191126/rn8P9UHn/1000kb/hls/index.m3u8
+18禁 Ⅰ 人妻不穿奶罩真欠干,https://qqc1107.phpdaniu.com/japan/20191126/9bwKnncD/1000kb/hls/index.m3u8
+18禁 Ⅰ 为夫抗债的超美人妻,https://qqc1107.phpdaniu.com/japan/20191126/jX2eCuFf/index.m3u8
+18禁 Ⅰ 不断的哀求浓厚干炮,https://qqc1107.phpdaniu.com/japan/20191126/ANBoSIkg/500kb/hls/index.m3u8
+18禁 Ⅰ 淫荡护士的性爱诱惑,https://qqc1107.phpdaniu.com/japan/20191113/KhqPFhFF/index.m3u8
+18禁 Ⅰ 温泉乱交的性感少妇,https://qqc1107.phpdaniu.com/japan/20191113/CFDRWRfR/500kb/hls/index.m3u8
+18禁 Ⅰ 调教清纯性感美少女,https://qqc1107.phpdaniu.com/japan/20191113/slELf3nX/index.m3u8
+18禁 Ⅰ 美少女玩3P喜欢口交,https://qqc1107.phpdaniu.com/japan/20191113/IYu2k808/500kb/hls/index.m3u8
+18禁 Ⅰ 超级美丽淫乱的女孩,https://qqc1107.phpdaniu.com/japan/20190513/01148_720p/1500kb/hls/index.m3u8
+18禁 Ⅰ 海边大奶比基尼少女,https://qqc1107.phpdaniu.com/japan/20191113/Z1NaUq6j/index.m3u8
+18禁 Ⅰ 享受性爱的寂寞少妇,https://qqc1107.phpdaniu.com/japan/20191113/ldzX64sJ/index.m3u8
+18禁 Ⅰ 享受高潮的美女少妇,https://qqc1107.phpdaniu.com/japan/20191113/hWn082rm/index.m3u8
+18禁 Ⅰ 调教正点性感美少女,https://qqc1107.phpdaniu.com/japan/20191113/DNjiUPqi/index.m3u8
+18禁 Ⅰ 好身材大奶性感少女,https://qqc1107.phpdaniu.com/japan/20191101/M08Vd8jh/500kb/hls/index.m3u8
+18禁 Ⅰ 少妇被操到淫水直流,https://qqc1107.phpdaniu.com/japan/20191113/FzpSaDPu/500kb/hls/index.m3u8
+18禁 Ⅰ 沙滩上淫乱群交派对,https://qqc1107.phpdaniu.com/japan/20191113/mB71teW3/index.m3u8
+18禁 Ⅰ 超美少妇被操到尖叫,https://qqc1107.phpdaniu.com/japan/20191101/s4m6i5RA/index.m3u8
+18禁 Ⅰ 超美短发美女被中出,https://qqc1107.phpdaniu.com/japan/20191113/usa9pSLu/500kb/hls/index.m3u8
+18禁 Ⅰ 丰满的巨乳少女中出,https://qqc1107.phpdaniu.com/japan/20191101/QypkFexG/index.m3u8
+18禁 Ⅰ 叫床声超大大奶少妇,https://qqc1107.phpdaniu.com/japan/20191101/f3meHQuD/500kb/hls/index.m3u8
+18禁 Ⅰ 洗澡的翘屁少妇被操,https://qqc1107.phpdaniu.com/japan/20191101/VwgHYSi8/index.m3u8
+18禁 Ⅰ 妹子被大屌插到尖叫,https://qqc1107.phpdaniu.com/japan/20191101/x7qjNL7o/index.m3u8
+18禁 Ⅰ 3P插到潮喷,https://qqc1107.phpdaniu.com/japan/20191013/lcMXHzfW/500kb/hls/index.m3u8
+18禁 Ⅰ 美穴欣赏【叶山瞳】,https://qqc1107.phpdaniu.com/japan/20191013/EMDCPRKl/index.m3u8
+18禁 Ⅰ 美穴欣赏【麻生希】,https://qqc1107.phpdaniu.com/japan/20191013/VBDebMeI/500kb/hls/index.m3u8
+18禁 Ⅰ 为你钟情,https://qqc1107.phpdaniu.com/japan/20190820/zelJotND/800kb/hls/index.m3u8
+18禁 Ⅰ 魔鬼天使,https://qqc1107.phpdaniu.com/japan/20190821/lAEs5Rri/index.m3u8
+18禁 Ⅰ 蜜桃成熟时,https://qqc1107.phpdaniu.com/japan/20190820/OWLLUzio/index.m3u8
+18禁 Ⅰ 少女潘金莲,https://qqc1107.phpdaniu.com/japan/20190930/mzOygvXT/800kb/hls/index.m3u8
+18禁 Ⅰ 唐朝豪放女,https://qqc1107.phpdaniu.com/japan/20190930/sy8A0Lc6/index.m3u8
+18禁 Ⅰ 金瓶梅【上集】,https://qqc1107.phpdaniu.com/japan/20190829/6iLi5qMz/800kb/hls/index.m3u8
+18禁 Ⅰ 金瓶梅【下集】,https://qqc1107.phpdaniu.com/japan/20190829/FQIZJjXg/index.m3u8
+18禁 Ⅰ 美人图【第一集】,https://qqc1107.phpdaniu.com/japan/20190820/TQzYp0CW/800kb/hls/index.m3u8
+18禁 Ⅰ 美人图【第二集】,https://qqc1107.phpdaniu.com/japan/20190820/aVMEPQGA/index.m3u8
+18禁 Ⅰ 南洋十大邪术,https://qqc1107.phpdaniu.com/japan/20190829/weqi6SFY/800kb/hls/index.m3u8
+18禁 Ⅰ 爱人情人爱诱惑,https://qqc1107.phpdaniu.com/japan/20190821/XIo5Lk08/800kb/hls/index.m3u8
+18禁 Ⅰ 玉蒲团之玉女心经,https://qqc1107.phpdaniu.com/japan/20190820/VSPnfvCr/800kb/hls/index.m3u8
+18禁 Ⅰ 肉蒲团之极乐宝鉴,https://qqc1107.phpdaniu.com/japan/20190829/CMS8vhEX/index.m3u8
+18禁 Ⅰ 色即是空【前篇】,https://qqc1107.phpdaniu.com/japan/20190821/q5eiqO19/800kb/hls/index.m3u8
+18禁 Ⅰ 色即是空【后篇】,https://qqc1107.phpdaniu.com/japan/20190821/Lg2355tx/index.m3u8
+18禁 Ⅰ 满清十大酷刑【赤裸凌迟】,https://qqc1107.phpdaniu.com/japan/20190829/LR1VP55H/800kb/hls/index.m3u8
+国产巨制1,https://zhuozhuomy.com/20200217/ozwGBz8M/1000kb/hls/index.m3u8
+国产巨制2,https://zhuozhuomy.com/20200217/794BcXA7/1000kb/hls/index.m3u8
