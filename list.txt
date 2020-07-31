@@ -1,3 +1,35 @@
+影城0730,#genre#
+*深海狂鯊3,https://cdn-yong.bejingyongjiu.com/20200728/18082_c8132177/index.m3u8#https://youku.cdn7-okzy.com/20200728/20368_27af4683/index.m3u8#https://zy.kubozy-qq-360-sogou.com/20200728/9915_b0cd704f/index.m3u8
+*屍人診所,https://xingfu.hua-kuyun.com/20200628/6246_5efbc650/index.m3u8#https://s2.135-cdn.com/2020/06/28/U1pNfhtVS8e0soIA/index.m3u8#https://iqiyi.cdn27-okzy.com/20200628/5339_2d70aa9d/index.m3u8#
+*深海擴散,https://youku.cdn7-okzy.com/20200509/19329_88d951ba/index.m3u8#https://yun.zxziyuan-yun.com/20200412/20754_ee575853/index.m3u8
+*屍速列車2感染半島,https://cdn-yong.bejingyongjiu.com/20200719/17368_627b7973/index.m3u8#https://zy.kubozy-qq-360-sogou.com/20200719/9530_c6beac19/index.m3u8#https://c.mahua-kb.com/20200719/Inq53XqZ/index.m3u8
+*翻供,https://cdn-yong.bejingyongjiu.com/20200715/16925_8fab69b0/index.m3u8#https://you.tube-kuyun.com/20200712/18530_fab6593c/index.m3u8#https://d.mahua-kb.com/20200712/9Hactt84/index.m3u8
+魔鬼剋星2016加長版,https://zy.zxziyuan-yun.com/20180106/RPm39lSr/index.m3u8
+魔鬼剋星1,https://vip.okokbo.com/20180226/XgUveDTg/index.m3u8
+魔鬼剋星2,https://vip.okokbo.com/20180221/TFHzANtA/index.m3u8
+魔髮精靈1,http://haitang.kankan-kuyunzy.com/20191121/1545_db915a3d/index.m3u8#https://k.bwzybf.com/20200421/SbyaYqhP/index.m3u8#http://you-cdn.maque-zuida.com/20191211/V7GIkOpD/index.m3u8#https://videos6.jsyunbf.com/20200421/y45uSS1j/index.m3u8
+魔髮精靈2,https://cdn-yong.bejingyongjiu.com/20200426/10500_7fe662cd/index.m3u8#https://tudou.diediao-kuyun.com/20200426/16510_f5f0f524/index.m3u8#https://yuledy.helanzuida.com/20200425/3069_244d73f1/index.m3u8
+野蠻遊戲2,https://meinv.jingyu-zuida.com/20200301/12929_9d7db888/index.m3u8#https://cdn-yong.bejingyongjiu.com/20200213/3384_2ce2a2df/1000k/hls/index.m3u8#https://s1.135-cdn.com/20200213/levHCwYKiEq3NBQg/index.m3u8
+野蠻遊戲,https://youku.com-kubozy.com/20180306/XyFgyt16/index.m3u8#https://yiyi.55zuiday.com/20180306/ovBxCH3P/index.m3u8
+怒海戰艦,https://s2.135-cdn.com/2020/07/10/azuFU0QKRmv6HO5i/index.m3u8#https://youku.cdn7-okzy.com/20200710/20267_b9d8c3d1/index.m3u8#https://cdn-yong.bejingyongjiu.com/20200710/16554_d9196f1a/index.m3u8
+不死軍團,https://s2.135-cdn.com/2020/07/10/rXGCJsYLchgEQTSN/index.m3u8#https://diaoshi.dehua-kuyun.com/20200710/7381_34e8e671/index.m3u8#https://cdn-yong.bejingyongjiu.com/20200710/16531_6e0bd845/index.m3u8
+72小時前哨救援,https://d.mahua-kb.com/20200708/HWY5RqRo/index.m3u8#https://iqiyi.cdn27-okzy.com/20200704/5631_0f0e0cd0/1000k/hls/index.m3u8
+親切的金子,https://leshi.iqiyi-kuyunzy.com/20190501/11180_28c5e7cd/index.m3u8
+鐵線蟲入侵,https://s2.135-cdn.com/20200315/PrECs81kwQbAeV4o/index.m3u8#https://yingxiong.qiling-yongjiu.com/20191102/12838_4b7fa3f8/index.m3u8#https://videos.kkyun-iqiyi.com/20180715/DLjvOGHU/index.m3u8
+魔鬼終結者6：黑暗命運,https://cdn-yong.bejingyongjiu.com/20200121/1599_de590ea1/index.m3u8#https://zy.kuboy-aiqiyi-163.com/20200423/17245_b8d16b47/index.m3u8#https://you.tube-kuyun.com/20200312/4811_e7fccb86/index.m3u8
+女鬼橋,https://iqiyi.cdn27-okzy.com/20200627/5313_09a91d9a/index.m3u8#https://xingfu.hua-kuyun.com/20200627/6092_a3a3603e/1000k/hls/index.m3u8
+阿基拉,https://iqiyi.cdn27-okzy.com/20200501/3499_af1d2d82/index.m3u8
+1/2 的魔法,https://you.tube-kuyun.com/20200330/7400_2851716e/index.m3u8#https://cdn-yong.bejingyongjiu.com/20200330/7834_50146412/index.m3u8
+玩命Online：雙槍對決,http://you.tube-kuyun.com/20200303/3758_77b5c230/index.m3u8#http://xigua-cdn.haima-zuida.com/20200302/3988_d0a5e9fc/index.m3u8
+天后小助理,https://iqiyi.cdn27-okzy.com/20200610/4678_e264161c/index.m3u8
+明信片謀殺案,http://you.tube-kuyun.com/20200327/7067_1a7a4c49/index.m3u8
+深海異獸,https://you.tube-kuyun.com/20200405/8042_6f943c81/index.m3u8
+絕地戰警3,https://zy.kuboy-aiqiyi-163.com/20200327/14746_79698a4e/index.m3u8
+葉問4：完結篇,https://you.tube-kuyun.com/20200411/8826_2167687f/index.m3u8
+第一滴血5,http://tudou.diediao-kuyun.com/20191130/8606_6dcdeb46/index.m3u8
+猛禽小隊：小丑女大解放,https://you.tube-kuyun.com/20200324/6654_b2ed26a9/index.m3u8
+鬼影特攻：以暴制暴,https://mudan.iii-kuyunzy.com/20191213/5550_bf31229a/index.m3u8
+
 最爱歌曲,#genre#
 哭砂,https://rescdn.yishihui.com/longvideo/transcode/video/live/201903265623330b7Y5a9jnTT1ZgnKF62.m3u8
 祝福,https://rescdn.yishihui.com/longvideo/transcode/video/live/201905145623330aCm0SD3BtrQpdu4aE0.m3u8
@@ -256,8 +288,8 @@ TVBS新闻台HD,http://111.13.111.192/60.199.188.66/HLS/WG_TVBS-N/01.m3u8
 TVBS新闻台HD,http://111.13.111.192/60.199.188.66/HLS/WG_TVBS-N/01.m3u8
 SET三立新闻HD,http://111.13.111.192/60.199.188.66/HLS/WG_ETTV-N/01.m3u8
 SET三立新闻,http://111.13.111.192/60.199.188.66/HLS/WG_ETTV-N/02.m3u8
-TVBS新闻台HD,http://153.99.180.70:5021/live/348/playlist.m3u8
-TVBS HD,http://153.99.180.70:5021/live/349/playlist.m3u8
+TVB无线新闻,https://www.ootori.xyz/tv/tvb.php?id=inews
+TVB翡翠台,http://danielwu.gz01.bdysite.com/iptv/?id=tvb
 体育综合,#genre#
 广东体育HD,http://gslb.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8?k=0e9c779668ea63007948538f0f57f3ca&t=5EFDE4BB&UID=29AAB394#http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 上海五星体育HD,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000#http://183.207.255.188/live/program/live/ssty/4000000/mnf.m3u8#http://39.135.248.141/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225964/3.m3u8#http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=004003FF0017301364008422F151297C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5000000010000017540&owchid=bestzb&owsid=4493204831455228383&AuthInfo=N%2biD7%2bHgi9LcszGFRGa51uAqiHNpkS5d0%2fEIXqMyy8J6GNpZ%2bE47AWi696WsOzmj7u8gynrDaeemmd3KgHvW7jm8s%2fkPykV1GmMdpMkc7doBK82U9CVAXx34x1%2fYjl4A
@@ -290,7 +322,7 @@ CCTV4K UHD,http://111.161.121.214/livews-4k.5club.cctv.cn/live/4K.stream/playlis
 纯享4K UHD,http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/1.m3u8
 BesTV4K UHD,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8#http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8#http://39.134.176.157/PLTV/88888888/224/3221226718/index.m3u8
 广东影视4K,http://27.36.62.163:9090/live/gdyingshi4k_30000.m3u8?ci=123&srchost=172.16.149.181:8060
-广东综艺4K,http://27.36.62.163:9090/live/GDZYHD4K_38000.m3u8?ci=123&srchost=172.16.149.181:8060
+广东综艺4K,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=17&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://27.36.62.163:9090/live/GDZYHD4K_38000.m3u8?ci=123&srchost=172.16.149.181:8060
 爱上4K测试,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8#http://118.123.60.5:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=097&Provider_id=&Pcontent_id=index.m3u8#http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=092&Provider_id=&Pcontent_id=index.m3u8
 CHC家庭影院,http://61.160.152.55/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1
 CHC动作电影,http://61.160.152.55/live.aishang.ctlcdn.com/00000110240324_1/encoder/0/playlist.m3u8?CONTENTID=00000110240324_1
@@ -309,6 +341,23 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 邵氏鬼片,http://pull.kktv8.com/livekktv/143960119.flv
 
 DOX专区,#genre#
+DOXTV,http://106.54.30.243/gz009/gz.php?id=doxtv
+DOX劇場HD,http://106.54.30.243/gz009/gz.php?id=doxjchd
+DOX怡家HD,http://106.54.30.243/gz009/gz.php?id=doxyjhd
+DOX新知HD,http://106.54.30.243/gz009/gz.php?id=doxxzhd
+DOX新藝HD,http://106.54.30.243/gz009/gz.php?id=doxxyhd
+DOX映畫HD,http://106.54.30.243/gz009/gz.php?id=doxyhhd
+DOX英倫HD,http://106.54.30.243/gz009/gz.php?id=doxylhd
+DOX院線HD,http://106.54.30.243/gz009/gz.php?id=doxyxhd
+DOX雅趣HD,http://106.54.30.243/gz009/gz.php?id=doxyqhd
+DOX映画,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=doxyhhd
+DOX剧场,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=doxjchd
+DOX新知,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=doxxzhd
+DOX新艺,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=doxxyhd
+DOX院线,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=doxyxhd
+DOX雅趣,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=doxyqhd
+DOX怡家,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=doxyjhd
+DOX英伦,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=doxylhd
 Dox剧场,http://39.135.19.169:18890/PLTV/88888888/224/3221226013//index.m3u8?fmt=ts2hls
 Dox怡家,http://39.135.19.169:18890/PLTV/88888888/224/3221226016//index.m3u8?fmt=ts2hls
 Dox新知,http://39.135.19.169:18890/PLTV/88888888/224/3221226014//index.m3u8?fmt=ts2hls
@@ -319,23 +368,6 @@ Dox英伦,http://39.135.19.169:18890/PLTV/88888888/224/3221226045//index.m3u8?fm
 Dox雅趣,http://39.135.19.169:18890/PLTV/88888888/224/3221226042//index.m3u8?fmt=ts2hls
 Dox4K 30M2160,http://39.135.19.169:18890/PLTV/88888888/224/3221226019//index.m3u8?fmt=ts2hls
 DoxTV 576,http://39.135.19.169:18890/PLTV/88888888/224/3221226048//index.m3u8?fmt=ts2hls
-DOX映画,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=doxyhhd
-DOX剧场,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=doxjchd
-DOX新知,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=doxxzhd
-DOX新艺,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=doxxyhd
-DOX院线,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=doxyxhd
-DOX雅趣,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=doxyqhd
-DOX怡家,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=doxyjhd
-DOX英伦,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=doxylhd
-DOXTV,http://106.54.30.243/gz009/gz.php?id=doxtv
-DOX劇場HD,http://106.54.30.243/gz009/gz.php?id=doxjchd
-DOX怡家HD,http://106.54.30.243/gz009/gz.php?id=doxyjhd
-DOX新知HD,http://106.54.30.243/gz009/gz.php?id=doxxzhd
-DOX新藝HD,http://106.54.30.243/gz009/gz.php?id=doxxyhd
-DOX映畫HD,http://106.54.30.243/gz009/gz.php?id=doxyhhd
-DOX英倫HD,http://106.54.30.243/gz009/gz.php?id=doxylhd
-DOX院線HD,http://106.54.30.243/gz009/gz.php?id=doxyxhd
-DOX雅趣HD,http://106.54.30.243/gz009/gz.php?id=doxyqhd
 G+TV都市剧场 8M1080,http://39.135.19.169:18890/PLTV/88888888/224/3221225783//index.m3u8?fmt=ts2hls
 G+TV谍战剧场 8M1080,http://39.135.19.169:18890/PLTV/88888888/224/3221225784//index.m3u8?fmt=ts2hls
 G+TV经典剧场 8M1080,http://39.135.19.169:18890/PLTV/88888888/224/3221225782//index.m3u8?fmt=ts2hls
