@@ -3,7 +3,7 @@
 2019年,https://rescdn.yishihui.com/longvideo/transcode/video/live/201905301885618UgHvkjVyWXOEoY4K6A.m3u8
 2020年,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200128/6799382qfg4DLos2ts6O0dudy.m3u8
 喜爱频道,#genre#
-书画频道（高清）,http://117.59.8.3/PLTV/88888888/224/3221227574/index.m3u8?icpid=88888888&from=4&hms_devid=2764#http://cg0.hunancatv.cn:9090/live/SHPD.m3u8?ci=123#http://117.59.8.1/PLTV/88888888/224/3221227574/index.m3u8?icpid=88888888&from=4&hms_devid=2704#http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000081.m3u8
+书画频道（高清）,http://tkbunj246.nian.gfzyw.cn/woniu.php?id=10000077#http://117.59.8.3/PLTV/88888888/224/3221227574/index.m3u8?icpid=88888888&from=4&hms_devid=2764#http://117.59.8.1/PLTV/88888888/224/3221227574/index.m3u8?icpid=88888888&from=4&hms_devid=2704#http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000081.m3u8
 书画频道（标清）,http://106.54.30.243/gz009/gz.php?id=sh#http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=sh#http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&playtoken=31667LZMVCGFXDL10&verifycode=2000000576&rate=org&programid=4200000101.m3u8&ts=50&auth=no#http://ott.cqccn.com/PLTV/88888888/224/3221227574/index.m3u8
 CCTV-5,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=4#http://223.110.247.161:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/#http://117.169.124.14:6610/ysten-businessmobile/live/HD-8000k-1080P-cctv5/1.m3u8#http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227401/index.m3u8#http://223.110.245.140/ott.js.chinamobile.com/PLTV/3/224/3221227537/index.m3u8#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229687/01.m3u8?fmt=ts2hls#http://223.110.243.172/PLTV/3/224/3221227166/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225753/index.m3u8
 CCTV-5+,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=4#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
@@ -13,7 +13,7 @@ CCTV-5+,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid
 CCTV高尔夫·网球HD,http://39.135.19.162:18890/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls#http://ott.cqccn.com/PLTV/88888888/224/3221227535/index.m3u8
 CCTV台球HD,http://ott.cqccn.com/PLTV/88888888/224/3221227646/index.m3u8#http://27.36.62.163:9090/live/DOXyinglunHD_7000.m3u8?ci=123&srchost=172.16.149.181:8060#http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/ws_v/2018/ystq/ystq711/1000/index.m3u8?&encrypt=1
 
-中华美食,http://106.54.30.243/gz009/gz.php?id=zhms
+中华美食,http://tkbunj246.nian.gfzyw.cn/woniu.php?id=10000079#http://106.54.30.243/gz009/gz.php?id=zhms
 CCTV-风云音乐,,http://39.135.19.162:18890/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls
 经典音乐会,http://v.iam7.top/iptv/cibn/?id=1108&code=128
 CCTV-15,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=4#http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
