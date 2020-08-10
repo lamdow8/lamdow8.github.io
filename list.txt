@@ -253,9 +253,24 @@ J2,http://www.aclive.live/dvr/2ee368c0/xmj3kp59/index.m3u8
 ViuTVsix,http://61.238.6.49:8000/bysid/96
 ViuTV,http://61.238.6.49:8000/bysid/99
 J2台,http://61.238.6.49:8001/bysid/82
-华视,http://p06.iptv2asia.com:18888/http/009
-中视,http://p06.iptv2asia.com:18888/http/005
-台視,http://p06.iptv2asia.com:18888/http/001 
+台視HD,http://p06.iptv2asia.com:18888/http/001
+台視綜合,http://p06.iptv2asia.com:18888/http/002
+台視財經,http://p06.iptv2asia.com:18888/http/003
+台視新聞HD,http://p06.iptv2asia.com:18888/http/004
+CTV中視HD,http://p06.iptv2asia.com:18888/http/005
+CTV中視新聞HD,http://p06.iptv2asia.com:18888/http/006
+CTV中視經典,http://p06.iptv2asia.com:18888/http/007
+BRAVO中視菁采,http://p06.iptv2asia.com:18888/http/008
+華視CTSHD,http://p06.iptv2asia.com:18888/http/009
+華視新聞資訊HD,http://p06.iptv2asia.com:18888/http/010
+華視體育文化HD,http://p06.iptv2asia.com:18888/http/011
+民視HD,http://p06.iptv2asia.com:18888/http/012
+民視台灣台HD,http://p06.iptv2asia.com:18888/http/013
+民視第一台HD,http://p06.iptv2asia.com:18888/http/014
+民視新聞台HD,http://p06.iptv2asia.com:18888/http/015
+公視,http://p06.iptv2asia.com:18888/http/016
+公視台語台,http://p06.iptv2asia.com:18888/http/017
+公視3,http://p06.iptv2asia.com:18888/http/018
 
 体育综合,#genre#
 广东体育HD,http://gslb.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8?k=0e9c779668ea63007948538f0f57f3ca&t=5EFDE4BB&UID=29AAB394#http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
