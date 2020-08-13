@@ -1,3 +1,217 @@
+体育-1Sports,#genre#
+Astro Arena,http://tvportal.site:8080/live/test-5ea245/eeeb/157485.m3u8
+Now Sports Prime,http://teslagram.com/live/channel_630.m3u8
+BEIN SPORT Extra,https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
+BEIN SPORT 1,https://edgejt6.useetv.com/joss/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8#https://cdnbpp1.useetv.com/joss/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8#https://edgejt6.useetv.com/joss/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
+BEIN SPORT 2,https://cdnbal1.useetv.com/joss/15/bein2/chunklist_w1901250353_b684100_sleng_enc=5cE0loIMo_OWpCpoD6CJEA.m3u8#https://cdnbal1.useetv.com/joss/15/bein2/chunklist_w1901250353_b684100_sleng_enc=5cE0loIMo_OWpCpoD6CJEA.m3u8
+FOX SPORTS,https://delivery.macan.live/stream/id_foxsport1/index.m3u8?token=uLys6&v=20200308
+FOX SPORTS 1,https://cdnbpp1.useetv.com/joss/15/foxsport1/chunklist_w478388508_b894100_sleng_90945.m3u8
+FOX SPORTS 2,https://cdnbal1.useetv.com/joss/15/foxsport2/chunklist_w356031347_b894100_sleng_424675.m3u8
+FOX SPORTS 3,https://cdnbpp1.useetv.com/joss/15/foxsport3/chunklist_w1036403467_b684100_sleng_enc=dZVe0sRkRgVGf8sNJE0QRg.m3u8
+FOX SPORTS 3-2,http://185.93.2.35:12012/live/359111068247FFA1/f8AU8mDQ9XOhd20a4yQkftd4IRk-4pZ_NksjSwmjjD56oLAOdvIUvp_dGiTgxG10/53F41BC2EEA44E8C/226854.ts
+USEESPORT 1,https://cdnbpp1.useetv.com/joss/15/useesport/chunklist_w1241634564_b894100_sleng_43197.m3u8
+USEESPORT 2,https://dl.dropboxusercontent.com/s/l2d50r76elewiar/usee2.m3u8?dl=0#https://cdnbpp1.useetv.com/joss/15/useesports2/chunklist_w1021856449_b1344100_sleng_87965.m3u8
+CHAMPION 1,https://cdnbpp1.useetv.com/joss/15/champion1/chunklist_w2141102661_b894100_sleng_57560.m3u8
+CHAMPION 2,https://cdnbpp1.useetv.com/joss/15/champion2/chunklist_w670832473_b894100_sleng_4798.m3u8
+Real Madrid 1,http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+Real Madrid 1,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+Real Madrid 2,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+TVRI,http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+FOX SPORT 1,http://45.58.62.92:8080
+Fox Sport-1,http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+Fox Sport-2,https://cdnmdc1.useetv.com/joss/15/foxsport2/chunklist_w1843670031_b684100_sleng_enc=0mnw-vu_-tYisiS4VjqDnw.m3u8
+Fox Sport-3,https://cdnkbl1.useetv.com/joss/15/foxsport3/chunklist_w1036403467_b684100_sleng_enc=dZVe0sRkRgVGf8sNJE0QRg.m3u8
+Fox Sports News,http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+FOX体育1,rtmp://xiaoyu.speedws.com/sat/tv731
+FOX体育2,rtmp://xiaoyu.speedws.com/sat/tv741
+FOX体育3,rtmp://xiaoyu.speedws.com/sat/md031
+CNBC GOLF,http://vp2p.my6868.cc/20398/index.m3u8
+GOLF PLUS,https://cdnbpp1.useetv.com/joss/15/golfplus/chunklist_w1719035610_b1344100_sleng_79871.m3u8#https://cdnmdc2.useetv.com/joss/15/golfplus/chunklist_w2049375849_b1344100_sleng_177560.m3u8
+ONE Golf,http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+ONE Golf,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+JTBC Golf,http://211.110.63.104/jtbcgolf1/_definst_/80D0E97E935E88BD50D6E3E5EC5CF058F97567AC9EA179FD666E04776398040B/chunklist.m3u8
+GOLF NETWORK,http://203.162.235.41:16924
+RTSH Sport,http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+BT Sports-1,http://live.highstream.club/live/BTSPORT1/chunks.m3u8
+BT Sports-2,http://live.highstream.club/live/BTSPORT2/chunks.m3u8
+BT Sports-3,http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/149737
+C-SPAN-1,p2p://fccsovh.pvbox.live:18912/5b593922000ca739b829615cc7fbc335.ts#mitv://fccsovh.pvbox.live:18912/5b593922000ca739b829615cc7fbc335.ts
+C-SPAN-2,p2p://fccsovh.pvbox.live:18912/5b59392700009927a93c9414b95cad9a.ts#mitv://fccsovh.pvbox.live:18912/5b59392700009927a93c9414b95cad9a.ts
+C-SPAN-3,p2p://fccsovh.pvbox.live:18912/5b59392a000cefb4d68204bf9bb1d680.ts
+Eleven Sports Plus,rtmp://xiaoyu.speedws.com/sat/md011
+Eleven Sports-1,http://207.110.52.62:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8
+Eleven Sports-2,rtmp://xiaoyu.speedws.com/sat/md021#http://207.110.52.62:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
+Euro sport-1,http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8
+Euro sport-1,http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/76646
+Euro sport-1,http://91.126.39.98:8086/udp/224.168.32.2:3202
+Euro sport-2,,http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8#http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/76644
+EURO SPORT 2 IT,p2p://fccseuro.pvbox.live:18912/5bee51c80006548a19d6fc983a536b0e.ts#mitv://fccsovh.pvbox.live:18912/5bee51c80006548a19d6fc983a536b0e.ts
+Fox Sport-1,http://live.highstream.club/live/FS1/chunks.m3u8#mitv://fccsovh.pvbox.live:18912/5b593b180009011066013f21d84f6fc3.ts#http://live.highstream.club/live/FS1/playlist.m3u8
+Fox Sport-2,http://live.highstream.club/live/FS2/chunks.m3u8#mitv://fccsovh.pvbox.live:18912/5b593b1c00097e8b11b68a21840bb331.ts#http://live.highstream.club/live/FS2/playlist.m3u8
+Fox Sport-3,http://198.16.106.58:8278/foxsport3hd_twn/playlist.m3u8?tid=m5d584d8f204e14267960&ct=17895&tsum=a75615ebe28f1eaa5d552ec102136011
+TvRi Sport,http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+SKY SPORTS ACTION,http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/102244#http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/102245#p2p://fccseuro.pvbox.live:18912/5bee5081000b61a019d200986d231967.ts#mitv://fccsovh.pvbox.live:18912/5bee5081000b61a019d200986d231967.ts
+SKY SPORTS ARENA,http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/102242#p2p://fccseuro.pvbox.live:18912/5bee4fdd000baa3c19cf80076af13462.ts#p2p://fccsovh.pvbox.live:18912/5b2e22ab00001d83fd919140860a1518.ts#mitv://fccsovh.pvbox.live:18912/5b2e22ab00001d83fd919140860a1518.ts
+SKY SPORTS FOOTBALL,http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/102232#http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/102233#p2p://fccsovh.pvbox.live:18912/5b2e22ac0005d67845f1105b782621c2.ts#mitv://fccsovh.pvbox.live:18912/5b2e22ac0005d67845f1105b782621c2.ts
+STAR SPORTS 1,http://cdn.banglatv.xyz/beeiptv-stb/starsports1/chunks.m3u8#p2p://fccseuro.pvbox.live:18912/5bee55dc0004a19a19e6ea4a68542781.ts#mitv://fccsovh.pvbox.live:18912/5bee55dc0004a19a19e6ea4a68542781.ts
+STAR SPORTS 2,http://ddn.amrbd.com:8081/live/starsports2/playlist.m3u8
+Star Sport Select-1,http://87.117.234.107:1935/live/StarSportsSelect1FHD/playlists.m3u8
+Star Sport Select-2,http://87.117.234.107:1935/live/StarSportsSelect2FHD/playlists.m3u8
+Sony Six,http://103.205.133.42:1935/local/sony_six_hd_720/index.m3u8#http://103.205.133.42:1935/local/sony_six_720/index.m3u8
+Sony Ten-1,http://103.205.133.42:1935/local/sony_ten1_hd_720/index.m3u8
+Sony Ten-2,http://103.205.133.42:1935/local/ten_2_720/index.m3u8#http://103.205.133.42:1935/local/sony_ten2_hd_720/index.m3u8
+Sony Ten-3,http://103.205.133.42:1935/local/ten_3_720/index.m3u8#http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
+Sony ESPN,http://103.205.133.42:1935/local/sony_espn_720/index.m3u8
+Snooker world,http://203.154.243.31:8081/live/snooker/index.m3u8
+Tennis Channel-1,https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+Tennis Channel + 1,https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+Tennis Channel + 4,https://playoutengine.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd/f.m3u8
+TRUESPORT-1,https://tv4.chang55.com:446/live2/tv4ch18.stream/chunks.m3u8
+TRUESPORT-2,https://tv4.chang55.com:446/live2/tv4ch15.stream/chunks.m3u8
+TRUESPORT-3,https://tv4.chang55.com:446/live2/tv4ch17.stream/chunks.m3u8
+TRUESPORT-6,https://tv4.chang55.com:446/live2/tv4ch85.stream/chunks.m3u8
+TRUESPORT-7,https://tv4.chang55.com:446/live2/tv4ch86.stream/chunks.m3u8
+TrueVision NBA,https://tv4.chang55.com:446/live2/tv4ch23.stream/chunks.m3u8
+TrueVision Tennis,https://tv4.chang55.com:446/live2/tv4ch22.stream/chunks.m3u8
+TrueVision Golf,https://tv4.chang55.com:446/live2/tv4ch08.stream/chunks.m3u8
+TSN2,p2p://fccsovh.pvbox.live:18912/5cffd792000e927a593918d3a42ec252.ts#mitv://fccsovh.pvbox.live:18912/5cffd792000e927a593918d3a42ec252.ts
+TSN3,p2p://fccsovh.pvbox.live:18912/5cffd7940009905bc3546565cc212fca.ts#mitv://fccsovh.pvbox.live:18912/5cffd7940009905bc3546565cc212fca.ts
+TSN4,p2p://fccsovh.pvbox.live:18912/5cffd7960007e5d5ac0db190f387c710.ts#mitv://fccsovh.pvbox.live:18912/5cffd7960007e5d5ac0db190f387c710.ts
+TSN5,p2p://fccsovh.pvbox.live:18912/5cffd798000451f51bd6f21bccbd120d.ts#mitv://fccsovh.pvbox.live:18912/5cffd798000451f51bd6f21bccbd120d.ts
+Usee Sport-1,https://vcdnjt.useetv.com:443/joss/15/useesport/chunklist_w1734341269_b894100_sleng_177560.m3u8?enc=04WgtycFcN-cMIKu6JcrMQ&exp=1587471571
+Usee Sport-2,https://vcdnjt.useetv.com:443/joss/15/useesports2/chunklist_w589224286_b684100_sleng_177560.m3u8?enc=RStWKB0CU75uFUk98ieI4Q&exp=1587471587
+Edge Sport,https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
+Hi Sport Thai,http://203.154.243.31:8081/live/hisport/index.m3u8
+Horizon Sports (UK),https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+BeIN SPORTS 2,rtmp://xiaoyu.speedws.com/sat/hk011#rtmp://xiaoyu.speedws.com/sat/hk021
+BT Sport ESPN,http://145.239.255.4:8080/espnhd/mono.m3u8?token=test
+CCTV-5体育,http://121.31.30.91:8081/ysten-business/live/cctv-5/1.m3u8#http://111.40.205.73/wh7f454c46tw1287084215_925233335/PLTV/88888888/224/3221225591/index.m3u8#http://111.40.205.73/PLTV/88888888/224/3221225711/index.m3u8#http://223.110.241.130:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/#http://220.158.149.14:9999/live/TV00000000000000000104@HHZT#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228819/index.m3u8
+CCTV-5+体育,http://hms2884nc1972666631.live.aikan.miguvideo.com/PLTV/88888888/224/3221228810/index.m3u8#http://112.17.40.47:80/PLTV/88888888/224/3221226166/index.m3u8#http://111.40.205.73/wh7f454c46tw1287084215_925233335/PLTV/88888888/224/3221225603/index.m3u8#http://223.110.241.130:6610/cntv/live1/hdcctv05plus/.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8#http://111.40.205.73/wh7f454c46tw1287084215_925233335/PLTV/88888888/224/3221225603/index.m3u8
+CCTV-风云足球,rtmp://xiaoyu.speedws.com/sat/cn041
+D Sport,http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8#http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
+DD Sports,http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+ELTA體育1台,rtmp://xiaoyu.speedws.com/sat/md041
+ELTA體育2台,rtmp://xiaoyu.speedws.com/sat/md051
+ELTA體育3台,http://198.16.106.58:8278/eltasports3_twn/playlist.m3u8?tid=MF5F6053499360534993&ct=18393&tsum=031b5926d0e1558b157395d574ed6955#tvbus://3zRV3nyBBU25Kag1D7C4LQ2td3QLqQ5chdnE4G4QFybRRJDUgp
+ESPN U,https://gma2.blab.email/espnu.m3u8
+FLOW Sports 1,http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+JTBC Sports-1,http://211.110.63.104/jtbc3sports1/_definst_/D93A0F40B483D4887BF6CD4E1910ED7A17C34634DC35C714860FFC5944655BC6/chunklist.m3u8
+MOTOR SPORT,http://45.58.62.92:8084
+Nova Sport 1,https://h1-s5.c.markiza.sk/hls/novasport1-hd-master.m3u8
+Nova Sport 2,https://h1-s5.c.markiza.sk/hls/novasport2-hd-master.m3u8
+Olympic Channel-1,http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8#https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+Olympic Channel-2,https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
+One Golf,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+Racing_com,https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+REDBULL TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+RTM Sports HD,https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+Setanta Sports +,http://188.93.95.34:80/setanta_sports_plus_georgia/index.m3u8
+Setanta Sports,http://188.93.95.34:80/setanta_georgia/index.m3u8
+Sky Sport Bundesliga-1,http://stream-7b694ce7e.nmbs.top/m3u/Germany/f247944fe3.m3u8
+Star Sports,rtmp://58.200.131.2:1935/livetv/starsports
+Tennis Channel,https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+Tennis Channel+ 2,https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
+Tennis Channel+,https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+Trace Sports Stars,https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/6/prog_index.m3u8
+WWE,P2p://190.2.146.9218912/5cffd5d9000724964caf741711821486.ts#http://cdnak19.cast4u.info/channels/4/10804.m3u8
+五星体育,http://liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8#http://117.156.28.21/PLTV/88888888/224/3221225603/index.m3u8
+博斯高球 1,tvbus://45C3vexNFYjxcsScs96xxkBUhPFs7R7uhuxSMwByfimXcBHwkf
+博斯高球 I2,tvbus://4XFVnGyp5PSGYrUXKAQZs2tGad8TmTwJKRxnxuttGpk6AijB6R
+博斯魅力,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8#http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8?token=eqz9E8GfvSKbo41zDM-EOg&time=1579172710951
+广东体育,http://198.16.106.58:8278/guangdongsport/playlist.m3u8?tid=MDCD6708999867089998&ct=18393&tsum=d9b894ccda87199ee52e4be3c332437c
+CCTV高尔夫网球,http://125.210.152.18:9090/live/GEFWQ.m3u8
+广东高尔夫,http://125.210.152.18:9090/live/GEF.m3u8
+超级体育,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226157/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226158/1.m3u8
+澳視体育,http://103.233.191.133/ch4/sport_ch4.live/playlist.m3u8
+緯來體育,rtmp://xiaoyu.speedws.com/sat/tv721
+劲爆体育,http://keonline.shanghai.liveplay.qq.com/live/program/live/jbtyhd/2300000/mnf.m3u8
+魅力足球,http://keonline.shanghai.liveplay.qq.com/live/program/live/mlyyhd/2300000/mnf.m3u8
+风云足球,http://liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+劲爆体育,http://liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+新视觉体育,http://liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
+NEWTv Sports,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226157/1.m3u8
+Premiere Football 1,https://tv4.chang55.com:446/live2/tv4ch10.stream/chunks.m3u8
+Premiere Football 2,https://tv4.chang55.com:446/live2/tv4ch11.stream/chunks.m3u8
+Premiere Football 3,https://tv4.chang55.com:446/live2/tv4ch12.stream/chunks.m3u8
+Premiere Football 4,https://tv4.chang55.com:446/live2/tv4ch13.stream/chunks.m3u8
+Premiere Football 5,https://tv4.chang55.com:446/live2/tv4ch14.stream/chunks.m3u8
+SKYNET Sports 1,https://livedoomovies.com/03_skynetsport1_480p/chunklist.m3u8
+SKYNET Sports 2,https://livedoomovies.com/03_skynetsport2_480p/chunklist.m3u8
+SKYNET Sports 3,https://livedoomovies.com/03_skynetsport3_480p/chunklist.m3u8
+SKYNET Sports 4,https://livedoomovies.com/03_skynetsport4_480p/chunklist.m3u8
+
+体育-2Sports,#genre#
+緯來體育,rtmp://161.202.204.248:1935/sat/tv731
+FOX SPORTS,rtmp://161.202.204.248:1935/sat/tv741#P2p://198.255.74.57:41196/5f1c8701000234b9242d101eb4ac7546.ts
+FOX SPORTS 2,rtmp://161.202.204.248:1935/sat/md031
+FOX SPORTS 3,rtmp://161.202.204.248:1935/sat/md021#P2p://198.255.74.57:41196/5f1c870100015cc2242d0fe69b47dd42.ts
+Eleven Sports,rtmp://161.202.204.248:1935/sat/md041
+Eleven Sports 2,rtmp://161.202.204.248:1935/sat/md051
+beIN SPORTS 1,http://live5.ocnttv.com:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+CCTV-5HD,http://39.134.65.162/PLTV/88888888/224/3221225590/index.m3u8
+CCTV-5+HD,http://101.71.255.229:6610/zjhs/2/10066/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://111.40.205.87/PLTV/88888888/224/3221225752/index.m3u8
+博斯魅力,http://101.71.255.229:6610/zjhs/2/10079/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+博斯運動 II,rtmp://161.202.204.248:1935/sat/hk011
+博斯高球 II,P2p://198.255.74.57:41196/5f1c87070003408a242d27d27c632814.ts
+博斯運動 I,P2p://198.255.74.57:41196/5f1c87010005a916242d11003d3db0e0.ts
+博斯網球,P2p://198.255.74.57:41196/5f1c87010004d4cd242d10ca4514d981.ts
+博斯高球 ,P2p://198.255.74.57:41196/5f1c870100031653242d1057a188994f.ts
+超级体育1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
+超级体育2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
+博击,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+ELTA綜合,P2p://198.255.74.57:12196/5f134384000a016eed4179f4e40b404c.ts
+ELTA體育,P2p://198.255.74.57:12196/5f134384000858f4ed4179876f8b7f80.ts
+NBA,P2p://198.255.74.57:12196/5f0e0c870004d106d8e2ac589fe90056.ts
+Star Sports 1,http://87.117.234.107:1935/live/StarSports1FHD/playlist.m3u8
+Star Sports 2,http://87.117.234.107:1935/live/StarSports2FHD/index.m3u8
+Sky Sports Action,P2p://198.255.74.57:12196/5f13436900031f9aed410eb94105101f.ts
+Sky Sports Cricket,P2p://198.255.74.57:12196/5f13436900024a3bed410e839f999b6c.ts
+Sky Sports Golf,P2p://198.255.74.57:12196/5f13436900021226ed410e74a59ae08c.ts
+Sky Sports MainEvent,P2p://198.255.74.57:12196/5f1343690003f61ded410ef0cd2f4dc9.ts
+Sky Sports Mix,P2p://198.255.74.57:12196/5f1343690004ccf8ed410f27db3c43da.ts
+FOX SPORTS,P2p://198.255.74.57:12196/5f13437d000f351bed415ff17bf33123.ts
+GOLF,P2p://198.255.74.57:12196/5f0e0c870003fd57d8e2ac22269360ff.ts
+劲爆体育,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=74&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+武术频道,http://120.221.5.113:8089/PLTV/88888888/224/3221225996/index.m3u8
+皇马足球,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+魅力足球,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=76&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+有线体育台,rtmp://175.6.228.3:1935/live/307
+Premier League_1,rtmp://175.6.228.3:1935/live/501
+FOXSPORTS,rtmp://175.6.228.3:1935/live/502
+体育台5,rtmp://175.6.228.3:1935/live/503
+体育台6,rtmp://175.6.228.3:1935/live/504
+体育台2,rtmp://175.6.228.3:1935/live/505
+体育台7,rtmp://175.6.228.3:1935/live/507
+体育台3,rtmp://175.6.228.3:1935/live/509
+Eleven_Sport1,rtmp://175.6.228.3:1935/live/511#mitv://fccseuro.pvbox.live:18912/5b13f6f00009f89b6e1fdd46c11b125c
+Eleven_Sport2,rtmp://175.6.228.3:1935/live/512#mitv://fccseuro.pvbox.live:18912/5b1408f2000402a9ca90cee73fdb22da
+SKYNET SPORT-1,rtmp://175.6.228.3:1935/live/514
+SKYNET SPORT-2,rtmp://175.6.228.3:1935/live/515
+SONY-6,rtmp://175.6.228.3:1935/live/516
+UFC,http://live-ng-01.more.tv/hls/UFC/master.m3u8?checkedby:iptvcat.com
+FOX SPORTS 1,http://103.47.132.165/PLTV/88888888/224/3221227125/2.m3u8
+FOX SPORTS 2,http://103.47.132.165:80/PLTV/88888888/224/3221227175/2.m3u8
+FOX SPORTS 3,http://103.47.132.165:80/PLTV/88888888/224/3221227219/2.m3u8
+TVRI SPORT,http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+WWE,https://streaming.sonyliv.com/Sports_WWE_RAW_Full_Episode_English_4th_04122018_900K.m3u8
+Fight Sports,http://103.47.132.165/PLTV/88888888/224/3221227065/1.m3u8
+TENNIS Channel,https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+D Sports,http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+RED BULL TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+GOLF Channel,http://103.47.132.165/PLTV/88888888/224/3221227325/1.m3u8
+ONE GOLF,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8?checkedby:iptvcat.com
+BeIN Sport 1,https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+BeIN Sport 2,https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+REAL MADRID TV,https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
+REAL MADRID TV ESP,http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0450_av-p.m3u8?sd=10&rebase=on
+SKYNETsports1,https://www.livedoomovies.com/03_skynetsport1_480p/chunklist.m3u8 
+SKYNETsports2,https://www.livedoomovies.com/03_skynetsport2_480p/chunklist.m3u8 
+SKYNETsports3,https://www.livedoomovies.com/03_skynetsport3_480p/chunklist.m3u8 
+SKYNETsports4,https://www.livedoomovies.com/03_skynetsport4_480p/chunklist.m3u8 
+SKYNETsports5,https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8 
+SKYNETsports6,https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
 港台电信,#genre#
 凤凰中文,p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543
 凤凰资讯,p8p://0198.02686.cc:16871/5f215b6100034b921a0ed9c7b13eadee
