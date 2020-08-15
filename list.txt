@@ -275,8 +275,8 @@ CCTV17 HEVC,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227726/
 
 港台新闻,#genre#
 儋州新闻,http://36009.hlsplay.aodianyun.com/tv_radio_36009/tv_channel_1330.m3u8
-凤凰中文,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
-凤凰资讯,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+凤凰中文,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8#http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
+凤凰资讯,http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8#http://111.0.93.5:80/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/01.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
 凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804#http://183.207.249.36/PLTV/3/224/3221226975/index.m3u8#http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
 有线综合娱乐台,http://liveicm10.utvlive.top/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8
