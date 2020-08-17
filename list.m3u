@@ -306,7 +306,7 @@ http://124.232.231.246:6610/000000001001/201600020006/1400.m3u8?zte_auth=ae0fcda
 http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/scem/1.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/qt/shanghaidongfangyingshi.png" group-title="影视频道",东方影视
 http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225970/3.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.jpeg" group-title="高清影视",邵氏影院
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.jpeg" group-title="影视频道",邵氏影院
 http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
 
 #体育频道
@@ -393,9 +393,9 @@ http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" tvg-id="143" tvg-name="凤凰香港" group-title="港澳一日游",凤凰卫视香港台
 http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804
 #EXTINF:-1 tvg-id="" tvg-name="Now NEWS" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch332_170_122" group-title="港澳一日游",now新闻台
-http://2020.006w.com/daili/hk/hk2.php?id=4
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="港澳一日游",翡翠台(失效)
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
+http://ff05.vipub1818.com/live/396/3271973376d9a01c762abc5c10063842/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="港澳一日游",翡翠台
+http://ff05.vipub1818.com/live/390/ff716247068189f5a8f5515789e8ab85/index.m3u8
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" tvg-id="126" tvg-name="翡翠台" group-title="港澳一日游",翡翠台
 http://www.aclive.live/dvr/2ee368c0/5tg7hf6c/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvbanywhere.com/img/logo_tvb_news.png" tvg-id="130" tvg-name="无线新闻" group-title="港澳一日游",无线新闻台HD
@@ -437,9 +437,9 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg" group-title="港澳一日游",凤凰电影台
 rtmp://58.200.131.2:1935/livetv/fhdy
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/330px-RTHK_TV_31.svg.png" group-title="港澳一日游",RHK31
-https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRHJ0aGszMQ__
 #EXTINF:-1 tvg-id="" tvg-name="香港电台32" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/220px-RTHK_TV_32.svg.png" group-title="港澳一日游",RHK32
-https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRHJ0aGszMg__
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/澳亚卫视.png" tvg-id="476" tvg-name="澳亚卫视" group-title="港澳一日游",澳亚卫视
 http://stream.mastvnet.com/MASTV/sd/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/lotustv.jpg" tvg-id="" tvg-name="莲花卫视" group-title="港澳一日游",莲花卫视
@@ -447,7 +447,7 @@ http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
 #EXTINF:-1 tvg-id="129" tvg-name="TVB经典台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="港澳一日游",tvb经典
 http://hdl0901.plures.net/onlive/580876d9897b17e6b1a1e79deb5941e7.flv
 #EXTINF:-1 tvg-logo="http://www.iptv16.com/wp-content/uploads/2019/08/HK-CH-6.jpg" tvg-id="" tvg-name="有线电影" group-title="港澳一日游",有线电影台
-http://prdsecurelive.ainemo.com/live/yx09hitv.flv
+https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRGNhbW92aWU_
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbgongfu.jpg" tvg-id="10092" tvg-name="功夫台" group-title="港澳一日游",TVB功夫台
 http://pull.scphsd.com/live/41502a0a7b26b5f621d55270249e48a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/chv.png" group-title="港澳一日游",Channel [V]
