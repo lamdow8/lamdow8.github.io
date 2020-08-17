@@ -373,21 +373,21 @@ http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hm
 http://2020.006w.com/daili/hk/hk2.php?id=4
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="港澳一日游",翡翠台(失效)
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="港澳一日游",翡翠台
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" tvg-id="126" tvg-name="翡翠台" group-title="港澳一日游",翡翠台
 http://www.aclive.live/dvr/2ee368c0/5tg7hf6c/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" tvg-id="130" tvg-name="无线新闻" group-title="港澳一日游",无线新闻台
+#EXTINF:-1 tvg-logo="https://www.tvbanywhere.com/img/logo_tvb_news.png" tvg-id="130" tvg-name="无线新闻" group-title="港澳一日游",无线新闻台HD
 http://tv.sason.xyz/proxy/tvb.php?id=xw
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" tvg-id="130" tvg-name="无线新闻" group-title="港澳一日游",无线新闻台(备)
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" tvg-id="130" tvg-name="无线新闻" group-title="港澳一日游",无线新闻台HD
 http://45.93.217.106/jiuban/hg.php?id=1
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" tvg-id="416" tvg-name="J2" group-title="港澳一日游",J2
 http://www.aclive.live/dvr/2ee368c0/xmj3kp59/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" tvg-id="127" tvg-name="明珠台" group-title="港澳一日游",明珠台
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
-#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳一日游",无线财经
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="https://www.tvbanywhere.com/img/logo_tvb_financial_news.png" group-title="港澳一日游",无线财经咨询台
 http://tv.sason.xyz/proxy/tvb.php?id=cj
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-finance.jpg" tvg-id="133" tvg-name="无线财经" group-title="港澳一日游",无线财经咨询台
 http://www.liveviptv.xyz/tv/tvb.php?vid=wxzx
-#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" tvg-id="7122" tvg-name="有线新闻台" group-title="港澳一日游",有线新闻台
+#EXTINF:-1 tvg-logo="http://utvhk.com/maint/images/channel/d116ecd633cdbff96b0a91867d4f7f8c.png" tvg-id="7122" tvg-name="有线新闻台" group-title="港澳一日游",有线新闻台HD
 https://liveima.utvlive.top/livehls/MOB-SCC/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" tvg-id="7122" tvg-name="有线新闻台" group-title="港澳一日游",有线新闻台HD
 http://liveicm11.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
