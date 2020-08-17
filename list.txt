@@ -978,6 +978,51 @@ G+TV科普中国 8M1080,http://39.135.19.169:18890/PLTV/88888888/224/3221226036/
 G+TV海外佳片 8M1080,http://39.135.19.169:18890/PLTV/88888888/224/3221225786//index.m3u8?fmt=ts2hls
 G+TV华语影院 8M1080,http://39.135.19.169:18890/PLTV/88888888/224/3221225787//index.m3u8?fmt=ts2hls
 
+香港,#genre#
+港台電視31,https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRHJ0aGszMQ__
+港台電視32,https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRHJ0aGszMg__
+香港電台視像新聞直播,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
+翡翠台,http://61.238.6.49:8000/bysid/1
+翡翠台,http://www.aclive.live/dvr/2ee368c0/5tg7hf6c/index.m3u8
+翡翠台,https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRHR2YmZj
+Pearl,http://61.238.6.49:8001/bysid/2
+Pearl,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1,tvming-XGMingZhu
+Pearl,https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRHR2Ym16
+J2,http://61.238.6.49:8001/bysid/82
+J2,http://www.aclive.live/dvr/2ee368c0/xmj3kp59/index.m3u8
+J2,https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRHR2Ymoy
+TVB 星河頻道,http://104.250.154.42:8080/ZZ_xinghe/ZZ_xinghe.m3u8
+TVB 星河頻道,https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRHR2Ynho
+無綫新聞台,http://61.238.6.49:8001/bysid/83
+無綫新聞台,http://tv.sason.xyz/proxy/tvb.php?id=xw
+無綫新聞台,https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRHR2Ym5ld3My
+無綫財經·資訊台,http://61.238.6.49:8001/bysid/85
+無綫財經·資訊台,http://tv.sason.xyz/proxy/tvb.php?id=cj
+無綫財經·資訊台,https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRHR2YmZpbmFuY2U_
+無綫財經·資訊台,https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRHR2YmZpbmFuY2Uy
+ViuTVsix,http://61.238.6.49:8000/bysid/96
+ViuTV,http://61.238.6.49:8000/bysid/99
+ViuTV,https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRHZpdXR2
+有線財經資訊台 HD,http://livealima.utvlive.top/livehls/MOB-NGW/02.m3u8
+有線財經資訊台 HD,https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRGNhZmluYW5jZQ__
+有線新聞台 HD,http://livealima.utvlive.top/livehls/MOB-SCC/02.m3u8
+有線新聞台 HD,https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRGNhbmV3cw__
+有線綜合娛樂台 HD,http://livealima.utvlive.top/livehls/MOB-CN/02.m3u8
+有線綜合娛樂台 HD,https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRGNhZW50
+有線高清603台,https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRGNhNjAz
+有線18台,https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRGNhMTg_
+有線電影台,https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRGNhbW92aWU_
+now直播台,https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRG5vdzMzMQ__
+now新聞台,https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRG5vdzMzMg__
+賽馬直擊,http://liveima.utvlive.top/livehls/MOB-HR/02.m3u8
+亞視香港追撃搜,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi_1080p.m3u8
+香港衛視,https://30e433a4967c6868ab183a88288bcd03.live.prod.hkatv.com/h1_cbr_lo_720p.m3u8
+星空衛視,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233
+陽光衛視,https://stream.isuntv.com/680k/mid_video_index.m3u8
+C+,http://liveima.utvlive.top/livehls/MOB-U1-NO/03.m3u8
+C+,https://ez.wangweizhushou.com/lxtv.php?lxtv685&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRGNwbHVz
+亞旅衛視,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+
 中国老电影,#genre#
 地雷战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458e40508615d711b8aae1af/850.m3u8
 地道战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/312e39c68cc441feb79d1c2d7e16cbbd/850.m3u8
