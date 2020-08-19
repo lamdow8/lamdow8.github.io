@@ -853,6 +853,8 @@ ViuTV,https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYl
 now直播台,https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRG5vdzMzMQ__
 now新聞台,https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRG5vdzMzMg__
 C+,https://ez.wangweizhushou.com/lxtv.php?lxtv685&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRGNwbHVz
+寰宇新聞台,https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRGh5eHc_
+寰宇新聞台灣台,https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRGh5dHc_
 
 
 台視HD,http://p06.iptv2asia.com:18888/http/001
