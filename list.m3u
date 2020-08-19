@@ -91,6 +91,8 @@ http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/001/2000291503.m3u8
 http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/001/2000294703.m3u8
 
 #央视频道
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/10/8/1570468475876_655.png" group-title="央视", 央视新闻
+https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K
 http://117.148.165.106/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
