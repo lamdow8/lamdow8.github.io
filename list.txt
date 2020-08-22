@@ -1131,8 +1131,10 @@ NewTV明星大片 2.5M1080,http://39.134.66.66/PLTV/88888888/224/3221225550/inde
 港台新闻,#genre#
 TVB翡翠,http://ff05.vipub1818.com/live/390/ff716247068189f5a8f5515789e8ab85/index.m3u8
 Now新聞,http://ff05.vipub1818.com/live/396/3271973376d9a01c762abc5c10063842/index.m3u8
+now直播台,http://ff05.vipub1818.com/live/400/dd6a1afa94dcc9f7b80655a4b018041f/index.m3u8
 TVB J2,http://ff05.vipub1818.com/live/392/df893d5db456247da33bdcdb20295e4e/index.m3u8
 TVB明珠,http://ff05.vipub1818.com/live/391/008944fa6b61178da4dc5e531277a2c4/index.m3u8
+有線18台,http://ff05.vipub1818.com/live/44/8a9848fd09a6b1f1155e36e93c4e850d/index.m3u8
 
 TVB新聞台,http://tv.sason.xyz/proxy/tvb.php?id=xw#http://45.93.217.106/jiuban/hg.php?id=1#http://315600.xyz/dl/tvb.php?id=inewshd#http://tv.tonyt.top/iptv/tvb.php?id=1#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw#http://520574.xyz/dl/tvb.php?id=inewshd
 有线新闻 HD,http://liveicm12.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
@@ -1161,6 +1163,7 @@ ViuTV6,http://61.238.6.49:8000/bysid/96
 J2台,http://61.238.6.49:8001/bysid/82
 无线新闻,http://bg7cattt.xyz/tvb.php?id=1
 无线新闻,http://zscity.f3322.net:8000/bysid/83
+
 台視HD,http://p06.iptv2asia.com:18888/http/001
 台視綜合,http://p06.iptv2asia.com:18888/http/002
 台視財經,http://p06.iptv2asia.com:18888/http/003
@@ -1179,6 +1182,9 @@ BRAVO中視菁采,http://p06.iptv2asia.com:18888/http/008
 公視,http://p06.iptv2asia.com:18888/http/016
 公視台語台,http://p06.iptv2asia.com:18888/http/017
 公視3,http://p06.iptv2asia.com:18888/http/018
+客家電視,http://p06.iptv2asia.com:18888/http/019
+原住民族電視台,http://p06.iptv2asia.com:18888/http/020
+
 
 年代新闻,http://live5.ocnttv.com:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 国家地理,http://live5.ocnttv.com:8080/ZZ_hbo/ZZ_hbo.m3u8
