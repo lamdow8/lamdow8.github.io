@@ -53,7 +53,7 @@ CCTV-9纪录,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/32
 CCTV-10科教,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
 CCTV-11戏曲,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
 CCTV-12法制,http://39.134.52.163/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226183/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
-CCTV-13新闻,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/index.m3u8#http://httpdvb.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F22656FU3195804BK7804C004I57F7E2B7P2BF4M340E22CV0Z339C9W16267322BDCF99EA&playtoken=ABCDEFGH&programid=4200000067
+CCTV-13新闻,http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8#http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/index.m3u8#http://httpdvb.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F22656FU3195804BK7804C004I57F7E2B7P2BF4M340E22CV0Z339C9W16267322BDCF99EA&playtoken=ABCDEFGH&programid=4200000067
 
 CCTV-14少儿,http://39.134.52.158/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226182/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
 CCTV-15音乐,http://39.135.225.5:18890/PLTV/88888888/224/3221225818/index.m3u8#http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
@@ -66,7 +66,7 @@ CCTV-2财经,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-2/1.m3u8
 CCTV-3综艺,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
 CCTV-4国际,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-4/1.m3u8
 CCTV-5体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
-CCTV-5+体育赛事,http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
+CCTV-体育赛事,http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
 CCTV-6电影,http://118.123.60.5:8114/LIVES/Fsv_otype=1&amp;FvSeid=&amp;Fsv_filetype=mull&amp;Fsv_chan_hls_se_idx=093&amp;Provider_id=&amp;Pcontent_id=index.m3u8
 CCTV-7国防军事,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-7/1.m3u8
 CCTV-8电视剧,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
@@ -1135,6 +1135,13 @@ now直播台,http://ff05.vipub1818.com/live/400/dd6a1afa94dcc9f7b80655a4b018041f
 TVB J2,http://ff05.vipub1818.com/live/392/df893d5db456247da33bdcdb20295e4e/index.m3u8
 TVB明珠,http://ff05.vipub1818.com/live/391/008944fa6b61178da4dc5e531277a2c4/index.m3u8
 有線18台,http://ff05.vipub1818.com/live/44/8a9848fd09a6b1f1155e36e93c4e850d/index.m3u8
+天映經典,http://ff05.vipub1818.com/live/328/beced2379e3162f317a84ebe16bfb4a3/index.m3u8
+香港美亞電影台 HD,http://ff05.vipub1818.com/live/375/f986bce5616dac7e4b8c09011c699f1d/index.m3u8
+香港星衛電影台 HD,http://ff05.vipub1818.com/live/496/53b571a84dd5a3af85dca2b697b8e904/index.m3u8
+無綫新聞台,http://1018.jilu8.cn/wxtv.php?id=wxxw
+無綫新聞台,http://1018.jilu8.cn/wxtv.php?id=wxxwsd
+無綫財經資訊台,http://1018.jilu8.cn/wxtv.php?id=wxcj
+無綫財經資訊台,http://1018.jilu8.cn/wxtv.php?id=wxcjsd
 TVB无线财经资讯台(HD),http://96.45.185.192/tv.php?vid=wxcjzx
 TVB无线新闻台(HD),http://96.45.185.192/tv.php?vid=wxxw
 TVB新聞台,http://tv.sason.xyz/proxy/tvb.php?id=xw#http://45.93.217.106/jiuban/hg.php?id=1#http://315600.xyz/dl/tvb.php?id=inewshd#http://tv.tonyt.top/iptv/tvb.php?id=1#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw#http://520574.xyz/dl/tvb.php?id=inewshd
@@ -1258,7 +1265,7 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
-
+峨眉电影频道,http://219.145.171.78/scgctvshow.sctv.com/hdlive/emei/1.m3u8
 峨眉电影频道,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 峨嵋电影FHD,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-businessmbble/live/scem/index.m3u8
 黑莓电影,http://112.17.40.140/PLTV/88888888/224/3221226755/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8
