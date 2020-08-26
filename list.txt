@@ -1,37 +1,3 @@
-港台秒换,#genre#
-J2,https://ez.wangweizhushou.com/lxtv.php?lxtv243&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEdHZiajI_
-明珠台,https://ez.wangweizhushou.com/lxtv.php?lxtv243&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEdHZibXo_
-翡翠台,https://ez.wangweizhushou.com/lxtv.php?lxtv243&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEdHZiZmM_
-无线新闻,https://ez.wangweizhushou.com/lxtv.php?lxtv243&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRHR2Ym5ld3M_
-now直播,https://ez.wangweizhushou.com/lxtv.php?lxtv243&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEbm93MzMx
-now新闻,https://ez.wangweizhushou.com/lxtv.php?lxtv243&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEbm93MzMy
-有线财经,https://ez.wangweizhushou.com/lxtv.php?lxtv243&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEY2FmaW5hbmNl
-有线娱乐,https://ez.wangweizhushou.com/lxtv.php?lxtv243&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEY2FlbnQ_
-有线新闻,https://ez.wangweizhushou.com/lxtv.php?lxtv243&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEY2FuZXdz
-c+,https://ez.wangweizhushou.com/lxtv.php?lxtv243&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEY3BsdXM_
-18,https://ez.wangweizhushou.com/lxtv.php?lxtv243&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEY2ExOA__
-32,https://ez.wangweizhushou.com/lxtv.php?lxtv243&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEcnRoazMy
-31,https://ez.wangweizhushou.com/lxtv.php?lxtv243&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEcnRoazMx
-鳳凰資訊,https://ez.wangweizhushou.com/lxtv.php?lxtv243&play&vkeys=dmlkJTNEZm1pY3VzdCUyM2lkJTNEZmh6eA__
-亞視ATV,https://ez.wangweizhushou.com/lxtv.php?lxtv243&play&vkeys=dmlkJTNEZm1pY3VzdCUyM2lkJTNEYXR2
-公视,https://ez.wangweizhushou.com/lxtv.php?lxtv243&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEdHdncw__
-中视新闻,https://ez.wangweizhushou.com/lxtv.php?lxtv243&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEenN4dw__
-中视,https://ez.wangweizhushou.com/lxtv.php?lxtv243&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEdHd6cw__
-台视新闻,https://ez.wangweizhushou.com/lxtv.php?lxtv243&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEdHN4dw__
-台视,https://ez.wangweizhushou.com/lxtv.php?lxtv243&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEdHd0cw__
-民视新闻台,https://ez.wangweizhushou.com/lxtv.php?lxtv243&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEbXN4dw__
-民视第一,https://ez.wangweizhushou.com/lxtv.php?lxtv243&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEbXNkeQ__
-民事台湾,https://ez.wangweizhushou.com/lxtv.php?lxtv243&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEbXN0dw__
-民视,https://ez.wangweizhushou.com/lxtv.php?lxtv243&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEdHdtcw__
-一新闻,https://ez.wangweizhushou.com/lxtv.php?lxtv243&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEdHd5eHc_
-tvbs新闻,https://ez.wangweizhushou.com/lxtv.php?lxtv243&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEdHZic3h3
-环宇新闻,https://ez.wangweizhushou.com/lxtv.php?lxtv243&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEaHl4dw__
-环宇新闻2,https://ez.wangweizhushou.com/lxtv.php?lxtv243&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEaHl0dw__
-东森财经新闻,https://ez.wangweizhushou.com/lxtv.php?lxtv243&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEZHNmaW5hbmNl
-东森新闻,https://ez.wangweizhushou.com/lxtv.php?lxtv243&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEZHN4dw__
-中天新闻,https://ez.wangweizhushou.com/lxtv.php?lxtv243&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEenR4dw__
-三立live,https://ez.wangweizhushou.com/lxtv.php?lxtv243&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEc2x4dw__
-华视新闻,https://ez.wangweizhushou.com/lxtv.php?lxtv243&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEaHN4dw__
 最爱歌曲,#genre#
 哭砂,https://rescdn.yishihui.com/longvideo/transcode/video/live/201903265623330b7Y5a9jnTT1ZgnKF62.m3u8
 祝福,https://rescdn.yishihui.com/longvideo/transcode/video/live/201905145623330aCm0SD3BtrQpdu4aE0.m3u8
@@ -405,42 +371,6 @@ DOX4K,http://qz.yuniptv.cn:9090/itv/utv/?id=dox4k_16000
 自办4K,http://qz.yuniptv.cn:9090/itv/utv/?id=ziban4k_16000
 极K纪录,http://qz.yuniptv.cn:9090/itv/utv/?id=jikjilu_16000
 极K测试,http://qz.yuniptv.cn:9090/itv/utv/?id=jikceshi_30000
-
-H265编码,#genre#
-CCTV1 HEVC,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/migu/kailu/cctv1hd265/57/20191230/index.m3u8?&encrypt=1
-CCTV2 HEVC,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/migu/kailu/cctv2hd265/55/20200407/index.m3u8?&encrypt=1#http://223.110.245.142/ott.js.chinamobile.com/PLTV/3/224/3221227708/index.m3u8
-CCTV3 HEVC,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227650/index.m3u8
-CCTV4 HEVC,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/migu/kailu/cctv4hd265/57/20191230/index.m3u8?&encrypt=1#http://223.110.245.142/ott.js.chinamobile.com/PLTV/3/224/3221227658/index.m3u8
-CCTV5 HEVC,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/migu/kailu/cctv5hd265/57/20191230/index.m3u8?&encrypt=1#http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227661/index.m3u8#http://ott.js.chinamobile.com/PLTV/3/224/3221227686/index.m3u8
-CCTV5+ HEVC,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227714/index.m3u8
-CCTV6 HEVC,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/migu/kailu/cctv6hd265/55/20200407/index.m3u8?&encrypt=1#http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227664/index.m3u8
-CCTV8 HEVC,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/migu/kailu/cctv8hd265/55/20200407/index.m3u8?&encrypt=1#http://223.110.243.144/ott.js.chinamobile.com/PLTV/3/224/3221227667/index.m3u8
-CCTV9 HEVC,http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227659/index.m3u8
-CCTV10 HEVC,http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227717/index.m3u8
-CCTV11 HEVC,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/migu/kailu/cctv11hd265/55/20200407/index.m3u8?&encrypt=1#http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8
-CCTV12 HEVC,http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227655/index.m3u8
-CCTV14 HEVC,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/migu/kailu/cctv14hd265/55/20200407/index.m3u8?&encrypt=1#http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227656/index.m3u8
-CCTV15 HEVC,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
-CCTV17 HEVC,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
-湖南卫视 HEVC,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/migu/kailu/hunanhd265/57/20191230/index.m3u8?&encrypt=1
-东南卫视 HEVC,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227670/index.m3u8
-东方卫视HEVC,http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227732/index.m3u8
-北京卫视 HEVC,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227652/index.m3u8
-天津卫视 HEVC,http://223.110.245.166/ott.js.chinamobile.com/PLTV/3/224/3221227741/index.m3u8
-安徽卫视 HEVC,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227653/index.m3u8
-山东卫视 HEVC,http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227671/index.m3u8
-广东卫视 HEVC,http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227673/index.m3u
-江苏卫视 HEVC,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227668/index.m3u8
-江西卫视 HEVC,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227738/index.m3u8
-浙江卫视 HEVC,http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227744/index.m3u8
-深圳卫视 HEVC,http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227677/index.m3u8
-湖北卫视 HEVC,http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227665/index.m3u8
-湖南卫视 HEVC,http://223.110.245.152/ott.js.chinamobile.com/PLTV/3/224/3221227735/index.m3u8
-辽宁卫视 HEVC,http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227676/index.m3u8
-重庆卫视 HEVC,http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227729/index.m3u8
-黑龙江卫视 HEVC,http://223.110.243.142/ott.js.chinamobile.com/PLTV/3/224/3221227662/index.m3u8
-上海纪实人文 HEVC,http://223.110.245.156/ott.js.chinamobile.com/PLTV/3/224/3221227674/index.m3u8
-北京冬奥纪实 HEVC,http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227711/index.m3u8
 
 福建移动,#genre#
 纯享4K 20M2160,http://39.135.225.5:18890/PLTV/88888888/224/3221226825/index.m3u8
@@ -1231,16 +1161,8 @@ NewTV明星大片 2.5M1080,http://39.134.66.66/PLTV/88888888/224/3221225550/inde
 咪咕视频 8M1080,http://39.134.66.66/PLTV/88888888/224/3221225768/index.m3u8
 咪咕视频 8M1080,http://39.134.66.66/PLTV/88888888/224/3221225770/index.m3u8
 咪咕视频 8M1080,http://39.134.66.66/PLTV/88888888/224/3221225774/index.m3u8
+
 港台新闻,#genre#
-TVB翡翠,http://ff05.vipub1818.com/live/390/ff716247068189f5a8f5515789e8ab85/index.m3u8
-Now新聞,http://ff05.vipub1818.com/live/396/3271973376d9a01c762abc5c10063842/index.m3u8
-now直播台,http://ff05.vipub1818.com/live/400/dd6a1afa94dcc9f7b80655a4b018041f/index.m3u8
-TVB J2,http://ff05.vipub1818.com/live/392/df893d5db456247da33bdcdb20295e4e/index.m3u8
-TVB明珠,http://ff05.vipub1818.com/live/391/008944fa6b61178da4dc5e531277a2c4/index.m3u8
-有線18台,http://ff05.vipub1818.com/live/44/8a9848fd09a6b1f1155e36e93c4e850d/index.m3u8
-天映經典,http://ff05.vipub1818.com/live/328/beced2379e3162f317a84ebe16bfb4a3/index.m3u8
-香港美亞電影台 HD,http://ff05.vipub1818.com/live/375/f986bce5616dac7e4b8c09011c699f1d/index.m3u8
-香港星衛電影台 HD,http://ff05.vipub1818.com/live/496/53b571a84dd5a3af85dca2b697b8e904/index.m3u8
 無綫新聞台,http://1018.jilu8.cn/wxtv.php?id=wxxw
 無綫新聞台,http://1018.jilu8.cn/wxtv.php?id=wxxwsd
 無綫財經資訊台,http://1018.jilu8.cn/wxtv.php?id=wxcj
