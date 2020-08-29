@@ -4,7 +4,7 @@
 2020年,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200128/6799382qfg4DLos2ts6O0dudy.m3u8
 喜爱频道,#genre#
 书画频道（高清）,http://tkbunj246.nian.gfzyw.cn/woniu.php?id=10000077#http://117.59.8.3/PLTV/88888888/224/3221227574/index.m3u8?icpid=88888888&from=4&hms_devid=2764#http://117.59.8.1/PLTV/88888888/224/3221227574/index.m3u8?icpid=88888888&from=4&hms_devid=2704#http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000081.m3u8
-书画频道,http://springrain.top/shuliyun.php?id=034#http://125.210.152.21:9120/live/SH.m3u8#ttp://httpdvb.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000180#http://106.54.30.243/gz009/gz.php?id=sh#http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=sh#http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&playtoken=31667LZMVCGFXDL10&verifycode=2000000576&rate=org&programid=4200000101.m3u8&ts=50&auth=no#http://ott.cqccn.com/PLTV/88888888/224/3221227574/index.m3u8
+书画频道,http://112.73.66.58:9999/hls-live/livepkgr/_definst_/shtv/shtv.m3u8#http://springrain.top/shuliyun.php?id=034#http://125.210.152.21:9120/live/SH.m3u8#http://httpdvb.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000180#http://106.54.30.243/gz009/gz.php?id=sh#http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=sh#http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&playtoken=31667LZMVCGFXDL10&verifycode=2000000576&rate=org&programid=4200000101.m3u8&ts=50&auth=no#http://ott.cqccn.com/PLTV/88888888/224/3221227574/index.m3u8
 体育频道
 CCTV 5,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226256/1.m3u8
 CCTV 5,http://223.110.241.149:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/1.m3u8
@@ -72,7 +72,7 @@ BestTV体育7,http://117.148.187.37/PLTV/88888888/224/3221226582/index.m3u8
 广东体育,http://gslb.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8?k=0e9c779668ea63007948538f0f57f3ca&t=5EFDE4BB&UID=29AAB394
 五星体育,http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=004003FF0017301364008422F151297C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5000000010000017540&owchid=bestzb&owsid=4493204831455228383&AuthInfo=N%2biD7%2bHgi9LcszGFRGa51uAqiHNpkS5d0%2fEIXqMyy8J6GNpZ%2bE47AWi696WsOzmj7u8gynrDaeemmd3KgHvW7jm8s%2fkPykV1GmMdpMkc7doBK82U9CVAXx34x1%2fYjl4A
 CCTV高尔夫·网球HD,http://39.135.19.162:18890/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls#http://ott.cqccn.com/PLTV/88888888/224/3221227535/index.m3u8
-CCTV台球HD,http://ott.cqccn.com/PLTV/88888888/224/3221227646/index.m3u8#http://27.36.62.163:9090/live/DOXyinglunHD_7000.m3u8?ci=123&srchost=172.16.149.181:8060#http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/ws_v/2018/ystq/ystq711/1000/index.m3u8?&encrypt=1
+CCTV台球HD,http://ott.cqccn.com/PLTV/88888888/224/3221227646/index.m3u8#http://player.ioioz.com/1786/0/migum3u8.php?id=603842910
 咪咕台球,http://221.179.217.70/PLTV/88888888/224/3221226394/www-dszbdq-cn-3.m3u8
 中华美食,http://tkbunj246.nian.gfzyw.cn/woniu.php?id=10000079#http://106.54.30.243/gz009/gz.php?id=zhms
 CCTV-风云音乐,,http://39.135.19.162:18890/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls
@@ -81,6 +81,7 @@ CCTV-15,http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.li
 儋州新闻,http://36009.hlsplay.aodianyun.com/tv_radio_36009/tv_channel_1330.m3u8
 凤凰卫视HD,http://117.169.120.98:8080/ysten-businessmobile/live/fhchinese/1.m3u8
 凤凰资讯HD,http://117.169.120.98:8080/ysten-businessmobile/live/fhzixun/1.m3u8
+
 朱昌耀二胡曲,#genre#
 春江花月夜,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200628/5623330Y1mHgtfusz1alIZ98H.m3u8
 二胡之夜上半场,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200623/15455718gz2E76s8LhmuOHis16.m3u8
