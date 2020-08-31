@@ -1220,7 +1220,8 @@ ViuTV6,http://61.238.6.49:8000/bysid/96
 無綫財經資訊台,http://61.238.6.49:8001/bysid/85
 J2台,http://61.238.6.49:8001/bysid/82
 
-
+东森新闻,http://danielwu.gz01.bdysite.com/iptv/?id=dsxw
+中天新闻,http://danielwu.gz01.bdysite.com/iptv/?id=ztxw
 台視HD,http://p06.iptv2asia.com:18888/http/001
 台視綜合,http://p06.iptv2asia.com:18888/http/002
 台視財經,http://p06.iptv2asia.com:18888/http/003
