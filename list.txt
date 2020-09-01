@@ -1166,7 +1166,6 @@ TVB无线新闻台(HD),http://96.45.185.192/tv.php?vid=wxxw
 無綫財經資訊台,http://1018.jilu8.cn/wxtv.php?id=wxcjsd
 无线财经,http://52itv.freevar.com/tvb.php?id=2
 无线新闻,http://tv.sason.xyz/proxy/tvb.php?id=xw
-无线新闻,http://45.93.217.106/jiuban/hg.php?id=1
 无线新闻,http://315600.xyz/dl/tvb.php?id=inewshd
 无线新闻,http://tv.tonyt.top/iptv/tvb.php?id=1
 无线新闻,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
@@ -1199,6 +1198,13 @@ C+频道,http://liveima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
 无线财经,http://52itv.freevar.com/tvb.php?id=2
 无线新闻,http://bg7cattt.xyz/tvb.php?id=1
 无线新闻,http://zscity.f3322.net:8000/bysid/83
+无线新闻,http://45.93.217.106/jiuban/hg.php?id=1
+无线财经,http://45.93.217.106/jiuban/hg.php?id=2
+无线直播台,http://45.93.217.106/jiuban/hg.php?id=3
+美亚电影,http://ff13.apps8888.com/live/375/01c5f7bbc41c9faf7304d27c02a8a6b2/index.m3u8
+天映经典,http://ff13.apps8888.com/live/328/f0486286e07f43de27c5652620d900d8/index.m3u8
+j2,http://ff13.apps8888.com/live/392/5d75d5f8fcef0ac297c82e567739ccb3/index.m3u8
+东森综合,http://ff13.apps8888.com/live/372/dafe9fb28ee002d0d3234b59c492d3e2/index.m3u8
 
 翡翠台,http://61.238.6.49:8000/bysid/1
 无线新闻,http://61.238.6.49:8001/bysid/83
@@ -1309,8 +1315,11 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+四川峨眉电影,http://39.134.198.48:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-businessmbble/live/scem/index.m3u8
 峨眉电影频道,http://219.145.171.78/scgctvshow.sctv.com/hdlive/emei/1.m3u8
 峨眉电影频道,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+广东综艺 1080,http://tv.tonyt.top/iptv/gdtv.php?id=16
+上海东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8#http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226189/index.m3u8
 湖南电影频道,http://tkbunj246.nian.gfzyw.cn/woniu.php?id=10000044
 黑莓电影,http://112.17.40.140/PLTV/88888888/224/3221226755/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8
 Now爆谷台,https://myun-hw-s3.myun.tv/melj80jz/0ezv7bya/1585467130841903485.m3u8
