@@ -172,51 +172,6 @@ BTV冬奥纪实,http://117.169.124.14:6610/ysten-businessmobile/live/HD-8000k-10
 海峡卫视,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=024&Provider_id=&Pcontent_id=index.m3u8
 北京纪实,http://111.40.205.87/PLTV/88888888/224/3221225729/index.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225756/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226730/index.m3u8
 央视频,#genre#
-CCTV-1综合,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
-CCTV-2财经,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
-CCTV-3综艺,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
-CCTV-4中文国际,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204803.m3u8
-CCTV-5体育,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
-CCTV-体育赛事,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204503.m3u8
-CCTV-6电影,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000203303.m3u8
-CCTV-7国防军事,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000510003.m3u8
-CCTV-8电视剧,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000203903.m3u8
-CCTV-9纪录,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000499403.m3u8
-CCTV-10科教,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000203503.m3u8
-CCTV-11戏曲,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204103.m3u8
-CCTV-13新闻,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
-CCTV-12社会与法,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000202603.m3u8
-CCTV-14少儿,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204403.m3u8
-CCTV-15音乐,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000205003.m3u8
-CCTV-17农业,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204203.m3u8
-CCTV4K,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
-CGTN,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2001656803.m3u8
-湖南卫视,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000296203.m3u8
-浙江卫视,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000295503.m3u8
-江苏卫视,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000295603.m3u8
-东方卫视,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000292403.m3u8
-山东卫视,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000294803.m3u8
-北京卫视,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000272103.m3u8
-辽宁卫视,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000281303.m3u8
-黑龙江卫视,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000293903.m3u8
-广东卫视,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000292703.m3u8
-安徽卫视,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000298003.m3u8
-深圳卫视,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000292203.m3u8
-天津卫视,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000295103.m3u8
-重庆卫视,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000297803.m3u8
-东南卫视,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000292503.m3u8
-广西卫视,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
-河北卫视,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000293403.m3u8
-河南卫视,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000296103.m3u8
-湖北卫视,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000294503.m3u8
-江西卫视,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000294103.m3u8
-吉林卫视,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000284703.m3u8
-陕西卫视,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000294403.m3u8
-甘肃卫视,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000294603.m3u8
-四川卫视,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000295003.m3u8
-贵州卫视,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000293303.m3u8
-海南卫视,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000291503.m3u8
-青海卫视,http://121.51.14.122/tlivecloud-cdn.ysp.cctv.cn/ysp/2000294703.m3u8
 CCTV-1综合,http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 CCTV-2财经,http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
 CCTV-3综艺,http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
@@ -1344,6 +1299,43 @@ G+TV热门综艺 8M1080,http://39.135.19.169:18890/PLTV/88888888/224/3221226004/
 G+TV科普中国 8M1080,http://39.135.19.169:18890/PLTV/88888888/224/3221226036//index.m3u8?fmt=ts2hls
 G+TV海外佳片 8M1080,http://39.135.19.169:18890/PLTV/88888888/224/3221225786//index.m3u8?fmt=ts2hls
 G+TV华语影院 8M1080,http://39.135.19.169:18890/PLTV/88888888/224/3221225787//index.m3u8?fmt=ts2hls
+
+翻墙专区,#genre#
+開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+開電視,http://livetv.dnsfor.me/channel.9.m3u8
+Now直播331台,http://livetv.dnsfor.me/channel.3.m3u8
+Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
+Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
+ViuTV,http://livetv.dnsfor.me/channel.20.m3u8
+ViuTV,http://livetv.dnsfor.me:80/channel.20.m3u8
+RTHK31,http://livetv.dnsfor.me/channel.1.m3u8
+RTHK32,http://livetv.dnsfor.me/channel.2.m3u8
+無綫新聞台,http://livetv.dnsfor.me/channel.10.m3u8
+翡翠台,http://livetv.dnsfor.me/channel.18.m3u8
+J2,http://livetv.dnsfor.me/channel.19.m3u8
+壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+三立Live新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
+三立iNews新闻,http://seb.sason.top/sc/slinews_fhd.m3u8
+中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
+東森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8
+华視新闻,http://seb.sason.top/sc/hsxw_fhd.m3u8
+中視新闻,,http://seb.sason.top/sc/zsxw_fhd.m3u8
+台視新闻,http://seb.sason.top/sc/tsxw_fhd.m3u8
+民視,http://seb.sason.top/ptv/ftv.php?id=ms
+民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
+民視旅游台,http://seb.sason.top/ptv/ftv.php?id=ly
+民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
+民視新聞台,http://seb.sason.top/sc/msxw_fhd.m3u8
+民視新聞台,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+民視新聞台,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+民視綜藝台,http://seb.sason.top/ptv/ftv.php?id=zy
+民視影劇台,http://seb.sason.top/ptv/ftv.php?id=yj
+東森財經新聞台,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+華視新聞資訊 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8
+華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
+beIN Sports 1 Asia,https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+beIN Sports 2 Asia,https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 
 中国老电影,#genre#
 地雷战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458e40508615d711b8aae1af/850.m3u8
