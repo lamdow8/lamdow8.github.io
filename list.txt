@@ -1106,8 +1106,8 @@ C+频道,http://liveima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
 星空衛視,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233
 亞旅衛視,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-无线新闻,http://52itv.freevar.com/tvb.php?id=1 
-无线财经,http://52itv.freevar.com/tvb.php?id=2
+无线新闻台,http://itv.5ay.xyz/hk.php?id=1
+无线财经台,http://itv.5ay.xyz/hk.php?id=2
 无线新闻,http://bg7cattt.xyz/tvb.php?id=1
 无线新闻,http://zscity.f3322.net:8000/bysid/83
 无线新闻,http://45.93.217.106/jiuban/hg.php?id=1
