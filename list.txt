@@ -222,7 +222,7 @@ CGTN,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 凤凰中文,http://sam629205.f3322.net:2018/udp/239.93.1.9:2192
 凤凰资讯,http://sam629205.f3322.net:2018/udp/239.93.1.4:2191
 凤凰香港,http://qz.yuniptv.cn:9090/itv/pygdzhcs/?tid=hls&id=4200000156
-爱上4K,http://sam629205.f3322.net:2018/udp/239.93.1.113:5140
+
 峨嵋电影HD,http://sam629205.f3322.net:2018/udp/239.93.1.018:5140
 熊猫影院高清,http://sam629205.f3322.net:2018/udp/239.93.0.214:5140
 熊猫新闻高清,http://sam629205.f3322.net:2018/udp/239.93.1.112:5140
