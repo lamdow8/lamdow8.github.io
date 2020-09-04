@@ -45,7 +45,7 @@ CCTV-2财经,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/32
 CCTV-3综艺,http://39.135.19.169:18890/PLTV/88888888/224/3221226008//index.m3u8?fmt=ts2hls#http://223.110.243.170//PLTV/3/224/3221225588/index.m3u8#http://112.17.40.8:80/PLTV/88888888/224/3221226485/index.m3u8
 CCTV-4国际,http://39.135.19.169:18890/PLTV/88888888/224/3221225744//index.m3u8?fmt=ts2hls#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
 CCTV-5体育,http://39.135.19.169:18890/PLTV/88888888/224/3221226024//index.m3u8?fmt=ts2hls#http://223.110.243.172/PLTV/3/224/3221227166/index.m3u8#http://112.17.40.6:80/PLTV/88888888/224/3221226400/index.m3u8
-CCTV5加,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
+CCTV-体育赛事,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
 CCTV-6电影,http://39.135.19.169:18890/PLTV/88888888/224/3221226011//index.m3u8?fmt=ts2hls#http://112.17.40.48:80/PLTV/88888888/224/3221226433/1.m3u8#http://112.17.40.7:80/PLTV/88888888/224/3221226487/1.m3u8
 CCTV-7国防军事,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
 CCTV-8电视剧,http://39.135.19.169:18890/PLTV/88888888/224/3221226005//index.m3u8?fmt=ts2hls#http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8
@@ -1211,7 +1211,14 @@ MTV,http://106.54.30.243/gz009/gz.php?id=mtv
 MTV 音乐频道,https://116.77.72.195/streams/d/mtv/playlist.m3u8#http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 M2O音乐台,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 岭南戏曲,http://szlive.grtn.cn/lnxq/sd/live.m3u8
-
+緯來體育HD,rtmp://161.202.204.248:1935/sat/tv721 
+ FOX體育1,rtmp://161.202.204.248:1935/sat/tv731 
+ FOX體育2,rtmp://161.202.204.248:1935/sat/tv741
+爱尔达体育2台,rtmp://161.202.204.248:1935/sat/md011 
+爱尔达体育1台,rtmp://161.202.204.248:1935/sat/md021 
+ FOX體育1,rtmp://161.202.204.248:1935/sat/md031 
+ ELEVEN体育2台,rtmp://161.202.204.248:1935/sat/md041 
+ELEVEN体育1台,rtmp://161.202.204.248:1935/sat/md051 
 4K影视频道,#genre#
 CCTV4K UHD,http://111.161.121.214/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8#http://112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8#http://39.134.185.69/PLTV/88888888/224/3221226758/1.m3u8
 纯享4K UHD,http://jxgz.jilu8.cn/PLTV/88888888/224/3221225786/2/index.m3u8?fmt=ts2hls#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/1.m3u8
