@@ -329,11 +329,24 @@ http://116.20.80.49:9981/stream/channelid/1265114946?ticket=27AB360E01B17718AC7F
 #EXTINF:-1 tvg-logo="https://ae01.alicdn.com/kf/H684e28cefa9c4869ac8bf5401937551eM.png" tvg-id="9919" tvg-name="广东体育" group-title="体育频道",广东体育(SD)
 http://live5.ocnttv.com:8080/ZZ_guangdongtiyu/ZZ_guangdongtiyu.m3u8
 #EXTINF:-1 tvg-id="6093" tvg-name="ELEVEN体育一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="体育频道",ELEVEN体育1台
-rtmp://175.6.228.3:1935/live/511#mitv://fccseuro.pvbox.live:18912/5b13f6f00009f89b6e1fdd46c11b125c
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" tvg-id="6090" tvg-name="纬来体育台" group-title="体育频道",纬来体育台
-http://pull.scphsd.com/live/fefc5b4090b978cbb911f98ba68b6fe4/playlist.m3u8
-#EXTINF:-1 tvg-id="7212" tvg-name="爱尔达体育1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png" group-title="体育频道",爱尔达体育1
-http://pull.scphsd.com/live/4e2d4b408b3ff50476906b46b1b85746.flv
+rtmp://175.6.228.3:1935/live/511
+#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="体育频道",纬来体育HD
+rtmp://161.202.204.248:1935/sat/tv721
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育频道",FOX体育1
+rtmp://161.202.204.248:1935/sat/tv731
+#EXTINF:-1 tvg-id="6092" tvg-name="FOXSports2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports2.png" group-title="体育频道",FOX体育2
+rtmp://161.202.204.248:1935/sat/tv741
+#EXTINF:-1 tvg-id="7192" tvg-name="爱尔达体育2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_sports2.png" group-title="体育频道",爱尔达体育2台
+rtmp://161.202.204.248:1935/sat/md011
+#EXTINF:-1 tvg-id="7212" tvg-name="爱尔达体育1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png" group-title="体育频道",爱尔达体育1台
+rtmp://161.202.204.248:1935/sat/md021
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育频道",FOX体育1
+rtmp://161.202.204.248:1935/sat/md031
+#EXTINF:-1 tvg-id="7149" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="体育频道",ELEVEN体育2台
+rtmp://161.202.204.248:1935/sat/md041
+#EXTINF:-1 tvg-id="6093" tvg-name="ELEVEN体育一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="体育频道",ELEVEN体育1台
+rtmp://161.202.204.248:1935/sat/md051
+
 #DOX专区
 #EXTINF:-1 tvg-id="1971" tvg-name="DOX剧场" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxjc.png" group-title="DOX专区",Dox剧场
 http://39.135.19.169:18890/PLTV/88888888/224/3221226013//index.m3u8?fmt=ts2hls
