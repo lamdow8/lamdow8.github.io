@@ -1069,6 +1069,136 @@ NewTV明星大片 2.5M1080,http://39.134.66.66/PLTV/88888888/224/3221225550/inde
 咪咕视频 8M1080,http://39.134.66.66/PLTV/88888888/224/3221225770/index.m3u8
 咪咕视频 8M1080,http://39.134.66.66/PLTV/88888888/224/3221225774/index.m3u8
 
+北京移动,#genre#
+咪咕4K 31M2160HDR,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226399/1.m3u8
+咪咕4K 31M2160HDR,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226400/1.m3u8
+VR测试 41M2160,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226401/1.m3u8
+凤凰中文 10M720,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
+凤凰中文 10M720,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
+凤凰资讯 10M720,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+CCTV1 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225924/1.m3u8
+CCTV1 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226154/1.m3u8
+CCTV1 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226155/1.m3u8
+CCTV1 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
+CCTV1 8M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226346/1.m3u8
+CCTV2 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
+CCTV2 8M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226371/1.m3u8
+CCTV4 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
+CCTV4 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8
+CCTV5+ 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
+CCTV5+ 8M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226349/1.m3u8
+CCTV7 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
+CCTV9 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
+CCTV10 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
+CCTV11 3.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
+CCTV11 3.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8
+CCTV11 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
+CCTV12 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
+CCTV14 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
+CCTV15 3.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226317/1.m3u8
+CCTV15 3.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
+CCTV17 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+CCTV17 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+东方卫视 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
+东方卫视 8M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8
+北京卫视 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
+北京卫视 8M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8
+天津卫视 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
+安徽卫视 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226223/1.m3u8
+山东卫视 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225894/1.m3u8
+山东卫视 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226244/1.m3u8
+山东卫视 8M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226308/1.m3u8
+广东卫视 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225878/1.m3u8
+广东卫视 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226238/1.m3u8
+江苏卫视 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
+江苏卫视 8M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226366/1.m3u8
+江西卫视 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8
+浙江卫视 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8
+浙江卫视 8M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226365/1.m3u8
+深圳卫视 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225897/1.m3u8
+深圳卫视 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8
+湖北卫视 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8
+湖北卫视 8M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8
+湖南卫视 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8
+黑龙江卫视 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
+黑莓动画 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8
+黑莓动画 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226289/1.m3u8
+黑莓电影 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
+黑莓电影 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226292/1.m3u8
+黑莓电竞 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225931/1.m3u8
+黑莓电竞 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226250/1.m3u8
+黑莓电竞 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226262/1.m3u8
+黑莓电竞 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226307/1.m3u8
+NewTV中国功夫 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225951/1.m3u8
+NewTV中国功夫 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8
+NewTV中国功夫 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226321/1.m3u8
+NewTV农业致富 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225930/1.m3u8
+NewTV农业致富 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
+NewTV惊悚悬疑 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225921/1.m3u8
+NewTV惊悚悬疑 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226294/1.m3u8
+NewTV武搏世界 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226171/1.m3u8
+NewTV武搏世界 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226297/1.m3u8
+NewTV武搏世界 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226320/1.m3u8
+NewTV潮妈辣婆 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225957/1.m3u8
+NewTV潮妈辣婆 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226286/1.m3u8
+NewTV炫舞未来 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226248/1.m3u8
+NewTV爱情喜剧 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225913/1.m3u8
+NewTV爱情喜剧 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226299/1.m3u8
+NewTV爱情喜剧 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8
+NewTV爱情喜剧 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8
+NewTV精品体育 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226287/1.m3u8
+NewTV精品体育 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8
+NewTV精品体育 2M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225922/1.m3u8
+NewTV精品大剧 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225925/1.m3u8
+NewTV精品大剧 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226291/1.m3u8
+NewTV精品大剧 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
+NewTV精品纪录 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226293/1.m3u8
+NewTV精品纪录 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226332/1.m3u8
+NewTV超级体育 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226157/1.m3u8
+NewTV超级体育 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226158/1.m3u8
+NewTV超级体育 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
+NewTV超级体育 8M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226348/1.m3u8
+NewTV超级电影 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226133/1.m3u8
+NewTV超级电影 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+NewTV超级电影 8M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226369/1.m3u8
+NewTV超级电视剧 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
+NewTV超级电视剧 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226253/1.m3u8
+NewTV超级电视剧 8M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226368/1.m3u8
+NewTV超级综艺 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226127/1.m3u8
+NewTV超级综艺 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
+NewTV超级综艺 8M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8
+NewTV金牌综艺 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225920/1.m3u8
+NewTV金牌综艺 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226296/1.m3u8
+NewTV金牌综艺 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226347/1.m3u8
+NewTV海外剧场 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225917/1.m3u8
+NewTV海外剧场 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226325/1.m3u8
+NewTV海外剧场 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226302/1.m3u8
+NewTV明星大片 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225929/1.m3u8
+NewTV明星大片 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226295/1.m3u8
+咪咕视频 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226374/1.m3u8
+咪咕视频 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226375/1.m3u8
+咪咕视频 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226377/1.m3u8
+咪咕视频 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226378/1.m3u8
+咪咕视频 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226379/1.m3u8
+咪咕视频 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226380/1.m3u8
+咪咕视频 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226381/1.m3u8
+咪咕视频 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226382/1.m3u8
+咪咕视频 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226394/1.m3u8
+咪咕视频 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
+咪咕视频 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226396/1.m3u8
+咪咕视频 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
+咪咕视频 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226398/1.m3u8
+咪咕视频 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
+咪咕视频 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226392/1.m3u8
+咪咕视频 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
+咪咕视频 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226390/1.m3u8
+咪咕视频 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226372/1.m3u8
+咪咕视频 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226373/1.m3u8
+咪咕视频 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226376/1.m3u8
+咪咕视频 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226383/1.m3u8
+咪咕视频 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226384/1.m3u8
+
+
 港台新闻,#genre#
 有線新聞台,http://liveicm12.utvlive.top/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94.m3u8
 有線財經資訊台,http://liveicm12.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4.m3u8
@@ -1095,6 +1225,8 @@ TVB无线新闻台(HD),http://96.45.185.192/tv.php?vid=wxxw
 无线新闻,http://danielwu.gz01.bdysite.com/iptv/?id=wxxw2
 ViuTV,https://cdn.hkdtmb.com/99a/playlist.m3u8
 翡翠台,https://cdn.hkdtmb.com/81a/playlist.m3u8
+J2,https://cdn.hkdtmb.com/82a/playlist.m3u8
+開電視,https://cdn.hkdtmb.com/77a/playlist.m3u8
 翡翠台,http://danielwu.gz01.bdysite.com/iptv/?id=tvb#http://520574.xyz/dl/iptv.php?id=1
 明珠台,http://danielwu.gz01.bdysite.com/iptv/?id=pearl
 
