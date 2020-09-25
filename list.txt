@@ -1633,6 +1633,18 @@ G+TV华语影院,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/322122578
 翻墙专区,#genre#
 開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 開電視,http://livetv.dnsfor.me/channel.9.m3u8
+有線新聞台 HD,http://livetv.dnsfor.me:80/channel.5.m3u8
+有線財經資訊台 HD,http://livetv.dnsfor.me:80/channel.6.m3u8
+有線綜合娛樂台 HD,http://livetv.dnsfor.me:80/channel.7.m3u8
+now新聞,http://ws.matchupstream.tuboshu.com/live/6264ed5164c62e24ce3e0f966e5960e7.flv
+翡翠台,http://198.98.55.16/crtv.php?id=429
+翡翠台b,http://198.98.55.16/crtv.php?id=1084
+翡翠台,P2p://107.148.223.220:19916/5f6a3601000766143630cfe9a724efe1.ts
+翡翠台,https://ws.matchupstream.tuboshu.com/live/8e13d1d34b667b031f2618aff26e0be0.flv
+翡翠台,https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGFeiCui.m3u8
+J2,http://ws.matchupstream.tuboshu.com/live/f6823f2cd4c17295e7d896ce30b41eac.flv
+J2,P2p://107.148.223.220:19916/5f6a360100091c3e3630d05930155025.ts
+明珠台,https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGMingZhu.m3u8
 Now直播331台,http://livetv.dnsfor.me/channel.3.m3u8
 Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
 Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
@@ -1643,6 +1655,8 @@ RTHK32,http://livetv.dnsfor.me/channel.2.m3u8
 無綫新聞台,http://livetv.dnsfor.me/channel.10.m3u8
 翡翠台,http://livetv.dnsfor.me/channel.18.m3u8
 J2,http://livetv.dnsfor.me/channel.19.m3u8
+衛視卡式台,http://198.98.55.16/crtv.php?id=1085
+天映頻道,http://198.98.55.16/crtv.php?id=441
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 民視新聞,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
