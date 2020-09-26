@@ -1510,6 +1510,15 @@ C+频道,http://liveima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
 无线财经,http://45.93.217.106/jiuban/hg.php?id=2
 无线直播台,http://45.93.217.106/jiuban/hg.php?id=3
 
+ViuTV HD,http://61.238.6.49:8000/bysid/99
+ViuTV,http://hls.globaliptv.ml/viu99.php
+ViuTV 6,http://205.215.28.171:9981/stream/channelid/339528828
+ViuTV 6HD,http://61.238.6.49:8000/bysid/96
+ViuTV 6,http://hls.globaliptv.ml/viu96.php
+翡翠台HD,http://61.238.6.49:8000/bysid/1
+無綫新聞台HD,http://61.238.6.49:8001/bysid/83
+明珠台HD,http://61.238.6.49:8001/bysid/2
+J2HD,http://61.238.6.49:8001/bysid/82
 翡翠台,http://danielwu.gz01.bdysite.com/iptv/?id=tvb#http://520574.xyz/dl/iptv.php?id=1
 明珠台,http://danielwu.gz01.bdysite.com/iptv/?id=pearl
 东森新闻,http://danielwu.gz01.bdysite.com/iptv/?id=dsxw
@@ -1631,6 +1640,7 @@ G+TV海外佳片,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/322122578
 G+TV华语影院,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
 
 翻墙专区,#genre#
+开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 開電視,http://livetv.dnsfor.me/channel.9.m3u8
 有線新聞台 HD,http://livetv.dnsfor.me:80/channel.5.m3u8
@@ -1650,11 +1660,16 @@ Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
 Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
 ViuTV,http://livetv.dnsfor.me/channel.20.m3u8
 ViuTV,http://livetv.dnsfor.me:80/channel.20.m3u8
+RTHK31 ★,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+RTHK32 ★,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 RTHK31,http://livetv.dnsfor.me/channel.1.m3u8
-RTHK32,http://livetv.dnsfor.me/channel.2.m3u8
+RTHK32,http://livetv.dnsfor.me/channel.2.m3u8#https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 無綫新聞台,http://livetv.dnsfor.me/channel.10.m3u8
 翡翠台,http://livetv.dnsfor.me/channel.18.m3u8
 J2,http://livetv.dnsfor.me/channel.19.m3u8
+鳳凰衛視中文台,http://220.158.149.28:8180/TV00000000000000000067@HHZT;LIVE
+鳳凰衛視資訊台,http://220.158.149.28:8180/TV00000000000000000066@HHZT;LIVE
+鳳凰衛視香港台,http://220.158.149.28:8180/TV00000000000000000068@HHZT;LIVE
 衛視卡式台,http://198.98.55.16/crtv.php?id=1085
 天映頻道,http://198.98.55.16/crtv.php?id=441
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
