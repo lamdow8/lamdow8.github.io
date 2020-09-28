@@ -1649,7 +1649,6 @@ J2,http://livetv.dnsfor.me/channel.19.m3u8
 衛視卡式台,http://198.98.55.16/crtv.php?id=1085
 天映頻道,http://198.98.55.16/crtv.php?id=441
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
-TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 民視新聞,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 民視新聞,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 三立Live新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
@@ -1657,7 +1656,8 @@ TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
 東森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8
 华視新闻,http://seb.sason.top/sc/hsxw_fhd.m3u8
-中視新闻,,http://seb.sason.top/sc/zsxw_fhd.m3u8
+TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+中視新闻,http://seb.sason.top/sc/zsxw_fhd.m3u8
 台視新闻,http://seb.sason.top/sc/tsxw_fhd.m3u8
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
 民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
