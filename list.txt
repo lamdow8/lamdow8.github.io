@@ -1679,6 +1679,24 @@ Supersport 3,http://198.98.55.16/crtv.php?id=446
 Supersport 3,http://198.98.55.16/crtv.php?id=1072
 Supersport 4,http://198.98.55.16/crtv.php?id=447
 Supersport 4,http://198.98.55.16/crtv.php?id=1074
+ Netflix 1,http://178.63.48.23:25461/live/netott/nFu0mOB8pm/66.ts
+ Netflix 2,http://178.63.48.23:25461/live/netott/nFu0mOB8pm/69.ts
+ Netflix 3,http://178.63.48.23:25461/live/netott/nFu0mOB8pm/64.ts
+ Netflix 4,http://178.63.48.23:25461/live/netott/nFu0mOB8pm/63.ts
+ Netflix 5,http://178.63.48.23:25461/live/netott/nFu0mOB8pm/68.ts
+ Flix Demo,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+ Warner tv,http://104.250.154.42:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
+ Hollywood HD,http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+ Cinemax US,http://51.161.84.66:8080/US_SD_Cinemax/tracks-v1a1/mono.m3u8
+ BBC America,http://51.161.84.66:8080/US_SD_BBC_America_SD/index.m3u8
+ Epix USA,http://51.79.82.231:8080/US_EPIX_USA/video.m3u8
+ Catch Up Lifetime,http://51.161.84.67/CATCHUP_LIFETIME/video.m3u8
+ FXX East,http://51.79.82.231:8080/US_FXX_EAST_USA/video.m3u8
+ SY FY,http://51.79.82.231:8080/US_SYFY_EAST_USA/video.m3u8
+ AXN,http://136.243.177.164/AXN/playlist.m3u8
+ Family HD,http://178.63.48.23:25461/live/netott/nFu0mOB8pm/67.ts
+ X-Thriller,http://fariszah.myq-see.com:8008/live/demo/demo/21564.ts
+
 中国老电影,#genre#
 地雷战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458e40508615d711b8aae1af/850.m3u8
 地道战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/312e39c68cc441feb79d1c2d7e16cbbd/850.m3u8
