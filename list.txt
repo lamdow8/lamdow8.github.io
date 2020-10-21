@@ -1479,6 +1479,14 @@ MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/mast
 channelv,http://hdtv.haust.edu.cn/hls/channelv.m3u8
 Channel [V],https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 B4U Music,http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
+印度 音乐电视台,http://104.237.60.234/live/gabruutv.m3u8?dsjtv.m3u8
+俄罗斯 RU 音乐频道,http://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
+俄罗斯  时尚频道,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+乌克兰 M2 音乐频道,http://live.m2.tv/hls3/stream.m3u8
+西班牙 中国环球,http://livees.cgtn.com/1000e/prog_index.m3u8
+意大利 V2 音乐频道,http://de1se01.v2beat.live/playlist.m3u8
+美国CMC音乐频道,http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
+美国MTV,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 4K影视频道,#genre#
 CCTV4K UHD,http://111.161.121.214/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8#http://112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8#http://39.134.185.69/PLTV/88888888/224/3221226758/1.m3u8
 纯享4K UHD,http://jxgz.jilu8.cn/PLTV/88888888/224/3221225786/2/index.m3u8?fmt=ts2hls#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/1.m3u8
@@ -1595,6 +1603,16 @@ TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 東森財經新聞台,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 華視新聞資訊 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8
 華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
+凤凰中文 9M1080,http://220.158.149.26:8182/hls/TV00000000000000000067@HHZT.m3u8
+凤凰资讯 9M1080,http://220.158.149.26:8182/hls/TV00000000000000000066@HHZT.m3u8
+凤凰资讯 1M1080,http://220.158.149.26:8182/hls/TV00000000000000000138@HHZT.m3u8
+凤凰香港 8M1080,http://220.158.149.26:8182/hls/TV00000000000000000068@HHZT.m3u8
+VBS歡樂台,http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE
+TVBS歡樂台,http://220.158.149.28:8180/live/TV00000000000000000079@HHZT
+CNEX Taiwan,http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
+博斯魅力,https://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+空中英語教室,http://220.158.149.14:9999/live/TV00000000000000000077@HHZT;LIVE
+緯來體育台,http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
 TVBS歡樂,http://220.158.149.28:8180/live/TV00000000000000000079@HHZT
 HBO Asia,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 緯來體育台,http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
