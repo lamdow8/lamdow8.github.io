@@ -1534,7 +1534,7 @@ G+TV科普中国,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/322122603
 G+TV海外佳片,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225786/1/index.m3u8?fmt=ts2hls
 G+TV华语影院,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
 
-翻墙专区,#genre#
+翻墙专区Ⅰ,#genre#
 RTHK31,http://livetv.dnsfor.me:80/channel.1.m3u8
 RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
 Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
@@ -1552,36 +1552,13 @@ CCTV5HD,http://livetv.dnsfor.me:80/channel.17.m3u8
 翡翠台,http://livetv.dnsfor.me:80/channel.18.m3u8
 J2,http://livetv.dnsfor.me:80/channel.19.m3u8
 VIU TV,http://livetv.dnsfor.me:80/channel.20.m3u8
+鳳凰資訊台,http://livetv.dnsfor.me:80/channel.21.m3u8
+鳳凰中文台,http://livetv.dnsfor.me:80/channel.22.m3u8
 UNIVERSE TV,http://livetv.dnsfor.me:80/channel.23.m3u8
 亚旅卫视,http://livetv.dnsfor.me:80/channel.24.m3u8
-
-开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
-开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-翡翠台,http://198.98.55.16/crtv.php?id=429
-翡翠台b,http://198.98.55.16/crtv.php?id=1084
-翡翠台,https://ws.matchupstream.tuboshu.com/live/8e13d1d34b667b031f2618aff26e0be0.flv
-翡翠台,https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGFeiCui.m3u8
-J2,http://ws.matchupstream.tuboshu.com/live/f6823f2cd4c17295e7d896ce30b41eac.flv
-明珠台,https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGMingZhu.m3u8
-LUXE TV,http://58.26.3.53/PLTV/88888888/224/3221226265/06.m3u8
-
-
-ViuTV,http://hls.globaliptv.ml/viu99.php
-ViuTV 6,http://hls.globaliptv.ml/viu96.php
-ViuTV 6,http://205.215.28.171:9981/stream/channelid/339528828
-RTHK31 ★,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
-RTHK32 ★,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
-RTHK31,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
-RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 凤凰中文,http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
 凤凰资讯,http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
 凤凰香港,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
-鳳凰衛視中文台,http://220.158.149.28:8180/TV00000000000000000067@HHZT;LIVE
-鳳凰衛視資訊台,http://220.158.149.28:8180/TV00000000000000000066@HHZT;LIVE
-鳳凰衛視香港台,http://220.158.149.28:8180/TV00000000000000000068@HHZT;LIVE
-凤凰香港,http://220.158.149.28:8180/TV00000000000000000068@HHZT;LIVE
-衛視卡式台,http://198.98.55.16/crtv.php?id=1085
-天映頻道,http://198.98.55.16/crtv.php?id=441
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 民視新聞,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 民視新聞,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
@@ -1603,6 +1580,29 @@ TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 東森財經新聞台,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 華視新聞資訊 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8
 華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
+
+翻墙专区Ⅱ,#genre#
+开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
+开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+翡翠台,http://198.98.55.16/crtv.php?id=429
+翡翠台b,http://198.98.55.16/crtv.php?id=1084
+翡翠台,https://ws.matchupstream.tuboshu.com/live/8e13d1d34b667b031f2618aff26e0be0.flv
+翡翠台,https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGFeiCui.m3u8
+J2,http://ws.matchupstream.tuboshu.com/live/f6823f2cd4c17295e7d896ce30b41eac.flv
+明珠台,https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGMingZhu.m3u8
+LUXE TV,http://58.26.3.53/PLTV/88888888/224/3221226265/06.m3u8
+ViuTV,http://hls.globaliptv.ml/viu99.php
+ViuTV 6,http://hls.globaliptv.ml/viu96.php
+ViuTV 6,http://205.215.28.171:9981/stream/channelid/339528828
+RTHK31 ★,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+RTHK32 ★,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+RTHK31,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
+RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+衛視卡式台,http://198.98.55.16/crtv.php?id=1085
+天映頻道,http://198.98.55.16/crtv.php?id=441
+鳳凰衛視中文台,http://220.158.149.28:8180/TV00000000000000000067@HHZT;LIVE
+鳳凰衛視資訊台,http://220.158.149.28:8180/TV00000000000000000066@HHZT;LIVE
+鳳凰衛視香港台,http://220.158.149.28:8180/TV00000000000000000068@HHZT;LIVE
 凤凰中文 9M1080,http://220.158.149.26:8182/hls/TV00000000000000000067@HHZT.m3u8
 凤凰资讯 9M1080,http://220.158.149.26:8182/hls/TV00000000000000000066@HHZT.m3u8
 凤凰资讯 1M1080,http://220.158.149.26:8182/hls/TV00000000000000000138@HHZT.m3u8
