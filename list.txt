@@ -1379,11 +1379,6 @@ SiTV幸福彩,http://183.207.255.188/live/program/live/xfchd/4000000/mnf.m3u8
 
 
 港台新闻,#genre#
-ViuTV 1080P,https://cdn.hkdtmb.com/99a/playlist.m3u8
-翡翠台 1080P,https://cdn.hkdtmb.com/81a/playlist.m3u8
-J2 1080P,https://cdn.hkdtmb.com/82a/playlist.m3u8
-開電視 1080P,https://cdn.hkdtmb.com/77a/playlist.m3u8
-无线新闻 1080P,http://zscity.f3322.net:8000/bysid/83
 有線新聞台1080P,http://liveicm12.utvlive.top/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94.m3u8
 有線財經資訊台1080P,http://liveicm12.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4.m3u8
 有線綜合娛樂台1080P,http://liveicm12.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4.m3u8
@@ -1393,6 +1388,22 @@ ViuTV 6HD,http://61.238.6.49:8000/bysid/96
 无线新闻 1080P,http://61.238.6.49:8001/bysid/83
 明珠台HD,http://61.238.6.49:8001/bysid/2
 J2 1080P,http://61.238.6.49:8001/bysid/82
+无线财经资讯台 1080P,http://61.238.6.49:8001/bysid/85
+ViuTV 1080P,https://cdn.hkdtmb.com/99a/playlist.m3u8
+翡翠台 1080P,https://cdn.hkdtmb.com/81a/playlist.m3u8
+J2 1080P,https://cdn.hkdtmb.com/82a/playlist.m3u8
+開電視 1080P,https://cdn.hkdtmb.com/77a/playlist.m3u8
+无线新闻 1080P,http://zscity.f3322.net:8000/bysid/83
+港台电视31,https://cdn.hkdtmb.com/hls/31/index.m3u8
+港台电视32,https://cdn.hkdtmb.com/hls/32/index.m3u8
+港台电视33,https://cdn.hkdtmb.com/hls/33/index.m3u8
+香港国际财经台,https://cdn.hkdtmb.com/hls/76/index.m3u8
+香港开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8
+Jade,https://cdn.hkdtmb.com/hls/81/index.m3u8
+J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
+Pearl,https://cdn.hkdtmb.com/hls/84/index.m3u8
+ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
+ViuTV Six,https://cdn.hkdtmb.com/hls/96/index.m3u8
 now新聞,http://ws.matchupstream.tuboshu.com/live/6264ed5164c62e24ce3e0f966e5960e7.flv
 翡翠台,http://danielwu.gz01.bdysite.com/iptv/?id=tvb#http://520574.xyz/dl/iptv.php?id=1
 明珠台,http://danielwu.gz01.bdysite.com/iptv/?id=pearl
@@ -1417,10 +1428,6 @@ C+频道,http://liveima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
 星空衛視,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233
 亞旅衛視,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-
-东森新闻,http://danielwu.gz01.bdysite.com/iptv/?id=dsxw
-中天新闻,http://danielwu.gz01.bdysite.com/iptv/?id=ztxw
-
 
 体育综合,#genre#
 广东体育频道,http://116.199.5.52:8114/00000000/hls/9.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
@@ -1455,23 +1462,23 @@ PP体育 真4K,http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/tysy201903/75/i
 CCTV高尔夫·网球HD,http://39.135.19.162:18890/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls#http://ott.cqccn.com/PLTV/88888888/224/3221227535/index.m3u8
 CCTV台球HD,http://ott.cqccn.com/PLTV/88888888/224/3221227646/index.m3u8
 CCTV风云足球HD,http://39.135.19.162:18890/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls#http://ott.cqccn.com/PLTV/88888888/224/3221227538/index.m3u8
+音乐频道,#genre#
 Channel V,https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_ChannelV.m3u8
 Channel V,rtmp://58.200.131.2/livetv/channelv
-Channel[V],https://www.fanmingming.cn/hls/channelv.m3u8
+Channel V,https://www.fanmingming.cn/hls/channelv.m3u8
 Channel V,rtmp://58.200.131.2:1935/livetv/channelv 
 MTV,http://106.54.30.243/gz009/gz.php?id=mtv
 MTV 音乐频道,https://116.77.72.195/streams/d/mtv/playlist.m3u8#http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 M2O音乐台,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 岭南戏曲,http://szlive.grtn.cn/lnxq/sd/live.m3u8
-緯來體育HD,rtmp://161.202.204.248:1935/sat/tv721 
- FOX體育1,rtmp://161.202.204.248:1935/sat/tv731 
- FOX體育2,rtmp://161.202.204.248:1935/sat/tv741
-爱尔达体育2台,rtmp://161.202.204.248:1935/sat/md011 
-爱尔达体育1台,rtmp://161.202.204.248:1935/sat/md021 
- FOX體育1,rtmp://161.202.204.248:1935/sat/md031 
- ELEVEN体育2台,rtmp://161.202.204.248:1935/sat/md041 
-ELEVEN体育1台,rtmp://161.202.204.248:1935/sat/md051
-
+MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+MTV Spankin' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+channelv,http://hdtv.haust.edu.cn/hls/channelv.m3u8
+Channel [V],https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+B4U Music,http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 4K影视频道,#genre#
 CCTV4K UHD,http://111.161.121.214/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8#http://112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8#http://39.134.185.69/PLTV/88888888/224/3221226758/1.m3u8
 纯享4K UHD,http://jxgz.jilu8.cn/PLTV/88888888/224/3221225786/2/index.m3u8?fmt=ts2hls#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/1.m3u8
@@ -1520,37 +1527,51 @@ G+TV海外佳片,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/322122578
 G+TV华语影院,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
 
 翻墙专区,#genre#
-开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
-开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-開電視,http://livetv.dnsfor.me/channel.9.m3u8
+RTHK31,http://livetv.dnsfor.me:80/channel.1.m3u8
+RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
+Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
+Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
 有線新聞台 HD,http://livetv.dnsfor.me:80/channel.5.m3u8
 有線財經資訊台 HD,http://livetv.dnsfor.me:80/channel.6.m3u8
 有線綜合娛樂台 HD,http://livetv.dnsfor.me:80/channel.7.m3u8
-無綫新聞台,http://livetv.dnsfor.me/channel.10.m3u8
-翡翠台,http://livetv.dnsfor.me/channel.18.m3u8
-J2,http://livetv.dnsfor.me/channel.19.m3u8
+開電視,http://livetv.dnsfor.me:80/channel.9.m3u8
+無綫新聞台,http://livetv.dnsfor.me:80/channel.10.m3u8
+無綫財經資訊台,http://livetv.dnsfor.me:80/channel.11.m3u8
+Now Sports Prime 630,http://livetv.dnsfor.me:80/channel.12.m3u8
+ATV,http://livetv.dnsfor.me:80/channel.14.m3u8
+HKS,http://livetv.dnsfor.me:80/channel.15.m3u8
+CCTV5HD,http://livetv.dnsfor.me:80/channel.17.m3u8
+翡翠台,http://livetv.dnsfor.me:80/channel.18.m3u8
+J2,http://livetv.dnsfor.me:80/channel.19.m3u8
+VIU TV,http://livetv.dnsfor.me:80/channel.20.m3u8
+UNIVERSE TV,http://livetv.dnsfor.me:80/channel.23.m3u8
+亚旅卫视,http://livetv.dnsfor.me:80/channel.24.m3u8
+
+开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
+开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 翡翠台,http://198.98.55.16/crtv.php?id=429
 翡翠台b,http://198.98.55.16/crtv.php?id=1084
 翡翠台,https://ws.matchupstream.tuboshu.com/live/8e13d1d34b667b031f2618aff26e0be0.flv
 翡翠台,https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGFeiCui.m3u8
 J2,http://ws.matchupstream.tuboshu.com/live/f6823f2cd4c17295e7d896ce30b41eac.flv
 明珠台,https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGMingZhu.m3u8
-Now直播331台,http://livetv.dnsfor.me/channel.3.m3u8
-Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
-Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
-ViuTV,http://livetv.dnsfor.me/channel.20.m3u8
-ViuTV,http://livetv.dnsfor.me:80/channel.20.m3u8
+LUXE TV,http://58.26.3.53/PLTV/88888888/224/3221226265/06.m3u8
+
+
 ViuTV,http://hls.globaliptv.ml/viu99.php
 ViuTV 6,http://hls.globaliptv.ml/viu96.php
 ViuTV 6,http://205.215.28.171:9981/stream/channelid/339528828
 RTHK31 ★,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 RTHK32 ★,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
-RTHK31,http://livetv.dnsfor.me/channel.1.m3u8
-RTHK32,http://livetv.dnsfor.me/channel.2.m3u8#https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
-
+RTHK31,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
+RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+凤凰中文,http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
+凤凰资讯,http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
+凤凰香港,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 鳳凰衛視中文台,http://220.158.149.28:8180/TV00000000000000000067@HHZT;LIVE
 鳳凰衛視資訊台,http://220.158.149.28:8180/TV00000000000000000066@HHZT;LIVE
 鳳凰衛視香港台,http://220.158.149.28:8180/TV00000000000000000068@HHZT;LIVE
+凤凰香港,http://220.158.149.28:8180/TV00000000000000000068@HHZT;LIVE
 衛視卡式台,http://198.98.55.16/crtv.php?id=1085
 天映頻道,http://198.98.55.16/crtv.php?id=441
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
@@ -1574,8 +1595,14 @@ TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 東森財經新聞台,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 華視新聞資訊 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8
 華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
+TVBS歡樂,http://220.158.149.28:8180/live/TV00000000000000000079@HHZT
+HBO Asia,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
+緯來體育台,http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
+beIN Xtra,https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 beIN Sports 1 Asia,https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 beIN Sports 2 Asia,https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+BeIN Sport 2 ID,http://tvku.live:8888/donal/donal/729
+BeIN Sport 1 ID,http://tvku.live:8888/donal/donal/728
 Supersport 1,http://198.98.55.16/crtv.php?id=444
 Supersport 1,http://198.98.55.16/crtv.php?id=1070
 Supersport 2,http://198.98.55.16/crtv.php?id=445
