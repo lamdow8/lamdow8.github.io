@@ -189,8 +189,78 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225919/1.m3u8
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225918/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV动作电影" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvdongzuo.jpg" group-title="移动·NewTV", NewTV动作电影
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226288/1.m3u8
-
-
+# 電影頻道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="粵語影片1" tvg-logo="" tvg-country="HK" tvg-url="" group-title="電影",粵語影片1
+https://cn-jssz-cmcc-live-01.bilivideo.com/live-bvc/614163/live_342827840_74242052.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="粵語影片2" tvg-logo="" tvg-country="HK" tvg-url="" group-title="電影",粵語影片2
+https://cn-jssz-cmcc-live-01.bilivideo.com/live-bvc/933996/live_88547185_8335137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影",影視 1
+http://39.134.182.236/PLTV/88888888/224/3221226245/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影",影視 2
+http://39.134.182.236/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影",影視 3
+http://39.134.182.236/PLTV/88888888/224/3221226179/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影",影視 4
+http://39.134.182.236/PLTV/88888888/224/3221226178/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影",影視 5
+http://39.134.182.236/PLTV/88888888/224/3221226176/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="香港衛視HKS" tvg-logo="" group-title="電影",峨嵋山影視
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/295519_JkFS8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影",峨眉電影
+http://219.145.171.78/scgctvshow.sctv.com/hdlive/emei/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KK金馬影院" tvg-logo="" group-title="電影",KK金馬影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="鳳凰電影" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a0/Phoenix_Movies.svg/200px-Phoenix_Movies.svg.png" group-title="電影",鳳凰衛視電影台
+rtmp://58.200.131.2:1935/livetv/fhdy
+#EXTINF:-1 tvg-id="" tvg-name="Red.Asia"tvg-logo="https://www.mewatch.sg/image/11230416/16x9/947/533/25177e0a801178d5b705f85f42655107/sh/red-by-hbo.png" group-title="電影",Red by HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/HBO_Xtreme.png" group-title="電影",HBO Xtreme HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/322.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="電影",HBO HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/302.m3u8
+## http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/300.m3u8
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/HBO_2_HD.png" group-title="電影",HBO 2 HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/294.m3u8
+## http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/292.m3u8
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/HBO_Mundi.png" group-title="電影",HBO Mundi HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/306.m3u8
+## http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/304.m3u8
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/HBO_Plus.png" group-title="電影",HBO Plus HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/310.m3u8
+## http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/308.m3u8
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/HBO_Pop.png" group-title="電影",HBO Pop HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/314.m3u8
+## http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/312.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="電影",HBO Signature HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/316.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影",黑莓電影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225530/index.m3u8
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="電影",首映電影
+http://szdl.3322.org:8888/rtp/233.50.201.239:5140
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="電影",環球電影
+http://szdl.3322.org:8888/rtp/233.50.201.231:5140
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="電影",動作影院
+http://szdl.3322.org:8888/rtp/233.50.201.232:5140
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="電影",歐美影院
+http://szdl.3322.org:8888/rtp/233.50.201.230:5140
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="電影",華語影院
+http://szdl.3322.org:8888/rtp/233.50.201.240:5140
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="電影",4K超清
+http://szdl.3322.org:8888/rtp/233.50.201.243:5140
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="電影",古裝劇場
+http://szdl.3322.org:8888/rtp/233.50.201.236:5140
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="電影",諜戰劇場
+http://szdl.3322.org:8888/rtp/233.50.201.235:5140
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="電影",白金劇場
+http://szdl.3322.org:8888/rtp/233.50.201.234:5140
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="電影",熱門綜藝
+http://szdl.3322.org:8888/rtp/233.50.201.233:5140
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wasu.png" group-title="電影",亞洲影院
+http://112.17.40.210/wh7f454c46tw2723754360_1011858318/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/index.m3u8?fmt=ts2hls&icpid=88888888&from=30&RTS=1592890129&hms_devid=1461&online=1592890129&vqe=1
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wasu.png" group-title="電影",歐美影院
+http://112.17.40.199/wh7f454c46tw2819951733_-141826655/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/index.m3u8?fmt=ts2hls&icpid=88888888&from=30&RTS=1592890225&hms_devid=1460&online=1592890225&vqe=1
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/ssdy.png" group-title="電影",邵氏電影
+http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
 #影视频道
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://pic.downk.cc/item/5e5652f46127cc0713d5e11c.png" group-title="影视频道",CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
@@ -266,7 +336,10 @@ rtmp://161.202.204.248:1935/sat/md031
 rtmp://161.202.204.248:1935/sat/md041
 #EXTINF:-1 tvg-id="6093" tvg-name="ELEVEN体育一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="体育频道",ELEVEN体育1台
 rtmp://161.202.204.248:1935/sat/md051
-
+#EXTINF:-1 tvg-id="B01.QA" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="体育频道",beIN Sports 1 Asia
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="B02.QA" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="体育频道",beIN Sports 2 Asia
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 # 香港頻道
 #EXTINF:-1 tvg-id="" tvg-name="有線新聞" tvg-logo="https://github.com/hououinkami/AppleTV/raw/master/ChannelLogo/Hongkong/Cable_News.png" group-title="香港頻道",有綫新聞台
 http://liveicm12.utvlive.top/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94-3.m3u8
@@ -342,8 +415,6 @@ http://39.135.19.162:18890/PLTV/88888888/224/3221226019/1/index.m3u8?fmt=ts2hls
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=123&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hkdp.png" group-title="精彩4K",海看大片
 http://120.221.5.165:8089/PLTV/88888888/224/3221225632/index.m3u8
-
-#港澳一日游
 #港澳一日游
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/pcc.png" tvg-id="141" tvg-name="凤凰中文" group-title="港澳一日游",凤凰卫视中文HD
 http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
