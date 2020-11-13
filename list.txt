@@ -1438,9 +1438,9 @@ SiTV幸福彩,http://183.207.255.188/live/program/live/xfchd/4000000/mnf.m3u8
 
 
 港台新闻,#genre#
-有線新聞台1080P,http://liveicm12.utvlive.top/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94.m3u8
-有線財經資訊台1080P,http://liveicm12.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4.m3u8
-有線綜合娛樂台1080P,http://liveicm12.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4.m3u8
+有線新聞台1080P,http://live-hwcdn.utvlive.top/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94.m3u8
+有線財經資訊台1080P,http://live-hwcdn.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4.m3u8
+有線綜合娛樂台1080P,http://live-hwcdn.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4.m3u8
 ViuTV 1080P,http://61.238.6.49:8000/bysid/99
 ViuTV 6HD,http://61.238.6.49:8000/bysid/96
 翡翠台 1080P,http://61.238.6.49:8000/bysid/1
@@ -1448,35 +1448,14 @@ ViuTV 6HD,http://61.238.6.49:8000/bysid/96
 明珠台HD,http://61.238.6.49:8001/bysid/2
 J2 1080P,http://61.238.6.49:8001/bysid/82
 无线财经资讯台 1080P,http://61.238.6.49:8001/bysid/85
-ViuTV 1080P,https://cdn.hkdtmb.com/99a/playlist.m3u8
-翡翠台 1080P,https://cdn.hkdtmb.com/81a/playlist.m3u8
-J2 1080P,https://cdn.hkdtmb.com/82a/playlist.m3u8
-開電視 1080P,https://cdn.hkdtmb.com/77a/playlist.m3u8
-无线新闻 1080P,http://zscity.f3322.net:8000/bysid/83
-港台电视31,https://cdn.hkdtmb.com/hls/31/index.m3u8
-港台电视32,https://cdn.hkdtmb.com/hls/32/index.m3u8
-港台电视33,https://cdn.hkdtmb.com/hls/33/index.m3u8
-香港国际财经台,https://cdn.hkdtmb.com/hls/76/index.m3u8
-香港开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8
-Jade,https://cdn.hkdtmb.com/hls/81/index.m3u8
-J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
-Pearl,https://cdn.hkdtmb.com/hls/84/index.m3u8
-ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
-ViuTV Six,https://cdn.hkdtmb.com/hls/96/index.m3u8
-now新聞,http://ws.matchupstream.tuboshu.com/live/6264ed5164c62e24ce3e0f966e5960e7.flv
-翡翠台,http://danielwu.gz01.bdysite.com/iptv/?id=tvb#http://520574.xyz/dl/iptv.php?id=1
-明珠台,http://danielwu.gz01.bdysite.com/iptv/?id=pearl
-有线新闻,http://demo.easydss.com:10080/vhls/jIZb3kvGg/jIZb3kvGg_live.m3u8#http://danielwu.gz01.bdysite.com/iptv/?id=yxxw
+
+翡翠台,http://520574.xyz/dl/iptv.php?id=1
 TVB无线财经资讯台,http://96.45.185.192/tv.php?vid=wxcjzx
 TVB无线新闻台,http://96.45.185.192/tv.php?vid=wxxw
 无线新闻,http://tv.sason.xyz/proxy/tvb.php?id=xw
 无线新闻,http://315600.xyz/dl/tvb.php?id=inewshd
 无线新闻,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 无线新闻,http://520574.xyz/dl/tvb.php?id=inewshd
-无线新闻,http://danielwu.gz01.bdysite.com/iptv/?id=wxxw2
-无线新闻,http://45.93.217.106/jiuban/hg.php?id=1
-无线财经,http://45.93.217.106/jiuban/hg.php?id=2
-无线直播台,http://45.93.217.106/jiuban/hg.php?id=3
 C+频道,http://liveima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
 香港電台視像新聞直播,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
 
@@ -1606,21 +1585,24 @@ Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
 無綫財經資訊台,http://livetv.dnsfor.me:80/channel.11.m3u8
 Now Sports Prime 630,http://livetv.dnsfor.me:80/channel.12.m3u8
 ATV,http://livetv.dnsfor.me:80/channel.14.m3u8
-HKS,http://livetv.dnsfor.me:80/channel.15.m3u8
+HKS香港卫视,http://livetv.dnsfor.me:80/channel.15.m3u8
+凤凰香港台,http://livetv.dnsfor.me:80/channel.16.m3u8
 CCTV5HD,http://livetv.dnsfor.me:80/channel.17.m3u8
 翡翠台,http://livetv.dnsfor.me:80/channel.18.m3u8
 J2,http://livetv.dnsfor.me:80/channel.19.m3u8
 VIU TV,http://livetv.dnsfor.me:80/channel.20.m3u8
 鳳凰資訊台,http://livetv.dnsfor.me:80/channel.21.m3u8
-鳳凰中文台,http://livetv.dnsfor.me:80/channel.22.m3u8
+星空卫视,http://livetv.dnsfor.me:80/channel.22.m3u8
 UNIVERSE TV,http://livetv.dnsfor.me:80/channel.23.m3u8
 亚旅卫视,http://livetv.dnsfor.me:80/channel.24.m3u8
 凤凰中文,http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
 凤凰资讯,http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
 凤凰香港,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
+
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 民視新聞,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 民視新聞,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+民视新闻台,http://210.61.56.23/hls/ftvtv/index.m3u8
 三立Live新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
 三立iNews新闻,http://seb.sason.top/sc/slinews_fhd.m3u8
 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
