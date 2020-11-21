@@ -1452,7 +1452,16 @@ ViuTV 6HD,http://61.238.6.49:8000/bysid/96
 明珠台HD,http://61.238.6.49:8001/bysid/2
 J2 1080P,http://61.238.6.49:8001/bysid/82
 无线财经资讯台 1080P,http://61.238.6.49:8001/bysid/85
-
+TVB 翡翠台,http://ws.matchupstream.tuboshu.com/live/20201119h.flv
+TVB J2,http://ws.matchupstream.tuboshu.com/live/20201119i.flv
+TVB 无线新闻台,http://ws.matchupstream.tuboshu.com/live/20201119c.flv
+TVB 无线财经资讯台,http://ws.matchupstream.tuboshu.com/live/20201119d.flv
+TVB 明珠台,http://ws.matchupstream.tuboshu.com/live/20201119g.flv
+RTHK31,http://ws.matchupstream.tuboshu.com/live/202011119f.flv
+RTHK32,http://ws.matchupstream.tuboshu.com/live/20201119e.flv
+RTHK33,http://ws.matchupstream.tuboshu.com/live/20201119j.flv
+viutv,http://ws.matchupstream.tuboshu.com/live/20201119b.flv
+viutv 6,http://ws.matchupstream.tuboshu.com/live/20201119a.flv
 翡翠台,http://520574.xyz/dl/iptv.php?id=1
 TVB无线财经资讯台,http://96.45.185.192/tv.php?vid=wxcjzx
 TVB无线新闻台,http://96.45.185.192/tv.php?vid=wxxw
