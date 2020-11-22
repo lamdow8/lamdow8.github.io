@@ -233,6 +233,41 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225919/1.m3u8
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225918/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV动作电影" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvdongzuo.jpg" group-title="移动·NewTV", NewTV动作电影
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226288/1.m3u8
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/feicui.png" group-title="港台新",翡翠台
+http://ws.matchupstream.tuboshu.com/live/20201119h.flv
+
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/tvbj2.png" group-title="港台新",J2
+http://ws.matchupstream.tuboshu.com/live/20201119i.flv
+
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/mingzhu.png" group-title="港台新",明珠台
+http://ws.matchupstream.tuboshu.com/live/20201119g.flv
+
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wxxw.png" group-title="港台新",无线新闻台
+http://ws.matchupstream.tuboshu.com/live/20201119c.flv
+##http://tv.sason.xyz/proxy/tvb.php?id=xw
+
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cjzx.png" group-title="港台新",财经资讯台
+http://ws.matchupstream.tuboshu.com/live/20201119d.flv
+
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/viutv.png" group-title="港台新",ViuTV HD
+http://ws.matchupstream.tuboshu.com/live/20201119b.flv
+
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/viutv6.png" group-title="港台新",ViuTV6 HD
+http://ws.matchupstream.tuboshu.com/live/20201119a.flv
+
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/rhk31.png" group-title="港台新",RHK31
+http://ws.matchupstream.tuboshu.com/live/202011119f.flv
+
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/rhk32.png" group-title="港台新",RHK32
+http://ws.matchupstream.tuboshu.com/live/20201119e.flv
+
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/rhk33.png" group-title="港台新",RHK33
+http://ws.matchupstream.tuboshu.com/live/20201119j.flv
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港台新",有线新闻台
+http://live-hwcdn.utvlive.top/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94-2.m3u8
+
+
 # 電影頻道
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="粵語影片1" tvg-logo="" tvg-country="HK" tvg-url="" group-title="電影",粵語影片1
 https://cn-jssz-cmcc-live-01.bilivideo.com/live-bvc/614163/live_342827840_74242052.m3u8
