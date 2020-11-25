@@ -3,7 +3,7 @@
 2019年,https://rescdn.yishihui.com/longvideo/transcode/video/live/201905301885618UgHvkjVyWXOEoY4K6A.m3u8
 2020年,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200128/6799382qfg4DLos2ts6O0dudy.m3u8
 喜爱频道,#genre#
-书画频道（新）,http://springrain.top/shuliyun.php?id=034#http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000077#http://ly.chahaoquan.com:34040/rtp/226.0.1.102:3186
+书画频道（新）,http://112.73.66.58:9999/hls-live/livepkgr/_definst_/shtv/shtv.m3u8#http://springrain.top/shuliyun.php?id=034#http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000077#http://ly.chahaoquan.com:34040/rtp/226.0.1.102:3186
 CCTV台球(硬解),http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226156/1/index.m3u8?fmt=ts2hls
 CCTV台球(硬解),http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
 无线新闻台,http://96.45.185.192/tv.php?vid=wxxw
