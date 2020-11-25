@@ -326,43 +326,219 @@ https://songtvru.ru/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="B4M.IN" tvg-logo="https://b4umusic.in/images/logo.png" group-title="音樂頻道",B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 
-#体育频道
-#EXTINF:-1 tvg-id="" tvg-name="Olympic Channel 1" tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="体育频道",Olympic Channel 1
-https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Olympic Channel 2" tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="体育频道",Olympic Channel 2
-https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" tvg-id="1987" tvg-name="五星体育频道" group-title="体育频道",五星体育频道
-http://183.207.255.188/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="体育频道",劲爆体育
-http://183.207.255.188/live/program/live/jbtyhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/xsj.png" tvg-id="1963" tvg-name="新视觉" group-title="体育频道",新视觉
-http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="体育频道",北京冬奥纪实HD
-http://39.135.19.169:18890/PLTV/88888888/224/3221225768//index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育频道",体育赛事HD
-http://39.135.19.169:18890/PLTV/88888888/224/3221226081//index.m3u8?fmt=ts2hls4
-#EXTINF:-1 tvg-logo="https://ae01.alicdn.com/kf/H684e28cefa9c4869ac8bf5401937551eM.png" tvg-id="9919" tvg-name="广东体育" group-title="体育频道",广东体育
-http://116.20.80.49:9981/stream/channelid/1265114946?ticket=27AB360E01B17718AC7FFF3639EA61D3586C7F0D&profile=pass
-#EXTINF:-1 tvg-logo="https://ae01.alicdn.com/kf/H684e28cefa9c4869ac8bf5401937551eM.png" tvg-id="9919" tvg-name="广东体育" group-title="体育频道",广东体育(SD)
-http://live5.ocnttv.com:8080/ZZ_guangdongtiyu/ZZ_guangdongtiyu.m3u8
-#EXTINF:-1 tvg-id="6093" tvg-name="ELEVEN体育一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="体育频道",ELEVEN体育1台
-rtmp://175.6.228.3:1935/live/511
-#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="体育频道",纬来体育HD
-rtmp://161.202.204.248:1935/sat/tv721
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育频道",FOX体育1
-rtmp://161.202.204.248:1935/sat/tv731
-#EXTINF:-1 tvg-id="6092" tvg-name="FOXSports2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports2.png" group-title="体育频道",FOX体育2
-rtmp://161.202.204.248:1935/sat/tv741
-#EXTINF:-1 tvg-id="7192" tvg-name="爱尔达体育2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_sports2.png" group-title="体育频道",爱尔达体育2台
-rtmp://161.202.204.248:1935/sat/md011
-#EXTINF:-1 tvg-id="7212" tvg-name="爱尔达体育1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png" group-title="体育频道",爱尔达体育1台
-rtmp://161.202.204.248:1935/sat/md021
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育频道",FOX体育1
-rtmp://161.202.204.248:1935/sat/md031
-#EXTINF:-1 tvg-id="7149" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="体育频道",ELEVEN体育2台
-rtmp://161.202.204.248:1935/sat/md041
-#EXTINF:-1 tvg-id="6093" tvg-name="ELEVEN体育一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="体育频道",ELEVEN体育1台
-rtmp://161.202.204.248:1935/sat/md051
+# 體育頻道
+#EXTINF:-1 tvg-id="FS1.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="體育頻道",Fox Sports 1 Asia
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="FS2.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="體育頻道",Fox Sports 2 Asia
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="FS3.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="體育頻道",Fox Sports 3 Asia
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="GOF.Int" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png" group-title="體育頻道",One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.golfnetwork.co.jp/assets/img/pc/layout/header/logo_new.png" group-title="體育頻道",ゴルフネットワーク
+http://203.162.235.41:16924
+EXTINF:-1 tvg-id="" tvg-logo="http://resources.mynewsdesk.com/image/upload/c_limit,dpr_2.625,f_auto,h_700,q_auto,w_360/luh8fqfqetgkhkmx9lst.jpg" group-title="體育頻道",ATG
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.capitalotb.com/wp-content/uploads/2019/09/COTB-Logo.png" group-title="體育頻道",Captital OTB Betting
+https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/dubai-racing-live.png" group-title="體育頻道",Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/duabi-racing-2-live.png" group-title="體育頻道",Dubai Racing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/5bfea86c98.png" group-title="體育頻道",Dubai Racing 3
+http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/HorseAndCountry.uk.png" group-title="體育頻道",Horse & Country TV
+https://hlshac-i.akamaihd.net/hls/live/854653/haclinear/HNC_AUSTRALIA/1080p_live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c0/Monterrico_TV_HD_%28Logo%29.jpg/revision/latest/scale-to-width-down/340?cb=20180406154420" group-title="體育頻道",Monterrico TV
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/au/RacingCom.au.png" group-title="體育頻道",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/au/SKYRacing.au.png" group-title="體育頻道",Sky 1 Racing
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/au/SKYRacing.au.png" group-title="體育頻道",Sky 2 Racing
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png" group-title="體育頻道",Hipódromo de las Américas
+http://wms.tecnoxia.com:1935/8158/8158/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/tr/TJKTV.tr.png" group-title="體育頻道",TJK
+https://tjktv-live.tjk.org/tjktv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/au/SKYTbredCent.au.png" group-title="體育頻道",Throughbred Central
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tennistv.com/images/og-image.png" group-title="體育頻道",ATP Tennis
+http://203.154.243.89:11739
+#EXTINF:-1 tvg-ID="MLB.US" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="體育頻道",MLB Network
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 tvg-id="TEN.US" tvg-logo="http://static.epg.best/us/TennisChannel.us.png" group-title="體育頻道",Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://tennischanneleverywhere.com/resources/assets/tennischanneleverywhere/images/logos/tcplus-logo-1x-01.png" group-title="體育頻道",Tennis Channel+
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://tennischanneleverywhere.com/resources/assets/tennischanneleverywhere/images/logos/tcplus-logo-1x-01.png" group-title="體育頻道",Tennis Channel+ 2
+https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://tennischanneleverywhere.com/resources/assets/tennischanneleverywhere/images/logos/tcplus-logo-1x-01.png" group-title="體育頻道",Tennis Channel+ 3
+https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://2upyml2xgast2pwf71r0ycaj-wpengine.netdna-ssl.com/wp-content/uploads/fightsports140.jpg" group-title="體育頻道",Fight Sports
+http://103.47.132.164/PLTV/88888888/224/3221227065/index.m3u8
+#EXTINF:-1 tvg-id="Fig.Int" tvg-logo="http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-g.png" group-title="體育頻道",Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w984445701_b664000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://mytvtogo.net/wp-content/uploads/2019/10/Network_FightPlusTV_1280x720-520x293.jpg" group-title="體育頻道",Fight Plus
+https://nimble.dashstreams.net/onestudio/fightplustv/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://hardknocksfighting.com/wp-content/uploads/2016/08/HardKnocks_logo_f_navbar.png" group-title="體育頻道",Hard Knock Fighting
+https://sniffercat002.akamaized.net/scheduler/scheduleMaster/109/variant/22099397/a0ff0a6a-a465-47c9-adde-db2f84df7053.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1112616272741621760/Od1saD2b_400x400.png" group-title="體育頻道",CombatGo
+https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
+#EXTINF:-1 tvg-id="B01.QA" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="體育頻道",beIN Sports 1 Asia
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="B02.QA" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="體育頻道",beIN Sports 2 Asia
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="BXT.US" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="體育頻道",beIN Xtra
+https://bein-plutolive-vo.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport-4K" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eurosport.png" tvg-name="Eurosport-4K" group-title="體育頻道",Eurosport 4K
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_EUROSPORT4K_HLSUHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eurosport.png" tvg-name="EUROSPORT" group-title="體育頻道",Eurosport 4K
+http://a3569457550-zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw20000000/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/Al_Jazeera_Mubasher.png" group-title="體育頻道",Al Jazeera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cne-eg.com/uploads/logos/20183142627377.png" group-title="體育頻道",Al Kass Sports 1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cne-eg.com/uploads/logos/20183142948397.png" group-title="體育頻道",Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cne-eg.com/uploads/logos/20183142520385.png" group-title="體育頻道",Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cne-eg.com/uploads/logos/2018314320255.png" group-title="體育頻道",Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1 tvg-id="" tvg-logo="https://baraem.tv/images/logo.png" group-title="體育頻道",Baraem
+http://178.132.3.162:88/Baraem/video.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ksa-channel_logo.png" group-title="體育頻道",Al Saudiya
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="奧林匹克頻道" tvg-language="" tvg-logo="https://www.olympicchannel.com/Images/Static/OC-Logo-Horizontal.png" tvg-country="" tvg-url="" group-title="體育頻道",奧林匹克頻道
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ACC NETWORK" tvg-logo="" group-title="體育頻道",ACC NETWORK
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/49954
+#EXTINF:-1 tvg-id="at.t.sportsnet.southwest.houston.us" tvg-name="ATT_SportsNet_SW_ALT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US149ATT_SportsNet_SW_ALT.png" group-title="體育頻道",ATT_SportsNet_SW_ALT
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30041
+#EXTINF:-1 tvg-id="big.ten.network.overflow.2.us" tvg-name="AXS TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US143AXSTVHD.png" group-title="體育頻道",AXS TV HD
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30047
+#EXTINF:-1 tvg-id="bein.sports.us" tvg-name="BeIN SPORTS EN ESPANOL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US128BeIN2Sports.png" group-title="體育頻道",BeIN SPORTS EN ESPANOL
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30062
+#EXTINF:-1 tvg-id="bein.sports.us" tvg-name="BeIN_Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US129BeIN_Sports.png" group-title="體育頻道",BeIN_Sports
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30061
+#EXTINF:-1 tvg-id="bein.sports.4.us" tvg-name="BeIN4 Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US127BeIN4Sports.png" group-title="體育頻道",BeIN4 Sports
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30063
+#EXTINF:-1 tvg-id="bein.sports.5.us" tvg-name="BeIN5 Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US126BeIN5Sports.png" group-title="體育頻道",BeIN5 Sports
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30064
+#EXTINF:-1 tvg-id="bein.sports.6.us" tvg-name="BeIN6 Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US125BeIN6Sports.png" group-title="體育頻道",BeIN6 Sports
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30065
+#EXTINF:-1 tvg-id="bein.sports.7.us" tvg-name="BeIN7 Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US124BeIN7Sports.png" group-title="體育頻道",BeIN7 Sports
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30066
+#EXTINF:-1 tvg-id="bein.sports.8.us" tvg-name="BeIN8 Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US123BeIN8Sports.png" group-title="體育頻道",BeIN8 Sports
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30067
+#EXTINF:-1 tvg-id="bein.sports.us" tvg-name="Bein-Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US009Bein-Sports.png" group-title="體育頻道",Bein-Sports
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/3159
+#EXTINF:-1 tvg-id="big.ten.network.us" tvg-name="Big Ten Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US092BigTenNetwork.png" group-title="體育頻道",Big Ten Network
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/3076
+#EXTINF:-1 tvg-id="big.ten.network.us" tvg-name="Big_Ten_Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US144Big_Ten_Network.png" group-title="體育頻道",Big_Ten_Network
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30046
+#EXTINF:-1 tvg-id="" tvg-name="Box Nation" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US093BoxNation.png" group-title="體育頻道",Box Nation
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/3075
+#EXTINF:-1 tvg-id="eleven.sports.us" tvg-name="Eleven_Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US155Eleven_Sports.png" group-title="體育頻道",Eleven_Sports
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30035
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN-2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US031ESPN-2.png" group-title="體育頻道",ESPN-2
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/3137
+#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US032ESPN-HD.png" group-title="體育頻道",ESPN-HD
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/3136
+#EXTINF:-1 tvg-id="espn.news.us" tvg-name="ESPN-News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US033ESPN-News.png" group-title="體育頻道",ESPN-News
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/3135
+#EXTINF:-1 tvg-id="espn.u.us" tvg-name="ESPN-U" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US034ESPN-U.png" group-title="體育頻道",ESPN-U
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/3134
+#EXTINF:-1 tvg-id="" tvg-name="Fight_Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US145Fight_Network.png" group-title="體育頻道",Fight_Network
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30045
+#EXTINF:-1 tvg-id="" tvg-name="FNTSY_Sports_Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US146FNTSY_Sports_Network.png" group-title="體育頻道",FNTSY_Sports_Network
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30044
+#EXTINF:-1 tvg-id="" tvg-name="Ginx_TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US148Ginx_TV.png" group-title="體育頻道",Ginx_TV
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30042
+#EXTINF:-1 tvg-id="gol.usa.us" tvg-name="GOL TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US615GOLTV.png" group-title="體育頻道",GOL TV
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/29575
+#EXTINF:-1 tvg-id="big.ten.network.overflow.3.us" tvg-name="Marquee Sports Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US142MarqueeSportsNetwork.png" group-title="體育頻道",Marquee Sports Network
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30048
+#EXTINF:-1 tvg-id="msg.madison.square.gardens.us" tvg-name="MSG" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US140MSG.png" group-title="體育頻道",MSG
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30050
+#EXTINF:-1 tvg-id="msg.2.us" tvg-name="MSG2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US138MSG2.png" group-title="體育頻道",MSG2
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30052
+#EXTINF:-1 tvg-id="msg.plus.us" tvg-name="MSGPlus" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US139MSGPlus.png" group-title="體育頻道",MSGPlus
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30051
+#EXTINF:-1 tvg-id="" tvg-name="NESN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US087NESN.png" group-title="體育頻道",NESN
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/3081
+#EXTINF:-1 tvg-id="new.england.sports.network.us" tvg-name="NESN_BOS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US151NESN_BOS.png" group-title="體育頻道",NESN_BOS
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30039
+#EXTINF:-1 tvg-id="new.england.sports.network.plus.us" tvg-name="NESN_PLUS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US152NESN_PLUS.png" group-title="體育頻道",NESN_PLUS
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30038
+#EXTINF:-1 tvg-id="olympic.us" tvg-name="Olympic_Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US122OlympicChannel.png" group-title="體育頻道",Olympic_Channel
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30068
+#EXTINF:-1 tvg-id="pac.12.arizona.us" tvg-name="PAC-12 Arizona" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US346PAC12Arizona.png" group-title="體育頻道",PAC-12 Arizona
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/29844
+#EXTINF:-1 tvg-id="pac.12.bay.area.us" tvg-name="PAC-12 Bay Area" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US074PAC-12BayArea.png" group-title="體育頻道",PAC-12 Bay Area
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/3094
+#EXTINF:-1 tvg-id="pac.12.la.us" tvg-name="PAC-12 Los Angeles" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US013PAC-12LosAngeles.png" group-title="體育頻道",PAC-12 Los Angeles
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/3155
+#EXTINF:-1 tvg-id="pac.12.oregon.us" tvg-name="PAC-12 Oregon" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US014PAC-12Oregon.png" group-title="體育頻道",PAC-12 Oregon
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/3154
+#EXTINF:-1 tvg-id="pac.12.washington.us" tvg-name="PAC-12 Washington" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US012PAC-12Washington.png" group-title="體育頻道",PAC-12 Washington
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/3156
+#EXTINF:-1 tvg-id="NFLSundayTicket718.us" tvg-name="PPV BOXING 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US660PPVBOXING1.png" group-title="體育頻道",PPV BOXING 1
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/53491
+#EXTINF:-1 tvg-id="" tvg-name="PPV BOXING 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US662PPVBOXING3.png" group-title="體育頻道",PPV BOXING 3
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/29528
+#EXTINF:-1 tvg-id="" tvg-name="PPV BOXING 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US663PPVBOXING4.png" group-title="體育頻道",PPV BOXING 4
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/29527
+#EXTINF:-1 tvg-id="" tvg-name="PPV BOXING 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US664PPVBOXING5.png" group-title="體育頻道",PPV BOXING 5
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/29526
+#EXTINF:-1 tvg-id="" tvg-name="PVV BOXING 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US661PVVBOXING2.png" group-title="體育頻道",PVV BOXING 2
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/29529
+#EXTINF:-1 tvg-id="sec.network.us" tvg-name="Sec Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US091SecNetwork.png" group-title="體育頻道",Sec Network
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/3077
+#EXTINF:-1 tvg-id="" tvg-name="Spectrum SportsNet LA Dodgers" tvg-logo="" group-title="體育頻道",Spectrum SportsNet LA Dodgers
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/49953
+#EXTINF:-1 tvg-id="sportsman.us" tvg-name="Sportsman_Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US153Sportsman_Channel.png" group-title="體育頻道",Sportsman_Channel
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30037
+#EXTINF:-1 tvg-id="stadium.ktxd.greenville.tx.us" tvg-name="Stadium" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US135Stadium.png" group-title="體育頻道",Stadium
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30055
+#EXTINF:-1 tvg-id="stadium.ktxd.greenville.tx.us" tvg-name="Stadium1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US134Stadium1.png" group-title="體育頻道",Stadium1
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30056
+#EXTINF:-1 tvg-id="stadium.ktxd.greenville.tx.us" tvg-name="Stadium2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US133Stadium2.png" group-title="體育頻道",Stadium2
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30057
+#EXTINF:-1 tvg-id="stadium.ktxd.greenville.tx.us" tvg-name="Stadium3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US132Stadium3.png" group-title="體育頻道",Stadium3
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30058
+#EXTINF:-1 tvg-id="tcm.english.bein" tvg-name="TCM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US137TCM.png" group-title="體育頻道",TCM
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30053
+#EXTINF:-1 tvg-id="the.tennis.us" tvg-name="Tennis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US086Tennis.png" group-title="體育頻道",Tennis
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/3082
+#EXTINF:-1 tvg-id="" tvg-name="TENNIS CHANNEL HD" tvg-logo="" group-title="體育頻道",TENNIS CHANNEL HD
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/59205
+#EXTINF:-1 tvg-id="" tvg-name="TENNIS CHANNEL UHD" tvg-logo="" group-title="體育頻道",TENNIS CHANNEL UHD
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/59200
+#EXTINF:-1 tvg-id="longhorn.network.us" tvg-name="The Longhorn Network HD" tvg-logo="" group-title="體育頻道",The Longhorn Network HD
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/64369
+#EXTINF:-1 tvg-id="tyc.sports.us" tvg-name="TyC Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US136TyCSports.png" group-title="體育頻道",TyC Sports
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30054
+#EXTINF:-1 tvg-id="" tvg-name="UFC 01" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US714UFC01.png" group-title="體育頻道",UFC 01
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/29476
+#EXTINF:-1 tvg-id="" tvg-name="UFC 02" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US715UFC02.png" group-title="體育頻道",UFC 02
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/29475
+#EXTINF:-1 tvg-id="" tvg-name="UFC 03" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US716UFC03.png" group-title="體育頻道",UFC 03
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/29474
+#EXTINF:-1 tvg-id="" tvg-name="UFC 04" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US717UFC04.png" group-title="體育頻道",UFC 04
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/29473
+#EXTINF:-1 tvg-id="" tvg-name="UFC 05" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US718UFC05.png" group-title="體育頻道",UFC 05
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/29472
+#EXTINF:-1 tvg-id="" tvg-name="UFC Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US084UFCNetwork.png" group-title="體育頻道",UFC Network
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/3084
+#EXTINF:-1 tvg-id="" tvg-name="VSiN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US147VSiN.png" group-title="體育頻道",VSiN
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30043
+#EXTINF:-1 tvg-id="wfn.world.fishing.network.us" tvg-name="World_Fishing_Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US150World_Fishing_Network.png" group-title="體育頻道",World_Fishing_Network
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30040
+#EXTINF:-1 tvg-id="" tvg-name="WRESTLING 01" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US749ABC_knxv_phx.png" group-title="體育頻道",WRESTLING 01
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/29441
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="WWE-Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US085WWE-Network.png" group-title="體育頻道",WWE-Network
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/3083
 #EXTINF:-1 tvg-id="B01.QA" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="体育频道",beIN Sports 1 Asia
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="B02.QA" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="体育频道",beIN Sports 2 Asia
