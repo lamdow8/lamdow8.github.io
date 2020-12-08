@@ -1851,6 +1851,18 @@ UNIVERSE TV,http://livetv.dnsfor.me:80/channel.23.m3u8
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 民視新聞,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 民视新闻台,http://210.61.56.23/hls/ftvtv/index.m3u8
+TVBS 歡樂台 HD,rtmp://59.124.75.156/sat/tv421
+台視 HD,rtmp://59.124.75.156/sat/tv071
+中視 HD,rtmp://59.124.75.156/sat/tv091
+華視 HD,rtmp://59.124.75.156/sat/tv111
+東森財經新聞台 HD,rtmp://59.124.75.156/sat/tv571
+緯來育樂台 HD,rtmp://59.124.75.156/sat/tv701
+緯來日本台 HD,rtmp://59.124.75.156/sat/tv771
+緯來體育台 HD,rtmp://59.124.75.156/sat/tv721
+民视  HD,rtmp://59.124.75.156:1935/sat/tv051
+中天 HD,rtmp://59.124.75.156:1935/sat/tv521
+TVBS-新闻 HD,rtmp://59.124.75.156:1935/sat/tv551
+TVBS-欢乐 HD,rtmp://59.124.75.156:1935/sat/tv421
 三立Live新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
 三立iNews新闻,http://seb.sason.top/sc/slinews_fhd.m3u8
 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
