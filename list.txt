@@ -57,8 +57,6 @@
 天长地久,https://rescdn.yishihui.com/longvideo/transcode/video/live/201907095623330fMIGbfhNGL2arPi87P.m3u8
 
 央视频道,#genre#
-中天新闻,http://r6d.cn/PBTk
-
 央视新闻,https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
 CCTV4K,http://111.161.121.214/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8
 CCTV-1综合,http://39.135.138.59:18890/PLTV/88888910/224/3221225618/index.m3u8
@@ -67,7 +65,9 @@ CCTV-3综艺,http://39.135.138.59:18890/PLTV/88888910/224/3221225634/index.m3u8
 CCTV-4国际,http://39.135.138.59:18890/PLTV/88888910/224/3221225621/index.m3u8
 CCTV-4 美洲,http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvamerica_2_hd/index.m3u8
 CCTV-4 欧洲,http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2_hd/index.m3u8
+CCTV-5体育,http://39.130.215.222:6410/gitv_live/CCTV-5/CCTV-5.m3u8
 CCTV-5体育,http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
+CCTV5+体育赛事,http://39.130.215.222:6410/gitv_live/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
 CCTV5+体育赛事,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 CCTV-6电影,http://39.135.138.59:18890/PLTV/88888910/224/3221225632/index.m3u8
 CCTV-7国防军事,http://39.135.138.59:18890/PLTV/88888910/224/3221225624/index.m3u8
@@ -86,7 +86,7 @@ CCTV-2财经,http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
 CCTV-3综艺,http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
 CCTV-4中文国际,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
 CCTV-5体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
-CCTV+体育赛事,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV5+体育赛事,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 CCTV-6电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225650/index.m3u8
 CCTV-7国防军事,http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
 CCTV-8电视剧,http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
@@ -104,7 +104,7 @@ CCTV-2财经,http://221.179.136.136/otttv.bj.chinamobile.com/PLTV/88888888/224/3
 CCTV-3综艺,http://223.110.243.170//PLTV/3/224/3221225588/index.m3u8
 CCTV-4国际,http://221.179.136.149/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226470/1.m3u8
 CCTV-5体育,http://111.13.42.47/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8
-CCTV+体育赛事,http://221.179.136.142/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226349/1.m3u8
+CCTV5+体育赛事,http://221.179.136.142/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226349/1.m3u8
 CCTV-6电影,http://221.179.217.76/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8
 CCTV-7国防军事,http://111.13.42.42/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226467/1.m3u8
 CCTV-8电视剧,http://221.179.217.69/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8#http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8
@@ -122,7 +122,7 @@ CCTV-2财经,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-2/1.m3u8
 CCTV-3综艺,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
 CCTV-4国际,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-4/1.m3u8
 CCTV-5体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
-CCTV+体育赛事,http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
+CCTV5+体育赛事,http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
 CCTV-7国防军事,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-7/1.m3u8
 CCTV-8电视剧,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
 CCTV-9纪录,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-news/1.m3u8
