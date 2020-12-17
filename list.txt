@@ -1,26 +1,32 @@
-最爱歌曲,#genre#
-雅尼-Rainmaker,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201213/5623330A7S1Bib8Mk1R4xdS35.mp4
-雅尼-On Sacred Ground,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201213/5623330Lqza92Pie30kCoICfj.mp4
-雅尼-For All Seasons,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201213/5623330ewhRb5UqXRRsb9nKqO.mp4
-雅尼-Playtime,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201213/5623330e08trzq9cZvOAB6uP6.mp4
-如果有一天无法把你留住,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201209/5623330jCWYQCB6OgZitmzL38.mp4
-谭维维《蓝莲花》,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201112/5623330ySHJCzL4DxMMpOtgHo.mp4
-外面的世界,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201126/56233307PD4j3e5e1zllrBk84.mp4
-可可托海的牧羊人,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201203/5623330QKXZMsNoW2yOEq5AGr.mp4
-掌声响起,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201129/5623330egxLg5zOhE1n6T2UEx.mp4
-乱世巨星,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201126/5623330m3fEZA50hNK2jLoA1r.mp4
+齐秦的歌,#genre#
 花祭,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201126/5623330iGckyem8jDhgEp8xyO.mp4
+外面的世界,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201126/56233307PD4j3e5e1zllrBk84.mp4
 残酷的温柔,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201126/5623330rE8nR2TA29eyyOb6jO.mp4
 你是天上最远的那颗星星,https://rescdn.yishihui.com/longvideo/transcode/video/20190125/5623330zMx5bsCgD3An0dP7y8.m3u8
 思念是一种病,https://rescdn.yishihui.com/longvideo/transcode/video/20190125/5623330IR1draK4ECZi1WwIWZ.m3u8
 爱情宣言,https://rescdn.yishihui.com/longvideo/transcode/video/20190125/5623330pFVDJm8roXvz3xMpAp.m3u8
+無情的雨無情的你,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201217/5623330UVqF1sc8YPbod665sH.mp4
+冬雨,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201215/5623330GYwOyMTeZakwxuqmJN.mp4
+不让我的眼泪陪我过夜,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201113/5623330O44jLtlec8E8lULRPi.mp4
+直到世界末日,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200801/5623330nw3cLAniEPHCoJcLwX.mp4
+飞扬的梦,https://rescdn.yishihui.com/longvideo/transcode/video/live/201904305623330mcv1OaucFzzpBsvbrJ.m3u8
+別在窗前等我,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201217/5623330HbeeNiXM8aMJrZaH1l.mp4
+最爱歌曲,#genre#
+虚伪,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201217/5623330PBpqCOlHlGpoXpt1o7.mp4
+萍聚Don't Cry,https://rescdn.yishihui.com/longvideo/transcode/video/20190210/562333033mi6dJyYcS2KVeZBD.m3u8
+血染的风采,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201217/5623330UVqF1sc8YPbod665sH.mp4
+如果有一天无法把你留住,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201209/5623330jCWYQCB6OgZitmzL38.mp4
+谭维维《蓝莲花》,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201112/5623330ySHJCzL4DxMMpOtgHo.mp4
+可可托海的牧羊人,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201203/5623330QKXZMsNoW2yOEq5AGr.mp4
+掌声响起,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201129/5623330egxLg5zOhE1n6T2UEx.mp4
+乱世巨星,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201126/5623330m3fEZA50hNK2jLoA1r.mp4
 无奈那天,https://rescdn.yishihui.com/longvideo/transcode/video/2019-1-3/6c2a4e651c4d4813bf736396db4d477b1548393118535.m3u8
 借口,https://rescdn.yishihui.com/longvideo/transcode/video/20190128/5623330lO5ngkLrFXMXjaqdz9.m3u8
 孤独的人是可耻的,https://rescdn.yishihui.com/longvideo/transcode/video/2019-1-3/404688f57dc54bbda5d0348d42ef667d1548389436912.m3u8
 只要你过得比我好,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201115/5623330CFoxmHWhLt75Y09xXh.mp4
 甘心（粤）,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201115/5623330qSbU77pcs5cuoREn2T.mp4
 只要你过得比我好(群星),https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201109/5623330dBQo2PHaCoXyneYTV1.mp4
-不让我的眼泪陪我过夜,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201113/5623330O44jLtlec8E8lULRPi.mp4
+說不出的未来,https://rescdn.yishihui.com/longvideo/transcode/video/live/201906195623330y6X0L2La1vJIBqlepM.m3u8
 哭砂,https://rescdn.yishihui.com/longvideo/transcode/video/live/201903265623330b7Y5a9jnTT1ZgnKF62.m3u8
 祝福,https://rescdn.yishihui.com/longvideo/transcode/video/live/201905145623330aCm0SD3BtrQpdu4aE0-safe1600664112.m3u8
 梦醒时分,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200523/5623330Vw1jOChC0fofHlT3Bw.m3u8
@@ -59,7 +65,10 @@
 套马杆,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200316/5623330y3oE8Rxs4Rmygd3NwS.m3u8
 我要去西藏,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200316/5623330SrPMOGycmf4LVtBPf1.m3u8
 天长地久,https://rescdn.yishihui.com/longvideo/transcode/video/live/201907095623330fMIGbfhNGL2arPi87P.m3u8
-
+雅尼-Rainmaker,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201213/5623330A7S1Bib8Mk1R4xdS35.mp4
+雅尼-On Sacred Ground,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201213/5623330Lqza92Pie30kCoICfj.mp4
+雅尼-For All Seasons,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201213/5623330ewhRb5UqXRRsb9nKqO.mp4
+雅尼-Playtime,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201213/5623330e08trzq9cZvOAB6uP6.mp4
 央视频道,#genre#
 央视新闻,https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
 CCTV4K,http://111.161.121.214/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8
