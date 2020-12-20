@@ -2,6 +2,7 @@
 花祭,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201126/5623330iGckyem8jDhgEp8xyO.mp4
 外面的世界,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201126/56233307PD4j3e5e1zllrBk84.mp4
 残酷的温柔,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201126/5623330rE8nR2TA29eyyOb6jO.mp4
+自己心情自己感受,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/56233301SOwYwbxPl1nzoCijB.mp4
 你是天上最远的那颗星星,https://rescdn.yishihui.com/longvideo/transcode/video/20190125/5623330zMx5bsCgD3An0dP7y8.m3u8
 思念是一种病,https://rescdn.yishihui.com/longvideo/transcode/video/20190125/5623330IR1draK4ECZi1WwIWZ.m3u8
 爱情宣言,https://rescdn.yishihui.com/longvideo/transcode/video/20190125/5623330pFVDJm8roXvz3xMpAp.m3u8
@@ -1343,6 +1344,9 @@ TVB无线新闻台,http://96.45.185.192/tv.php?vid=wxxw
 凤凰资讯,http://112.102.214.193:65530/live/fhzx/index.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8#http://111.0.93.5:80/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/01.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
 凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804#http://183.207.249.36/PLTV/3/224/3221226975/index.m3u8#http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
 有线新闻台,http://player.ggiptv.com:13164/v/hkcxw.m3u8
+凤凰资讯HD,http://www.chahaoquan.com/wz/epg/fhdl.php?id=1
+凤凰中文HD,http://www.chahaoquan.com/wz/epg/fhdl.php?id=2
+无线新闻HD,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 无线新闻,http://tv_qt.kksyw.top/tv_qt888/gat/tvb.php?id=1
 无线新闻,http://tv.sason.xyz/proxy/tvb.php?id=xw
 无线新闻,http://315600.xyz/dl/tvb.php?id=inewshd
