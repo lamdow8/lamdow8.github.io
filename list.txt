@@ -1345,7 +1345,7 @@ J2 1080P,http://61.238.6.49:8001/bysid/82
 无线财经资讯台 1080P,http://61.238.6.49:8001/bysid/85
 TVB无线财经资讯台,http://96.45.185.192/tv.php?vid=wxcjzx
 TVB无线新闻台,http://96.45.185.192/tv.php?vid=wxxw
-翡翠台,http://ldpc.ld0766.club/tvb.php?id=jade
+翡翠台,http://ldpc.ld0766.club/tvb.php?id=jade#https://cdn.hkdtmb.com/hls/81/index.m3u8
 凤凰中文 Max6M1080,http://125.89.166.215/live-hwcdn.utvlive.top/live/551a1a8c3aca46708fd285217be3c96e/4538203d786e4803bac20e36392cffd9.m3u8
 凤凰中文 Max6M1080,http://125.89.166.215/live-hwcdn.utvlive.top/live/551a1a8c3aca46708fd285217be3c96e/4538203d786e4803bac20e36392cffd9-1.m3u8
 凤凰香港 Max6M1080,http://125.89.166.215/live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c.m3u8
