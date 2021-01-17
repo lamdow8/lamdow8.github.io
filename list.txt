@@ -220,14 +220,14 @@ BTV冬奥纪实,http://117.169.124.14:6610/ysten-businessmobile/live/HD-8000k-10
 ViuTV 1080P,http://61.238.6.49:8000/bysid/99#http://hls.globaliptv.ml/viu99.php
 ViuTV 6HD,http://61.238.6.49:8000/bysid/96#http://hls.globaliptv.ml/viu96.php
 ViuTV,http://ldpc.ld0766.club/tvb.php?id=viutv
-翡翠台 1080P,http://61.238.6.49:8000/bysid/1
+翡翠台 1080P,http://61.238.6.49:8000/bysid/1#https://cdn.hkdtmb.com/hls/81/index.m3u8
 无线新闻 1080P,http://61.238.6.49:8001/bysid/83
 明珠台HD,http://61.238.6.49:8001/bysid/2
 J2 1080P,http://61.238.6.49:8001/bysid/82
 无线财经资讯台 1080P,http://61.238.6.49:8001/bysid/85
 TVB无线财经资讯台,http://96.45.185.192/tv.php?vid=wxcjzx
 TVB无线新闻台,http://96.45.185.192/tv.php?vid=wxxw
-翡翠台,http://ldpc.ld0766.club/tvb.php?id=jade#https://cdn.hkdtmb.com/hls/81/index.m3u8
+翡翠台,http://ldpc.ld0766.club/tvb.php?id=jade
 凤凰中文 Max6M1080,http://125.89.166.215/live-hwcdn.utvlive.top/live/551a1a8c3aca46708fd285217be3c96e/4538203d786e4803bac20e36392cffd9.m3u8
 凤凰中文 Max6M1080,http://125.89.166.215/live-hwcdn.utvlive.top/live/551a1a8c3aca46708fd285217be3c96e/4538203d786e4803bac20e36392cffd9-1.m3u8
 凤凰香港 Max6M1080,http://125.89.166.215/live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c.m3u8
@@ -325,6 +325,7 @@ UNIVERSE TV,http://livetv.dnsfor.me:80/channel.23.m3u8
 凤凰中文,http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
 凤凰资讯,http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
 凤凰香港,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
+非凡新聞,http://125.227.210.37:61738/VideoInput/play.ts
 
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 民視新聞,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
@@ -1696,4 +1697,29 @@ SiTV幸福彩,http://183.207.255.188/live/program/live/xfchd/4000000/mnf.m3u8
 孟庭苇-爱你太深,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/KbJb4OVT1yH1ZDvri5p%40%40hd.m3u8
 孟庭苇-相爱的可能性,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/5lsxCqoKs6ZE7MfJZvM%40%40hd.m3u8
 孟庭苇-不下雨就出太阳吧,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/lhaW77A2RRwiJrh0CiJ%40%40hd.m3u8
-
+会员 Ⅰ 一区_4600,#genre#
+HOT欧美版,http://live.redtraffic.xyz:80/hardcore.m3u8
+K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
+松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
+松视2欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
+松视3欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
+松视4欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
+香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
+惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
+潘多拉欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8
+粉红台欧美版,http://live.redtraffic.xyz:80/teen.m3u8
+玩美台欧美版,http://live.redtraffic.xyz:80/pov.m3u8
+二本道欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8
+樱花台欧美版,http://live.redtraffic.xyz:80/russian.m3u8
+会员 Ⅰ 二区_4600,#genre#
+日本动漫1,https://lbbf9.com/20191105/xAf8e6gN/index.m3u8
+日本动漫2,https://lbbf9.com/20191105/6dCdeenO/index.m3u8
+日韩无码1,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/121914-760/index.m3u8
+日韩无码2,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/120614-753/index.m3u8
+日韩无码3,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/091715_154-1pon/index.m3u8
+日韩无码4,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/081315_133-1pon/index.m3u8
+日韩无码5,https://m3u8.46cdn.com/videos/akex/1905/7vjtDwwP/7vjtDwwP.m3u8
+日韩无码6,https://m3u8.46cdn.com/videos/akex/1905/N8UFEDcj/N8UFEDcj.m3u8
+日韩无码7,https://m3u8.41cdn.com/videos/201910/0y7WTW0v/hls/0y7WTW0v.m3u8
+日韩无码8,https://m3u8.34cdn.com/videos/201908/8v33bdqt/hls/8v33bdqt.m3u8
+日韩无码9,https://m3u8.48cdn.com/videos/201908/sb6ksmxx/hls/sb6ksmxx.m3u8
