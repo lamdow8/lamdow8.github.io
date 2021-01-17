@@ -259,6 +259,22 @@ C+频道,http://liveima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
 无线财经资讯,http://tv_qt.kksyw.top/tv_qt888/gat/tvb.php?id=2
 无线直播,http://tv_qt.kksyw.top/tv_qt888/gat/tvb.php?id=3
 儋州新闻,http://36009.hlsplay.aodianyun.com/tv_radio_36009/tv_channel_1330.m3u8
+香港测试,#genre#
+港台電視31,http://113.255.161.76:9981/stream/channelid/1467517977
+港台電視32,http://113.255.161.76:9981/stream/channelid/1002192968
+港台電視33,http://113.255.161.76:9981/stream/channelid/863274838
+HKIBC,http://113.255.161.76:9981/stream/channelid/392499728
+香港開電視,http://113.255.161.76:9981/stream/channelid/1685148581
+翡翠台,http://113.255.161.76:9981/stream/channelid/1911170778
+Pearl,http://113.255.161.76:9981/stream/channelid/730870503
+J2,http://113.255.161.76:9981/stream/channelid/688589876
+無綫新聞台,http://113.255.161.76:9981/stream/channelid/489782037
+無綫財經·資訊台,http://113.255.161.76:9981/stream/channelid/1243767692
+ViuTVsix,http://113.255.161.76:9981/stream/channelid/1678030550
+ViuTV,http://113.255.161.76:9981/stream/channelid/1273121849
+有線高清603台,http://aliplay.17zuoye.cn/live/6c4106f99cf503fef5682682ba76b990.m3u8
+有線18台,http://aliplay.17zuoye.cn/live/9c384c96c0bc992126e479e51f7d6ab9.m3u8
+有線電影台 HD,http://aliplay.17zuoye.cn/live/4a2d43c8da89c589b927b54a41543af6.m3u8
 台湾频道,#genre#
 民視(720P),rtmp://59.124.75.156/sat/tv051 
 民視(480P),rtmp://59.124.75.156/sat/tv052 
@@ -1723,3 +1739,6 @@ K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
 日韩无码7,https://m3u8.41cdn.com/videos/201910/0y7WTW0v/hls/0y7WTW0v.m3u8
 日韩无码8,https://m3u8.34cdn.com/videos/201908/8v33bdqt/hls/8v33bdqt.m3u8
 日韩无码9,https://m3u8.48cdn.com/videos/201908/sb6ksmxx/hls/sb6ksmxx.m3u8
+罗马帝国艳情史,https://sohu.com-v-sohu.com/20180403/8414_ff7be53a/index.m3u8
+不扣钮的女孩,https://sina.com-h-sina.com/20180908/19125_721b62f7/index.m3u8
+蜜桃成熟时,https://sina.com-h-sina.com/20180909/19550_5e3be6bd/index.m3u8
