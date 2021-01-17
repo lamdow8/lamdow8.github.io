@@ -27,6 +27,8 @@
 第24集,http://yuledy.helanzuida.com/20210115/18420_223503ae/index.m3u8
 第25集,http://yuledy.helanzuida.com/20210115/18419_b1a9ee27/index.m3u8
 第26集,http://yuledy.helanzuida.com/20210115/18450_664fd565/index.m3u8
+第27集,http://down5.okdown6.com/20210116/13193_faa75b41/%E8%B7%A8%E8%BF%87%E9%B8%AD%E7%BB%BF%E6%B1%9F27.mp4
+第28集,http://down5.okdown6.com/20210116/13197_5d4200fb/%E8%B7%A8%E8%BF%87%E9%B8%AD%E7%BB%BF%E6%B1%9F28.mp4
 港澳备用,#genre#
 凤凰中文,http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 凤凰中文,http://hdtv.haust.edu.cn/hls/fhzw.m3u8
