@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://git.io/Jkleu"
+
 #央视频道
 #EXTM3U
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/10/8/1570468475876_655.png" group-title="央视", 央视新闻
@@ -569,7 +569,7 @@ https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://rb.gy/jacmtb" tvg-name="港台電視32" group-title="香港頻道",港台電視32
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8
 #EXTINF:-1 tvg-id="" audio-track="eng" tvg-logo="https://rb.gy/0rw9zh" tvg-name="港台電視33" group-title="香港頻道",港台電視33
-
+http://113.255.161.76:9981/stream/channelid/863274838
 #EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="https://rb.gy/8vzhqs" tvg-country="HK" tvg-url="" tvg-name="港台電視新聞直播" group-title="香港頻道",港台電視新聞直播
 http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u8
 #EXTINF:-1 tvg-id="WXX.HK" tvg-logo="https://rb.gy/vpbeyy" tvg-name="無線新聞" group-title="香港頻道",無綫新聞台
