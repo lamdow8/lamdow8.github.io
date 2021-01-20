@@ -33,6 +33,8 @@
 第30集,http://douban.donghongzuida.com/20210117/15931_a19318bc/index.m3u8
 第31集,http://yuledy.helanzuida.com/20210118/18635_289425b4/index.m3u8
 第32集,http://yuledy.helanzuida.com/20210118/18634_b88cfcf8/index.m3u8
+第33集,http://yuledy.helanzuida.com/20210119/18697_c6444e96/index.m3u8
+第34集,http://yuledy.helanzuida.com/20210119/18696_a16d6105/index.m3u8
 安博新源,#genre#
 翡翠台,http://51ktv.top:5555/hk.php?id=390
 翡翠台,http://51ktv.top:5555/hk.php?id=30
