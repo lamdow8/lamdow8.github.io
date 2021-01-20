@@ -209,7 +209,31 @@ BTV冬奥纪实,http://117.169.124.14:6610/ysten-businessmobile/live/HD-8000k-10
 内蒙古卫视,http://39.134.65.162/PLTV/88888888/224/3221225577/index.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225634/index.m3u8
 兵团卫视,http://ivi.bupt.edu.cn/hls/bttv.m3u8
 北京纪实,http://111.40.205.87/PLTV/88888888/224/3221225729/index.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225756/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226730/index.m3u8
-
+安博新源,#genre#
+翡翠台,http://51ktv.top:5555/hk.php?id=390
+翡翠台,http://51ktv.top:5555/hk.php?id=30
+TVB明珠,http://51ktv.top:5555/hk.php?id=391
+无线新闻,http://51ktv.top:5555/hk.php?id=394
+无线财经,http://51ktv.top:5555/hk.php?id=393
+有线新闻,http://51ktv.top:5555/hk.php?id=395
+NOW新闻,http://51ktv.top:5555/hk.php?id=396
+TVB J2,http://51ktv.top:5555/hk.php?id=392
+有线603HD,http://51ktv.top:5555/hk.php?id=398
+有线18,http://51ktv.top:5555/hk.php?id=44
+有线体育1,http://51ktv.top:5555/hk.php?id=401
+有线体育2,http://51ktv.top:5555/hk.php?id=356
+有线娱乐,http://51ktv.top:5555/hk.php?id=360
+有线电影,http://51ktv.top:5555/hk.php?id=354
+香港开电视,http://51ktv.top:5555/hk.php?id=17
+VIUTV,http://51ktv.top:5555/hk.php?id=72
+VIUTV6,http://51ktv.top:5555/hk.php?id=176
+NOW直播,http://51ktv.top:5555/hk.php?id=400
+RTHK31,http://51ktv.top:5555/hk.php?id=353
+RTHK32,http://51ktv.top:5555/hk.php?id=397
+TVB星河,http://51ktv.top:5555/hk.php?id=1079
+TVB经典,http://51ktv.top:5555/hk.php?id=1083
+TVB 华丽,http://51ktv.top:5555/hk.php?id=1084
+卫视卡式,http://51ktv.top:5555/hk.php?id=1085
 香港频道,#genre#
 有線新聞台1080P,http://125.89.166.215/live-hwcdn.utvlive.top/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94.m3u8
 有線財經資訊台1080P,http://125.89.166.215/live-hwcdn.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4.m3u8
