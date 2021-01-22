@@ -86,7 +86,7 @@ CCTV风云足球,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/322122573
 CCTV风云音乐,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls
 CCTV高尔夫网球,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
 
-🇨🇳卫视频道,#genre#
+📺卫视频道,#genre#
 北京卫视 HD,http://39.134.65.208/PLTV/88888888/224/3221225678/index.m3u8
 浙江卫视 HD,http://39.135.138.59:18890/PLTV/88888910/224/3221225703/index.m3u8
 东方卫视 HD,http://39.135.138.59:18890/PLTV/88888910/224/3221225658/index.m3u8
@@ -504,7 +504,8 @@ B4U Music,http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m
 意大利 V2 音乐频道,http://de1se01.v2beat.live/playlist.m3u8
 美国CMC音乐频道,http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
 美国MTV,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-Cinema影视频道,#genre#
+
+🎦影视频道,#genre#
 CCTV4K UHD,http://111.161.121.214/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8#http://112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8#http://39.134.185.69/PLTV/88888888/224/3221226758/1.m3u8
 纯享4K UHD,http://jxgz.jilu8.cn/PLTV/88888888/224/3221225786/2/index.m3u8?fmt=ts2hls#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/1.m3u8
 BesTV4K UHD,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8#http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8#http://117.148.187.59/PLTV/88888888/224/3221226718/index.m3u8#http://39.134.176.157/PLTV/88888888/224/3221226718/index.m3u8
@@ -535,7 +536,7 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 广东经济科教,http://tv.kksyw.top/zb8234/gn/gudou.php?id=GDjingjikejiaoHD_3000
 广东综艺4K,http://tv.kksyw.top/zb8234/gn/gudou.php?id=GDZYHD4K_38000
 广东影视,http://tv.kksyw.top/zb8234/gn/gudou.php?id=gdyingshi_1500
-DOX专区,#genre#
+🎦DOX专区,#genre#
 Dox剧场,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221226013/1/index.m3u8?fmt=ts2hls
 Dox怡家,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221226016/1/index.m3u8?fmt=ts2hls
 Dox新知,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221226014/1/index.m3u8?fmt=ts2hls
@@ -560,7 +561,7 @@ G+TV华语影院,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/322122578
 求索四,http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 
  
-浙江移动,#genre#
+📺浙江移动,#genre#
 音乐现场 8M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230526/index.m3u8
 CCTV4K 35M2160,http://117.148.187.56/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls
 百视通4K 22M2160,http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/01.m3u8?fmt=ts2hls
@@ -901,7 +902,7 @@ NewTV海外剧场 4M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PL
 咪咕视频 8M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230370/index.m3u8
 移动轮播 8M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229434/01.m3u8?fmt=ts2hls
 
-黑龙江移动,#genre#
+📺黑龙江移动,#genre#
 咪咕视频 30M2160HDR,http://39.134.66.66/PLTV/88888888/224/3221225655/index.m3u8
 咪咕视频 20M2160HDR,http://39.134.66.66/PLTV/88888888/224/3221225651/index.m3u8
 CCTV1 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225601/index.m3u8
@@ -1019,7 +1020,7 @@ NewTV明星大片 2.5M1080,http://39.134.66.66/PLTV/88888888/224/3221225550/inde
 咪咕视频 8M1080,http://39.134.66.66/PLTV/88888888/224/3221225770/index.m3u8
 咪咕视频 8M1080,http://39.134.66.66/PLTV/88888888/224/3221225774/index.m3u8
 
-北京移动,#genre#
+📺北京移动,#genre#
 咪咕4K 31M2160HDR,http://111.13.42.47/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226399/1.m3u8
 咪咕4K 31M2160HDR,http://221.179.136.136/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226400/1.m3u8
 北京IPTV4K超清 17M2160,http://221.179.136.149/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
@@ -1399,7 +1400,7 @@ NewTV金牌综艺 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/32212
 咪咕视频 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226383/1.m3u8
 咪咕视频 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226384/1.m3u8
 
-上海联通,#genre#
+📺上海联通,#genre#
 CCTV1,http://140.207.241.2:8080/live/program/live/cctv1hd/4000000/mnf.m3u8
 CCTV3,http://140.207.241.2:8080/live/program/live/cctv3hd/4000000/mnf.m3u8
 CCTV5,http://140.207.241.2:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
