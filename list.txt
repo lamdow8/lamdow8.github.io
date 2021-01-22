@@ -209,31 +209,7 @@ BTV冬奥纪实,http://117.169.124.14:6610/ysten-businessmobile/live/HD-8000k-10
 内蒙古卫视,http://39.134.65.162/PLTV/88888888/224/3221225577/index.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225634/index.m3u8
 兵团卫视,http://ivi.bupt.edu.cn/hls/bttv.m3u8
 北京纪实,http://111.40.205.87/PLTV/88888888/224/3221225729/index.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225756/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226730/index.m3u8
-安博新源,#genre#
-翡翠台,http://51ktv.top:5555/hk.php?id=390
-翡翠台,http://51ktv.top:5555/hk.php?id=30
-TVB明珠,http://51ktv.top:5555/hk.php?id=391
-无线新闻,http://51ktv.top:5555/hk.php?id=394
-无线财经,http://51ktv.top:5555/hk.php?id=393
-有线新闻,http://51ktv.top:5555/hk.php?id=395
-NOW新闻,http://51ktv.top:5555/hk.php?id=396
-TVB J2,http://51ktv.top:5555/hk.php?id=392
-有线603HD,http://51ktv.top:5555/hk.php?id=398
-有线18,http://51ktv.top:5555/hk.php?id=44
-有线体育1,http://51ktv.top:5555/hk.php?id=401
-有线体育2,http://51ktv.top:5555/hk.php?id=356
-有线娱乐,http://51ktv.top:5555/hk.php?id=360
-有线电影,http://51ktv.top:5555/hk.php?id=354
-香港开电视,http://51ktv.top:5555/hk.php?id=17
-VIUTV,http://51ktv.top:5555/hk.php?id=72
-VIUTV6,http://51ktv.top:5555/hk.php?id=176
-NOW直播,http://51ktv.top:5555/hk.php?id=400
-RTHK31,http://51ktv.top:5555/hk.php?id=353
-RTHK32,http://51ktv.top:5555/hk.php?id=397
-TVB星河,http://51ktv.top:5555/hk.php?id=1079
-TVB经典,http://51ktv.top:5555/hk.php?id=1083
-TVB 华丽,http://51ktv.top:5555/hk.php?id=1084
-卫视卡式,http://51ktv.top:5555/hk.php?id=1085
+
 香港频道,#genre#
 有線新聞台1080P,http://125.89.166.215/live-hwcdn.utvlive.top/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94.m3u8
 有線財經資訊台1080P,http://125.89.166.215/live-hwcdn.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4.m3u8
@@ -252,6 +228,9 @@ J2 1080P,http://61.238.6.49:8001/bysid/82
 TVB无线财经资讯台,http://96.45.185.192/tv.php?vid=wxcjzx
 TVB无线新闻台,http://96.45.185.192/tv.php?vid=wxxw
 翡翠台,http://ldpc.ld0766.club/tvb.php?id=jade
+有线新闻,http://cdn.elibei.com/pull/index/pinyin/hkyxxw
+NOW·新闻台,http://cdn.elibei.com/pull/index/pinyin/hknowxw
+TVB·新闻台,http://cdn.elibei.com/pull/index/pinyin/hkwxxw
 凤凰中文 Max6M1080,http://125.89.166.215/live-hwcdn.utvlive.top/live/551a1a8c3aca46708fd285217be3c96e/4538203d786e4803bac20e36392cffd9.m3u8
 凤凰中文 Max6M1080,http://125.89.166.215/live-hwcdn.utvlive.top/live/551a1a8c3aca46708fd285217be3c96e/4538203d786e4803bac20e36392cffd9-1.m3u8
 凤凰香港 Max6M1080,http://125.89.166.215/live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c.m3u8
@@ -340,7 +319,32 @@ FOX體育2台(480P),rtmp://59.124.75.156/sat/hk022
 華視教育文化(720P),rtmp://59.124.75.156/sat/md031 
 ELEVEN SPORTS 2(480P),rtmp://59.124.75.156/sat/md021 
 ELEVEN SPORTS PLUS(480P),rtmp://59.124.75.156/sat/md011
-
+民视,http://cdn.elibei.com/pull/index/pinyin/twms#rtmp://59.124.75.157/sat/tv051
+台视,rtmp://59.124.75.156/sat/tv071
+中视,rtmp://59.124.75.157/sat/tv091
+华视,rtmp://59.124.75.156/sat/tv111
+TVBS·欢乐台,rtmp://59.124.75.157/sat/tv421
+TVBS·新闻台,http://cdn.elibei.com/pull/index/pinyin/twtvbsxw#rtmp://59.124.75.156/sat/tv551#http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+环宇新闻,http://cdn.elibei.com/pull/index/pinyin/twhyxw
+中天新闻,http://cdn.elibei.com/pull/index/pinyin/twztxw
+东森新闻,http://cdn.elibei.com/pull/index/pinyin/twdsxw
+东森超视,rtmp://59.124.75.156/sat/tv771
+东森财经新闻,rtmp://59.124.75.157/sat/tv571
+三立财经新闻·,http://seb.sason.top/sc/slinews_fhd.m3u8
+三立直播新闻·,http://cdn.elibei.com/pull/index/pinyin/twsllive#http://seb.sason.top/sc/sllive_fhd.m3u8
+三立台湾台,https://ws.matchupstream.tuboshu.com/live/e2f69def7b201b072470547bf0e70cf4.flv
+民视台湾台,http://cdn.elibei.com/pull/index/pinyin/twmstw#rtmp://59.124.75.157/sat/md051
+民视第一台,http://cdn.elibei.com/pull/index/pinyin/twmsdy
+纬来育乐,rtmp://59.124.75.157/sat/tv701
+纬来体育,https://ws.matchupstream.tuboshu.com/live/166aad183d9cb41f9177716f4b0cb05d.flv#rtmp://59.124.75.156/sat/tv721
+爱尔达体育一,rtmp://59.124.75.157/sat/md011
+MoMo·综合台,rtmp://59.124.75.157/sat/tv761
+东森新闻·,http://seb.sason.top/sc/dsxw_fhd.m3u8
+台视新闻·,http://cdn.elibei.com/pull/index/pinyin/twtsxw#http://seb.sason.top/sc/tsxw_fhd.m3u8
+中视新闻·,http://cdn.elibei.com/pull/index/pinyin/twzsxw#http://seb.sason.top/sc/zsxw_fhd.m3u8
+华视新闻·,http://cdn.elibei.com/pull/index/pinyin/twhsxw#http://seb.sason.top/sc/hsxw_fhd.m3u8
+民视新闻·,http://cdn.elibei.com/pull/index/pinyin/twmsxw#http://210.61.56.23/hls/ftvtv/index.m3u8#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://seb.sason.top/sc/msxw_fhd.m3u8
+壹新闻台·,http://cdn.elibei.com/pull/index/pinyin/twyxw#http://stream.nexttv.com.tw/n001/hd/live.m3u8
 翻墙专区Ⅰ,#genre#
 RTHK31,http://livetv.dnsfor.me:80/channel.1.m3u8
 RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
