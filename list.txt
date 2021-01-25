@@ -280,6 +280,23 @@ ViuTV,http://113.255.161.76:9981/stream/channelid/1273121849
 有線高清603台,http://aliplay.17zuoye.cn/live/6c4106f99cf503fef5682682ba76b990.m3u8
 有線18台,http://aliplay.17zuoye.cn/live/9c384c96c0bc992126e479e51f7d6ab9.m3u8
 有線電影台 HD,http://aliplay.17zuoye.cn/live/4a2d43c8da89c589b927b54a41543af6.m3u8
+翡翠台,http://93.190.139.36:8278/streams/d/jade_twn/playlist.m3u8
+TVB 新闻台,http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
+J 2,http://93.190.139.36:8278/streams/d/j2_twn/playlist.m3u8
+J 5,http://93.190.139.36:8278/streams/d/j5_twn/playlist.m3u8
+珍珠台,http://93.190.139.36:8278/streams/d/pearl_twn/playlist.m3u8
+凤凰香港,http://93.190.139.36:8278/streams/d/hkphoenix_twn/playlist.m3u8
+凤凰卫视,http://93.190.139.36:8278/streams/d/phoenixtv_hd/playlist.m3u8
+凤凰资讯,http://93.190.139.36:8278/streams/d/phoenixinfo_hd/playlist.m3u8
+无线财经资讯,http://93.190.139.36:8278/streams/d/tvbcaijing_twn/playlist.m3u8
+TVB 星河 Xing He,http://93.190.139.36:8278/streams/d/tvbxinghe_twn/playlist.m3u8
+ViuTV,http://93.190.139.36:8278/streams/d/9ae6d37d9a/playlist.m3u8
+ViuTV,http://93.190.139.36:8278/streams/d/viu_twn/playlist.m3u8
+Viu1TV,http://93.190.139.36:8278/streams/d/viu1_twn/playlist.m3u8
+HK03_電影一臺,http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
+有线新闻,http://93.190.139.36:8278/streams/d/hkcnews_twn/playlist.m3u8
+RTHK31,http://93.190.139.36:8278/streams/d/rhk31_twn/playlist.m3u8
+RTHK32,http://93.190.139.36:8278/streams/d/rhk32_twn/playlist.m3u8
 🇹🇼台湾频道🇹🇼,#genre#
 民視(720P),rtmp://59.124.75.156/sat/tv051 
 民視(480P),rtmp://59.124.75.156/sat/tv052 
