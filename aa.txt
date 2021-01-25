@@ -1,6 +1,6 @@
 二哥电影,#genre#
 夺冠,http://douban.donghongzuida.com/20201127/13091_80fc8278/index.m3u8#https://good.jieshuo-okzy.com/20201126/8289_45c37354/index.m3u8#https://youku.cdn7-okzy.com/20200929/20910_25c9a537/index.m3u8
-跨过鸭绿江,#genre#
+跨过鸭绿江(更新完毕),#genre#
 第01集,http://douban.donghongzuida.com/20201228/14884_61ee8297/index.m3u8
 第02集,http://douban.donghongzuida.com/20201228/14883_95e63c4c/index.m3u8
 第03集,http://yuledy.helanzuida.com/20201228/17316_8a399872/index.m3u8
