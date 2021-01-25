@@ -38,7 +38,9 @@
 第35集,http://yuledy.helanzuida.com/20210120/18801_eda1e9ed/index.m3u8
 第36集,http://yuledy.helanzuida.com/20210120/18800_b6ba4714/index.m3u8
 第37集,http://douban.donghongzuida.com/20210122/16165_a0b28ea6/index.m3u8
-
+第38集,http://yuledy.helanzuida.com/20210122/18982_2da9bc4e/index.m3u8
+第39集,http://douban.donghongzuida.com/20210124/16273_d0171410/index.m3u8
+第40集,http://yuledy.helanzuida.com/20210124/19096_45f41e49/index.m3u8
 港澳备用,#genre#
 凤凰中文,http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 凤凰中文,http://hdtv.haust.edu.cn/hls/fhzw.m3u8
