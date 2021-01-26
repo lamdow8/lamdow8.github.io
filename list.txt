@@ -242,6 +242,7 @@ BTV冬奥纪实,http://117.169.124.14:6610/ysten-businessmobile/live/HD-8000k-10
 北京纪实,http://111.40.205.87/PLTV/88888888/224/3221225729/index.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225756/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226730/index.m3u8
 
 🇭🇰香港频道,#genre#
+有線新聞台1080P,http://125.89.166.215:80/live-hwcdn.utvlive.top/live/fe19cd44717842fea90503d10aa7bab9/543b4d76d8614cf49194abe9db521736-1.m3u8
 有線新聞台1080P,http://live-hwcdn.utvlive.top:80/live/fe19cd44717842fea90503d10aa7bab9/543b4d76d8614cf49194abe9db521736.m3u8
 有線財經資訊台1080P,http://live-hwcdn.utvlive.top:80/live/0a5615586f6d450d889e1fe76fcb0f4d/ac715369d4ca49f094ef2cba593f8b19.m3u8
 有線綜合娛樂台1080P,http://live-hwcdn.utvlive.top:80/live/c353edfe147e431792d80d12fe2aadef/39b1f1d9007e456c9983f190a5f51509.m3u8
