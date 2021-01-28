@@ -1420,6 +1420,7 @@ SiTV幸福彩,http://183.207.255.188/live/program/live/xfchd/4000000/mnf.m3u8
 百事通体育,http://183.207.255.188/live/program/live/hdnba7/4000000/mnf.m3u8
 
 齐秦的歌,#genre#
+柔情主義 羅曼史,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20210128/5623330zfeeRlPn6tfDQMJAgL.mp4
 纪念日,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/5623330vOp1VRx2A4qdRvVXze.mp4
 花祭,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201126/5623330iGckyem8jDhgEp8xyO.mp4
 外面的世界,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201126/56233307PD4j3e5e1zllrBk84.mp4
