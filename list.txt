@@ -257,10 +257,7 @@ J2 1080P,http://61.238.6.49:8001/bysid/82
 TVB无线财经资讯台,http://96.45.185.192/tv.php?vid=wxcjzx
 TVB无线新闻台,http://96.45.185.192/tv.php?vid=wxxw
 翡翠台,http://ldpc.ld0766.club/tvb.php?id=jade
-有线新闻,http://cdn.elibei.com/pull/index/pinyin/hkyxxw
 有线新闻,http://player.ggiptv.com:13164/v/hkcxw.m3u8
-NOW·新闻台,http://cdn.elibei.com/pull/index/pinyin/hknowxw
-TVB·新闻台,http://cdn.elibei.com/pull/index/pinyin/hkwxxw
 凤凰中文 Max6M1080,http://125.89.166.215/live-hwcdn.utvlive.top/live/551a1a8c3aca46708fd285217be3c96e/4538203d786e4803bac20e36392cffd9.m3u8
 凤凰中文 Max6M1080,http://125.89.166.215/live-hwcdn.utvlive.top/live/551a1a8c3aca46708fd285217be3c96e/4538203d786e4803bac20e36392cffd9-1.m3u8
 凤凰香港 Max6M1080,http://125.89.166.215/live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c.m3u8
@@ -366,32 +363,24 @@ FOX體育2台(480P),rtmp://59.124.75.156/sat/hk022
 華視教育文化(720P),rtmp://59.124.75.156/sat/md031 
 ELEVEN SPORTS 2(480P),rtmp://59.124.75.156/sat/md021 
 ELEVEN SPORTS PLUS(480P),rtmp://59.124.75.156/sat/md011
-民视,http://cdn.elibei.com/pull/index/pinyin/twms#rtmp://59.124.75.157/sat/tv051
+民视,rtmp://59.124.75.157/sat/tv051
 台视,rtmp://59.124.75.156/sat/tv071
 中视,rtmp://59.124.75.157/sat/tv091
 华视,rtmp://59.124.75.156/sat/tv111
 TVBS·欢乐台,rtmp://59.124.75.157/sat/tv421
-TVBS·新闻台,http://cdn.elibei.com/pull/index/pinyin/twtvbsxw#rtmp://59.124.75.156/sat/tv551#http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-环宇新闻,http://cdn.elibei.com/pull/index/pinyin/twhyxw
-中天新闻,http://cdn.elibei.com/pull/index/pinyin/twztxw
-东森新闻,http://cdn.elibei.com/pull/index/pinyin/twdsxw
+TVBS·新闻台,rtmp://59.124.75.156/sat/tv551#http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 东森超视,rtmp://59.124.75.156/sat/tv771
 东森财经新闻,rtmp://59.124.75.157/sat/tv571
 三立财经新闻·,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立直播新闻·,http://cdn.elibei.com/pull/index/pinyin/twsllive#http://seb.sason.top/sc/sllive_fhd.m3u8
 三立台湾台,https://ws.matchupstream.tuboshu.com/live/e2f69def7b201b072470547bf0e70cf4.flv
-民视台湾台,http://cdn.elibei.com/pull/index/pinyin/twmstw#rtmp://59.124.75.157/sat/md051
-民视第一台,http://cdn.elibei.com/pull/index/pinyin/twmsdy
 纬来育乐,rtmp://59.124.75.157/sat/tv701
 纬来体育,https://ws.matchupstream.tuboshu.com/live/166aad183d9cb41f9177716f4b0cb05d.flv#rtmp://59.124.75.156/sat/tv721
 爱尔达体育一,rtmp://59.124.75.157/sat/md011
 MoMo·综合台,rtmp://59.124.75.157/sat/tv761
 东森新闻·,http://seb.sason.top/sc/dsxw_fhd.m3u8
-台视新闻·,http://cdn.elibei.com/pull/index/pinyin/twtsxw#http://seb.sason.top/sc/tsxw_fhd.m3u8
-中视新闻·,http://cdn.elibei.com/pull/index/pinyin/twzsxw#http://seb.sason.top/sc/zsxw_fhd.m3u8
-华视新闻·,http://cdn.elibei.com/pull/index/pinyin/twhsxw#http://seb.sason.top/sc/hsxw_fhd.m3u8
-民视新闻·,http://cdn.elibei.com/pull/index/pinyin/twmsxw#http://210.61.56.23/hls/ftvtv/index.m3u8#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://seb.sason.top/sc/msxw_fhd.m3u8
-壹新闻台·,http://cdn.elibei.com/pull/index/pinyin/twyxw#http://stream.nexttv.com.tw/n001/hd/live.m3u8
+民视新闻·,http://210.61.56.23/hls/ftvtv/index.m3u8#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://seb.sason.top/sc/msxw_fhd.m3u8
+壹新闻台·,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 翻墙专区Ⅰ,#genre#
 RTHK31,http://livetv.dnsfor.me:80/channel.1.m3u8
 RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
@@ -572,8 +561,100 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 求索生活,http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
 求索科学,http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 求索记录,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
- 
-
+ 📺易视腾源,#genre#
+纯享4K 20M2160,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=2
+CCTV1 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=2
+CCTV1 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=2
+CCTV2 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=2
+CCTV2 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=2
+CCTV3 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=2
+CCTV3 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000013682&livemode=1&stbId=2
+CCTV4 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=2
+CCTV5 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=2
+CCTV5+ 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=2
+CCTV6 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=2
+CCTV6 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=2
+CCTV7 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=2
+CCTV7 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000024341&livemode=1&stbId=2
+CCTV8 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=2
+CCTV8 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000031433&livemode=1&stbId=2
+CCTV9 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028286&livemode=1&stbId=2
+CCTV9 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=2
+CCTV10 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000026367&livemode=1&stbId=2
+CCTV10 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023734&livemode=1&stbId=2
+CCTV11 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=2
+CCTV12 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001640&livemode=1&stbId=2
+CCTV12 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000032494&livemode=1&stbId=2
+CCTV13 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=2
+CCTV14 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021349&livemode=1&stbId=2
+CCTV14 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008170&livemode=1&stbId=2
+CCTV15 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=2
+CCTV17 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=2
+东南卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=2
+东方卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=2
+东方卫视 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000005866&livemode=1&stbId=2
+北京卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017156&livemode=1&stbId=2
+北京卫视 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021288&livemode=1&stbId=2
+天津卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000831&livemode=1&stbId=2
+天津卫视 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003475&livemode=1&stbId=2
+安徽卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020780&livemode=1&stbId=2
+安徽卫视 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000030159&livemode=1&stbId=2
+山东卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012807&livemode=1&stbId=2
+广东卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028357&livemode=1&stbId=2
+广东卫视 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014176&livemode=1&stbId=2
+江苏卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004684&livemode=1&stbId=2
+江苏卫视 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001828&livemode=1&stbId=2
+江西卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000013731&livemode=1&stbId=2
+浙江卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=2
+浙江卫视 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014260&livemode=1&stbId=2
+深圳卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011645&livemode=1&stbId=2
+深圳卫视 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009227&livemode=1&stbId=2
+辽宁卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000024033&livemode=1&stbId=2
+湖北卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000010355&livemode=1&stbId=2
+湖北卫视 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000024621&livemode=1&stbId=2
+湖南卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=2
+湖南卫视 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000032695&livemode=1&stbId=2
+海南卫视 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=2
+重庆卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=2
+黑龙江卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009082&livemode=1&stbId=2
+黑龙江卫视 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=2
+黑莓电竞 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003775&livemode=1&stbId=2
+黑莓电竞 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006906&livemode=1&stbId=2
+黑莓电竞 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5320946857686967621&livemode=1&stbId=2
+黑莓电影 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=2
+黑莓动画 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=2
+上海纪实人文 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000010606&livemode=1&stbId=2
+上海纪实人文 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016545&livemode=1&stbId=2
+上海五星体育 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5000000010000017540&livemode=1&stbId=2
+北京冬奥纪实 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=2
+NewTV中国功夫 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=2
+NewTV军事评论 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5822616274253344775&livemode=1&stbId=2
+NewTV军旅剧场 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7485075951068666323&livemode=1&stbId=2
+NewTV农业致富 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=2
+NewTV动作电影 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=2
+NewTV古装剧场 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6859053933687922163&livemode=1&stbId=2
+NewTV家庭剧场 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6316377948248689070&livemode=1&stbId=2
+NewTV怡伴健康 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7820874641606664941&livemode=1&stbId=2
+NewTV惊悚悬疑 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7151256057701199617&livemode=1&stbId=2
+NewTV明星大片 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=2
+NewTV明星大片 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=2
+NewTV武搏世界 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=2
+NewTV海外剧场 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=2
+NewTV潮妈辣婆 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=2
+NewTV炫舞未来 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=2
+NewTV爱情喜剧 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8393829412396288037&livemode=1&stbId=2
+NewTV精品体育 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6460382139625130259&livemode=1&stbId=2
+NewTV精品大剧 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7882297361445410858&livemode=1&stbId=2
+NewTV精品纪录 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6298506997017621594&livemode=1&stbId=2
+NewTV超级体育 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009204&livemode=1&stbId=2
+NewTV超级体育 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=2
+NewTV超级电影 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012884&livemode=1&stbId=2
+NewTV超级电影 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=2
+NewTV超级电视剧 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008139&livemode=1&stbId=2
+NewTV超级综艺 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000025771&livemode=1&stbId=2
+NewTV超级综艺 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=2
+NewTV金牌综艺 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=2
+NewTV魅力潇湘 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=2
 
 📺北京移动,#genre#
 咪咕4K 31M2160HDR,http://111.13.42.47/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226399/1.m3u8
