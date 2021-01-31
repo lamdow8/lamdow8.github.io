@@ -9,8 +9,8 @@ CCTV-4美洲,http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvamerica_2_hd/inde
 CCTV-4欧洲,http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2_hd/index.m3u8
 CCTV-5体育,http://39.130.215.222:6410/gitv_live/CCTV-5/CCTV-5.m3u8
 CCTV-5体育,http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
-CCTV5+体育赛事,http://39.130.215.222:6410/gitv_live/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
-CCTV5+体育赛事,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5+体育赛事,http://39.130.215.222:6410/gitv_live/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
+CCTV-5+体育赛事,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 CCTV-6电影,http://39.135.138.59:18890/PLTV/88888910/224/3221225632/index.m3u8
 CCTV-7国防军事,http://39.135.138.59:18890/PLTV/88888910/224/3221225624/index.m3u8
 CCTV-8电视剧,http://39.135.138.59:18890/PLTV/88888910/224/3221225631/index.m3u8
@@ -49,7 +49,7 @@ CCTV-2财经,http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
 CCTV-3综艺,http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
 CCTV-4国际,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
 CCTV-5体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
-CCTV5+体育赛事,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5+体育赛事,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 CCTV-6电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225650/index.m3u8
 CCTV-7国防军事,http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
 CCTV-8电视剧,http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
@@ -162,15 +162,6 @@ CCTV-17农业,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 金鹰卡通,http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8
 卡酷少儿,http://39.134.115.163:8080/PLTV/88888910/224/3221225677/index.m3u8
 优漫卡通,http://39.134.115.163:8080/PLTV/88888910/224/3221225665/index.m3u8
-BTV冬奥纪实,http://117.169.124.14:6610/ysten-businessmobile/live/HD-8000k-1080P-beijingjishi/1.m3u8
-北京卫视,http://117.169.124.14:6610/ysten-businessmobile/live/HD-8000k-1080P-beijingstv/1.m3u8
-湖南卫视,http://117.169.124.14:6610/ysten-businessmobile/live/HD-8000k-1080P-hunanstv/1.m3u8
-东方卫视,http://117.169.124.14:6610/ysten-businessmobile/live/HD-8000k-1080P-dongfangstv/1.m3u8
-江苏卫视,http://117.169.124.14:6610/ysten-businessmobile/live/HD-8000k-1080P-jiangsustv/1.m3u8
-浙江卫视,http://117.169.124.14:6610/ysten-businessmobile/live/HD-8000k-1080P-zhejiangstv/1.m3u8
-广东卫视,http://117.169.124.14:6610/ysten-businessmobile/live/HD-8000k-1080P-guangdongstv/1.m3u8
-重庆卫视,http://117.169.124.35:6610/ysten-businessmobile/live/HD-8000k-1080P-chongqingstv/1.m3u8
-深圳卫视,http://117.169.124.35:6610/ysten-businessmobile/live/HD-8000k-1080P-shenzhenstv/1.m3u8
 
 辽宁卫视,http://112.17.40.140/PLTV/88888888/224/3221226148/index.m3u8
 重庆卫视,http://qxlmlive.cbg.cn:1935/app_2/ls_67.stream/chunklist.m3u8
