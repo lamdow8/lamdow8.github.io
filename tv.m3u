@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:-1 group-title="央视",CCTV1
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV1
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV2
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226371/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV2
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226472/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV3
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226471/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV4
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226470/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV5
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV5+
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226349/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV5+
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226458/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV6
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226468/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV7
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226467/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226485/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV9
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226465/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV10
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226464/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV11
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226463/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV12
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226462/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV13
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV14
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226461/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV15
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226333/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV17
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226459/1.m3u8
+#EXTINF:-1 group-title="卫视",东南卫视HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226496/1.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226364/1.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226505/1.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/1.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226502/1.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226499/1.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226501/1.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226508/1.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226366/1.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226506/1.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226243/1.m3u8
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226507/1.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226365/1.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226504/1.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226495/1.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226503/1.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/1.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226497/1.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226500/1.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226498/1.m3u8
