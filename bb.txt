@@ -3,7 +3,7 @@
 2019年,https://rescdn.yishihui.com/longvideo/transcode/video/live/201905301885618UgHvkjVyWXOEoY4K6A.m3u8
 2020年,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200128/6799382qfg4DLos2ts6O0dudy.m3u8
 喜爱频道,#genre#
-书画频道（新）,http://cdn.chxjon.cn/QQ2383132354/gzyx.php?id=shpd
+书画频道(新),http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=shpd#http://cdn.chxjon.cn/QQ2383132354/gzyx.php?id=shpd
 书画频道,rtmp://112.73.66.58/livepkgr/shtv#http://wx.tt1008.top/gd.php?id=shuhua_1500#http://36.112.79.186:8235/hls/hd-live.m3u8#http://125.210.152.18:9090/live/SH.m3u8#http://gehua-back2source.beijingcloud.com.cn:8088/vsd33/live/ShuHuaPinDao_2000.m3u8?a=0&ET=1608085398475&TOKEN=733f6308f32af8710c91405a2d513380
 CCTV台球(硬解),http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226156/1/index.m3u8?fmt=ts2hls
 CCTV台球(硬解),http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
