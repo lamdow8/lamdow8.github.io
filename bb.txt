@@ -7,9 +7,19 @@
 书画频道,rtmp://112.73.66.58/livepkgr/shtv#http://wx.tt1008.top/gd.php?id=shuhua_1500#http://36.112.79.186:8235/hls/hd-live.m3u8#http://125.210.152.18:9090/live/SH.m3u8#http://gehua-back2source.beijingcloud.com.cn:8088/vsd33/live/ShuHuaPinDao_2000.m3u8?a=0&ET=1608085398475&TOKEN=733f6308f32af8710c91405a2d513380
 CCTV台球(硬解),http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226156/1/index.m3u8?fmt=ts2hls
 CCTV台球(硬解),http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
-无线新闻台,http://96.45.185.192/tv.php?vid=wxxw
-凤凰中文,http://112.102.214.193:65530/live/fhzw/index.m3u8
-凤凰资讯,http://112.102.214.193:65530/live/fhzx/index.m3u8
+排笛[老鹰之歌],https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200317/5623330n7oQ6uBlXFhUdZTz3A-safe1600663646.m3u8
+雅尼-Rainmaker,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201213/5623330A7S1Bib8Mk1R4xdS35.mp4
+雅尼-On Sacred Ground,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201213/5623330Lqza92Pie30kCoICfj.mp4
+雅尼-For All Seasons,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201213/5623330ewhRb5UqXRRsb9nKqO.mp4
+雅尼-Playtime,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201213/5623330e08trzq9cZvOAB6uP6.mp4
+巨星金曲迎新春 第1集,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/5623330Er2DcyIsoClOlISJ3H.m3u8
+巨星金曲迎新春 第2集,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/5623330OSnsCdwvvnyO7tVo9w.m3u8
+巨星金曲迎新春 第3集,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/5623330DP3dRrYfqtq6VyPBNl.m3u8
+巨星金曲迎新春 第4集,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/56233303FWTFhdGBb9wYV7boH.m3u8
+巨星金曲迎新春 第5集,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/5623330TxVAehrMQwH94njYEM.m3u8
+有線新聞台1080P,http://125.89.166.215:80/live-hwcdn.utvlive.top/live/fe19cd44717842fea90503d10aa7bab9/543b4d76d8614cf49194abe9db521736-1.m3u8
+凤凰中文,http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
+凤凰资讯,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
 央视频道,#genre#
 
 央视新闻,https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
@@ -187,7 +197,6 @@ CCTV-15,http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.li
 我和你,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200615/5623330a89QV1ykCAfSGyH6QE.m3u8
 沉默的母亲,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200506/5623330vFNS6CS9tiqFS7rZAs.m3u8
 奉献,https://rescdn.yishihui.com/longvideo/transcode/video/live/201905095623330xvoKi86bNehL7siFEy.m3u8
-排笛[老鹰之歌],https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200317/5623330n7oQ6uBlXFhUdZTz3A.m3u8
 潇洒的走,https://rescdn.yishihui.com/longvideo/transcode/video/20190211/5623330hARITCFGlPjuV3gh1D.m3u8
 似是故人来,https://rescdn.yishihui.com/longvideo/transcode/video/20190212/5623330AcllmC0HGNfgNlsEZQ.m3u8
 
