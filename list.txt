@@ -307,6 +307,15 @@ MoMo·综合台,rtmp://59.124.75.157/sat/tv761
 民视新闻·,http://210.61.56.23/hls/ftvtv/index.m3u8#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://seb.sason.top/sc/msxw_fhd.m3u8
 壹新闻台·,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 🇭🇰港台测试1,#genre#
+有线电影,https://ws.matchupstream.tuboshu.com/live/6b4f8230df41d3a243d3834438369558.flv
+有线新闻,https://ws.matchupstream.tuboshu.com/live/726c8af33b147a1859123b61c8c742c5.flv
+TVB·翡翠台,https://ws.matchupstream.tuboshu.com/live/45d6f31c2ea6757fc825ab4931426501.flv
+TVB·新闻台,https://ws.matchupstream.tuboshu.com/live/6ab020565988340747e0cf9b23fa75f5.flv
+TVB·财经台,https://ws.matchupstream.tuboshu.com/live/e8b4cbe1f7b6e7f38ee0a552ce972f4e.flv
+TVB·J2,https://ws.matchupstream.tuboshu.com/live/ad3501c460e7c7376e43aa8e69ba9ed6.flv
+VIU·TV,https://ws.matchupstream.tuboshu.com/live/4d553e5af2cc5f64a49a0ee74a63a151.flv
+三立台湾,https://ws.matchupstream.tuboshu.com/live/5bdf28e366f3cdf7f7d902f466d874ea.flv
+HBO·亚洲,https://flv3948069e.live.126.net/live/8a4fe1c66d6f48b119332b49e950cc53.flv
 TVBS·欢乐台,https://ws.matchupstream.tuboshu.com/live/bd863d709ba29af6179767e2157269f1.flv
 TVBS·新闻台,https://ws.matchupstream.tuboshu.com/live/0b02576813e23ac4f7213bce5b978fb8.flv
 中天新闻,https://ws.matchupstream.tuboshu.com/live/5ab172d329172e2ebbd87a4eff1567dd.flv
