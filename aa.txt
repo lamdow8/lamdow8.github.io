@@ -1,6 +1,9 @@
-二哥电影,#genre#
+二哥电影(更新),#genre#
+你好李焕英,https://bilibili.xiang-kuyun.com/20210215/11581_edc20a8a/index.m3u8
+唐人街探案3,https://bilibili.xiang-kuyun.com/20210215/11582_e5549011/index.m3u8
+侍神令,https://bilibili.xiang-kuyun.com/20210215/11583_c5bfbf97/1000k/hls/index.m3u8
 夺冠,http://douban.donghongzuida.com/20201127/13091_80fc8278/index.m3u8#https://good.jieshuo-okzy.com/20201126/8289_45c37354/index.m3u8#https://youku.cdn7-okzy.com/20200929/20910_25c9a537/index.m3u8
-◎电影◎_221,#genre#
+少林寺,http://ggkkmuup9wuugp6ep8d.exp.bcevod.com/mda-mbbfumeb1wj2810g/mda-mbbfumeb1wj2810g.mp4
 除暴,https://v4.dious.cc/20210103/dIahdcKu/1000kb/hls/index.m3u8?skipl=1
 醉拳2,http://cloud.qdetyy.com/dianying/93802/zuiquan2guoyu/zuiquan2guoyu_720.m3u8
 小夫妻,http://cloud.qdetyy.com/dianying/166509/xiaofuqiE01/xiaofuqiE01_720.m3u8
