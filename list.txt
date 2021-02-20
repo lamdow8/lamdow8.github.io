@@ -307,88 +307,41 @@ MoMo·综合台,rtmp://59.124.75.157/sat/tv761
 民视新闻·,http://210.61.56.23/hls/ftvtv/index.m3u8#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://seb.sason.top/sc/msxw_fhd.m3u8
 壹新闻台·,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 🇭🇰港台测试1,#genre#
-有线电影,https://ws.matchupstream.tuboshu.com/live/6b4f8230df41d3a243d3834438369558.flv
-有线新闻,https://ws.matchupstream.tuboshu.com/live/726c8af33b147a1859123b61c8c742c5.flv
-TVB·翡翠台,https://ws.matchupstream.tuboshu.com/live/45d6f31c2ea6757fc825ab4931426501.flv
-TVB·新闻台,https://ws.matchupstream.tuboshu.com/live/6ab020565988340747e0cf9b23fa75f5.flv
-TVB·财经台,https://ws.matchupstream.tuboshu.com/live/e8b4cbe1f7b6e7f38ee0a552ce972f4e.flv
-TVB·J2,https://ws.matchupstream.tuboshu.com/live/ad3501c460e7c7376e43aa8e69ba9ed6.flv
-VIU·TV,https://ws.matchupstream.tuboshu.com/live/4d553e5af2cc5f64a49a0ee74a63a151.flv
-三立台湾,https://ws.matchupstream.tuboshu.com/live/5bdf28e366f3cdf7f7d902f466d874ea.flv
-HBO·亚洲,https://flv3948069e.live.126.net/live/8a4fe1c66d6f48b119332b49e950cc53.flv
-TVBS·欢乐台,https://ws.matchupstream.tuboshu.com/live/bd863d709ba29af6179767e2157269f1.flv
-TVBS·新闻台,https://ws.matchupstream.tuboshu.com/live/0b02576813e23ac4f7213bce5b978fb8.flv
-中天新闻,https://ws.matchupstream.tuboshu.com/live/5ab172d329172e2ebbd87a4eff1567dd.flv
-东森新闻,https://ws.matchupstream.tuboshu.com/live/7b576cf09c63f4cefc0f232994df07e5.flv
-东森超视,https://ws.matchupstream.tuboshu.com/live/cfcf147ea8507965f94ccd1d44ca53bc.flv
-东森财经新闻,https://ws.matchupstream.tuboshu.com/live/ff7c87d22f090f2e734a6f5acc3e53e5.flv
-纬来育乐,https://ws.matchupstream.tuboshu.com/live/f637e05243fc75b73dcdb19a38e78421.flv
-纬来体育,https://ws.matchupstream.tuboshu.com/live/6e6ef8d5bdc742ca9ed4450a704cfb70.flv
-纬来日本,https://ws.matchupstream.tuboshu.com/live/6151669c8e46646008dd329343ee873f.flv
-华视新闻·,https://ws.matchupstream.tuboshu.com/live/7e3ad557504271c519482bc5059a29d6.flv
-民视新闻·,https://ws.matchupstream.tuboshu.com/live/188f7ac842c4e90d0ad7221916b4e72c.flv
+有线电影,https://ws.matchupstream.tuboshu.com/live/e2b3d2f6bd16d1b53e0fb36ae6d58451.flv
+有线新闻,https://ws.matchupstream.tuboshu.com/live/f58d6d6c2ad3e39803b238b4e98202da.flv
+有线财经,http://live-hwcdn.utvlive.top/live/0a5615586f6d450d889e1fe76fcb0f4d/ac715369d4ca49f094ef2cba593f8b19-1.m3u8
+NOW·新闻台,https://ws.matchupstream.tuboshu.com/live/ce85390ae9680900f081f0b894764215.flv
+TVB·翡翠台,https://ws.matchupstream.tuboshu.com/live/563c08013d64fcba0820226f7be7ab1c.flv
+TVB·新闻台,https://ws.matchupstream.tuboshu.com/live/f8c1e2da0759f0a00f1849255c5f3d3c.flv
+TVB·财经台,https://ws.matchupstream.tuboshu.com/live/32f37725eae856d4bb3c8d97a243fd8b.flv
+TVB·J2,https://ws.matchupstream.tuboshu.com/live/320e04d2756fb4b0a4add4240608d6e7.flv
+VIU·TV,https://ws.matchupstream.tuboshu.com/live/516057e3f53adb07c8ec9e349b8200f4.flv
+TVBS·欢乐台,https://ws.matchupstream.tuboshu.com/live/db9084224f1680449e40649d4719cdfa.flv
+TVBS·新闻台,https://ws.matchupstream.tuboshu.com/live/10c65920704e23d0b560b432fff2f06b.flv
+中天新闻,https://ws.matchupstream.tuboshu.com/live/5461de1281165317a1e12e560b04eb2d.flv
+东森新闻,https://ws.matchupstream.tuboshu.com/live/c99cfecb362da6ac615565efde83aadc.flv
+东森超视,https://ws.matchupstream.tuboshu.com/live/556f9678b14509869a4ea10bb7b8894c.flv
+东森财经新闻,https://ws.matchupstream.tuboshu.com/live/17a84b61f54e49f489243fb7f19a63ce.flv
+三立直播新闻·,https://ws.matchupstream.tuboshu.com/live/cbfedc3bbc08b22848d41b1466af791e.flv
+三立台湾,https://ws.matchupstream.tuboshu.com/live/fe21d25f31161b242d21cb862dd84d82.flv
+纬来育乐,https://ws.matchupstream.tuboshu.com/live/7398da9e90148262e9e3b14ec3304d04.flv
+纬来体育,https://ws.matchupstream.tuboshu.com/live/b7ddebd49d54afddb142a0899754e032.flv
+纬来日本,https://ws.matchupstream.tuboshu.com/live/04a3356547cbcf238b94726c63a96a9e.flv
+台视新闻·,https://ws.matchupstream.tuboshu.com/live/8f284a12632002eaa2d6cc7d565fd8bd.flv
+中视新闻·,https://ws.matchupstream.tuboshu.com/live/2a8abf470bc98035a9566a0475939669.flv
+华视新闻·,https://ws.matchupstream.tuboshu.com/live/739e1a61acd1889996d3171961f038b4.flv
+民视新闻·,https://ws.matchupstream.tuboshu.com/live/1d84ff590ddf27ac88e3e17765aa25e2.flv
+HBO·亚洲,https://flv3948069e.live.126.net/live/e8938a9702c55985ce1abd7f9f2eae04.flv
 凤凰中文,http://playurl.elibei.com/tv/channel/fenghuang?id=2#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=1
 凤凰资讯,http://playurl.elibei.com/tv/channel/fenghuang?id=1#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=2
 凤凰香港,http://playurl.elibei.com/tv/channel/fenghuang?id=3#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=3
-
-有线新闻台,http://v3948069e.live.126.net/live/us01/hk20200114yxnews.flv
-有线新闻台,rtmp://v3948069e.live.126.net/live/UBlive/u/b/ub/fwq5/165555jingyan.flv
-无线新闻台,https://playks-flv.shangzhibo.tv/onelive/10289451-55Ejk12V3.flv
-无线新闻台,http://v3948069e.live.126.net/live/us01/hk20200114wxnews.flv
-翡翠台,https://playks-flv.shangzhibo.tv/onelive/10289541-SAcVOjlEu.flv
-翡翠台,http://v3948069e.live.126.net/live/us01/hk20200114feicui.flv
-翡翠台,rtmp://v3948069e.live.126.net/live/UBlive/u/b/ub/fwq5/1111pgs111hi11.flv
-J2,http://v3948069e.live.126.net/live/us01/hk20200114tvbj2.flv
-now新闻台,http://v3948069e.live.126.net/live/us01/tw20200114nownews.flv
-有线18,http://v3948069e.live.126.net/live/us01/hk20200114yx18t.flv
-有线财经,http://125.89.166.215:80/live-hwcdn.utvlive.top/live/0a5615586f6d450d889e1fe76fcb0f4d/ac715369d4ca49f094ef2cba593f8b19-1.m3u8
-港台电视32,rtmp://v3948069e.live.126.net/live/UBlive/u/b/ub/fwq5/sKK56777Kpgs111hi11.flv
-港台电视31,rtmp://v3948069e.live.126.net/live/UBlive/u/b/ub/fwq5/qqaaa.flv
-无线财经资讯台,http://v3948069e.live.126.net/live/us01/hk20200114wxcjnews.flv
-香港开电视,http://v3948069e.live.126.net/live/us01/tw20200114hkkds.flv
-明珠台,http://v3948069e.live.126.net/live/us01/hk20200114mingzhu.flv
-ViuTV,http://v3948069e.live.126.net/live/us01/hk20200114viutv.flv
-ViuTV 6,http://v3948069e.live.126.net/live/us01/hk20200114viutv6.flv
-HBO电影,https://flv3948069e.live.126.net/live/cf366377ccf573f132781875e74b10ce.flv
-港台电视31,http://v3948069e.live.126.net/live/us01/hk20200114rt31.flv
-港台电视32,http://v3948069e.live.126.net/live/us01/hk20200114rt32.flv
-TVB星河,http://v3948069e.live.126.net/live/us01/tw20200114tvbxinghe.flv
-凤凰中文,http://ws.matchupstream.tuboshu.com/live/20200114fenghuang2.flv
-凤凰资讯,http://ws.matchupstream.tuboshu.com/live/20200114fenghuang1.flv
-凤凰香港,http://ws.matchupstream.tuboshu.com/live/20200114fenghuang3.flv
 私人影院,rtmp://v3948069e.live.126.net/live/hdhhxhsgxhjshyrgfzhsf/20210211mszbHKSRYY.flv
 天映经典,rtmp://v3948069e.live.126.net/live/hdhhxhsgxhjshyrgfzhsf/mszb201211tyjd202111.flv
 澳门莲花,http://3085709961.cloudvdn.com/a.m3u8?domain=live-hls.macaulotustv.com&player=miAAAO3zQ5tzv1wW&secondToken=secondToken%3AQIahe4pha48pO1295-tj-QFaYHU&streamid=lotustv%3Alotustv%2F5562e9e4d409d24c9600075c&v3=1
 香港卫视,http://xiaojun.cyou/7108live/gt/xgws/live1.m3u8
 
-翡翠台,http://v3948069e.live.126.net/live/us01/hk20200114feicui.flv#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=4
-J2,http://v3948069e.live.126.net/live/us01/hk20200114tvbj2.flv#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=5
-明珠台,http://v3948069e.live.126.net/live/us01/hk20200114mingzhu.flv#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=6
-无线财经,http://v3948069e.live.126.net/live/us01/hk20200114wxcjnews.flv#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=8
-无线新闻,http://v3948069e.live.126.net/live/us01/hk20200114wxnews.flv#http://qj.yyrjdp.cn/jiuban/iptvt.php?id=13#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=7
-有线新闻台,http://v3948069e.live.126.net/live/us01/hk20200114yxnews.flv#http://playks-flv.shangzhibo.tv/onelive/10251440-MorEOXfOv.flv#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=10
-有线18台,http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=15
-ViuTV,http://v3948069e.live.126.net/live/us01/hk20200114viutv.flv#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=11
-ViuTV 6,http://v3948069e.live.126.net/live/us01/hk20200114viutv6.flv#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=12
-now新闻台,http://v3948069e.live.126.net/live/us01/tw20200114nownews.flv#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=9
-TVB星河频道,http://v3948069e.live.126.net/live/us01/tw20200114tvbxinghe.flv
-港台电视31,http://v3948069e.live.126.net/live/us01/hk20200114rt31.flv#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=13
-港台电视32,http://v3948069e.live.126.net/live/us01/hk20200114rt32.flv#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=14
-壹电视新闻台,http://v3948069e.live.126.net/live/us01/tw20200114yinews.flv
-民视,http://v3948069e.live.126.net/live/us01/tw20200114minshi.flv
-民视新闻台,http://v3948069e.live.126.net/live/us01/tw20200114minshinews.flv
-台视,http://v3948069e.live.126.net/live/us01/tw20200114taishi.flv
-台视新闻台,http://v3948069e.live.126.net/live/us01/tw20200114taishinews.flv
-中视,http://v3948069e.live.126.net/live/us01/tw20200114zhongshi.flv
-华视,http://v3948069e.live.126.net/live/us01/tw20200114huashi.flv
-华视新闻资讯,http://v3948069e.live.126.net/live/us01/tw20200114huashinews.flv
-三立LIVE新闻,http://v3948069e.live.126.net/live/us01/tw20200114sanlinews.flv
-中天新闻台,http://v3948069e.live.126.net/live/us01/tw20200114zhongtiannews.flv
-东森新闻台,http://v3948069e.live.126.net/live/us01/tw20200114dongsennews.flv
-HBO,http://qj.yyrjdp.cn/jiuban/iptvt.php?id=24
-东森洋片,http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=20
-动物星球,http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=19
-WILD,http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=17
+
+
 🇭🇰港台测试2,#genre#
 港台電視31,http://113.255.161.76:9981/stream/channelid/1467517977
 港台電視32,http://113.255.161.76:9981/stream/channelid/1002192968
