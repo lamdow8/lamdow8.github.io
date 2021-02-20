@@ -307,6 +307,22 @@ MoMo·综合台,rtmp://59.124.75.157/sat/tv761
 民视新闻·,http://210.61.56.23/hls/ftvtv/index.m3u8#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://seb.sason.top/sc/msxw_fhd.m3u8
 壹新闻台·,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 🇭🇰港台测试1,#genre#
+有线新闻台,http://gslb.cdn.hk.chinamobile.com/live/fe19cd44717842fea90503d10aa7bab9/543b4d76d8614cf49194abe9db521736.m3u8
+有线新闻,http://star.tvhz.xyz/iptv.php?id=3
+有线电影,http://star.tvhz.xyz/iptv.php?id=6
+有线财经,http://star.tvhz.xyz/iptv.php?id=7
+无线财经资讯,http://star.tvhz.xyz/iptv.php?id=10
+翡翠台,http://star.tvhz.xyz/iptv.php?id=11
+J2,http://star.tvhz.xyz/iptv.php?id=12
+VIUtv,http://star.tvhz.xyz/iptv.php?id=13
+NOW新闻,http://star.tvhz.xyz/iptv.php?id=14
+HBO,http://star.tvhz.xyz/iptv.php?id=15
+中天新闻,http://star.tvhz.xyz/iptv.php?id=16
+东森新闻,http://star.tvhz.xyz/iptv.php?id=17
+东森财经,http://star.tvhz.xyz/iptv.php?id=18
+ELEVEN SPORT 1 HD,http://tv.wakds.xyz:8080/pptvy/76937/3547
+ELEVEN SPORT 2 HD,http://tv.wakds.xyz:8080/pptvy/76937/3548
+星级剧集台,http://hls.haokan.bdstatic.com/haokan/stream_bduid_31696503_0.m3u8
 有线电影,https://ws.matchupstream.tuboshu.com/live/e2b3d2f6bd16d1b53e0fb36ae6d58451.flv
 有线新闻,https://ws.matchupstream.tuboshu.com/live/f58d6d6c2ad3e39803b238b4e98202da.flv
 有线财经,http://live-hwcdn.utvlive.top/live/0a5615586f6d450d889e1fe76fcb0f4d/ac715369d4ca49f094ef2cba593f8b19-1.m3u8
