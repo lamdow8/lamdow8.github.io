@@ -1662,6 +1662,32 @@ NewTV金牌综艺 4M1080,http://39.135.33.12/PLTV/77777777/224/3221226574/index.
 孟庭苇-爱你太深,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/KbJb4OVT1yH1ZDvri5p%40%40hd.m3u8
 孟庭苇-相爱的可能性,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/5lsxCqoKs6ZE7MfJZvM%40%40hd.m3u8
 孟庭苇-不下雨就出太阳吧,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/lhaW77A2RRwiJrh0CiJ%40%40hd.m3u8
+时尚,#genre# 
+
+HD Fashion,http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
+HD Fashion,http://95.67.47.114/hls/hdfashion_ua_mid/index.m3u8
+HD Fashion,http://95.67.47.114/hls/hdfashion_ua_low/index.m3u8
+WFC时装,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
+WFC时装,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+
+FTV①国际 ,mitv://147.135.39.171:9906/5ee0b0f200002646c348aa803078676e.ts
+FTV②巴黎 ,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+FTV③欧莱雅,https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
+FTV④午夜秘密,http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+FTV④午夜秘密,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+FTV④午夜秘密,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+
+
+Fashion时装,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+a3 Bikini,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+FTV Teens,http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+FTV Midnight,http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
+
+FTV Paris,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
+FTV L'Original,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8
+FTV Midnight Secert,https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+World Fashion,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
+
 🔞会员 Ⅰ 一区_4600,#genre#
 HOT欧美版,http://live.redtraffic.xyz:80/hardcore.m3u8
 K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
@@ -1746,7 +1772,3 @@ HOT欧美版,http://cdn.adultiptv.net/hardcore.m3u8
 120部香港三级电影专辑【第02集】,https://youku.com-youku.com/20171006/LXk1q0ES/1397kb/hls/index.m3u8
 120部香港三级电影专辑【第03集】,https://youku.com-youku.com/20171008/yA7kAnjv/636kb/hls/index.m3u8
 120部香港三级电影专辑【第04集】,https://youku.com-youku.com/20171009/hQqOuk2c/549kb/hls/index.m3u8
-熱播電影,#genre#
-你好李焕英,https://bilibili.xiang-kuyun.com/20210215/11581_edc20a8a/index.m3u8
-唐人街探案3,https://bilibili.xiang-kuyun.com/20210215/11582_e5549011/index.m3u8
-侍神令,https://bilibili.xiang-kuyun.com/20210215/11583_c5bfbf97/1000k/hls/index.m3u8
