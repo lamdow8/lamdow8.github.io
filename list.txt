@@ -517,38 +517,42 @@ Netflix 5,http://178.63.48.23:25461/live/netott/nFu0mOB8pm/68.ts
 
 ⚽体育综合,#genre#
 广东体育频道,http://116.199.5.52:8114/00000000/hls/9.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-五星体育频道,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000#http://183.207.255.188/live/program/live/ssty/4000000/mnf.m3u8#http://39.135.248.141/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225964/3.m3u8#http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=004003FF0017301364008422F151297C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5000000010000017540&owchid=bestzb&owsid=4493204831455228383&AuthInfo=N%2biD7%2bHgi9LcszGFRGa51uAqiHNpkS5d0%2fEIXqMyy8J6GNpZ%2bE47AWi696WsOzmj7u8gynrDaeemmd3KgHvW7jm8s%2fkPykV1GmMdpMkc7doBK82U9CVAXx34x1%2fYjl4A
-BTV冬奥纪实,http://39.135.19.169:18890/PLTV/88888888/224/3221226105//index.m3u8?fmt=ts2hls
-五星体育,http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
-劲爆体育,http://140.207.241.2:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
-新视觉,http://140.207.241.2:8080/live/program/live/xsjhd/4000000/mnf.m3u8
-冬奥纪实,http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8
-冬奥纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
+五星体育,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000#http://183.207.255.188/live/program/live/ssty/4000000/mnf.m3u8
+冬奥纪实,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
 PP体育,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230341/index.m3u8
 PP体育,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230358/index.m3u8
-百事通体育 1080,http://140.207.241.2:8080/live/program/live/hdnba5/4000000/mnf.m3u8
-百事通体育 1080,http://140.207.241.2:8080/live/program/live/hdnba1/4000000/mnf.m3u8
-百事通体育 1080,http://140.207.241.2:8080/live/program/live/hdnba2/4000000/mnf.m3u8
-百事通体育 1080,http://140.207.241.2:8080/live/program/live/hdnba3/4000000/mnf.m3u8
-百事通体育 1080,http://140.207.241.2:8080/live/program/live/hdnba4/4000000/mnf.m3u8
-百事通体育 1080,http://140.207.241.2:8080/live/program/live/hdnba6/4000000/mnf.m3u8
-百事通体育 1080,http://140.207.241.2:8080/live/program/live/hdnba7/4000000/mnf.m3u8
 咪咕视频·PP体育1,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
 咪咕视频·PP体育2,http://39.135.38.13/PLTV/88888888/224/3221225970/index.m3u8
-咪咕4K,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226399/1.m3u8
-PP体育 真4K,http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/tysy201903/50/index.m3u8?ProgramID=&encrypt=
-PP体育 真4K,http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/tysy201903/75/index.m3u8?ProgramID=&encrypt=
+百事通体育 1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226599/index.m3u8
+百事通体育 1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226646/index.m3u8
+百事通体育 1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226569/index.m3u8
+百事通体育 1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226573/index.m3u8
+百事通体育 1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226638/index.m3u8
+百事通体育 1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+百事通体育 1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226642/index.m3u8
 新视觉台 HD,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 劲爆体育HD,http://183.207.255.188/live/program/live/jbtyhd/4000000/mnf.m3u8#http://ott.cqccn.com/PLTV/88888888/224/3221227511/index.m3u8
-皇马足球台,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 魅力足球HD,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8#http://ott.cqccn.com/PLTV/88888888/224/3221227588/index.m3u8
-体育赛事 8M1080,http://39.135.19.169:18890/PLTV/88888888/224/3221226081//index.m3u8?fmt=ts2hls
-足球频道,http://ott.cqccn.com/PLTV/88888888/224/3221227585/index.m3u8
-奥林匹克HD,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8#http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?fluxustv.m3u8
-CCTV高尔夫·网球HD,http://39.135.19.162:18890/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls#http://ott.cqccn.com/PLTV/88888888/224/3221227535/index.m3u8
-CCTV台球HD,http://ott.cqccn.com/PLTV/88888888/224/3221227646/index.m3u8
-CCTV风云足球HD,http://39.135.19.162:18890/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls#http://ott.cqccn.com/PLTV/88888888/224/3221227538/index.m3u8
-
+⚽境外体育,#genre#
+纬来体育,rtmp://59.124.75.156/sat/tv721
+爱尔达体育2台,rtmp://59.124.75.157/sat/md041
+纬来体育HD,https://ws.matchupstream.tuboshu.com/live/b7ddebd49d54afddb142a0899754e032.flv
+緯來體育台(720P),rtmp://59.124.75.156/sat/tv721 
+緯來體育台(480P),rtmp://59.124.75.156/sat/tv722 
+FOX體育1台(720P),rtmp://59.124.75.156/sat/tv731 
+FOX體育1台(480P),rtmp://59.124.75.156/sat/tv732 
+FOX體育2台(720P),rtmp://59.124.75.156/sat/tv741 
+FOX體育2台(480P),rtmp://59.124.75.156/sat/tv742
+ELEVEN SPORT 1 HD,http://tv.wakds.xyz:8080/pptvy/76937/3547
+ELEVEN SPORT 2 HD,http://tv.wakds.xyz:8080/pptvy/76937/3548
+NBA,https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-nba
+ESPN 1,http://tv.wakds.xyz:8080/pptvy/76937/3951
+ESPN 2,http://tv.wakds.xyz:8080/pptvy/76937/3952
+FOX SPORTS 1,https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8#https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport1
+FOX SPORTS 2,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8#https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport2
+FOX SPORTS 3,https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8#https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport3
+Bein Sport 1,https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-bein1
+Bein Sport 2,https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-bein2
 🎵音乐频道,#genre#
 Channel V,https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_ChannelV.m3u8
 Channel V,rtmp://58.200.131.2/livetv/channelv
@@ -1664,8 +1668,8 @@ NewTV金牌综艺 4M1080,http://39.135.33.12/PLTV/77777777/224/3221226574/index.
 孟庭苇-爱你太深,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/KbJb4OVT1yH1ZDvri5p%40%40hd.m3u8
 孟庭苇-相爱的可能性,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/5lsxCqoKs6ZE7MfJZvM%40%40hd.m3u8
 孟庭苇-不下雨就出太阳吧,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/lhaW77A2RRwiJrh0CiJ%40%40hd.m3u8
-时尚,#genre# 
 
+时尚,#genre# 
 HD Fashion,http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 HD Fashion,http://95.67.47.114/hls/hdfashion_ua_mid/index.m3u8
 HD Fashion,http://95.67.47.114/hls/hdfashion_ua_low/index.m3u8
@@ -1731,6 +1735,23 @@ HOT欧美版,http://cdn.adultiptv.net/hardcore.m3u8
 二本道欧美版,http://cdn.adultiptv.net/blowjob.m3u8
 樱花台欧美版,http://live.redtraffic.xyz:80/russian.m3u8
 樱花台欧美版,http://cdn.adultiptv.net/russian.m3u8
+香蕉台,http://tv.wakds.xyz:8080/pptvy/76937/2701
+松视1台,http://tv.wakds.xyz:8080/pptvy/76937/2704
+松视2台,http://tv.wakds.xyz:8080/pptvy/76937/2705
+松视3台,http://tv.wakds.xyz:8080/pptvy/76937/2706
+潘朵拉完美,http://tv.wakds.xyz:8080/pptvy/76937/2707
+潘朵拉粉红,http://tv.wakds.xyz:8080/pptvy/76937/2708
+彩虹电影,http://tv.wakds.xyz:8080/pptvy/76937/2709
+彩虹K台,http://tv.wakds.xyz:8080/pptvy/76937/2710
+彩虹E台,http://tv.wakds.xyz:8080/pptvy/76937/2711
+HOT星颜,http://tv.wakds.xyz:8080/pptvy/76937/2715
+HAPPY,http://tv.wakds.xyz:8080/pptvy/76937/2716
+惊豔台,http://tv.wakds.xyz:8080/pptvy/76937/2717
+极限电影台测试,http://tv.wakds.xyz:8080/pptvy/76937/2718
+舒活二台,http://tv.wakds.xyz:8080/pptvy/76937/2719
+舒活一台,http://tv.wakds.xyz:8080/pptvy/76937/2723
+蜜桃成人台,http://tv.wakds.xyz:8080/pptvy/76937/2724
+乐活频道,http://tv.wakds.xyz:8080/pptvy/76937/2725
 🔞会员 Ⅰ 二区_4600,#genre#
 日本动漫1,https://lbbf9.com/20191105/xAf8e6gN/index.m3u8
 日本动漫2,https://lbbf9.com/20191105/6dCdeenO/index.m3u8
