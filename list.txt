@@ -323,23 +323,23 @@ HBO,http://star.tvhz.xyz/iptv.php?id=15
 ELEVEN SPORT 1 HD,http://tv.wakds.xyz:8080/pptvy/76937/3547
 ELEVEN SPORT 2 HD,http://tv.wakds.xyz:8080/pptvy/76937/3548
 星级剧集台,http://hls.haokan.bdstatic.com/haokan/stream_bduid_31696503_0.m3u8
-有线电影,https://ws.matchupstream.tuboshu.com/live/e2b3d2f6bd16d1b53e0fb36ae6d58451.flv
-有线新闻,https://ws.matchupstream.tuboshu.com/live/f58d6d6c2ad3e39803b238b4e98202da.flv
+有线电影,https://ws.matchupstream.tuboshu.com/live/d126e4dac7253a19cbfa952bcb200881.flv
+有线新闻,https://ws.matchupstream.tuboshu.com/live/6d04cddd81b263c925e78c4c7da09f9a.flv
 有线财经,http://live-hwcdn.utvlive.top/live/0a5615586f6d450d889e1fe76fcb0f4d/ac715369d4ca49f094ef2cba593f8b19-1.m3u8
-NOW·新闻台,https://ws.matchupstream.tuboshu.com/live/ce85390ae9680900f081f0b894764215.flv
-TVB·翡翠台,https://ws.matchupstream.tuboshu.com/live/563c08013d64fcba0820226f7be7ab1c.flv
-TVB·新闻台,https://ws.matchupstream.tuboshu.com/live/f8c1e2da0759f0a00f1849255c5f3d3c.flv
+NOW·新闻台,https://ws.matchupstream.tuboshu.com/live/d6df695ba85e8d059e3ee42c28d2f671.flv
+TVB·翡翠台,https://ws.matchupstream.tuboshu.com/live/0cce0a5fcbff4802d46979ef4d80b7db.flv
+TVB·新闻台,https://ws.matchupstream.tuboshu.com/live/552e4066ff1d2efd7f31a924ff684645.flv
 TVB·财经台,https://ws.matchupstream.tuboshu.com/live/32f37725eae856d4bb3c8d97a243fd8b.flv
-TVB·J2,https://ws.matchupstream.tuboshu.com/live/320e04d2756fb4b0a4add4240608d6e7.flv
-VIU·TV,https://ws.matchupstream.tuboshu.com/live/516057e3f53adb07c8ec9e349b8200f4.flv
+TVB·J2,https://ws.matchupstream.tuboshu.com/live/532f3a7d7c1642c63bb61f39f3f91423.flv
+VIU·TV,https://ws.matchupstream.tuboshu.com/live/20285c25e70562aaa0616b5ed70242e5.flv
 TVBS·欢乐台,https://ws.matchupstream.tuboshu.com/live/db9084224f1680449e40649d4719cdfa.flv
 TVBS·新闻台,https://ws.matchupstream.tuboshu.com/live/10c65920704e23d0b560b432fff2f06b.flv
-中天新闻,https://ws.matchupstream.tuboshu.com/live/5461de1281165317a1e12e560b04eb2d.flv
+中天新闻,https://ws.matchupstream.tuboshu.com/live/61eb8928738a93ae45d3ec660877a29a.flv
 东森新闻,https://ws.matchupstream.tuboshu.com/live/c99cfecb362da6ac615565efde83aadc.flv
 东森超视,https://ws.matchupstream.tuboshu.com/live/556f9678b14509869a4ea10bb7b8894c.flv
 东森财经新闻,https://ws.matchupstream.tuboshu.com/live/17a84b61f54e49f489243fb7f19a63ce.flv
 三立直播新闻·,https://ws.matchupstream.tuboshu.com/live/cbfedc3bbc08b22848d41b1466af791e.flv
-三立台湾,https://ws.matchupstream.tuboshu.com/live/fe21d25f31161b242d21cb862dd84d82.flv
+三立台湾,https://ws.matchupstream.tuboshu.com/live/9175c080ccb41cc449494912562ec124.flv
 纬来育乐,https://ws.matchupstream.tuboshu.com/live/7398da9e90148262e9e3b14ec3304d04.flv
 纬来体育,https://ws.matchupstream.tuboshu.com/live/b7ddebd49d54afddb142a0899754e032.flv
 纬来日本,https://ws.matchupstream.tuboshu.com/live/04a3356547cbcf238b94726c63a96a9e.flv
@@ -1521,7 +1521,10 @@ NewTV金牌综艺 4M1080,http://39.135.33.12/PLTV/77777777/224/3221226574/index.
 柔情主義 羅曼史,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20210128/5623330zfeeRlPn6tfDQMJAgL.mp4
 纪念日,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/5623330vOp1VRx2A4qdRvVXze.mp4
 花祭,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201126/5623330iGckyem8jDhgEp8xyO.mp4
+大约在冬季,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20210205/56233301HNRDDuQXwNLs8LVXd.mp4
 外面的世界,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201126/56233307PD4j3e5e1zllrBk84.mp4
+冬雨,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201215/5623330GYwOyMTeZakwxuqmJN.mp4
+原来的我,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20210221/5623330BklWk22jncKLfHXyKX.mp4
 终于放手,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201222/5623330F7salRTVBhLBfTgi3n.mp4
 残酷的温柔,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201126/5623330rE8nR2TA29eyyOb6jO.mp4
 自己心情自己感受,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/56233301SOwYwbxPl1nzoCijB.mp4
@@ -1529,7 +1532,6 @@ NewTV金牌综艺 4M1080,http://39.135.33.12/PLTV/77777777/224/3221226574/index.
 思念是一种病,https://rescdn.yishihui.com/longvideo/transcode/video/20190125/5623330IR1draK4ECZi1WwIWZ.m3u8
 爱情宣言,https://rescdn.yishihui.com/longvideo/transcode/video/20190125/5623330pFVDJm8roXvz3xMpAp.m3u8
 無情的雨無情的你,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201215/5623330329UzEQnGtd12o8wPM.mp4
-冬雨,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201215/5623330GYwOyMTeZakwxuqmJN.mp4
 不让我的眼泪陪我过夜,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201113/5623330O44jLtlec8E8lULRPi.mp4
 直到世界末日,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200801/5623330nw3cLAniEPHCoJcLwX.mp4
 飞扬的梦,https://rescdn.yishihui.com/longvideo/transcode/video/live/201904305623330mcv1OaucFzzpBsvbrJ.m3u8
