@@ -338,7 +338,13 @@ MoMo·综合台,rtmp://59.124.75.157/sat/tv761
 东森新闻·,http://seb.sason.top/sc/dsxw_fhd.m3u8
 民视新闻·,http://210.61.56.23/hls/ftvtv/index.m3u8#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://seb.sason.top/sc/msxw_fhd.m3u8
 壹新闻台·,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+
 🇭🇰港台测试1,#genre#
+私人影院,rtmp://v3948069e.live.126.net/live/hdhhxhsgxhjshyrgfzhsf/20210211mszbHKSRYY.flv
+天映经典,rtmp://v3948069e.live.126.net/live/hdhhxhsgxhjshyrgfzhsf/mszb201211tyjd202111.flv
+澳门莲花,http://3085709961.cloudvdn.com/a.m3u8?domain=live-hls.macaulotustv.com&player=miAAAO3zQ5tzv1wW&secondToken=secondToken%3AQIahe4pha48pO1295-tj-QFaYHU&streamid=lotustv%3Alotustv%2F5562e9e4d409d24c9600075c&v3=1
+星级剧集台,http://hls.haokan.bdstatic.com/haokan/stream_bduid_31696503_0.m3u8
+東森洋片,http://v3948069e.live.126.net:1935/live/hdhhxhsgxhjshyrgfzhsf/mszb2021dsypabcd.flv
 有线新闻台,http://gslb.cdn.hk.chinamobile.com/live/fe19cd44717842fea90503d10aa7bab9/543b4d76d8614cf49194abe9db521736.m3u8
 有线新闻,http://star.tvhz.xyz/iptv.php?id=3
 有线电影,http://star.tvhz.xyz/iptv.php?id=6
@@ -354,7 +360,6 @@ HBO,http://star.tvhz.xyz/iptv.php?id=15
 东森财经,http://star.tvhz.xyz/iptv.php?id=18
 ELEVEN SPORT 1 HD,http://tv.wakds.xyz:8080/pptvy/76937/3547
 ELEVEN SPORT 2 HD,http://tv.wakds.xyz:8080/pptvy/76937/3548
-星级剧集台,http://hls.haokan.bdstatic.com/haokan/stream_bduid_31696503_0.m3u8
 有线电影,https://ws.matchupstream.tuboshu.com/live/d126e4dac7253a19cbfa952bcb200881.flv
 有线新闻,https://ws.matchupstream.tuboshu.com/live/6d04cddd81b263c925e78c4c7da09f9a.flv
 有线财经,http://live-hwcdn.utvlive.top/live/0a5615586f6d450d889e1fe76fcb0f4d/ac715369d4ca49f094ef2cba593f8b19-1.m3u8
@@ -383,9 +388,7 @@ HBO·亚洲,https://flv3948069e.live.126.net/live/a4c5f54399925df46d0c5f95d92332
 凤凰中文,http://playurl.elibei.com/tv/channel/fenghuang?id=2#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=1
 凤凰资讯,http://playurl.elibei.com/tv/channel/fenghuang?id=1#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=2
 凤凰香港,http://playurl.elibei.com/tv/channel/fenghuang?id=3#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=3
-私人影院,rtmp://v3948069e.live.126.net/live/hdhhxhsgxhjshyrgfzhsf/20210211mszbHKSRYY.flv
-天映经典,rtmp://v3948069e.live.126.net/live/hdhhxhsgxhjshyrgfzhsf/mszb201211tyjd202111.flv
-澳门莲花,http://3085709961.cloudvdn.com/a.m3u8?domain=live-hls.macaulotustv.com&player=miAAAO3zQ5tzv1wW&secondToken=secondToken%3AQIahe4pha48pO1295-tj-QFaYHU&streamid=lotustv%3Alotustv%2F5562e9e4d409d24c9600075c&v3=1
+
 香港卫视,http://xiaojun.cyou/7108live/gt/xgws/live1.m3u8
 
 
@@ -1829,3 +1832,76 @@ HAPPY,http://tv.wakds.xyz:8080/pptvy/76937/2716
 120部香港三级电影专辑【第02集】,https://youku.com-youku.com/20171006/LXk1q0ES/1397kb/hls/index.m3u8
 120部香港三级电影专辑【第03集】,https://youku.com-youku.com/20171008/yA7kAnjv/636kb/hls/index.m3u8
 120部香港三级电影专辑【第04集】,https://youku.com-youku.com/20171009/hQqOuk2c/549kb/hls/index.m3u8
+娛樂測試_4600,#genre#
+松視2台p0818,p5p://0818.02686.cc:20012/5f486541000e03532e4b74511bfe562e
+松視2台p104,p5p://104.194.8.20:20012/5f486541000e03532e4b74511bfe562e
+🍓松視1台備🍓,tvbus://6j9sopzBQKaUPnGvkMH4tMfWbCj4BbuPcV9TFJ3GLqtS2TrMvHQrJj94B3wmL
+🍓松視2台備🍓,tvbus://6iTNFjY8ZAGCf3rHAN6uVBmVN3Hwu2a9wHKjb46C4BNS5jkHXx92s6CwzzAmE
+🍓潘多拉完美備🍓,tvbus://5zAeYwcSzgLveVCA5YtVJcn8C8rmZiXJdfrCJTyddtnQ2ovn1YPPKnEt2vAfL
+🍓潘多拉粉紅備🍓,tvbus://5Vwks9Jw5SGxTtkrbQ9DNrgE3H2M57ipNTVH1SCUbQ6rEa4DFdpALHW4Cxqon
+🍓彩虹電影備🍓,tvbus://65M9GkToHjwsC6tvBphaHyZHyeRwx7hxjxJoR6yRqnAdrRHWACMf1MxJ1DD69
+🍓彩虹e台備🍓,tvbus://5x45fR5PdxGJMTBo1oW5SXR6bK4UucDboBka7eiySQyb9h9BeXphALXkmmFbY
+🍓香蕉台備🍓,tvbus://5huoDVzDpu61L6HA9YH2jhLAGPaNeYMrPfNWQRBuQEihYspdtR1bGb64VninD
+🍓驚豔台備🍓,tvbus://5hfjaBEoVw9bstKUMxHRzthTv3vKuaTFRDhze7rNv5grCRB5jKV9TGyDMEsCx
+🍓K頻道備🍓,tvbus://6TwSfX13ixWEmxSZvpBVBScVbJW7T1yGLEK99Vib5fdistnWr47pXTsU1zvYU
+🍓HAPPY備🍓,tvbus://6FPNBzRsYXHBDN6wicZW2dmNv4z7jZJdekBKaeTZbxFu63sSCSjYd6GZaCZBR
+🍓HOT星顏備🍓,tvbus://6iTNFjY8ZAGCf3rHAN6uVBmVN3Hwu2a9wHKjb46C4BNS5jkHXx92s6CwzzAmE
+
+
+加值測試_4600,#genre#
+IBIZA巨乳控頻道,http://uotv.gearhostpreview.com/av.php?id=1
+HEYZO零時差頻道,http://uotv.gearhostpreview.com/av.php?id=2
+IBIZA制服誘惑頻道,http://uotv.gearhostpreview.com/av.php?id=4
+加勒比全球同步頻道,http://uotv.gearhostpreview.com/av.php?id=3
+松視+深夜劇場頻道,http://uotv.gearhostpreview.com/av.php?id=5
+松視+超強企劃頻道,http://uotv.gearhostpreview.com/av.php?id=6
+HOT+西洋黑映畫頻道,http://uotv.gearhostpreview.com/av.php?id=7
+一本道國際放送頻道,http://uotv.gearhostpreview.com/av.php?id=8
+IBIZAD槽素人頻道,http://uotv.gearhostpreview.com/av.php?id=9
+IBIZA日本無碼頻道,http://uotv.gearhostpreview.com/av.php?id=10
+驚艷2017,https://yiqikan.wuyouzuida.com/20191006/1243_73c09eea/1000k/hls/index.m3u8
+驚艷2018,https://yiqikan.wuyouzuida.com/20191006/1244_30b29014/1000k/hls/index.m3u8
+V I P專享_4600,#genre#
+19歲巨乳小女生,https://iwant-sex.com/videos/13324/13324.m3u8
+保健按摩服務,https://iwant-sex.com/videos/13418/13418.m3u8
+日本娛台,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
+勾引弟弟,https://iwant-sex.com/videos/13213/13213.m3u8
+絕頂高潮性體驗,https://iwant-sex.com/videos/13210/13210.m3u8
+亞籍美女,https://iwant-sex.com/videos/13207/13207.m3u8
+小騷貨,https://iwant-sex.com/videos/13519/13519.m3u8
+約嬌羞白領包房,https://iwant-sex.com/videos/13321/13321.m3u8
+情色陷阱,https://iwant-sex.com/videos/13495/13495.m3u8
+亞洲娃娃,https://iwant-sex.com/videos/13206/13206.m3u8
+淫蕩母女,https://iwant-sex.com/videos/13485/13485.m3u8
+嫩妹,https://iwant-sex.com/videos/13478/13478.m3u8
+亞裔美女,https://iwant-sex.com/videos/13424/13424.m3u8
+大奶長發小嫩妹,https://iwant-sex.com/videos/13139/13139.m3u8
+可愛小女友,https://iwant-sex.com/videos/13410/13410.m3u8
+外圍兼職妹,https://iwant-sex.com/videos/13357/13357.m3u8
+800高清450,http://live.redtraffic.xyz/threesome.m3u8
+歐美高清2,http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
+紳士大保健,https://iwant-sex.com/videos/13373/13373.m3u8
+淫娃成熟時,https://iwant-sex.com/videos/13372/13372.m3u8
+歐美高清3,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+草死我了,https://iwant-sex.com/videos/13366/13366.m3u8
+23cm大雞巴,https://iwant-sex.com/videos/13365/13365.m3u8
+歐美高清9,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
+歐美高清10,http://live.redtraffic.xyz/bigass.m3u8fluxuslust.m3u8
+人妻大挑戰,https://iwant-sex.com/videos/13328/13328.m3u8
+口交毒龍,https://iwant-sex.com/videos/13203/13203.m3u8
+00後小辣妹,https://iwant-sex.com/videos/13312/13312.m3u8
+雙飛小嫩妹,https://iwant-sex.com/videos/13299/13299.m3u8
+00後嫩妹子,https://iwant-sex.com/videos/13243/13243.m3u8
+偷情,https://iwant-sex.com/videos/13226/13226.m3u8
+甜美妹子,https://iwant-sex.com/videos/13228/13228.m3u8
+白衣妹子,https://iwant-sex.com/videos/13346/13346.m3u8
+清純學生妹,https://iwant-sex.com/videos/13538/13538.m3u8
+二本道,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0431_full/1500kb/hls/index.m3u8
+一本道,http://video1.rhsj520.com:8091/nyrm3/20180105/3/050313-328/1500kb/hls/index.m3u8
+V I P特供_4600,#genre#
+松視1台rtm161,rtmp://161.202.204.248:1935/tv/ttv11
+HAPPY rtm161,rtmp://161.202.204.248:1935/tv/ttv12
+Playboy147,mitv://147.135.39.171:9906/5e73be64000bc4a119b463b625bf0790.ts
+粉紅台147,mitv://147.135.39.171:9906/600fee6b000b9a9b8ba106705fcc6fbe.ts
+驚艷台147,mitv://147.135.39.171:9906/600fee6c000abd6a8ba10a1a128227a6.ts
+彩虹電影147,mitv://147.135.39.171:9906/600fee6e0000c8ea8ba10f5a23b93460.ts
