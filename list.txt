@@ -347,7 +347,7 @@ TVBS·新闻台,https://ws.matchupstream.tuboshu.com/live/10c65920704e23d0b560b4
 中视新闻·,https://ws.matchupstream.tuboshu.com/live/2a8abf470bc98035a9566a0475939669.flv
 华视新闻·,https://ws.matchupstream.tuboshu.com/live/739e1a61acd1889996d3171961f038b4.flv
 民视新闻·,https://ws.matchupstream.tuboshu.com/live/1d84ff590ddf27ac88e3e17765aa25e2.flv
-HBO·亚洲,https://flv3948069e.live.126.net/live/e8938a9702c55985ce1abd7f9f2eae04.flv
+HBO·亚洲,https://flv3948069e.live.126.net/live/a4c5f54399925df46d0c5f95d923325e.flv
 凤凰中文,http://playurl.elibei.com/tv/channel/fenghuang?id=2#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=1
 凤凰资讯,http://playurl.elibei.com/tv/channel/fenghuang?id=1#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=2
 凤凰香港,http://playurl.elibei.com/tv/channel/fenghuang?id=3#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=3
