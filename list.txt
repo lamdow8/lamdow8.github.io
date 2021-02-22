@@ -368,8 +368,53 @@ HBO·亚洲,https://flv3948069e.live.126.net/live/a4c5f54399925df46d0c5f95d92332
 凤凰中文,http://playurl.elibei.com/tv/channel/fenghuang?id=2#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=1
 凤凰资讯,http://playurl.elibei.com/tv/channel/fenghuang?id=1#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=2
 凤凰香港,http://playurl.elibei.com/tv/channel/fenghuang?id=3#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=3
-
-🇭🇰港台测试2,#genre#
+🇭🇰港澳测试2,#genre#
+凤凰香港,http://ubtv.ngys.xyz/ubtv20/crtv.php?id=358
+凤凰中文,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+凤凰卫视,http://abdl2.ioivip.xyz/hstv.php?id=357r
+凤凰卫视,http://ubtv.ngys.xyz/ubtv20/crtv.php?id=357
+凤凰资讯,http://abdl2.ioivip.xyz/hstv.php?id=359r
+凤凰资讯,http://39.134.176.148/PLTV/88888888/224/3221226491/index.m3u8
+凤凰电影,http://abdl2.ioivip.xyz/hstv.php?id=19r
+亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+星空卫视,http://abdl2.ioivip.xyz/hstv.php?id=56r
+Now爆谷台,http://abdl2.ioivip.xyz/hstv.php?id=152r
+TVB-1,http://abdl2.ioivip.xyz/hstv.php?id=1242r
+TVB-J2,http://abdl2.ioivip.xyz/hstv.php?id=392r
+TVB翡翠,http://abdl2.ioivip.xyz/hstv.php?id=1084r
+TVB翡翠,http://abdl2.ioivip.xyz/hstv.php?id=30r
+TVB明珠,http://abdl2.ioivip.xyz/hstv.php?id=391r
+TVB星河,http://abdl2.ioivip.xyz/hstv.php?id=1079r
+TVB经典,http://abdl2.ioivip.xyz/hstv.php?id=1083r
+ATV亚视,http://abdl2.ioivip.xyz/hstv.php?id=1457r
+无线新闻,http://abdl2.ioivip.xyz/hstv.php?id=1244r
+无线新闻,http://abdl2.ioivip.xyz/hstv.php?id=45r
+无线新闻,http://abdl2.ioivip.xyz/hstv.php?id=394r
+无线财经,http://abdl2.ioivip.xyz/hstv.php?id=393r
+有线新闻,http://abdl2.ioivip.xyz/hstv.php?id=395r
+有线18台,http://abdl2.ioivip.xyz/hstv.php?id=44r
+有线603,http://abdl2.ioivip.xyz/hstv.php?id=398r
+有线体育,http://abdl2.ioivip.xyz/hstv.php?id=356r
+有线电影,http://abdl2.ioivip.xyz/hstv.php?id=354r
+Now新闻,http://abdl2.ioivip.xyz/hstv.php?id=396r
+Now财经,http://abdl2.ioivip.xyz/hstv.php?id=111r
+Now直播,http://abdl2.ioivip.xyz/hstv.php?id=400r
+Now电视,http://abdl2.ioivip.xyz/hstv.php?id=1246r
+Now体育,http://abdl2.ioivip.xyz/hstv.php?id=1358r
+ViuTV,http://abdl2.ioivip.xyz/hstv.php?id=72r
+ViuTV6,http://abdl2.ioivip.xyz/hstv.php?id=176r
+港壹31,http://abdl2.ioivip.xyz/hstv.php?id=353r
+港壹32,http://abdl2.ioivip.xyz/hstv.php?id=397r
+香港卫视,http://abdl2.ioivip.xyz/hstv.php?id=399r
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港开电视,http://abdl2.ioivip.xyz/hstv.php?id=17r
+澳视卫星,http://61.244.22.4/ch3/ch3.live/chunklist_w321363642.m3u8
+澳视卫星,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+澳视卫星,http://61.244.22.4/ch3/ch3.live/chunklist_w1187443140.m3u8
+澳视澳门,http://abdl2.ioivip.xyz/hstv.php?id=23r
+卫视卡式,http://abdl2.ioivip.xyz/hstv.php?id=1085r
+美亚电影,http://abdl2.ioivip.xyz/hstv.php?id=375r
+🇭🇰港台测试3,#genre#
 港台電視31,http://113.255.161.76:9981/stream/channelid/1467517977
 港台電視32,http://113.255.161.76:9981/stream/channelid/1002192968
 港台電視33,http://113.255.161.76:9981/stream/channelid/863274838
