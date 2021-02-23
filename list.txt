@@ -324,7 +324,6 @@ MoMo·综合台,rtmp://59.124.75.157/sat/tv761
 天映经典,rtmp://v3948069e.live.126.net/live/hdhhxhsgxhjshyrgfzhsf/mszb201211tyjd202111.flv
 澳门莲花,http://3085709961.cloudvdn.com/a.m3u8?domain=live-hls.macaulotustv.com&player=miAAAO3zQ5tzv1wW&secondToken=secondToken%3AQIahe4pha48pO1295-tj-QFaYHU&streamid=lotustv%3Alotustv%2F5562e9e4d409d24c9600075c&v3=1
 星级剧集台,http://hls.haokan.bdstatic.com/haokan/stream_bduid_31696503_0.m3u8
-東森洋片,http://v3948069e.live.126.net:1935/live/hdhhxhsgxhjshyrgfzhsf/mszb2021dsypabcd.flv
 有线新闻台,http://gslb.cdn.hk.chinamobile.com/live/fe19cd44717842fea90503d10aa7bab9/543b4d76d8614cf49194abe9db521736.m3u8
 有线新闻,http://star.tvhz.xyz/iptv.php?id=3
 有线电影,http://star.tvhz.xyz/iptv.php?id=6
@@ -338,33 +337,6 @@ HBO,http://star.tvhz.xyz/iptv.php?id=15
 中天新闻,http://star.tvhz.xyz/iptv.php?id=16
 东森新闻,http://star.tvhz.xyz/iptv.php?id=17
 东森财经,http://star.tvhz.xyz/iptv.php?id=18
-ELEVEN SPORT 1 HD,http://tv.wakds.xyz:8080/pptvy/76937/3547
-ELEVEN SPORT 2 HD,http://tv.wakds.xyz:8080/pptvy/76937/3548
-有线电影,https://ws.matchupstream.tuboshu.com/live/d126e4dac7253a19cbfa952bcb200881.flv
-有线新闻,https://ws.matchupstream.tuboshu.com/live/6d04cddd81b263c925e78c4c7da09f9a.flv
-有线财经,http://live-hwcdn.utvlive.top/live/0a5615586f6d450d889e1fe76fcb0f4d/ac715369d4ca49f094ef2cba593f8b19-1.m3u8
-NOW·新闻台,https://ws.matchupstream.tuboshu.com/live/d6df695ba85e8d059e3ee42c28d2f671.flv
-TVB·翡翠台,https://ws.matchupstream.tuboshu.com/live/0cce0a5fcbff4802d46979ef4d80b7db.flv
-TVB·新闻台,https://ws.matchupstream.tuboshu.com/live/552e4066ff1d2efd7f31a924ff684645.flv
-TVB·财经台,https://ws.matchupstream.tuboshu.com/live/32f37725eae856d4bb3c8d97a243fd8b.flv
-TVB·J2,https://ws.matchupstream.tuboshu.com/live/532f3a7d7c1642c63bb61f39f3f91423.flv
-VIU·TV,https://ws.matchupstream.tuboshu.com/live/20285c25e70562aaa0616b5ed70242e5.flv
-TVBS·欢乐台,https://ws.matchupstream.tuboshu.com/live/db9084224f1680449e40649d4719cdfa.flv
-TVBS·新闻台,https://ws.matchupstream.tuboshu.com/live/10c65920704e23d0b560b432fff2f06b.flv
-中天新闻,https://ws.matchupstream.tuboshu.com/live/61eb8928738a93ae45d3ec660877a29a.flv
-东森新闻,https://ws.matchupstream.tuboshu.com/live/c99cfecb362da6ac615565efde83aadc.flv
-东森超视,https://ws.matchupstream.tuboshu.com/live/556f9678b14509869a4ea10bb7b8894c.flv
-东森财经新闻,https://ws.matchupstream.tuboshu.com/live/17a84b61f54e49f489243fb7f19a63ce.flv
-三立直播新闻·,https://ws.matchupstream.tuboshu.com/live/cbfedc3bbc08b22848d41b1466af791e.flv
-三立台湾,https://ws.matchupstream.tuboshu.com/live/9175c080ccb41cc449494912562ec124.flv
-纬来育乐,https://ws.matchupstream.tuboshu.com/live/7398da9e90148262e9e3b14ec3304d04.flv
-纬来体育,https://ws.matchupstream.tuboshu.com/live/b7ddebd49d54afddb142a0899754e032.flv
-纬来日本,https://ws.matchupstream.tuboshu.com/live/04a3356547cbcf238b94726c63a96a9e.flv
-台视新闻·,https://ws.matchupstream.tuboshu.com/live/8f284a12632002eaa2d6cc7d565fd8bd.flv
-中视新闻·,https://ws.matchupstream.tuboshu.com/live/2a8abf470bc98035a9566a0475939669.flv
-华视新闻·,https://ws.matchupstream.tuboshu.com/live/739e1a61acd1889996d3171961f038b4.flv
-民视新闻·,https://ws.matchupstream.tuboshu.com/live/1d84ff590ddf27ac88e3e17765aa25e2.flv
-HBO·亚洲,https://flv3948069e.live.126.net/live/a4c5f54399925df46d0c5f95d923325e.flv
 凤凰中文,http://playurl.elibei.com/tv/channel/fenghuang?id=2#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=1
 凤凰资讯,http://playurl.elibei.com/tv/channel/fenghuang?id=1#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=2
 凤凰香港,http://playurl.elibei.com/tv/channel/fenghuang?id=3#http://testcode.qwtvweb.xyz/hkvtv/hktv.php?hkv=3
@@ -1792,23 +1764,6 @@ HOT欧美版,http://cdn.adultiptv.net/hardcore.m3u8
 二本道欧美版,http://cdn.adultiptv.net/blowjob.m3u8
 樱花台欧美版,http://live.redtraffic.xyz:80/russian.m3u8
 樱花台欧美版,http://cdn.adultiptv.net/russian.m3u8
-香蕉台,http://tv.wakds.xyz:8080/pptvy/76937/2701
-松视1台,http://tv.wakds.xyz:8080/pptvy/76937/2704
-松视2台,http://tv.wakds.xyz:8080/pptvy/76937/2705
-松视3台,http://tv.wakds.xyz:8080/pptvy/76937/2706
-潘朵拉完美,http://tv.wakds.xyz:8080/pptvy/76937/2707
-潘朵拉粉红,http://tv.wakds.xyz:8080/pptvy/76937/2708
-彩虹电影,http://tv.wakds.xyz:8080/pptvy/76937/2709
-彩虹K台,http://tv.wakds.xyz:8080/pptvy/76937/2710
-彩虹E台,http://tv.wakds.xyz:8080/pptvy/76937/2711
-HOT星颜,http://tv.wakds.xyz:8080/pptvy/76937/2715
-HAPPY,http://tv.wakds.xyz:8080/pptvy/76937/2716
-惊豔台,http://tv.wakds.xyz:8080/pptvy/76937/2717
-极限电影台测试,http://tv.wakds.xyz:8080/pptvy/76937/2718
-舒活二台,http://tv.wakds.xyz:8080/pptvy/76937/2719
-舒活一台,http://tv.wakds.xyz:8080/pptvy/76937/2723
-蜜桃成人台,http://tv.wakds.xyz:8080/pptvy/76937/2724
-乐活频道,http://tv.wakds.xyz:8080/pptvy/76937/2725
 🔞会员 Ⅰ 二区_4600,#genre#
 日本动漫1,https://lbbf9.com/20191105/xAf8e6gN/index.m3u8
 日本动漫2,https://lbbf9.com/20191105/6dCdeenO/index.m3u8
@@ -1852,23 +1807,8 @@ HAPPY,http://tv.wakds.xyz:8080/pptvy/76937/2716
 120部香港三级电影专辑【第02集】,https://youku.com-youku.com/20171006/LXk1q0ES/1397kb/hls/index.m3u8
 120部香港三级电影专辑【第03集】,https://youku.com-youku.com/20171008/yA7kAnjv/636kb/hls/index.m3u8
 120部香港三级电影专辑【第04集】,https://youku.com-youku.com/20171009/hQqOuk2c/549kb/hls/index.m3u8
-娛樂測試_4600,#genre#
-松視2台p0818,p5p://0818.02686.cc:20012/5f486541000e03532e4b74511bfe562e
-松視2台p104,p5p://104.194.8.20:20012/5f486541000e03532e4b74511bfe562e
-🍓松視1台備🍓,tvbus://6j9sopzBQKaUPnGvkMH4tMfWbCj4BbuPcV9TFJ3GLqtS2TrMvHQrJj94B3wmL
-🍓松視2台備🍓,tvbus://6iTNFjY8ZAGCf3rHAN6uVBmVN3Hwu2a9wHKjb46C4BNS5jkHXx92s6CwzzAmE
-🍓潘多拉完美備🍓,tvbus://5zAeYwcSzgLveVCA5YtVJcn8C8rmZiXJdfrCJTyddtnQ2ovn1YPPKnEt2vAfL
-🍓潘多拉粉紅備🍓,tvbus://5Vwks9Jw5SGxTtkrbQ9DNrgE3H2M57ipNTVH1SCUbQ6rEa4DFdpALHW4Cxqon
-🍓彩虹電影備🍓,tvbus://65M9GkToHjwsC6tvBphaHyZHyeRwx7hxjxJoR6yRqnAdrRHWACMf1MxJ1DD69
-🍓彩虹e台備🍓,tvbus://5x45fR5PdxGJMTBo1oW5SXR6bK4UucDboBka7eiySQyb9h9BeXphALXkmmFbY
-🍓香蕉台備🍓,tvbus://5huoDVzDpu61L6HA9YH2jhLAGPaNeYMrPfNWQRBuQEihYspdtR1bGb64VninD
-🍓驚豔台備🍓,tvbus://5hfjaBEoVw9bstKUMxHRzthTv3vKuaTFRDhze7rNv5grCRB5jKV9TGyDMEsCx
-🍓K頻道備🍓,tvbus://6TwSfX13ixWEmxSZvpBVBScVbJW7T1yGLEK99Vib5fdistnWr47pXTsU1zvYU
-🍓HAPPY備🍓,tvbus://6FPNBzRsYXHBDN6wicZW2dmNv4z7jZJdekBKaeTZbxFu63sSCSjYd6GZaCZBR
-🍓HOT星顏備🍓,tvbus://6iTNFjY8ZAGCf3rHAN6uVBmVN3Hwu2a9wHKjb46C4BNS5jkHXx92s6CwzzAmE
 
-
-加值測試_4600,#genre#
+V I P專享_4600,#genre#
 IBIZA巨乳控頻道,http://uotv.gearhostpreview.com/av.php?id=1
 HEYZO零時差頻道,http://uotv.gearhostpreview.com/av.php?id=2
 IBIZA制服誘惑頻道,http://uotv.gearhostpreview.com/av.php?id=4
@@ -1881,7 +1821,6 @@ IBIZAD槽素人頻道,http://uotv.gearhostpreview.com/av.php?id=9
 IBIZA日本無碼頻道,http://uotv.gearhostpreview.com/av.php?id=10
 驚艷2017,https://yiqikan.wuyouzuida.com/20191006/1243_73c09eea/1000k/hls/index.m3u8
 驚艷2018,https://yiqikan.wuyouzuida.com/20191006/1244_30b29014/1000k/hls/index.m3u8
-V I P專享_4600,#genre#
 19歲巨乳小女生,https://iwant-sex.com/videos/13324/13324.m3u8
 保健按摩服務,https://iwant-sex.com/videos/13418/13418.m3u8
 日本娛台,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
