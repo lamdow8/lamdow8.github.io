@@ -569,20 +569,9 @@ PP体育,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/
 纬来体育HD,https://ws.matchupstream.tuboshu.com/live/b7ddebd49d54afddb142a0899754e032.flv
 緯來體育台(720P),rtmp://59.124.75.156/sat/tv721 
 緯來體育台(480P),rtmp://59.124.75.156/sat/tv722 
-FOX體育1台(720P),rtmp://59.124.75.156/sat/tv731 
-FOX體育1台(480P),rtmp://59.124.75.156/sat/tv732 
-FOX體育2台(720P),rtmp://59.124.75.156/sat/tv741 
-FOX體育2台(480P),rtmp://59.124.75.156/sat/tv742
-ELEVEN SPORT 1 HD,http://tv.wakds.xyz:8080/pptvy/76937/3547
-ELEVEN SPORT 2 HD,http://tv.wakds.xyz:8080/pptvy/76937/3548
-NBA,https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-nba
-ESPN 1,http://tv.wakds.xyz:8080/pptvy/76937/3951
-ESPN 2,http://tv.wakds.xyz:8080/pptvy/76937/3952
 FOX SPORTS 1,https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8#https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport1
 FOX SPORTS 2,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8#https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport2
 FOX SPORTS 3,https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8#https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport3
-Bein Sport 1,https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-bein1
-Bein Sport 2,https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-bein2
 🎵音乐频道,#genre#
 Channel [V],https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 Channel V,rtmp://58.200.131.2/livetv/channelv
