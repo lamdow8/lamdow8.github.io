@@ -1,9 +1,6 @@
 🇨🇳央视频道,#genre#
 央视新闻,https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
 CCTV-4K超高清,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229683/index.m3u8#http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
-CCTV4K超清,http://120.221.64.91/livews-tp4k.cctv.cn/live/4K0929.stream/playlist.m3u8
-CCTV4K超清,http://111.161.121.214/livews-tp4k.cctv.cn/live/4K0929.stream/playlist.m3u8
-CCTV4K超清,http://110.242.20.88/livews-tp4k.cctv.cn/live/4K0929.stream/playlist.m3u8
 CCTV-1综合,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8
 CCTV-1综合,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/1.m3u8
 CCTV-2财经,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226371/1.m3u8
@@ -238,13 +235,10 @@ CCTV-17农业农村,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc
 有線新聞台1080P,http://125.89.166.215:80/live-hwcdn.utvlive.top/live/fe19cd44717842fea90503d10aa7bab9/543b4d76d8614cf49194abe9db521736-1.m3u8
 有線新聞台1080P,http://live-hwcdn.utvlive.top:80/live/fe19cd44717842fea90503d10aa7bab9/543b4d76d8614cf49194abe9db521736.m3u8
 有線財經資訊台1080P,http://125.89.166.215:80/live-hwcdn.utvlive.top:80/live/0a5615586f6d450d889e1fe76fcb0f4d/ac715369d4ca49f094ef2cba593f8b19.m3u8
-ViuTV 1080P,http://61.238.6.49:8000/bysid/99#http://hls.globaliptv.ml/viu99.php
-ViuTV 6HD,http://61.238.6.49:8000/bysid/96#http://hls.globaliptv.ml/viu96.php
-翡翠台 1080P,http://61.238.6.49:8000/bysid/1
-无线新闻 1080P,http://61.238.6.49:8001/bysid/83
-明珠台HD,http://61.238.6.49:8001/bysid/2
-J2 1080P,http://61.238.6.49:8001/bysid/82
-无线财经资讯台 1080P,http://61.238.6.49:8001/bysid/85
+无线新闻,https://pullhls3948069e.live.126.net/live/5786dfdaeec909b5d1153a3266cb7168/playlist.m3u8#http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1614096490~exp=1614182890~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=241aa61d751f86e8434d861f185d7ae6662cad1a6050e2d33c24c30ae418e8a8&p=3324
+无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1614096397~exp=1614182797~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/*~hmac=dfd00b07b92058aec092e1deabf3a8b57b734def4e5f7516670f5c9a9f9aea22&p=3324
+翡翠台,https://pullhls3948069e.live.126.net/live/54804898c0ebe12650213aafd85c1967/playlist.m3u8
+有线新闻,https://pullhls3948069e.live.126.net/live/c0a68700a3fdbe354a55ecb9a803462c/playlist.m3u8
 有线新闻,http://player.ggiptv.com:13164/v/hkcxw.m3u8
 凤凰香港 Max6M1080,http://125.89.166.215/live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c.m3u8
 凤凰香港 Max6M1080,http://125.89.166.215/live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c-1.m3u8
@@ -255,7 +249,13 @@ J2 1080P,http://61.238.6.49:8001/bysid/82
 凤凰资讯HD,http://www.chahaoquan.com/wz/epg/fhdl.php?id=1
 凤凰中文HD,http://www.chahaoquan.com/wz/epg/fhdl.php?id=2
 无线新闻HD,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
- 
+ ViuTV 1080P,http://61.238.6.49:8000/bysid/99#http://hls.globaliptv.ml/viu99.php
+ViuTV 6HD,http://61.238.6.49:8000/bysid/96#http://hls.globaliptv.ml/viu96.php
+翡翠台 1080P,http://61.238.6.49:8000/bysid/1
+无线新闻 1080P,http://61.238.6.49:8001/bysid/83
+明珠台HD,http://61.238.6.49:8001/bysid/2
+J2 1080P,http://61.238.6.49:8001/bysid/82
+无线财经资讯台 1080P,http://61.238.6.49:8001/bysid/85
 香港電台視像新聞直播,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
 星空衛視,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233
