@@ -258,9 +258,9 @@ https://ws.matchupstream.tuboshu.com/live/97bb6335dac7b8f30782a4d7bb330706.flv
 https://ws.matchupstream.tuboshu.com/live/ac7f2e974081f817e6449f7b798d9f8b.flv
 #EXTINF:-1 tvg-id="6095" tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="测试频道",纬来日本
 https://ws.matchupstream.tuboshu.com/live/e2e8377c1b2c36236f2e62b3cfdcfa18.flv
-#EXTINF:-1 tvg-id="6143" tvg-logo="http://tv.sason.xyz/logo/tsxw.png" group-title="台湾频道",台视新闻 
+#EXTINF:-1 tvg-id="6143" tvg-logo="http://tv.sason.xyz/logo/tsxw.png" group-title="测试频道",台视新闻 
 https://ws.matchupstream.tuboshu.com/live/d8f5978b8f4e9ea515f2b7aa718e7e47.flv
-#EXTINF:-1 tvg-id="7176" tvg-logo="http://tv.sason.xyz/logo/zsxw.png" group-title="台湾频道",中视新闻 
+#EXTINF:-1 tvg-id="7176" tvg-logo="http://tv.sason.xyz/logo/zsxw.png" group-title="测试频道",中视新闻 
 https://ws.matchupstream.tuboshu.com/live/edaddc2b02c78118e7a1e71e77976753.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试频道",华视新闻·
 https://ws.matchupstream.tuboshu.com/live/8e9b78a905ff2d1204138891d7c0ce68.flv
