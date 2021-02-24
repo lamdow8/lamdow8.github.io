@@ -223,45 +223,49 @@ rtmp://v3948069e.live.126.net/live/hdhhxhsgxhjshyrgfzhsf/mszb201211tyjd202111.fl
 http://3085709961.cloudvdn.com/a.m3u8?domain=live-hls.macaulotustv.com&player=miAAAO3zQ5tzv1wW&secondToken=secondToken%3AQIahe4pha48pO1295-tj-QFaYHU&streamid=lotustv%3Alotustv%2F5562e9e4d409d24c9600075c&v3=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试频道",有线电影
-https://ws.matchupstream.tuboshu.com/live/d126e4dac7253a19cbfa952bcb200881.flv
+https://ws.matchupstream.tuboshu.com/live/9bf1a82c6fa4dbf70f15c66d9c2fb671.flv
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="测试频道",有线新闻
-https://ws.matchupstream.tuboshu.com/live/6d04cddd81b263c925e78c4c7da09f9a.flv
+https://ws.matchupstream.tuboshu.com/live/be999a22ecb32c4e4c28cb71ec65a48a.flv
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="测试频道",翡翠台
-https://ws.matchupstream.tuboshu.com/live/0cce0a5fcbff4802d46979ef4d80b7db.flv
+https://ws.matchupstream.tuboshu.com/live/dbe4ca5df873c99cce5927a209630679.flv
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="测试频道",无线新闻台
-https://ws.matchupstream.tuboshu.com/live/552e4066ff1d2efd7f31a924ff684645.flv
+https://ws.matchupstream.tuboshu.com/live/1661f9b1740a95ef012c3b882fd4b478.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试频道",无线资讯财经台
-https://ws.matchupstream.tuboshu.com/live/32f37725eae856d4bb3c8d97a243fd8b.flv
+https://ws.matchupstream.tuboshu.com/live/916f86a5125cfdefd5c91af76f784ef8.flv
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="测试频道",J2
-https://ws.matchupstream.tuboshu.com/live/532f3a7d7c1642c63bb61f39f3f91423.flv
+https://ws.matchupstream.tuboshu.com/live/fd0521e1f3e8097dd98e15057ddbe782.flv
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="测试频道",VIUTV
-https://ws.matchupstream.tuboshu.com/live/20285c25e70562aaa0616b5ed70242e5.flv
+https://ws.matchupstream.tuboshu.com/live/73e310806a432297dab40837f7891b82.flv
 #EXTINF:-1 tvg-id="6047" tvg-name="三立台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="测试频道",三立台湾
-https://ws.matchupstream.tuboshu.com/live/9175c080ccb41cc449494912562ec124.flv
+https://ws.matchupstream.tuboshu.com/live/92d43e9fb6fc353e35c7f487d11f68c1.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试频道",HBO亚洲
-https://flv3948069e.live.126.net/live/a4c5f54399925df46d0c5f95d923325e.flv
+https://flv3948069e.live.126.net/live/a09924b7d72d422ac4d9ef4882f7ed4d.flv
 #EXTINF:-1 tvg-id="6060" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="测试频道",TVBS欢乐台
-https://ws.matchupstream.tuboshu.com/live/db9084224f1680449e40649d4719cdfa.flv
+https://ws.matchupstream.tuboshu.com/live/bd67d739b9a31e2a6e8bf3ea9c1e72fc.flv
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="测试频道",TVBS新闻台
-https://ws.matchupstream.tuboshu.com/live/10c65920704e23d0b560b432fff2f06b.flv
+https://ws.matchupstream.tuboshu.com/live/efc789ebd87d2deb568de94fe16f65c9.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试频道",中天新闻
-https://ws.matchupstream.tuboshu.com/live/61eb8928738a93ae45d3ec660877a29a.flv
+https://ws.matchupstream.tuboshu.com/live/c8ff31c58394eab80ef9fba42dca6512.flv
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="测试频道",东森新闻
-https://ws.matchupstream.tuboshu.com/live/c99cfecb362da6ac615565efde83aadc.flv
+https://ws.matchupstream.tuboshu.com/live/c25e01c0cde6ccef051f9360fb0d6983.flv
 #EXTINF:-1 tvg-id="6051" tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="测试频道",东森超视
-https://ws.matchupstream.tuboshu.com/live/556f9678b14509869a4ea10bb7b8894c.flv
+https://ws.matchupstream.tuboshu.com/live/d33ae038311fd46c604ff12df71641b9.flv
 #EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="测试频道",东森财经新闻
-https://ws.matchupstream.tuboshu.com/live/17a84b61f54e49f489243fb7f19a63ce.flv
+https://ws.matchupstream.tuboshu.com/live/d9226a45075f988605765f9b552c3e90.flv
 #EXTINF:-1 tvg-id="6088" tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="测试频道",纬来育乐
-https://ws.matchupstream.tuboshu.com/live/7398da9e90148262e9e3b14ec3304d04.flv
+https://ws.matchupstream.tuboshu.com/live/97bb6335dac7b8f30782a4d7bb330706.flv
 #EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="测试频道",纬来体育
-https://ws.matchupstream.tuboshu.com/live/b7ddebd49d54afddb142a0899754e032.flv
+https://ws.matchupstream.tuboshu.com/live/ac7f2e974081f817e6449f7b798d9f8b.flv
 #EXTINF:-1 tvg-id="6095" tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="测试频道",纬来日本
-https://ws.matchupstream.tuboshu.com/live/04a3356547cbcf238b94726c63a96a9e.flv
+https://ws.matchupstream.tuboshu.com/live/e2e8377c1b2c36236f2e62b3cfdcfa18.flv
+#EXTINF:-1 tvg-id="6143" tvg-logo="http://tv.sason.xyz/logo/tsxw.png" group-title="台湾频道",台视新闻 
+https://ws.matchupstream.tuboshu.com/live/d8f5978b8f4e9ea515f2b7aa718e7e47.flv
+#EXTINF:-1 tvg-id="7176" tvg-logo="http://tv.sason.xyz/logo/zsxw.png" group-title="台湾频道",中视新闻 
+https://ws.matchupstream.tuboshu.com/live/edaddc2b02c78118e7a1e71e77976753.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试频道",华视新闻·
-https://ws.matchupstream.tuboshu.com/live/739e1a61acd1889996d3171961f038b4.flv
+https://ws.matchupstream.tuboshu.com/live/8e9b78a905ff2d1204138891d7c0ce68.flv
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="测试频道",民视新闻
-https://ws.matchupstream.tuboshu.com/live/1d84ff590ddf27ac88e3e17765aa25e2.flv
+https://ws.matchupstream.tuboshu.com/live/f0b9f7d2c159bd33789b368a174985fc.flv
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="测试频道",寰宇新闻台
 http://seb.sason.top/sc/hyxw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试频道",RTHK31
@@ -270,26 +274,6 @@ https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 #EXTINF:-1 ,====== 港澳,#genre# ======
 http://0/0.m3u8
-#EXTINF:-1 ,凤凰香港
-http://ubtv.ngys.xyz/ubtv20/crtv.php?id=358
-#EXTINF:-1 ,凤凰中文
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-#EXTINF:-1 ,凤凰卫视
-http://ubtv.ngys.xyz/ubtv20/crtv.php?id=357
-#EXTINF:-1 ,凤凰资讯
-http://39.134.176.148/PLTV/88888888/224/3221226491/index.m3u8
-
-#EXTINF:-1 ,香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-
-#EXTINF:-1 ,澳视卫星
-http://61.244.22.4/ch3/ch3.live/chunklist_w321363642.m3u8
-#EXTINF:-1 ,澳视卫星
-http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-#EXTINF:-1 ,澳视卫星
-http://61.244.22.4/ch3/ch3.live/chunklist_w1187443140.m3u8
-
-
 #EXTM3U
 #EXTINF:-1,翡翠台
 http://103.68.62.40:8080/hstv/hstv/1
