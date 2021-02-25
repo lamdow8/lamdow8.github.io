@@ -19,9 +19,9 @@ CCTV-9纪录,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226465/1.m3u8
 CCTV-10科教,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226464/1.m3u8$北京8M
 CCTV-11戏曲,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226463/1.m3u8$北京8M
 CCTV-12社会与法,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226462/1.m3u8$北京8M
-CCTV-13新闻,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8$北京8M
+CCTV-13新闻,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8$北京4M
 CCTV-14少儿,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226461/1.m3u8$北京8M
-CCTV-15音乐,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226333/1.m3u8$北京8M
+CCTV-15音乐,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226333/1.m3u8$北京3.5M
 CCTV-17农业农村,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226459/1.m3u8$北京8M
 
 CCTV-1综合,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8$福建8M
@@ -37,40 +37,23 @@ CCTV-12社会与法,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/22
 CCTV-12社会与法,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226931/index.m3u8$福建8M
 CCTV-13新闻,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8$福建4M
 CCTV-15音乐,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226989/index.m3u8$福建8M
-CCTV-1综合 1080,http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228013/index.m3u8$江苏10M
-CCTV-1综合 Max1080,http://183.207.248.142/ott.js.chinamobile.com/PLTV/3/224/3221227467/index.m3u8$江苏16M
-CCTV-2财经 1080,http://183.207.249.167/ott.js.chinamobile.com/PLTV/3/224/3221227427/index.m3u8$江苏8M
-CCTV-2财经 8M1080,http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8$江苏8M
-CCTV-2财经 Max16M1080,http://183.207.248.133/ott.js.chinamobile.com/PLTV/3/224/3221227543/index.m3u8$江苏16M
-CCTV-3综艺 8M1080,http://183.207.248.236/ott.js.chinamobile.com/PLTV/3/224/3221227424/index.m3u8$江苏8M
-CCTV-3综艺 8M1080,http://183.207.248.171/ott.js.chinamobile.com/PLTV/3/224/3221227623/index.m3u8$江苏8M
-CCTV-3综艺 Max16M1080,http://183.207.249.174/ott.js.chinamobile.com/PLTV/3/224/3221227546/index.m3u8$江苏16M
-CCTV-4国际 8M1080,http://183.207.249.169/ott.js.chinamobile.com/PLTV/3/224/3221227489/index.m3u8$江苏8M
-CCTV-4国际 Max16M1080,http://183.207.248.230/ott.js.chinamobile.com/PLTV/3/224/3221227549/index.m3u8$江苏16M
-CCTV-5体育 8M1080HEVC,http://183.207.249.102/ott.js.chinamobile.com/PLTV/3/224/3221227686/index.m3u8$江苏8M
-CCTV-5体育 8M1080,http://183.207.249.205/ott.js.chinamobile.com/PLTV/3/224/3221227466/index.m3u8$江苏8M
-CCTV-5体育 8M1080,http://183.207.249.238/ott.js.chinamobile.com/PLTV/3/224/3221227401/index.m3u8$江苏8M
-CCTV-5体育 Max16M1080,http://183.207.248.237/ott.js.chinamobile.com/PLTV/3/224/3221227537/index.m3u8$江苏16M
-CCTV-5体育 Max16M1080,http://183.207.249.138/ott.js.chinamobile.com/PLTV/3/224/3221227617/index.m3u8$江苏16M
-CCTV-5+体育赛事 8M1080,http://183.207.249.133/ott.js.chinamobile.com/PLTV/3/224/3221227463/index.m3u8$江苏8M
-CCTV-5+体育赛事 8M1080,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227631/index.m3u8$江苏8M
-CCTV-5+体育赛事 8M1080,http://183.207.248.139/ott.js.chinamobile.com/PLTV/3/224/3221227480/index.m3u8$江苏8M
-CCTV-5+体育赛事 Max16M1080,http://183.207.248.231/ott.js.chinamobile.com/PLTV/3/224/3221227502/index.m3u8$江苏16M
-CCTV-6电影 8M1080,http://183.207.249.138/ott.js.chinamobile.com/PLTV/3/224/3221227430/index.m3u8$江苏8M
-CCTV-6电影 Max16M1080,http://183.207.248.175/ott.js.chinamobile.com/PLTV/3/224/3221227505/index.m3u8$江苏16M
-CCTV-7国防军事 8M1080,http://183.207.248.171/ott.js.chinamobile.com/PLTV/3/224/3221227626/index.m3u8$江苏8M
-CCTV-7国防军事 8M1080,http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227690/index.m3u8$江苏8M
-CCTV-8电视剧 8M1080,http://183.207.248.168/ott.js.chinamobile.com/PLTV/3/224/3221227433/index.m3u8$江苏8M
-CCTV-8电视剧 8M1080,http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227629/index.m3u8$江苏8M
-CCTV-8电视剧 Max16M1080,http://183.207.249.103/ott.js.chinamobile.com/PLTV/3/224/3221227473/index.m3u8$江苏16M
-CCTV-9纪录 8M1080,http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227614/index.m3u8$江苏8M
-CCTV-10科教 8M1080,http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227620/index.m3u8$江苏8M
-CCTV-11戏曲 5.5M1080HEVC,http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8$江苏HEVC
-CCTV-12社会与法 8M1080,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227637/index.m3u8$江苏8M
-CCTV-13新闻 4M1080,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227601/index.m3u8$江苏4M
-CCTV-14少儿 8M1080,http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227693/index.m3u8$江苏8M
-CCTV-15音乐 5.5M1080HEVC,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8$江苏HEVC
-CCTV-17农业农村 5.5M1080HEVC,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8$江苏HEVC
+
+CCTV-1综合,http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228013/index.m3u8$江苏10M
+CCTV-2财经,http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8$江苏8M
+CCTV-3综艺,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227650/index.m3u8$江苏HEVC
+CCTV-4国际,http://223.110.245.142/ott.js.chinamobile.com/PLTV/3/224/3221227658/index.m3u8$江苏HEVC
+CCTV-5体育,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227661/index.m3u8$江苏HEVC
+CCTV-5+体育赛事,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227631/index.m3u8$江苏8M
+CCTV-7国防军事,http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227690/index.m3u8$江苏8M
+CCTV-8电视剧,http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227629/index.m3u8$江苏8M
+CCTV-9纪录,http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227614/index.m3u8$江苏8M
+CCTV-10科教,http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227620/index.m3u8$江苏8M
+CCTV-11戏曲,http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8$江苏HEVC
+CCTV-12社会与法,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227637/index.m3u8$江苏8M
+CCTV-13新闻,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227601/index.m3u8$江苏4M
+CCTV-14少儿,http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227693/index.m3u8$江苏8M
+CCTV-15音乐,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8$江苏HEVC
+CCTV-17农业农村,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8$江苏HEVC
 
 CCTV-1综合,http://39.135.138.59:18890/PLTV/88888910/224/3221225618/index.m3u8$江西宜春4M
 CCTV-2财经,http://39.135.138.59:18890/PLTV/88888910/224/3221225619/index.m3u8$江西宜春4M
@@ -580,6 +563,7 @@ Netflix 5,http://178.63.48.23:25461/live/netott/nFu0mOB8pm/68.ts
 广东体育频道,http://116.199.5.52:8114/00000000/hls/9.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 五星体育,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000#http://183.207.255.188/live/program/live/ssty/4000000/mnf.m3u8
 冬奥纪实,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
+冬奥纪实,http://183.207.249.207/ott.js.chinamobile.com/PLTV/3/224/3221227699/index.m3u8
 新视觉台 HD,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 劲爆体育HD,http://183.207.255.188/live/program/live/jbtyhd/4000000/mnf.m3u8#http://ott.cqccn.com/PLTV/88888888/224/3221227511/index.m3u8
 魅力足球HD,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8#http://ott.cqccn.com/PLTV/88888888/224/3221227588/index.m3u8
