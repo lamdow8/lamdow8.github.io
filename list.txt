@@ -200,7 +200,7 @@ CCTV-17农业农村,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc
 有線新聞台1080P,http://125.89.166.215:80/live-hwcdn.utvlive.top/live/fe19cd44717842fea90503d10aa7bab9/543b4d76d8614cf49194abe9db521736-1.m3u8
 有線新聞台1080P,http://live-hwcdn.utvlive.top:80/live/fe19cd44717842fea90503d10aa7bab9/543b4d76d8614cf49194abe9db521736.m3u8
 有線財經資訊台1080P,http://125.89.166.215:80/live-hwcdn.utvlive.top:80/live/0a5615586f6d450d889e1fe76fcb0f4d/ac715369d4ca49f094ef2cba593f8b19.m3u8
-无线新闻,https://pullhls3948069e.live.126.net/live/450d086e87794b87d778d6d6f2e4bdac/playlist.m3u8#http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1614354453~exp=1614440853~acl=/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/*~hmac=c6384921b7941aa3f7ec913c5090dd9ed1a08e72b94a7362a737a7ceb7588d69&p=3324
+无线新闻,https://pullhls3948069e.live.126.net/live/541572eeaf3b776e5fc097b4c678ee25/playlist.m3u8#http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1614354453~exp=1614440853~acl=/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/*~hmac=c6384921b7941aa3f7ec913c5090dd9ed1a08e72b94a7362a737a7ceb7588d69&p=3324
 无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1614354506~exp=1614440906~acl=/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/*~hmac=e093b751ad70ac5a644120147d902fa31bfe191d2fdd15f09880ab9283d866da&p=3324
 翡翠台,https://pullhls3948069e.live.126.net/live/f80dc8fe88b1eb5f7e214126638e3aa9/playlist.m3u8
 有线新闻,https://pullhls3948069e.live.126.net/live/87e8028d1aecc9ef85a4cbdf356a535b/playlist.m3u8
