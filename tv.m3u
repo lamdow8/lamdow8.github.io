@@ -387,3 +387,88 @@ http://seb.sason.top/sc/dsxw_fhd.m3u8
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 #EXTINF:-1 group-title="DTV☀Channel" tvg-logo="https://i.imgur.com/dwnHQIa.png",中天亚洲
 http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTM3U
+#EXTINF:-1 ,====== 香港快速,#genre# ======
+http://0/0.m3u8
+#EXTINF:-1 ,鳳凰資訊
+http://v3948069e.live.126.net/live/pqgjptpl57466656/2.flv
+#EXTINF:-1 ,鳳凰香港
+http://v3948069e.live.126.net/live/shjmcfcm88153504/3.flv
+#EXTINF:-1 ,TVB翡翠
+http://v3948069e.live.126.net/live/aquenjsu47088325/4.flv
+#EXTINF:-1 ,TVB明珠
+http://v3948069e.live.126.net/live/ifbqmpsi89087802/5.flv
+#EXTINF:-1 ,TVB星河
+http://v3948069e.live.126.net/live/vmqjmjeq22958188/6.flv
+#EXTINF:-1 ,TVB經典
+http://v3948069e.live.126.net/live/jxtfwmdz84179913/7.flv
+#EXTINF:-1 ,TVB J2
+http://v3948069e.live.126.net/live/vgqulbxf04954983/8.flv
+#EXTINF:-1 ,TVB Jade
+http://v3948069e.live.126.net/live/lodcmsug17094642/9.flv
+#EXTINF:-1 ,無線新聞
+http://v3948069e.live.126.net/live/xphfuktc50774690/11.flv
+#EXTINF:-1 ,無線財經
+http://v3948069e.live.126.net/live/vqwmcyoe80496227/12.flv
+#EXTINF:-1 ,有線新聞
+http://v3948069e.live.126.net/live/pxabeudg60275194/10.flv
+#EXTINF:-1 ,有線603
+http://v3948069e.live.126.net/live/fchkcudg56131397/13.flv
+#EXTINF:-1 ,有線18
+http://v3948069e.live.126.net/live/sgfrnkgw85600171/14.flv
+#EXTINF:-1 ,VIUTV
+http://v3948069e.live.126.net/live/byqndncm17489751/15.flv
+#EXTINF:-1 ,VIUTV6
+http://v3948069e.live.126.net/live/deukgclv24972072/16.flv
+#EXTINF:-1 ,RTHK31
+http://v3948069e.live.126.net/live/ocybaknj67313721/17.flv
+#EXTINF:-1 ,RTHK32
+http://v3948069e.live.126.net/live/oebexapy26608105/18.flv
+#EXTINF:-1 ,NOW新聞
+http://v3948069e.live.126.net/live/utzomclh80564205/19.flv
+#EXTINF:-1 ,NOW直播
+http://v3948069e.live.126.net/live/tztyuqwo26857218/20.flv
+#EXTINF:-1 ,NOW體育
+http://v3948069e.live.126.net/live/gdoqqhdf09878830/21.flv
+#EXTINF:-1 ,衛視卡式
+http://v3948069e.live.126.net/live/zoeaqzcu79454549/46.flv
+#EXTINF:-1 ,爆谷臺
+http://v3948069e.live.126.net/live/uwdmtyhq27278628/47.flv
+#EXTINF:-1 ,有線電影
+http://v3948069e.live.126.net/live/pxlqiyqf56500221/48.flv
+#EXTINF:-1 ,美亞電影
+http://v3948069e.live.126.net/live/mosihlng87475245/71.flv
+#EXTINF:-1 ,====== 臺灣快速,#genre# ======
+http://1/1.m3u8
+#EXTINF:-1 ,中天新聞
+http://v3948069e.live.126.net/live/frcfvsbd73727053/24.flv
+#EXTINF:-1 ,TVBS綜合
+http://v3948069e.live.126.net/live/hlzseoak46929689/25.flv
+#EXTINF:-1 ,TVBS新聞
+http://v3948069e.live.126.net/live/qddndira10438348/26.flv
+#EXTINF:-1 ,東森新聞
+http://v3948069e.live.126.net/live/okydtqqa74797490/28.flv
+#EXTINF:-1 ,東森電影
+http://v3948069e.live.126.net/live/qsyzcajf47783643/149.flv
+#EXTINF:-1 ,東森財經新聞
+http://v3948069e.live.126.net/live/mmghqape97023165/30.flv
+#EXTINF:-1 ,華視新聞
+http://v3948069e.live.126.net/live/brbsakla10082902/29.flv
+#EXTINF:-1 ,三立iNEWS
+http://v3948069e.live.126.net/live/ynmtctqm80867898/31.flv
+#EXTINF:-1 ,中視新聞
+http://v3948069e.live.126.net/live/voapfgqf57748018/32.flv
+#EXTINF:-1 ,臺視新聞
+http://v3948069e.live.126.net/live/xynkclhj42267280/33.flv
+#EXTINF:-1 ,壹新聞
+http://v3948069e.live.126.net/live/vqmdapyi88052569/34.flv
+#EXTINF:-1 ,民視臺灣
+http://v3948069e.live.126.net/live/plsruxtv07677753/35.flv
+#EXTINF:-1 ,民視第壹
+http://v3948069e.live.126.net/live/amqtiqpl87282084/36.flv
+#EXTINF:-1 ,寰宇新聞
+http://v3948069e.live.126.net/live/boclnpzv44940116/37.flv
+#EXTINF:-1 ,緯來日本
+http://v3948069e.live.126.net/live/hmqaqgxt07105333/137.flv
+#EXTINF:-1 ,HBO
+http://v3948069e.live.126.net/live/vdrujrts75608023/59.flv
