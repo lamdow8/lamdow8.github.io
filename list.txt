@@ -339,47 +339,48 @@ MoMo·综合台,rtmp://59.124.75.157/sat/tv761
 壹新闻台·,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 HBO·亚洲,https://flv3948069e.live.126.net/live/8969ded585e56b0a4fd7225388fbf326.flv
 
-🇭🇰港台测试2,#genre#
-有线电影,http://45.119.126.193/itvv/hkiptv.php?id=HKCDYYT
-有线新闻,http://45.119.126.193/itvv/hkiptv.php?id=HKCNews
-有线18台,http://45.119.126.193/itvv/hkiptv.php?id=HKC18
-有线603台,http://45.119.126.193/itvv/hkiptv.php?id=HKC603
-J2,http://45.119.126.193/itvv/hkiptv.php?id=TVBJ2
-无线新闻,http://45.119.126.193/itvv/hkiptv.php?id=TVBinews
-翡翠台,http://v3948069e.live.126.net/live/us01/hk20210216feicui.flv
-J2,http://v3948069e.live.126.net/live/us01/hk20210216tvbj2.flv
-明珠台,http://v3948069e.live.126.net/live/us01/hk20210216mingzhu.flv
-无线财经,http://v3948069e.live.126.net/live/us01/hk20210216wxcjnews.flv
-无线新闻,http://v3948069e.live.126.net/live/us01/hk20210216wxnews.flv
-有线新闻,http://v3948069e.live.126.net/live/us01/hk20210216yxnews.flv
-有线18台,http://v3948069e.live.126.net/live/us01/hk20210216yx18t.flv
-卫视卡式台,http://v3948069e.live.126.net/live/us01/tw20210216tvbkashi.flv
-ViuTV,http://v3948069e.live.126.net/live/us01/hk20210216viutv.flv
-ViuTV 6,http://v3948069e.live.126.net/live/us01/hk20210216viutv6.flv
-now新闻,http://v3948069e.live.126.net/live/us01/tw20210216nownews.flv
-TVB星河,http://v3948069e.live.126.net/live/us01/tw20210216tvbxinghe.flv
-港台电视31,http://v3948069e.live.126.net/live/us01/hk20210216rt31.flv
-港台电视32,http://v3948069e.live.126.net/live/us01/hk20210216rt32.flv
-壹电视,http://v3948069e.live.126.net/live/us01/tw20210216yinews.flv
-民视,http://v3948069e.live.126.net/live/us01/tw20210216minshi.flv
-民视新闻,http://v3948069e.live.126.net/live/us01/tw20210216minshinews.flv
-台视,http://v3948069e.live.126.net/live/us01/tw20210216taishi.flv
-台视新闻,http://v3948069e.live.126.net/live/us01/tw20210216taishinews.flv
-中视新闻,http://v3948069e.live.126.net/live/us01/tw20210216zhongshinews.flv
-华视,http://v3948069e.live.126.net/live/us01/tw20210216huashi.flv
-华视新闻,http://v3948069e.live.126.net/live/us01/tw20210216huashinews.flv
-三立新闻,http://v3948069e.live.126.net/live/us01/tw20210216sanlinews.flv
-TVBS新闻台,http://v3948069e.live.126.net/live/us01/hk20210216tvbnews.flv
-中天新闻,http://v3948069e.live.126.net/live/us01/tw20210216zhongtiannews.flv
-东森新闻,http://v3948069e.live.126.net/live/us01/tw20210216dongsennews.flv
-东森财经,http://v3948069e.live.126.net/live/us01/hk20210216dongsencjnews.flv
-东森超视,http://v3948069e.live.126.net/live/us01/hk20210216dongsenchaoshi.flv
-寰宇新闻,http://v3948069e.live.126.net/live/us01/tw20210216huanyunews.flv
-纬来育乐,http://v3948069e.live.126.net/live/us01/tw20210216weilaigames.flv
-纬来体育,http://v3948069e.live.126.net/live/us01/tw20210216weilaitiyu.flv
-bbcnews,http://v3948069e.live.126.net/live/us01/tw20210216bbcnews.flv
-cnnnews,http://v3948069e.live.126.net/live/us01/tw20210216cnnnews.flv
-国家野生,http://v3948069e.live.126.net/live/us01/tw20210216guojiayesheng.flv
+香港快速,#genre#
+鳳凰資訊,http://v3948069e.live.126.net/live/pqgjptpl57466656/2.flv
+鳳凰香港,http://v3948069e.live.126.net/live/shjmcfcm88153504/3.flv
+TVB翡翠,http://v3948069e.live.126.net/live/aquenjsu47088325/4.flv
+TVB明珠,http://v3948069e.live.126.net/live/ifbqmpsi89087802/5.flv
+TVB星河,http://v3948069e.live.126.net/live/vmqjmjeq22958188/6.flv
+TVB經典,http://v3948069e.live.126.net/live/jxtfwmdz84179913/7.flv
+TVB J2,http://v3948069e.live.126.net/live/vgqulbxf04954983/8.flv
+TVB Jade,http://v3948069e.live.126.net/live/lodcmsug17094642/9.flv
+無線新聞,http://v3948069e.live.126.net/live/xphfuktc50774690/11.flv
+無線財經,http://v3948069e.live.126.net/live/vqwmcyoe80496227/12.flv
+有線新聞,http://v3948069e.live.126.net/live/pxabeudg60275194/10.flv
+有線603,http://v3948069e.live.126.net/live/fchkcudg56131397/13.flv
+有線18,http://v3948069e.live.126.net/live/sgfrnkgw85600171/14.flv
+VIUTV,http://v3948069e.live.126.net/live/byqndncm17489751/15.flv
+VIUTV6,http://v3948069e.live.126.net/live/deukgclv24972072/16.flv
+RTHK31,http://v3948069e.live.126.net/live/ocybaknj67313721/17.flv
+RTHK32,http://v3948069e.live.126.net/live/oebexapy26608105/18.flv
+NOW新聞,http://v3948069e.live.126.net/live/utzomclh80564205/19.flv
+NOW直播,http://v3948069e.live.126.net/live/tztyuqwo26857218/20.flv
+NOW體育,http://v3948069e.live.126.net/live/gdoqqhdf09878830/21.flv
+衛視卡式,http://v3948069e.live.126.net/live/zoeaqzcu79454549/46.flv
+爆谷臺,http://v3948069e.live.126.net/live/uwdmtyhq27278628/47.flv
+有線電影,http://v3948069e.live.126.net/live/pxlqiyqf56500221/48.flv
+美亞電影,http://v3948069e.live.126.net/live/mosihlng87475245/71.flv
+臺灣快速,#genre#
+中天新聞,http://v3948069e.live.126.net/live/frcfvsbd73727053/24.flv
+TVBS綜合,http://v3948069e.live.126.net/live/hlzseoak46929689/25.flv
+TVBS新聞,http://v3948069e.live.126.net/live/qddndira10438348/26.flv
+東森新聞,http://v3948069e.live.126.net/live/okydtqqa74797490/28.flv
+東森電影,http://v3948069e.live.126.net/live/qsyzcajf47783643/149.flv
+東森財經新聞,http://v3948069e.live.126.net/live/mmghqape97023165/30.flv
+華視新聞,http://v3948069e.live.126.net/live/brbsakla10082902/29.flv
+三立iNEWS,http://v3948069e.live.126.net/live/ynmtctqm80867898/31.flv
+中視新聞,http://v3948069e.live.126.net/live/voapfgqf57748018/32.flv
+臺視新聞,http://v3948069e.live.126.net/live/xynkclhj42267280/33.flv
+壹新聞,http://v3948069e.live.126.net/live/vqmdapyi88052569/34.flv
+民視臺灣,http://v3948069e.live.126.net/live/plsruxtv07677753/35.flv
+民視第壹,http://v3948069e.live.126.net/live/amqtiqpl87282084/36.flv
+寰宇新聞,http://v3948069e.live.126.net/live/boclnpzv44940116/37.flv
+緯來日本,http://v3948069e.live.126.net/live/hmqaqgxt07105333/137.flv
+HBO,http://v3948069e.live.126.net/live/vdrujrts75608023/59.flv
 
 🇭🇰港台测试3,#genre#
 港台電視31,http://113.255.161.76:9981/stream/channelid/1467517977
