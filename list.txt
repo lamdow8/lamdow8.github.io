@@ -215,8 +215,8 @@ CCTV-17农业农村,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc
 有線新聞台1080P,http://live-hwcdn.utvlive.top:80/live/fe19cd44717842fea90503d10aa7bab9/543b4d76d8614cf49194abe9db521736.m3u8
 有線財經資訊台1080P,http://125.89.166.215:80/live-hwcdn.utvlive.top:80/live/0a5615586f6d450d889e1fe76fcb0f4d/ac715369d4ca49f094ef2cba593f8b19.m3u8
 无线新闻,https://pullhls3948069e.live.126.net/live/c080d3a6208e3406e7347e1926715187/playlist.m3u8$官网代理
-无线新闻,https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1614518427~exp=1614604827~acl=/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/*~hmac=0563d8532add84343f140e917da3a01f294c3596398a8ddc5261eeaad8575b38&p=3324$官网
-无线财经资讯,https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1614518891~exp=1614605291~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/*~hmac=ae18493879050b127497222420fd77c0a3121b4559afa01591a6f3a0b361b497&p=3324$官网
+无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1614612834~exp=1614699234~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=6f3201d559892d68901febd83718da59dac342e3868021844be98581d088605b&p=3324$官网
+无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1614612719~exp=1614699119~acl=/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/*~hmac=5a968af8402abe02a1bf1e03d90b15c0f9e52ef2648a66a8f30007c788367eda&p=3324$官网
 翡翠台,https://pullhls3948069e.live.126.net/live/0a1ba18bfe91a9e6e6abf0918826988f/playlist.m3u8$官网代理
 有线新闻,https://pullhls3948069e.live.126.net/live/6dfde01d3aaad70e453ebac288601f45/playlist.m3u8$官网代理
 有线新闻,http://player.ggiptv.com:13164/v/hkcxw.m3u8$代理
@@ -349,6 +349,21 @@ MoMo·综合台,rtmp://59.124.75.157/sat/tv761
 HBO·亚洲,https://flv3948069e.live.126.net/live/80577c464b11396bef04f202169f663b.flv
 澳门莲花,http://3085709961.cloudvdn.com/a.m3u8?domain=live-hls.macaulotustv.com&player=miAAAO3zQ5tzv1wW&secondToken=secondToken%3AQIahe4pha48pO1295-tj-QFaYHU&streamid=lotustv%3Alotustv%2F5562e9e4d409d24c9600075c&v3=1
 星级剧集台,http://hls.haokan.bdstatic.com/haokan/stream_bduid_31696503_0.m3u8
+中视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8814&key=84797b799ae18d1b
+中视新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8821&key=84797b799ae18d1b
+美亚电影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11001&key=84797b799ae18d1b
+卫视中文台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13018&key=84797b799ae18d1b
+卫视电影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13017&key=84797b799ae18d1b
+卫视洋片台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11002&key=84797b799ae18d1b
+三立新闻台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14021&key=84797b799ae18d1b
+东森新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14001&key=84797b799ae18d1b
+东森综合,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14006&key=84797b799ae18d1b
+东森洋片,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14003&key=84797b799ae18d1b
+东森电影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14002&key=84797b799ae18d1b
+寰宇新闻台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15005&key=84797b799ae18d1b
+中天综合,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14019&key=84797b799ae18d1b
+TVBS新闻台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14017&key=84797b799ae18d1b
+TVBS欢乐台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14016&key=84797b799ae18d1b
 
 🇭🇰港台测试2,#genre#
 港台電視31,http://113.255.161.76:9981/stream/channelid/1467517977
