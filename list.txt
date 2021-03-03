@@ -215,8 +215,8 @@ CCTV-17农业农村,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc
 有線新聞台1080P,http://live-hwcdn.utvlive.top:80/live/fe19cd44717842fea90503d10aa7bab9/543b4d76d8614cf49194abe9db521736.m3u8
 有線財經資訊台1080P,http://125.89.166.215:80/live-hwcdn.utvlive.top:80/live/0a5615586f6d450d889e1fe76fcb0f4d/ac715369d4ca49f094ef2cba593f8b19.m3u8
 无线新闻,https://pullhls3948069e.live.126.net/live/c080d3a6208e3406e7347e1926715187/playlist.m3u8$官网代理
-无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1614612834~exp=1614699234~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=6f3201d559892d68901febd83718da59dac342e3868021844be98581d088605b&p=3324$官网
-无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1614612719~exp=1614699119~acl=/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/*~hmac=5a968af8402abe02a1bf1e03d90b15c0f9e52ef2648a66a8f30007c788367eda&p=3324$官网
+无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1614701210~exp=1614787610~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=3d01a058db42bc607c0133c4235e724a1e63a5cc3630b13a6f29fe5a446fd0d9&p=3324$官网
+无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1614701132~exp=1614787532~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/*~hmac=4c4b41046505c0206f9b5301e5464fc5028c30e1c9511d1189efea82fd8475e1&p=3324$官网
 翡翠台,https://pullhls3948069e.live.126.net/live/0a1ba18bfe91a9e6e6abf0918826988f/playlist.m3u8$官网代理
 有线新闻,https://pullhls3948069e.live.126.net/live/6dfde01d3aaad70e453ebac288601f45/playlist.m3u8$官网代理
 有线新闻,http://player.ggiptv.com:13164/v/hkcxw.m3u8$代理
