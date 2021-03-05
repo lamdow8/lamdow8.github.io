@@ -211,14 +211,11 @@ CCTV-17农业农村,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc
 黑龙江卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8$陕西12M
 
 🇭🇰香港频道,#genre#
-有線新聞台1080P,http://125.89.166.215:80/live-hwcdn.utvlive.top/live/fe19cd44717842fea90503d10aa7bab9/543b4d76d8614cf49194abe9db521736-1.m3u8
-有線新聞台1080P,http://live-hwcdn.utvlive.top:80/live/fe19cd44717842fea90503d10aa7bab9/543b4d76d8614cf49194abe9db521736.m3u8
-有線財經資訊台1080P,http://125.89.166.215:80/live-hwcdn.utvlive.top:80/live/0a5615586f6d450d889e1fe76fcb0f4d/ac715369d4ca49f094ef2cba593f8b19.m3u8
-无线新闻,https://pullhls3948069e.live.126.net/live/8dbefdad76825f694ac4870c7ef07942/playlist.m3u8$官网代理#https://pullhls3948069e.live.126.net/live/8dbefdad76825f694ac4870c7ef07942/playlist.m3u8?wsSession=26b0d4ae1f750d9035ef5660-161483929761972&wsIPSercert=416d069a27ca3492c549e40a08dc1b0f&wsMonitor=0
+无线新闻,https://pullhls3948069e.live.126.net/live/8dbefdad76825f694ac4870c7ef07942/playlist.m3u8$官网代理#https://pullhls3948069e.live.126.net/live/8dbefdad76825f694ac4870c7ef07942/playlist.m3u8?wsSession=d0141a36d20e9b554d4483a5-161492552795176&wsIPSercert=d83fa650f36824edf7bf6ba442b84583&wsMonitor=0
 无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1614873571~exp=1614959971~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=573d67c2caaee837c989059196594da0caa18a3c52b48810f1d51940b2796eea&p=3324$官网
 无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1614873467~exp=1614959867~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/*~hmac=dcf063763943828630e48e929311dbb655338dafe138dc9fe493ccc0cff6f7ae&p=3324$官网
-翡翠台,https://pullhls3948069e.live.126.net/live/cbe0119cc3100b9e94f38ac26a2dbf17/playlist.m3u8$官网代理#https://pullhls3948069e.live.126.net/live/cbe0119cc3100b9e94f38ac26a2dbf17/playlist.m3u8?wsSession=67681609af5fc193b3826ebf-161483759727068&wsIPSercert=416d069a27ca3492c549e40a08dc1b0f&wsMonitor=0$官网代理
-有线新闻,https://pullhls3948069e.live.126.net/live/f4605c483860d395e95b9cc76cfd60d5/playlist.m3u8$官网代理#https://pullhls3948069e.live.126.net/live/f4605c483860d395e95b9cc76cfd60d5/playlist.m3u8?wsSession=67681609af5fc193b3826ebf-161483909649378&wsIPSercert=416d069a27ca3492c549e40a08dc1b0f&wsMonitor=0
+翡翠台,https://pullhls3948069e.live.126.net/live/cbe0119cc3100b9e94f38ac26a2dbf17/playlist.m3u8$官网代理#https://pullhls3948069e.live.126.net/live/cbe0119cc3100b9e94f38ac26a2dbf17/playlist.m3u8?wsSession=c7572df689b66d83134e276d-161492605867900&wsIPSercert=d83fa650f36824edf7bf6ba442b84583&wsMonitor=0$官网代理
+有线新闻,https://pullhls3948069e.live.126.net/live/f4605c483860d395e95b9cc76cfd60d5/playlist.m3u8$官网代理#https://pullhls3948069e.live.126.net/live/f4605c483860d395e95b9cc76cfd60d5/playlist.m3u8?wsSession=c7572df689b66d83134e276d-161492587179026&wsIPSercert=d83fa650f36824edf7bf6ba442b84583&wsMonitor=0
 凤凰香港 Max6M1080,http://125.89.166.215/live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c.m3u8
 凤凰香港 Max6M1080,http://125.89.166.215/live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c-1.m3u8
 凤凰中文,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8$BJ720P
@@ -302,8 +299,6 @@ MoMo·综合台,rtmp://59.124.75.157/sat/tv761
 壹新闻台·,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 
 🇭🇰港台测试1,#genre#
-
-有线新闻台,http://gslb.cdn.hk.chinamobile.com/live/fe19cd44717842fea90503d10aa7bab9/543b4d76d8614cf49194abe9db521736.m3u8
 凤凰中文,http://playurl.elibei.com/tv/channel/fenghuang?id=2
 凤凰资讯,http://playurl.elibei.com/tv/channel/fenghuang?id=1
 凤凰香港,http://playurl.elibei.com/tv/channel/fenghuang?id=3
