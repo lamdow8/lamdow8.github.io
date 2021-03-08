@@ -211,11 +211,11 @@ CCTV-17农业农村,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc
 黑龙江卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8$陕西12M
 
 🇭🇰香港频道,#genre#
-无线新闻,https://pullhls3948069e.live.126.net/live/cd397f42c39f94fd3d330329498dc41a/playlist.m3u8$官网代理#https://pullhls3948069e.live.126.net/live/2efa5797ac5e7e89585101f036a70f21/playlist.m3u8?wsSession=a12cea3051a680d8bdb2da9b-161495218422161&wsIPSercert=778c2fdde013fb9f640ffec08b3b4db7&wsMonitor=0
-无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1615047060~exp=1615133460~acl=/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/*~hmac=6ec5c9b7400d686c648758f3f3ff3d169daf21de9d90aa024ba31e28cac3bcbf&p=3324$官网
-无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1615047071~exp=1615133471~acl=/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/*~hmac=a50f7c86f1a535be74f5a772c5514faa2a5ad7279bb7fc84f85866aeb5349ca1&p=3324$官网
-翡翠台,https://pullhls3948069e.live.126.net/live/63a7a48797f904a87f01b1f1db58db9f/playlist.m3u8$官网代理#https://pullhls3948069e.live.126.net/live/b2eb4c0854a2493cb4240fa8eccd91fc/playlist.m3u8?wsSession=8088d762e09dab82806db592-161495194916201&wsIPSercert=778c2fdde013fb9f640ffec08b3b4db7&wsMonitor=0$官网代理
-有线新闻,https://pullhls3948069e.live.126.net/live/6959b0c519949181be82e3748a2f4e6f/playlist.m3u8$官网代理#https://pullhls3948069e.live.126.net/live/bd1a2ddac67f6c7cff4c15a7199d4e69/playlist.m3u8?wsSession=a12cea3051a680d8bdb2da9b-161495209497797&wsIPSercert=778c2fdde013fb9f640ffec08b3b4db7&wsMonitor=0
+翡翠台,https://pullhls3948069e.live.126.net/live/5fd397b0517cbdc2be55498edd47817b/playlist.m3u8$官网代理#https://pullhls3948069e.live.126.net/live/5fd397b0517cbdc2be55498edd47817b/playlist.m3u8?wsSession=37fe9bc39ed9551fae5358ed-161520049232245&wsIPSercert=65031b866f083d3f29d89dc382a71143&wsMonitor=0
+无线新闻,https://pullhls3948069e.live.126.net/live/421843f15b6e694e38494fc5d09e81e9//playlist.m3u8$官网代理
+无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1615133051~exp=1615219451~acl=/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/*~hmac=ac3c9f312b1c1b1c36244b88e47b02931be2c0e003cecf6031bce14d087f4572&p=3324$官网
+无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1615132937~exp=1615219337~acl=/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/*~hmac=9bf1ecfec961754105a076f0256edc49e67402d219c01082d38e20aeaad2b0e4&p=3324$官网
+有线新闻,https://pullhls3948069e.live.126.net/live/13588e9dcd7eb3c7d1e23ca435f3aa36/playlist.m3u8$官网代理#https://pullhls3948069e.live.126.net/live/13588e9dcd7eb3c7d1e23ca435f3aa36/playlist.m3u8?wsSession=01fcf149e33c5325ae0a32be-161520087854715&wsIPSercert=65031b866f083d3f29d89dc382a71143&wsMonitor=0
 凤凰香港 Max6M1080,http://125.89.166.215/live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c.m3u8
 凤凰香港 Max6M1080,http://125.89.166.215/live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c-1.m3u8
 凤凰中文,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8$BJ720P
@@ -314,7 +314,7 @@ TVB·翡翠台,https://ws.matchupstream.tuboshu.com/live/865f3a62d3e28be327d9b99
 TVB·明珠台,https://ws.matchupstream.tuboshu.com/live/4eb14b86190953815a0c45eb5a728fa6.flv
 TVB·新闻台,https://ws.matchupstream.tuboshu.com/live/b850b7c099c0f33247c419f3148d6050.flv
 TVB·财经台,https://ws.matchupstream.tuboshu.com/live/841fca80780410395321a56830db76f9.flv
-TVB·J2,https://ws.matchupstream.tuboshu.com/live/33327a74e21dcde57fbf84628dbb3763.flv
+TVB·J2,https://ws.matchupstream.tuboshu.com/live/bc2772e85cb776eca8c35b758d73dccf.flv
 VIU·TV,https://ws.matchupstream.tuboshu.com/live/f59f873ab57be00676a40e80bb8d30f0.flv#http://livetv.dnsfor.me/channel.20.m3u8
 澳视澳门,http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
 澳门卫星,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
