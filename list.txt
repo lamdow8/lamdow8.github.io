@@ -300,45 +300,48 @@ MoMo·综合台,rtmp://59.124.75.157/sat/tv761
 壹新闻台·,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 
 🇭🇰港台测试1,#genre#
-凤凰中文,http://playurl.elibei.com/tv/channel/fenghuang?id=2
-凤凰资讯,http://playurl.elibei.com/tv/channel/fenghuang?id=1
-凤凰香港,http://playurl.elibei.com/tv/channel/fenghuang?id=3
-有线新闻,https://ws.matchupstream.tuboshu.com/live/16b9d3232c240ccc85dff64ac91f564d.flv#http://livetv.dnsfor.me/channel.5.m3u8
+凤凰中文台,https://player.ggiptv.com/v/ifeng.php?id=2#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8#rtmp://58.200.131.2:1935/livetv/fhzw#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
+凤凰资讯台,https://player.ggiptv.com/v/ifeng.php?id=1#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8#rtmp://58.200.131.2:1935/livetv/fhzx
+凤凰香港台,https://player.ggiptv.com/v/ifeng.php?id=3#http://livetv.dnsfor.me/channel.16.m3u8
+凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
+有线新闻,https://ws.matchupstream.tuboshu.com/live/fb8c45797244fdc5515f6219072ffbd8.flv#http://livetv.dnsfor.me/channel.5.m3u8
 有线财经,http://live-hwcdn.utvlive.top/live/0a5615586f6d450d889e1fe76fcb0f4d/ac715369d4ca49f094ef2cba593f8b19-1.m3u8#http://livetv.dnsfor.me/channel.6.m3u8
 有线18台,rtmp://59.124.75.156/sat/hk041
-NOW·新闻台,https://ws.matchupstream.tuboshu.com/live/06edf36cb2c9aef553301c497683f934.flv
+NOW·新闻台,https://ws.matchupstream.tuboshu.com/live/a8dc478f28ecc22ec8c9561fa3d8b12a.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#https://itv.ahcme.edu.cn/hls/startv.m3u8#rtmp://58.200.131.2:1935/livetv/startv
 莲花卫视,http://live-hls.macaulotustv.com/lotustv/5562e9e4d409d24c9600075c.m3u8
 亚视本港,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
-TVB·翡翠台,https://ws.matchupstream.tuboshu.com/live/bc95f6345f45a1406fcc0ad2b212fb20.flv#http://livetv.dnsfor.me/channel.18.m3u8
-TVB·明珠台,https://ws.matchupstream.tuboshu.com/live/a58a20a2fd490298caad2b1870a8ddb6.flv
-TVB·新闻台,https://ws.matchupstream.tuboshu.com/live/b850b7c099c0f33247c419f3148d6050.flv
-TVB·财经台,https://ws.matchupstream.tuboshu.com/live/841fca80780410395321a56830db76f9.flv
-TVB·J2,https://ws.matchupstream.tuboshu.com/live/2dfed01e504721888b38426ff11c3e2a.flv
-VIU·TV,https://ws.matchupstream.tuboshu.com/live/bcdcd608f2c0a18f18d2683debfee1ea.flv#http://livetv.dnsfor.me/channel.20.m3u8
+TVB·翡翠台,https://ws.matchupstream.tuboshu.com/live/b359dc78b849a20857a3d6ad83299f96.flv#http://livetv.dnsfor.me/channel.18.m3u8
+TVB·明珠台,https://ws.matchupstream.tuboshu.com/live/3200aed225a6c21b1291116c14db2b75.flv
+TVB·新闻台,https://ws.matchupstream.tuboshu.com/live/d4bff9441c1c7d89c7e5758e1f5f8006.flv
+TVB·财经台,https://ws.matchupstream.tuboshu.com/live/c16607a16357095143403723eeea1ee4.flv
+TVB·J2,https://ws.matchupstream.tuboshu.com/live/3c15aeaf36df339ca6037a9e0a402916.flv
+VIU·TV,https://ws.matchupstream.tuboshu.com/live/bf1b81b7ad3ea82cebb6deeb768d2e68.flv#http://livetv.dnsfor.me/channel.20.m3u8
 澳视澳门,http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
 澳门卫星,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 澳门资讯,http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
-澳亚卫视,https://live.mastvnet.com/4rlff1m/1024/live.m3u8
+天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+有线603,https://ws.matchupstream.tuboshu.com/live/300bd85c70c8bb939460f72b4d9fabc2.flv
 港视31台·,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8#http://livetv.dnsfor.me/channel.1.m3u8
 港视32台·,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8#http://livetv.dnsfor.me/channel.2.m3u8
-TVBS·欢乐台,https://ws.matchupstream.tuboshu.com/live/6fc5ee3f0649dcb19a7bfabf1e33eba4.flv#rtmp://59.124.75.157/sat/tv421
+TVBS·欢乐台,https://ws.matchupstream.tuboshu.com/live/cbf7675af8fe19639ccde8c2c32b3251.flv#rtmp://59.124.75.157/sat/tv421
 TVBS·新闻台,https://ws.matchupstream.tuboshu.com/live/c2b1b2049922dc5e897e4ab8e2c2e890.flv#rtmp://59.124.75.156/sat/tv551
-中天新闻,https://ws.matchupstream.tuboshu.com/live/175752e384dd3a14010790a31f137fad.flv
-东森新闻,https://ws.matchupstream.tuboshu.com/live/c3a7f03af97fd6d739d00c70df9c0cc1.flv
+中天新闻,https://ws.matchupstream.tuboshu.com/live/3ce8260cfd7654fe35e53bda39520e12.flv
+东森新闻,https://ws.matchupstream.tuboshu.com/live/3c264411e2eb9bcd9bff629fa524e95a.flv
 东森超视,https://ws.matchupstream.tuboshu.com/live/3f9231c9186141129d028f4836776c7e.flv#rtmp://59.124.75.156/sat/tv771
 东森财经新闻,https://ws.matchupstream.tuboshu.com/live/d5d7774c8bcca7321bf5156f63955c9f.flv#rtmp://59.124.75.157/sat/tv571
-三立直播新闻·,https://ws.matchupstream.tuboshu.com/live/288beccdaf1a16e53aa483ea78bbdae1.flv
+三立直播新闻·,https://ws.matchupstream.tuboshu.com/live/f3a6a4e6e1795d08fcc2a61c89d4ab5b.flv
 纬来育乐,https://ws.matchupstream.tuboshu.com/live/ffb209ef7935b3678eede6440d2c1377.flv#rtmp://59.124.75.157/sat/tv701
 纬来体育,https://ws.matchupstream.tuboshu.com/live/9c7cbd0f5edca87e62d448b68ab3a5f6.flv#rtmp://59.124.75.156/sat/tv721
-纬来日本,https://ws.matchupstream.tuboshu.com/live/66342b261cf278b42903f2eca8b509d4.flv
+纬来日本,https://ws.matchupstream.tuboshu.com/live/2d377e14525467080118a7675b5e8539.flv
 爱尔达体育一,rtmp://59.124.75.157/sat/md011
 MoMo·综合台,rtmp://59.124.75.157/sat/tv761
-台视新闻·,https://ws.matchupstream.tuboshu.com/live/42b81bb67995014b2c66b5fd90bfa1ef.flv
-中视新闻·,https://ws.matchupstream.tuboshu.com/live/88bd327cf714c672733ae305c2543ea6.flv
-华视新闻·,https://ws.matchupstream.tuboshu.com/live/15cc6184c759c04f2d1e9592d447a741.flv
-民视新闻·,https://ws.matchupstream.tuboshu.com/live/193ce64df9f779f96605dec89a099286.flv#http://210.61.56.23/hls/ftvtv/index.m3u8#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+台视新闻·,https://ws.matchupstream.tuboshu.com/live/f9bac21da04beac06326a7b95623677e.flv
+中视新闻·,https://ws.matchupstream.tuboshu.com/live/3e7e608472b581816ffe038b72a78c40.flv
+华视新闻·,https://ws.matchupstream.tuboshu.com/live/0853493f5dceefea7a50495cf542dcf7.flv
+民视新闻·,https://ws.matchupstream.tuboshu.com/live/896b0740c89bdb8d105ead403a088f06.flv#http://210.61.56.23/hls/ftvtv/index.m3u8#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 壹新闻台·,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 🇭🇰港台测试2,#genre#
 HBO·亚洲,https://flv3948069e.live.126.net/live/80577c464b11396bef04f202169f663b.flv
