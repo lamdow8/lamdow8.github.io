@@ -211,11 +211,11 @@ CCTV-17农业农村,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc
 黑龙江卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8$陕西12M
 
 🇭🇰香港频道,#genre#
-翡翠台,https://pullhls3948069e.live.126.net/live/624d6f2cf0cd3251c445ddd010c77faa/playlist.m3u8$官网代理
-无线新闻,https://pullhls3948069e.live.126.net/live/adc735d91f6e00f170fc8340bb2dad3a/playlist.m3u8$官网代理
-无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1615478697~exp=1615565097~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=ba1a744b5316760b16fa2a34c8fe59c803a2bf314cebf678794cd177ee9ae873&p=3324$官网
-无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1615478612~exp=1615565012~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/*~hmac=6b5439c46b0c2163600c8940b06858c3b4cec90ad4594b06af299b20e0005ee2&p=3324$官网
-有线新闻,https://pullhls3948069e.live.126.net/live/595fa592332800d728352fbf66fa44aa/playlist.m3u8$官网代理
+翡翠台,https://pullhls3948069e.live.126.net/live/c5431d4cef0c8b3ad72e9bcbb82f0474/playlist.m3u8$官网代理
+无线新闻,https://pullhls3948069e.live.126.net/live/408bf438d21d24843008a96e7ea9e4e3/playlist.m3u8$官网代理
+无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1615565125~exp=1615651525~acl=/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/*~hmac=69cfc35d5500bafb5eddc7648ef6afdc3a0a9162e8bbef6d17d93c0c134e36b5&p=3324$官网
+无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1615564959~exp=1615651359~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/*~hmac=3288ba4a4bfc2b0a931f58f81224b99313bf92e297abdd151a151c19b1688b1c&p=3324$官网
+有线新闻,https://pullhls3948069e.live.126.net/live/072aeee7702a4225790175f0837044e6/playlist.m3u8$官网代理
 凤凰香港 Max6M1080,http://125.89.166.215/live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c.m3u8
 凤凰香港 Max6M1080,http://125.89.166.215/live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c-1.m3u8
 凤凰中文,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8$BJ720P
