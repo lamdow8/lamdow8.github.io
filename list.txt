@@ -20,6 +20,18 @@ CCTV-13新闻,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV-14少儿,http://39.135.138.59:18890/PLTV/88888910/224/3221225639/index.m3u8$江西宜春4M
 CCTV-15音乐,http://39.135.138.59:18890/PLTV/88888910/224/3221225641/index.m3u8$江西宜春4M
 CCTV-17农业农村,http://39.135.138.59:18890/PLTV/88888910/224/3221225909/index.m3u8$江西宜春8M
+CCTV世界地理 6M1080,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=sjdl
+CCTV兵器科技 6M1080,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=bqkj
+CCTV卫生健康 6M1080,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=wsjk
+CCTV央视台球 6M1080,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=ystq
+CCTV女性时尚 6M1080,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=nxss
+CCTV怀旧剧场 6M1080,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=hjjc
+CCTV文化精品 6M1080,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=whjp
+CCTV第一剧场 6M1080,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=dyjc
+CCTV风云剧场 6M1080,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=fyjc
+CCTV风云足球 6M1080,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=fyzq
+CCTV风云音乐 6M1080,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=fyyy
+CCTV高尔夫网球 6M1080,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=gefwq
 
 CCTV-1综合,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8$北京8M
 CCTV-1综合,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/1.m3u8$北京8M
@@ -301,9 +313,49 @@ VIU·TV,https://ws.matchupstream.tuboshu.com/live/9576f4e20789668f5f93fb91dcb35e
 星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#https://itv.ahcme.edu.cn/hls/startv.m3u8#rtmp://58.200.131.2:1935/livetv/startv
 莲花卫视,http://live-hls.macaulotustv.com/lotustv/5562e9e4d409d24c9600075c.m3u8
 亚视本港,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
-
 🇭🇰港台测试2,#genre#
+凤凰中文,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=fhwshd
+凤凰资讯,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=fhzxhd
+凤凰香港,http://cdn.chxjon.cn/iptv/QQ582185381/xgfh.php?id=3
+有线新闻,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=6
+有线新闻,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=7
+有线603台,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=8
+有线电影台,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=9
+有线18台,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=12
+无线新闻,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=13
+无线财经,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=14
+翡翠台,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=15
+J2,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=18
+ViuTV,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=20
+now新闻台,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=21
+HBOHD,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=25
+中天新闻,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=26
+东森新闻,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=27
+东森财经新闻,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=28
+台视新闻,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=31
+中视新闻,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=32
+华视新闻,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=33
+TVBS新闻,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=34
+三立LIVE新闻,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=35
+民视新闻,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=37
+民视,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=41
+台视,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=42
+中视,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=43
+华视,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=44
+TVBS欢乐台,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=47
+三立台湾台,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=49
+东森超市,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=50
+纬来体育台,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=52
+纬来日本台,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=53
+纬来育乐台,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=54
 
+有线新闻台,http://xiaojun.cyou/7108live/gt/xgindex.php?id=yxxwt#http://xiaojun.cyou/7108live/gt/yxxwt/live1.m3u8
+无线新闻台,http://xiaojun.cyou/7108live/gt/xgindex.php?id=wxxwt#http://xiaojun.cyou/7108live/gt/wxxwt/live1.m3u8
+无线资讯财经,http://xiaojun.cyou/7108live/gt/xgindex.php?id=wxcjzxt
+now新闻台,http://xiaojun.cyou/7108live/gt/xgindex.php?id=nowxwt
+中天新闻,http://xiaojun.cyou/7108live/tw/twindex.php?id=ztxw
+三立LIVE新闻,http://xiaojun.cyou/7108live/tw/twindex.php?id=sllivexw
+🇭🇰港台测试3,#genre#
 翡翠台,http://93.190.139.36:8278/streams/d/jade_twn/playlist.m3u8
 TVB 新闻台,http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
 J 2,http://93.190.139.36:8278/streams/d/j2_twn/playlist.m3u8
@@ -443,11 +495,7 @@ beIN Sports 1 Asia,https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 beIN Sports 2 Asia,https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 BeIN Sport 2 ID,http://tvku.live:8888/donal/donal/729
 BeIN Sport 1 ID,http://tvku.live:8888/donal/donal/728
-Netflix 1,http://178.63.48.23:25461/live/netott/nFu0mOB8pm/66.ts
-Netflix 2,http://178.63.48.23:25461/live/netott/nFu0mOB8pm/69.ts
-Netflix 3,http://178.63.48.23:25461/live/netott/nFu0mOB8pm/64.ts
-Netflix 4,http://178.63.48.23:25461/live/netott/nFu0mOB8pm/63.ts
-Netflix 5,http://178.63.48.23:25461/live/netott/nFu0mOB8pm/68.ts
+
 
 ⚽体育综合,#genre#
 广东体育频道,http://116.199.5.52:8114/00000000/hls/9.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
@@ -530,7 +578,8 @@ CHC家庭影院,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/
 四川峨眉电影,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/scem/index.m3u8?IAS
 峨眉电影频道,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 上海东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8#http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226189/index.m3u8
-
+邵氏老电影,https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8
+邵氏老电影,https://cn-hnzz-cmcc-live-01.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8
 黑莓电影,http://112.17.40.140/PLTV/88888888/224/3221226755/index.m3u8
 黑莓动画 4M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/donghuawg/index.m3u8?IAS
 黑莓电影 4M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/jdianying/index.m3u8?IAS
