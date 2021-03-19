@@ -221,11 +221,11 @@ CCTV-17农业农村,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc
 黑龙江卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8$陕西12M
 
 🇭🇰香港频道,#genre#
-翡翠台,https://pullhls3948069e.live.126.net/live/61e305be4e2c5bde42b8635963d8fbc9/playlist.m3u8$官网代理
-无线新闻,https://pullhls3948069e.live.126.net/live/c9f778cb7bc22e3e484eac8de9b844e4/playlist.m3u8$官网代理
-无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1615651626~exp=1615738026~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=f9c0915ba48ca19888a5ec34eb7fc69390efb697e20928e1c44aff9284032996&p=3324$官网
-无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1615651516~exp=1615737916~acl=/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/*~hmac=1f25edc8c18c421cd2e25dfb04c9122bb12cbc7d37ed799afb2a9972ad9a6b35&p=3324$官网
-有线新闻,https://pullhls3948069e.live.126.net/live/625bc435fe8b700ffa57e13aea886f4e/playlist.m3u8$官网代理
+翡翠台,https://pullhls3948069e.live.126.net/live/d78caac0d0d3e115ebb22fbab7145e1e/playlist.m3u8$官网代理
+无线新闻,https://pullhls3948069e.live.126.net/live/7ea8d6ca0558e5a7263ff283314166b0/playlist.m3u8$官网代理
+无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616083447~exp=1616169847~acl=/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/*~hmac=c8f6eb71fa5c32ecda03e0d43b0e93fdef4a4839d609937b8d3c8fb96e7b00a1&p=3324$官网
+无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616083365~exp=1616169765~acl=/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/*~hmac=1812de6b5259831aee4f526b02af173c0580f77a6e19ea212be3930c991a2140&p=3324$官网
+有线新闻,https://pullhls3948069e.live.126.net/live/0bec4f381e44587e53989d1d7e2f2685/playlist.m3u8$官网代理
 凤凰中文,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8$BJ720P
 凤凰中文,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8$BJ720P
 凤凰资讯,http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228016/index.m3u8$JS1080P
@@ -250,22 +250,29 @@ J2 1080P,http://61.238.6.49:8001/bysid/82
 
 
 🇹🇼台湾频道🇹🇼,#genre#
-TVBS·欢乐台,https://ws.matchupstream.tuboshu.com/live/cbf7675af8fe19639ccde8c2c32b3251.flv
-TVBS·新闻台,https://ws.matchupstream.tuboshu.com/live/c2b1b2049922dc5e897e4ab8e2c2e890.flv
-寰宇新闻,https://flv3948069e.live.126.net/live/0ae33d061157f0b71cb85fc57a4e4523.flv
-中天新闻,https://flv3948069e.live.126.net/live/3603b79bd2e49209a83eea48860a68cb.flv
-东森新闻,https://flv3948069e.live.126.net/live/1ee552eacfe90327c7cfad4ddf2613af.flv
-东森超视,https://ws.matchupstream.tuboshu.com/live/3f9231c9186141129d028f4836776c7e.flv
-东森财经新闻,https://ws.matchupstream.tuboshu.com/live/d5d7774c8bcca7321bf5156f63955c9f.flv
-三立直播新闻,https://ws.matchupstream.tuboshu.com/live/f3a6a4e6e1795d08fcc2a61c89d4ab5b.flv
-纬来育乐,https://ws.matchupstream.tuboshu.com/live/ffb209ef7935b3678eede6440d2c1377.flv
-纬来体育,https://ws.matchupstream.tuboshu.com/live/9c7cbd0f5edca87e62d448b68ab3a5f6.flv
-纬来日本,https://ws.matchupstream.tuboshu.com/live/2d377e14525467080118a7675b5e8539.flv
-台视新闻,https://flv3948069e.live.126.net/live/69b87b2adc17fe54de7e5c7ae0d4a228.flv
-中视新闻,https://ws.matchupstream.tuboshu.com/live/3e7e608472b581816ffe038b72a78c40.flv
-华视新闻,https://ws.matchupstream.tuboshu.com/live/0853493f5dceefea7a50495cf542dcf7.flv
-民视新闻,https://ws.matchupstream.tuboshu.com/live/896b0740c89bdb8d105ead403a088f06.flv#http://210.61.56.23/hls/ftvtv/index.m3u8#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-壹新闻台,https://flv3948069e.live.126.net/live/2d2d44211b9c9b85875c1e48d5db41b5.flv#http://stream.nexttv.com.tw/n001/hd/live.m3u8
+大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+民视,https://flv3948069e.live.126.net/live/9b25086f4599dca3c655b1fb329a6def.flv#rtmp://59.124.75.157/sat/tv051
+台视,https://flv3948069e.live.126.net/live/c4ebbfe391de699e9ec2a8f8c26144d3.flv#rtmp://59.124.75.156/sat/tv071
+中视,https://flv3948069e.live.126.net/live/1f9e1461e46f1778e7ff7efc46fdec75.flv#rtmp://59.124.75.157/sat/tv091
+华视,https://flv3948069e.live.126.net/live/ac6b8d33b4d176d6553d38323f6b184d.flv#rtmp://59.124.75.156/sat/tv111
+TVBS·欢乐台,https://flv3948069e.live.126.net/live/18ed6d5ced75a77ef54c8c8abb7533a3.flv#rtmp://59.124.75.157/sat/tv421
+TVBS·新闻台,https://flv3948069e.live.126.net/live/a9e3a0d954dd5c05f804d5d5fa614e63.flv#rtmp://59.124.75.156/sat/tv551
+中天新闻,https://flv3948069e.live.126.net/live/e78f8608e5132c9513d344e7560a3e8f.flv
+东森新闻,https://flv3948069e.live.126.net/live/5ec3ccb61b48935d65485eb751c90662.flv
+东森超视,https://flv3948069e.live.126.net/live/92c2cd0dc57776a92cc94953c998d859.flv#rtmp://59.124.75.156/sat/tv771
+东森财经新闻,https://flv3948069e.live.126.net/live/72a13450aa60bdae9cad637f12500c0b.flv#rtmp://59.124.75.157/sat/tv571
+三立直播新闻·,https://flv3948069e.live.126.net/live/92a93d740892974183c2ddc345c7e74f.flv
+纬来育乐,https://flv3948069e.live.126.net/live/a40e4bad88d87d56615749ee1c07accb.flv#rtmp://59.124.75.157/sat/tv701
+纬来体育,https://flv3948069e.live.126.net/live/5a63d057b99b9bbecc136dd15e111390.flv#rtmp://59.124.75.156/sat/tv721
+纬来日本,https://flv3948069e.live.126.net/live/9cb0735d141b75b334caf51fe959ad52.flv
+爱尔达体育一,rtmp://59.124.75.157/sat/md011
+MoMo·综合台,rtmp://59.124.75.157/sat/tv761
+台视新闻·,https://flv3948069e.live.126.net/live/c4a16634303574881da5bc76ccbe3577.flv
+中视新闻·,https://flv3948069e.live.126.net/live/07ebed7dfe759343db88a2994d327f8f.flv
+华视新闻·,https://flv3948069e.live.126.net/live/ffb02f0321c2132a544ed41bd6ae9206.flv
+民视新闻·,https://flv3948069e.live.126.net/live/866d70b37e8da1a6c3f5ca7a0ba3889c.flv#http://210.61.56.23/hls/ftvtv/index.m3u8#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+壹新闻台·,https://flv3948069e.live.126.net/live/41adae49a6c0b3f3645679bff079e53a.flv#http://stream.nexttv.com.tw/n001/hd/live.m3u8
 星级剧集台,http://hls.haokan.bdstatic.com/haokan/stream_bduid_31696503_0.m3u8
 中视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8814&key=84797b799ae18d1b
 中视新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8821&key=84797b799ae18d1b
@@ -288,28 +295,30 @@ TVBS欢乐台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14016&key=84
 凤凰资讯台,https://player.ggiptv.com/v/ifeng.php?id=1#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8#rtmp://58.200.131.2:1935/livetv/fhzx
 凤凰香港台,https://player.ggiptv.com/v/ifeng.php?id=3#http://livetv.dnsfor.me/channel.16.m3u8
 凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
-有线新闻,https://ws.matchupstream.tuboshu.com/live/c2b00acbb2508ef4cffddf33ac31f6eb.flv#http://livetv.dnsfor.me/channel.5.m3u8
-有线财经,http://live-hwcdn.utvlive.top/live/0a5615586f6d450d889e1fe76fcb0f4d/ac715369d4ca49f094ef2cba593f8b19-1.m3u8#http://livetv.dnsfor.me/channel.6.m3u8
-有线18台,rtmp://59.124.75.156/sat/hk041
-NOW·新闻台,https://flv3948069e.live.126.net/live/cdd5e627fec5a17267d2f853ac91d088.flv
-TVB·翡翠台,https://ws.matchupstream.tuboshu.com/live/234aa612263699e731978d7eb8441736.flv#http://livetv.dnsfor.me/channel.18.m3u8
-TVB·明珠台,https://ws.matchupstream.tuboshu.com/live/770949b04b89fe045f65517fac0e5c19.flv
-TVB·新闻台,https://ws.matchupstream.tuboshu.com/live/cd2299277f94bc5c7013a5263bed6171.flv
-TVB·财经台,https://flv3948069e.live.126.net/live/e816ab33b492b12c85147bf0d3cf62e7.flv
-TVB·J2,https://ws.matchupstream.tuboshu.com/live/a3e30adb8f673ded1f038eaf3f46ae89.flv
-VIU·TV,https://ws.matchupstream.tuboshu.com/live/dd13dee14a8ef1aa69730b17d78896f8.flv#http://livetv.dnsfor.me/channel.20.m3u8
+有线新闻,https://ws.matchupstream.tuboshu.com/live/ee1d32adf7b7755be4d53d9a3dac9666.flv#http://livetv.dnsfor.me/channel.5.m3u8
+有线18台,https://flv3948069e.live.126.net/live/7664a97ab4a9f47650ccde6d7ff18c87.flv#rtmp://59.124.75.156/sat/hk041
+NOW·新闻台,https://flv3948069e.live.126.net/live/2903c67e10f54f6a2d5c3e0eb0f5afba.flv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#https://itv.ahcme.edu.cn/hls/startv.m3u8#rtmp://58.200.131.2:1935/livetv/startv
+莲花卫视,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
+亚视本港,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
+TVB·翡翠台,https://ws.matchupstream.tuboshu.com/live/061bb2eada64797e67194548c19ec302.flv#http://livetv.dnsfor.me/channel.18.m3u8
+TVB·明珠台,https://ws.matchupstream.tuboshu.com/live/b22826b87547c4a5c771a4b8d8b3b26b.flv
+TVB·新闻台,https://ws.matchupstream.tuboshu.com/live/d049a306a4cb7ef9af7a62fd65de04fb.flv
+TVB·财经台,https://flv3948069e.live.126.net/live/d84cb0ae13732c598af8cbeb234828e6.flv
+TVB·星河台,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+TVB·J2,https://ws.matchupstream.tuboshu.com/live/69d3ba1fc060af948954ca2fdd72adc1.flv
+VIU·TV,https://ws.matchupstream.tuboshu.com/live/7ddf4475b45fe4f4dfd3d26af1030535.flv#http://livetv.dnsfor.me/channel.20.m3u8
 澳视澳门,http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
 澳门卫星,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 澳门资讯,http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-有线603,https://ws.matchupstream.tuboshu.com/live/cb8e9271b84293c1a58bf7452f24aaa3.flv
+有线603,https://ws.matchupstream.tuboshu.com/live/b77a48db6b829f09bb63216ab7311ffc.flv
+开放电视,https://flv3948069e.live.126.net/live/30396d34f08af0df302d632d6bdfcd6c.flv
 港视31台·,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8#http://livetv.dnsfor.me/channel.1.m3u8
 港视32台·,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8#http://livetv.dnsfor.me/channel.2.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#https://itv.ahcme.edu.cn/hls/startv.m3u8#rtmp://58.200.131.2:1935/livetv/startv
-莲花卫视,http://live-hls.macaulotustv.com/lotustv/5562e9e4d409d24c9600075c.m3u8
-亚视本港,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
+
 🇭🇰港台测试2,#genre#
 凤凰中文,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=fhwshd
 凤凰资讯,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=fhzxhd
