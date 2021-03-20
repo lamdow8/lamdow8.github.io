@@ -223,8 +223,8 @@ CCTV-17农业农村,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc
 🇭🇰香港频道,#genre#
 翡翠台,https://pullhls3948069e.live.126.net/live/d78caac0d0d3e115ebb22fbab7145e1e/playlist.m3u8$官网代理
 无线新闻,https://pullhls3948069e.live.126.net/live/7ea8d6ca0558e5a7263ff283314166b0/playlist.m3u8$官网代理
-无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616083447~exp=1616169847~acl=/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/*~hmac=c8f6eb71fa5c32ecda03e0d43b0e93fdef4a4839d609937b8d3c8fb96e7b00a1&p=3324$官网
-无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616083365~exp=1616169765~acl=/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/*~hmac=1812de6b5259831aee4f526b02af173c0580f77a6e19ea212be3930c991a2140&p=3324$官网
+无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616169585~exp=1616255985~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=30e732a43cd53abc4ad5b52773e88f0369c461b474d073cf736906903fa1b1df&p=3324$官网
+无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616169542~exp=1616255942~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/*~hmac=00db7ffae699adc87782df268fe04b0bbdaa0d8bafaaf22ce1f8a9d62c735129&p=3324$官网
 有线新闻,https://pullhls3948069e.live.126.net/live/0bec4f381e44587e53989d1d7e2f2685/playlist.m3u8$官网代理
 凤凰中文,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8$BJ720P
 凤凰中文,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8$BJ720P
@@ -266,8 +266,8 @@ TVBS·新闻台,https://flv3948069e.live.126.net/live/a9e3a0d954dd5c05f804d5d5fa
 纬来育乐,https://flv3948069e.live.126.net/live/a40e4bad88d87d56615749ee1c07accb.flv#rtmp://59.124.75.157/sat/tv701
 纬来体育,https://flv3948069e.live.126.net/live/5a63d057b99b9bbecc136dd15e111390.flv#rtmp://59.124.75.156/sat/tv721
 纬来日本,https://flv3948069e.live.126.net/live/9cb0735d141b75b334caf51fe959ad52.flv
-爱尔达体育一,rtmp://59.124.75.157/sat/md011
-MoMo·综合台,rtmp://59.124.75.157/sat/tv761
+GoodTV·综合台,https://dqhxk7sbp7xog.cloudfront.net/osmflivech1.m3u8
+GoodTV·卡通台,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 台视新闻·,https://flv3948069e.live.126.net/live/c4a16634303574881da5bc76ccbe3577.flv
 中视新闻·,https://flv3948069e.live.126.net/live/07ebed7dfe759343db88a2994d327f8f.flv
 华视新闻·,https://flv3948069e.live.126.net/live/ffb02f0321c2132a544ed41bd6ae9206.flv
@@ -361,6 +361,7 @@ TVB星河,http://kumei.vipcrtv.tk/crtv.php?id=1079
 澳視葡語,http://kumei.vipcrtv.tk/crtv.php?id=24
 澳門衛星,http://kumei.vipcrtv.tk/crtv.php?id=29
 豬哥亮歌廳秀,http://kumei.vipcrtv.tk/crtv.php?id=75
+
 🇭🇰港台测试3,#genre#
 翡翠台,http://93.190.139.36:8278/streams/d/jade_twn/playlist.m3u8
 TVB 新闻台,http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
