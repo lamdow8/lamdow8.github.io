@@ -211,11 +211,11 @@ CCTV-17农业农村,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc
 黑龙江卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8$陕西12M
 
 🇭🇰香港频道,#genre#
-翡翠台,https://pullhls3948069e.live.126.net/live/d78caac0d0d3e115ebb22fbab7145e1e/playlist.m3u8$官网代理
-无线新闻,https://pullhls3948069e.live.126.net/live/7ea8d6ca0558e5a7263ff283314166b0/playlist.m3u8$官网代理
-无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616169585~exp=1616255985~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=30e732a43cd53abc4ad5b52773e88f0369c461b474d073cf736906903fa1b1df&p=3324$官网
-无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616169542~exp=1616255942~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/*~hmac=00db7ffae699adc87782df268fe04b0bbdaa0d8bafaaf22ce1f8a9d62c735129&p=3324$官网
-有线新闻,https://pullhls3948069e.live.126.net/live/0bec4f381e44587e53989d1d7e2f2685/playlist.m3u8$官网代理
+翡翠台,https://pullhls3948069e.live.126.net/live/9b8266d4ca908bb19e38930ff83eff79/playlist.m3u8$官网代理
+无线新闻,https://pullhls3948069e.live.126.net/live/ce5fc01fa0f523160d85575738fd1e62/playlist.m3u8$官网代理
+无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616254876~exp=1616341276~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=5a960c075d7f826b185630335d8d347a0aeb3067887c10d3206da410509555cc&p=3324$官网
+无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616254773~exp=1616341173~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/*~hmac=0bc45564410c789f33d3ba7d4197303bd167df2aaa0fe7d2d5ecc0485ce77248&p=3324$官网
+有线新闻,https://pullhls3948069e.live.126.net/live/24c9b6f753b51aec1dd530f72368f863/playlist.m3u8$官网代理
 
 凤凰资讯,http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228016/index.m3u8$JS1080P
 凤凰中文,http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8$FJ720P
@@ -239,8 +239,6 @@ J2 1080P,http://61.238.6.49:8001/bysid/82
 
 
 🇹🇼台湾频道🇹🇼,#genre#
-大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 民视,https://flv3948069e.live.126.net/live/9b25086f4599dca3c655b1fb329a6def.flv#rtmp://59.124.75.157/sat/tv051
 台视,https://flv3948069e.live.126.net/live/c4ebbfe391de699e9ec2a8f8c26144d3.flv#rtmp://59.124.75.156/sat/tv071
 中视,https://flv3948069e.live.126.net/live/1f9e1461e46f1778e7ff7efc46fdec75.flv#rtmp://59.124.75.157/sat/tv091
@@ -278,7 +276,8 @@ GoodTV·卡通台,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 中天综合,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14019&key=84797b799ae18d1b
 TVBS新闻台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14017&key=84797b799ae18d1b
 TVBS欢乐台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14016&key=84797b799ae18d1b
-
+大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 🇭🇰港台测试1,#genre#
 凤凰中文台,https://player.ggiptv.com/v/ifeng.php?id=2#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8#rtmp://58.200.131.2:1935/livetv/fhzw#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 凤凰资讯台,https://player.ggiptv.com/v/ifeng.php?id=1#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8#rtmp://58.200.131.2:1935/livetv/fhzx
