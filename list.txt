@@ -310,47 +310,40 @@ VIU·TV,https://ws.matchupstream.tuboshu.com/live/ae24043a55874d7d3e1f6aee31b517
 港视32台·,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8#http://livetv.dnsfor.me/channel.2.m3u8
 
 🇭🇰港台测试2,#genre#
-翡翠台,http://kumei.vipcrtv.tk/crtv.php?id=429
-翡翠台1,http://kumei.vipcrtv.tk/crtv.php?id=390
-翡翠台2,http://kumei.vipcrtv.tk/crtv.php?id=1084
-明珠台,http://kumei.vipcrtv.tk/crtv.php?id=391
-J2,http://kumei.vipcrtv.tk/crtv.php?id=392
-香港開電視,http://kumei.vipcrtv.tk/crtv.php?id=17
-RTHK31,http://kumei.vipcrtv.tk/crtv.php?id=353
-RTHK32,http://kumei.vipcrtv.tk/crtv.php?id=397
-有線娛樂,http://kumei.vipcrtv.tk/crtv.php?id=360
-有線體育2,http://kumei.vipcrtv.tk/crtv.php?id=356
-無線財經,http://kumei.vipcrtv.tk/crtv.php?id=393
-無線新聞,http://kumei.vipcrtv.tk/crtv.php?id=394
-有線新聞,http://kumei.vipcrtv.tk/crtv.php?id=395
-無線新聞,http://kumei.vipcrtv.tk/crtv.php?id=45
-ViUtv,http://kumei.vipcrtv.tk/crtv.php?id=72
-星衛娛樂台,http://kumei.vipcrtv.tk/crtv.php?id=89
-衛視電影,http://kumei.vipcrtv.tk/crtv.php?id=93
-星衛電影,http://kumei.vipcrtv.tk/crtv.php?id=496
-影迷數位電影,http://kumei.vipcrtv.tk/crtv.php?id=497
-有線電影,http://kumei.vipcrtv.tk/crtv.php?id=354
-鳳凰資訊,http://kumei.vipcrtv.tk/crtv.php?id=1080
-鳳凰電影,http://kumei.vipcrtv.tk/crtv.php?id=18
-鳳凰電影,http://kumei.vipcrtv.tk/crtv.php?id=19
-鳳凰資訊,http://kumei.vipcrtv.tk/crtv.php?id=21
-鳳凰中文,http://kumei.vipcrtv.tk/crtv.php?id=357
-鳳凰香港,http://kumei.vipcrtv.tk/crtv.php?id=358
-鳳凰資訊,http://kumei.vipcrtv.tk/crtv.php?id=359
-香港衛視,http://kumei.vipcrtv.tk/crtv.php?id=399
-美亞電影,http://kumei.vipcrtv.tk/crtv.php?id=375
-NOW新聞,http://kumei.vipcrtv.tk/crtv.php?id=396
-NOW直播,http://kumei.vipcrtv.tk/crtv.php?id=400
-有線體育1,http://kumei.vipcrtv.tk/crtv.php?id=401
-新時代溫哥華,http://kumei.vipcrtv.tk/crtv.php?id=1032
-新時代多倫多2,http://kumei.vipcrtv.tk/crtv.php?id=1033
-TVB星河,http://kumei.vipcrtv.tk/crtv.php?id=1079
-衛視卡式台,http://kumei.vipcrtv.tk/crtv.php?id=1085
-18台,http://kumei.vipcrtv.tk/crtv.php?id=44
-澳門蓮花,http://kumei.vipcrtv.tk/crtv.php?id=70
-澳視葡語,http://kumei.vipcrtv.tk/crtv.php?id=24
-澳門衛星,http://kumei.vipcrtv.tk/crtv.php?id=29
-豬哥亮歌廳秀,http://kumei.vipcrtv.tk/crtv.php?id=75
+有线新闻,https://ws.matchupstream.tuboshu.com/live/ee1d32adf7b7755be4d53d9a3dac9666.flv
+有线新闻台,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/syddffg444444333yyyyy
+无线新闻,https://playks-flv.shangzhibo.tv/onelive/10348652-bI27CO1wO.flv
+无线新闻1,https://ws.matchupstream.tuboshu.com/live/d049a306a4cb7ef9af7a62fd65de04fb.flv
+无线新闻台,rtmp://v3948069e.live.126.net/live/分享到群死全家aa/u/b/ub/fwq5/wxaa12
+翡翠台,https://ws.matchupstream.tuboshu.com/live/061bb2eada64797e67194548c19ec302.flv
+TVB翡翠,rtmp://v3948069e.live.126.net/live/分享到群死全家aa/u/b/ub/odhc1q6/fctpl1
+J2,https://ws.matchupstream.tuboshu.com/live/69d3ba1fc060af948954ca2fdd72adc1.flv
+TVBJ2,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/sydd1177fggsh7
+now新闻,https://flv3948069e.live.126.net/live/2903c67e10f54f6a2d5c3e0eb0f5afba.flv
+NOW新闻,rtmp://v3948069e.live.126.net/live/分享到群死全家aa/u/b/ub/fwq5/sK1458a22742r11888
+now直播,rtmp://v3948069e.live.126.net/live/分享到群死全家aa/u/b/ub/fwq5/sK84154328
+香港18,https://flv3948069e.live.126.net/live/7664a97ab4a9f47650ccde6d7ff18c87.flv
+603,https://ws.matchupstream.tuboshu.com/live/b77a48db6b829f09bb63216ab7311ffc.flv
+RTHK31,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/syd3111333dffg
+RTHK32,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/syddffg333
+开电视,rtmp://v3948069e.live.126.net/live/分享到群死全家aa/u/b/ub/m8719/skbs2443
+无线财经,https://flv3948069e.live.126.net/live/d84cb0ae13732c598af8cbeb234828e6.flv
+无线财经台,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/syddffg333wxcv1
+viu,https://ws.matchupstream.tuboshu.com/live/7ddf4475b45fe4f4dfd3d26af1030535.flv
+viutv,rtmp://v3948069e.live.126.net/live/分享到群死全家aa/u/b/ub/fwq5/58888870
+明珠台,https://ws.matchupstream.tuboshu.com/live/b22826b87547c4a5c771a4b8d8b3b26b.flv
+星河,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/syd311133
+tvb经典,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/sydssssss33wxcv
+卫视卡式台,rtmp://v3948069e.live.126.net/live/分享到群死全家aa/u/b/ub/fwq5/576213456
+有线电影,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwS5/sydd77fggshssssss7456
+凤凰资讯1,https://player.ggiptv.com/v/ifeng.php?id=1
+凤凰中文1,https://player.ggiptv.com/v/ifeng.php?id=2
+凤凰香港1,https://player.ggiptv.com/v/ifeng.php?id=3
+广体,https://playks-flv.shangzhibo.tv/onelive/10348692-cFpuR29b4.flv
+广东体育,http://cdn.chxjon.cn/iptv/QQ582185381/itouch.php?id=gdty
+私人影院,rtmp://v3948069e.live.126.net/live/hdhhxhsgxhjshyrgfzhsf/0308BeastTV20210315TWSMTKSRYY.flv
+天映经典,rtmp://v3948069e.live.126.net/live/hdhhxhsgxhjshyrgfzhsf/BeastTV20210312HKTYJDDY.flv
+澳亚卫视,http://125.89.166.215/mastvnet-hwcdn.utvlive.top/4rlff1m/1024/live.m3u8
 
 🇭🇰港台测试3,#genre#
 翡翠台,http://93.190.139.36:8278/streams/d/jade_twn/playlist.m3u8
@@ -428,181 +421,129 @@ Supersports 3,http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 Supersports 4,http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 
 港台測試1,#genre#
-台視,http://kumei.vipcrtv.tk/crtv.php?id=27
-台視,http://kumei.vipcrtv.tk/crtv.php?id=326
-台視新聞,http://kumei.vipcrtv.tk/crtv.php?id=1
-台視綜合,http://kumei.vipcrtv.tk/crtv.php?id=309
-台視財經,http://kumei.vipcrtv.tk/crtv.php?id=300
-民視,http://kumei.vipcrtv.tk/crtv.php?id=26
-民視,http://kumei.vipcrtv.tk/crtv.php?id=336
-民視新聞台,http://kumei.vipcrtv.tk/crtv.php?id=13
-民視綜藝,http://kumei.vipcrtv.tk/crtv.php?id=98
-民視第一台,http://kumei.vipcrtv.tk/crtv.php?id=34
-民視台灣台,http://kumei.vipcrtv.tk/crtv.php?id=36
-民視影劇,http://kumei.vipcrtv.tk/crtv.php?id=1023
-民視旅遊,http://kumei.vipcrtv.tk/crtv.php?id=78
-華視,http://kumei.vipcrtv.tk/crtv.php?id=32
-華視,http://kumei.vipcrtv.tk/crtv.php?id=327
-華視資訊,http://kumei.vipcrtv.tk/crtv.php?id=6
-華納電影,http://kumei.vipcrtv.tk/crtv.php?id=83
-華藝綜合台,http://kumei.vipcrtv.tk/crtv.php?id=310
-中視,http://kumei.vipcrtv.tk/crtv.php?id=333
-中視經典,http://kumei.vipcrtv.tk/crtv.php?id=185
-中視新聞,http://kumei.vipcrtv.tk/crtv.php?id=7
-中視新聞,http://kumei.vipcrtv.tk/crtv.php?id=28
-中視菁採,http://kumei.vipcrtv.tk/crtv.php?id=74
-中天新聞,http://kumei.vipcrtv.tk/crtv.php?id=3
-中天綜合,http://kumei.vipcrtv.tk/crtv.php?id=54
-中天娛樂,http://kumei.vipcrtv.tk/crtv.php?id=324
-中天綜合,http://kumei.vipcrtv.tk/crtv.php?id=325
-中天亞洲台,http://kumei.vipcrtv.tk/crtv.php?id=322
-公視,http://kumei.vipcrtv.tk/crtv.php?id=86
-ANIMAX,http://kumei.vipcrtv.tk/crtv.php?id=59
-公視,http://kumei.vipcrtv.tk/crtv.php?id=361
-公視戲劇,http://kumei.vipcrtv.tk/crtv.php?id=69
-八大精彩台,http://kumei.vipcrtv.tk/crtv.php?id=1024
-八大綜合台,http://kumei.vipcrtv.tk/crtv.php?id=90
-八大戲劇台,http://kumei.vipcrtv.tk/crtv.php?id=81
-東森幼幼,http://kumei.vipcrtv.tk/crtv.php?id=371
-東森綜合台,http://kumei.vipcrtv.tk/crtv.php?id=372
-龍祥時代,http://kumei.vipcrtv.tk/crtv.php?id=373
-東森新聞,http://kumei.vipcrtv.tk/crtv.php?id=9
-東森新聞,http://kumei.vipcrtv.tk/crtv.php?id=12
-東森戲劇,http://kumei.vipcrtv.tk/crtv.php?id=321
-東森電影,http://kumei.vipcrtv.tk/crtv.php?id=350
-東森洋片,http://kumei.vipcrtv.tk/crtv.php?id=1128
-東森購物1,http://kumei.vipcrtv.tk/crtv.php?id=1155
-東森購物2,http://kumei.vipcrtv.tk/crtv.php?id=1156
-龍華經典,http://kumei.vipcrtv.tk/crtv.php?id=364
-龍華戲劇,http://kumei.vipcrtv.tk/crtv.php?id=365
-龍華動畫,http://kumei.vipcrtv.tk/crtv.php?id=366
-龍華電影,http://kumei.vipcrtv.tk/crtv.php?id=311
-龍華經典,http://kumei.vipcrtv.tk/crtv.php?id=100
-龍華偶像,http://kumei.vipcrtv.tk/crtv.php?id=347
-龍華日韓,http://kumei.vipcrtv.tk/crtv.php?id=382
-緯來日本,http://kumei.vipcrtv.tk/crtv.php?id=46
-緯來日本,http://kumei.vipcrtv.tk/crtv.php?id=337
-緯來體育,http://kumei.vipcrtv.tk/crtv.php?id=52
-緯來電影,http://kumei.vipcrtv.tk/crtv.php?id=96
-緯來體育,http://kumei.vipcrtv.tk/crtv.php?id=118
-緯來育樂,http://kumei.vipcrtv.tk/crtv.php?id=312
-靖天育樂台,http://kumei.vipcrtv.tk/crtv.php?id=1029
-靖天卡通台,http://kumei.vipcrtv.tk/crtv.php?id=344
-靖天國際台,http://kumei.vipcrtv.tk/crtv.php?id=345
-靖洋卡通台,http://kumei.vipcrtv.tk/crtv.php?id=348
-靖天映畫,http://kumei.vipcrtv.tk/crtv.php?id=349
-靖洋戲劇台,http://kumei.vipcrtv.tk/crtv.php?id=319
-靖天綜合台,http://kumei.vipcrtv.tk/crtv.php?id=308
-靖天日本台,http://kumei.vipcrtv.tk/crtv.php?id=108
-靖天戲劇台,http://kumei.vipcrtv.tk/crtv.php?id=109
-靖天電影台,http://kumei.vipcrtv.tk/crtv.php?id=110
-靖天資訊台,http://kumei.vipcrtv.tk/crtv.php?id=49
-靖天歡樂台,http://kumei.vipcrtv.tk/crtv.php?id=51
-TVBS,http://kumei.vipcrtv.tk/crtv.php?id=16
-TVBS,http://kumei.vipcrtv.tk/crtv.php?id=88
-TVBS歡樂台,http://kumei.vipcrtv.tk/crtv.php?id=40
-TVBS精采台,http://kumei.vipcrtv.tk/crtv.php?id=66
-三立LIVE新聞,http://kumei.vipcrtv.tk/crtv.php?id=4
-三立台灣台,http://kumei.vipcrtv.tk/crtv.php?id=35
-三立都會台,http://kumei.vipcrtv.tk/crtv.php?id=38
-三立戲劇台,http://kumei.vipcrtv.tk/crtv.php?id=64
-寰宇綜合,http://kumei.vipcrtv.tk/crtv.php?id=190
-寰宇新聞台,http://kumei.vipcrtv.tk/crtv.php?id=304
-寰宇新聞台灣台,http://kumei.vipcrtv.tk/crtv.php?id=87
-寰宇財經台,http://kumei.vipcrtv.tk/crtv.php?id=320
-壹綜合,http://kumei.vipcrtv.tk/crtv.php?id=305
-壹新聞,http://kumei.vipcrtv.tk/crtv.php?id=303
-YouTube健康2.0,http://kumei.vipcrtv.tk/crtv.php?id=2
-JET綜合,http://kumei.vipcrtv.tk/crtv.php?id=41
-好萊塢電影,http://kumei.vipcrtv.tk/crtv.php?id=37
-天映經典,http://kumei.vipcrtv.tk/crtv.php?id=328
-SET iNEWS,http://kumei.vipcrtv.tk/crtv.php?id=8
-幸福空間居家,http://kumei.vipcrtv.tk/crtv.php?id=61
-採昌影劇,http://kumei.vipcrtv.tk/crtv.php?id=62
-國興衛視,http://kumei.vipcrtv.tk/crtv.php?id=65
-希望電視,http://kumei.vipcrtv.tk/crtv.php?id=67
-達文西頻道,http://kumei.vipcrtv.tk/crtv.php?id=68
-時尚運動X,http://kumei.vipcrtv.tk/crtv.php?id=71
-韓國娛樂,http://kumei.vipcrtv.tk/crtv.php?id=73
-HakkqTV,http://kumei.vipcrtv.tk/crtv.php?id=76
-亞洲旅遊,http://kumei.vipcrtv.tk/crtv.php?id=77
-衛視體育,http://kumei.vipcrtv.tk/crtv.php?id=79
-智林體育,http://kumei.vipcrtv.tk/crtv.php?id=82
-CinemaWorld,http://kumei.vipcrtv.tk/crtv.php?id=84
-爆笑頻道,http://kumei.vipcrtv.tk/crtv.php?id=85
-AXN最愛電影,http://kumei.vipcrtv.tk/crtv.php?id=92
-世新綜合5,http://kumei.vipcrtv.tk/crtv.php?id=95
-高點綜合,http://kumei.vipcrtv.tk/crtv.php?id=99
-人間衛視,http://kumei.vipcrtv.tk/crtv.php?id=101
-好消息TV,http://kumei.vipcrtv.tk/crtv.php?id=104
-國興衛視,http://kumei.vipcrtv.tk/crtv.php?id=105
-博斯魅力,http://kumei.vipcrtv.tk/crtv.php?id=175
-大愛,http://kumei.vipcrtv.tk/crtv.php?id=184
-金光布袋戲,http://kumei.vipcrtv.tk/crtv.php?id=1060
-第1商業,http://kumei.vipcrtv.tk/crtv.php?id=186
-EYE戲劇,http://kumei.vipcrtv.tk/crtv.php?id=191
-Nick兒童,http://kumei.vipcrtv.tk/crtv.php?id=50
-Boomerang,http://kumei.vipcrtv.tk/crtv.php?id=57
-AFN,http://kumei.vipcrtv.tk/crtv.php?id=195
-中文字Smithsonian,http://kumei.vipcrtv.tk/crtv.php?id=291
-中文字FoodNetwork,http://kumei.vipcrtv.tk/crtv.php?id=294
-Eleven 體育2,http://kumei.vipcrtv.tk/crtv.php?id=301
-國家地理,http://kumei.vipcrtv.tk/crtv.php?id=302
-非凡商業,http://kumei.vipcrtv.tk/crtv.php?id=187
-年代新聞,http://kumei.vipcrtv.tk/crtv.php?id=236
-探索亞洲,http://kumei.vipcrtv.tk/crtv.php?id=306
-探索頻道,http://kumei.vipcrtv.tk/crtv.php?id=1035
-國家野生,http://kumei.vipcrtv.tk/crtv.php?id=1038
-AFN,http://kumei.vipcrtv.tk/crtv.php?id=307
-空中英語教,http://kumei.vipcrtv.tk/crtv.php?id=313
-非凡新聞,http://kumei.vipcrtv.tk/crtv.php?id=314
-立綜合台,http://kumei.vipcrtv.tk/crtv.php?id=315
-曼迪日本台,http://kumei.vipcrtv.tk/crtv.php?id=316
-中華財經台,http://kumei.vipcrtv.tk/crtv.php?id=317
-生活英語台,http://kumei.vipcrtv.tk/crtv.php?id=323
-探索科學,http://kumei.vipcrtv.tk/crtv.php?id=343
-ELTA娛樂,http://kumei.vipcrtv.tk/crtv.php?id=351
-CATCHPLAY電影台,http://kumei.vipcrtv.tk/crtv.php?id=362
-好消息2,http://kumei.vipcrtv.tk/crtv.php?id=363
-衛視西片,http://kumei.vipcrtv.tk/crtv.php?id=369
-Love Nature,http://kumei.vipcrtv.tk/crtv.php?id=388
-TV5MONDE STYLE,http://kumei.vipcrtv.tk/crtv.php?id=389
-ELTA影劇,http://kumei.vipcrtv.tk/crtv.php?id=500
-CLASSICA 古典樂,http://kumei.vipcrtv.tk/crtv.php?id=1027
-ELTA綜合,http://kumei.vipcrtv.tk/crtv.php?id=1137
-MOMO親子台,http://kumei.vipcrtv.tk/crtv.php?id=1149
-CN卡通頻道,http://kumei.vipcrtv.tk/crtv.php?id=107
-愛放,http://kumei.vipcrtv.tk/crtv.php?id=1127
-愛放2,http://kumei.vipcrtv.tk/crtv.php?id=299
-愛放3,http://kumei.vipcrtv.tk/crtv.php?id=259
-唯心電視,http://kumei.vipcrtv.tk/crtv.php?id=1150
-光影歐洲,http://kumei.vipcrtv.tk/crtv.php?id=1157
-History 2,http://kumei.vipcrtv.tk/crtv.php?id=1158
-CI罪案偵查,http://kumei.vipcrtv.tk/crtv.php?id=1159
-AXN亞洲,http://kumei.vipcrtv.tk/crtv.php?id=1066
-MOMO親子,http://kumei.vipcrtv.tk/crtv.php?id=1126
-Z頻道,http://kumei.vipcrtv.tk/crtv.php?id=1130
-Cartoon,http://kumei.vipcrtv.tk/crtv.php?id=48
-FOX 體育1,http://kumei.vipcrtv.tk/crtv.php?id=1131
-FOX 體育2,http://kumei.vipcrtv.tk/crtv.php?id=1132
-FOX,http://kumei.vipcrtv.tk/crtv.php?id=384
-FOX ACTION,http://kumei.vipcrtv.tk/crtv.php?id=385
-FOX CRIME,http://kumei.vipcrtv.tk/crtv.php?id=386
-Eleven 體育1,http://kumei.vipcrtv.tk/crtv.php?id=1133
-Eleven 體育2,http://kumei.vipcrtv.tk/crtv.php?id=301
-TRACE體育Stars,http://kumei.vipcrtv.tk/crtv.php?id=1037
-動物星球1,http://kumei.vipcrtv.tk/crtv.php?id=367
-動物星球2,http://kumei.vipcrtv.tk/crtv.php?id=368
-博斯高球1,http://kumei.vipcrtv.tk/crtv.php?id=377
-博斯無限,http://kumei.vipcrtv.tk/crtv.php?id=381
-博斯無限2,http://kumei.vipcrtv.tk/crtv.php?id=426
-博斯高球2,http://kumei.vipcrtv.tk/crtv.php?id=378
-博斯運動1,http://kumei.vipcrtv.tk/crtv.php?id=379
-博斯運動2,http://kumei.vipcrtv.tk/crtv.php?id=380
-博斯網球,http://kumei.vipcrtv.tk/crtv.php?id=498
-ELTA體育一台,http://kumei.vipcrtv.tk/crtv.php?id=192
-ELTA體育二台,http://kumei.vipcrtv.tk/crtv.php?id=193
-ELTA體育三台,http://kumei.vipcrtv.tk/crtv.php?id=194
+民视,https://playks-flv.shangzhibo.tv/onelive/10348625-UJj974qiu.flv
+公视,rtmp://v3948069e.live.126.net/live/hdhhxhsgxhjshyrgfzhsf/BaestTV202103013TWGSPD.flv
+华视,rtmp://v3948069e.live.126.net/live/hdhhxhsgxhjshyrgfzhsf/BeastTV20210313TWSMTKHS.flv
+中视,rtmp://v3948069e.live.126.net/live/hdhhxhsgxhjshyrgfzhsf/BeastTV20210313TWSMTKZS.flv
+台视,https://playks-flv.shangzhibo.tv/onelive/10348626-WzkoZKzmG.flv
+TVBS,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/sy12222222455667
+动物星球,rtmp://v3948069e.live.126.net/live/hdhhxhsgxhjshyrgfzhsf/BeastTV20210313TWDWXQPD.flv
+东森财经,https://playks-flv.shangzhibo.tv/onelive/10348634-ck0ejfGON.flv
+东森新闻,https://playks-flv.shangzhibo.tv/onelive/10348573-QTjZSnl0g.flv
+环宇新闻,https://playks-flv.shangzhibo.tv/onelive/10348663-gUhKlsgj4.flv
+非凡新闻,https://playks-flv.shangzhibo.tv/onelive/10348582-hEtzhgsnK.flv
+环宇新闻台,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/sydd7hyxw
+一新闻,rtmp://v3948069e.live.126.net/live/分享到群死全家aa/u/b/ub/fwq5/tv33bsq222we1
+中天新闻,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwS5/sydd7hyxwuuuytreee
+年代新闻,rtmp://v3948069e.live.126.net/live/分享到群死全家aa/u/b/ub/fwq5/sh1151111hi111
+tvbs新闻,https://flv3948069e.live.126.net/live/a9e3a0d954dd5c05f804d5d5fa614e63.flv
+民事新闻,https://flv3948069e.live.126.net/live/866d70b37e8da1a6c3f5ca7a0ba3889c.flv
+inews,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/sinewsdgggsh
+三立live,https://flv3948069e.live.126.net/live/92a93d740892974183c2ddc345c7e74f.flv
+台式新闻,https://flv3948069e.live.126.net/live/c4a16634303574881da5bc76ccbe3577.flv
+中式新闻,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fS5/sydd7hyxw11
+华视新闻,https://flv3948069e.live.126.net/live/ffb02f0321c2132a544ed41bd6ae9206.flv
+三立台湾,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwq222222SPSS5/sgggsh1
+东森综合,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/sgggsh
+东森超市台,https://flv3948069e.live.126.net/live/92c2cd0dc57776a92cc94953c998d859.flv
+纬来綜合,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwq5/sgggshwsdfgj
+纬来体育台,https://flv3948069e.live.126.net/live/5a63d057b99b9bbecc136dd15e111390.flv
+纬来日本台,https://flv3948069e.live.126.net/live/9cb0735d141b75b334caf51fe959ad52.flv
+tvbs欢乐台,https://flv3948069e.live.126.net/live/18ed6d5ced75a77ef54c8c8abb7533a3.flv
+三立都会,rtmp://v3948069e.live.126.net/live/分享到群死全家aa/u/b/ub/fwq5/sh111111hi111fffff
+纬来娱乐台,https://flv3948069e.live.126.net/live/a40e4bad88d87d56615749ee1c07accb.flv
+年代much,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/saasss
+台视综合,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/syddffgtsd
+八大第一,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/syddffgttteww
+八大戏剧,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/eer
+八大綜合,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/sgggshbdzht
+八大娱乐,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/sywsdrsdddd77
+中天综合,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/sztzh
+韩国娱乐,rtmp://v3948069e.live.126.net/live/分享到群死全家aa88/u/b/ub/fwq5/tv33bsq22
+东森幼幼,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/dsyyyxc
+三立戏剧,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/ssanlixxxx
+东森戏剧,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqS5/sydd7hyxw88
+中视经典,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/syddffg667778
+axn,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/syddffgaxxx
+天映频道,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/sydffg78
+东森洋片,rtmp://v3948069e.live.126.net/live/hdhhxhsgxhjshyrgfzhsf/BeastTV20210313TWSMTKDSYPT.flv
+好莱坞电影,https://playks-flv.shangzhibo.tv/onelive/10348695-vsa9bNjnw.flv
+东森电影,rtmp://v3948069e.live.126.net/live/分享到群死全家aa/u/b/ub/fwq5/tdsxc2we1
+卫视电影台,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwq5/sigggsh111
+纬来电影,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/5/sydd7hyxw567666
+CINEMAX,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fSS5/sydd7hyxwimmmm9
+卫视洋片,rtmp://v3948069e.live.126.net/live/分享到群死全家aa/u/b/ub/fwq5/tvslxwtrrrr
+美亚电影,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/syddffgq33
+星卫电影,rtmp://v3948069e.live.126.net/live/分享到群死全家aa43/u/b/ub/yzq1964/dszhxwdytt8
+星卫娱乐台,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/syddffgwlrb111
+一电影,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/hccvvvghds
+影迷电影,rtmp://v3948069e.live.126.net/live/分享到群死全家aa/u/b/ub/zpij120710/tv33wsdy111
+龙华电影,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/syddffghhdhdhss
+华纳电影,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fw335/sydd7hyxw
+hbo,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/syddffghuanle
+hbo  hit,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/syddffgrrtttyuuu
+HBOSignature,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/syddffgewwww
+hbo  family,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/hbodddsa
+fox  family,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/syff
+fox,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fS5/sinewsdgggsh66
+fox . action,rtmp://v3948069e.live.126.net/live/分享到群死全家aa/u/b/ub/mk8719/skbs7772331hi11.flv
+fx movies,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/syddffgfx
+Crime Investigation,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/syffrrr
+tvn,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/syddffgaaa
+fox crime,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/syddffgaassdd
+卫视,rtmp://v3948069e.live.126.net/live/分享到群死全家aa/u/b/ub/fwq5/s49881h77
+爱尔达体育,rtmp://v3948069e.live.126.net/live/分享到群死全家aa/u/b/ub/fwq5/saedt88yK1tttt88
+体育1,https://playks-flv.shangzhibo.tv/onelive/10348577-SF96Fdx7F.flv
+体育2,https://playks-flv.shangzhibo.tv/onelive/10348610-XZIu4JeYX.flv
+波斯高球,rtmp://v3948069e.live.126.net/live/分享到群死全家aa/u/b/ub/fwq5/bsgqsK1tttt881hi11.flv
+博斯高球2,rtmp://v3948069e.live.126.net/live/分享到群死全家aa/u/b/ub/fwq5/sttt8815656
+nba动态,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/synbas
+Golf,p8p://0198.02686.cc:16871/5d1a69830009f84d11bd1f66c71ae7a7.ts
+NBA,p8p://0198.02686.cc:16871/5f39facc0006e0f04af4dbef79c0756f.ts
+超级体育,rtmp://v3948069e.live.126.net/live/分享到群死全家aa/u/b/ub/fwq5/11tvbsqwe1511167
+超级体育2,rtmp://v3948069e.live.126.net/live/分享到群死全家aa/u/b/ub/fwq5/1cjty2167
+supersport2,p8p://0198.02686.cc:16871/5ecfb8a5000633be9696b5b754f59677
+超级体育3,rtmp://v3948069e.live.126.net/live/分享到群死全家aa/u/b/ub/fwq5/1cjty213267
+supersport3,p8p://0198.02686.cc:16871/5ecfb8cd000aead19697532ccd7047f1
+超级体育4,rtmp://v3948069e.live.126.net/live/分享到群死全家aa/u/b/ub/fwq5/sKcs1tttt867
+欧洲运动,p8p://0198.02686.cc:16871/5d1a697a000bd33011bcfcb885b31c8a.ts
+国家地理,rtmp://v3948069e.live.126.net/live/分享到群死全家aa66/u/b/ub/fwq5/sfehi11sss
+探索亚洲,rtmp://v3948069e.live.126.net/live/hdhhxhsgxhjshyrgfzhsf/BaestTV20210313TWTSYZPD.flv
+hgtv,rtmp://v3948069e.live.126.net/live/分享到群死全家aa/u/b/ub/fwq5/tv33foxccc11
+人文,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/s600
+美食星球,rtmp://v3948069e.live.126.net/live/分享到群死全家aa78/u/b/ub/fwq5/sK1tyzlvttt881hi11.flv
+居家,rtmp://v3948069e.live.126.net/live/分享到群死全家aa/u/b/ub/fwq5/sK1jj1hi11.flv
+history,rtmp://v3948069e.live.126.net/live/分享到群死全家aaa/u/b/ub/douvkygn95711448/dsz111hccctt881hi11.flv
+history2,rtmp://v3948069e.live.126.net/live/分享到群死全家aaa/u/b/ub/dqjyh9509/tdiscovcc33b
+life  style,rtmp://v3948069e.live.126.net/live/分享到群死全家aaa/u/b/ub/fwq5/sKcs1tt81hi11.flv
+Discovery Scirnce,rtmp://v3948069e.live.126.net/live/分享到群死全家aaa/u/b/ub/gszgujre00827190/Discovy Scirnce
+探索动力,rtmp://v3948069e.live.126.net/live/分享到群死全家aaa/u/b/ub/xckygorz83590856/1ccinmaxoodd1.flv
+民视旅游,rtmp://v3948069e.live.126.net/live/分享到群死全家aaa/u/b/ub/fwq5/sfehi115667722
+亚洲旅游,rtmp://v3948069e.live.126.net/live/分享到群死全家aaa/u/b/ub/fwq5/syddffg
+luxe,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/77
+afn,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/seddddd
+旅游频道,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/slccvxpppsd
+eve,rtmp://v3948069e.live.126.net/live/分享到群死全家5588/u/b/ub/fwqSPSS5/evvvv
+cheddar,rtmp://v3948069e.live.126.net/live/分享到群死全家aa34/u/b/ub/fwq5/sintasssaa11
+cnbc,rtmp://v3948069e.live.126.net/live/分享到群死全家aa/u/b/ub/fwq5/tv3w88e133
+bbc earth,rtmp://v3948069e.live.126.net/live/分享到群死全家aaa/u/b/ub/fwq5/sKBBCt11
+cnn,rtmp://v3948069e.live.126.net/live/分享到群死全家aa/u/b/ub/fwq5/s1234lil5ve1
+2,rtmp://v3948069e.live.126.net/live/分享到群死全家aa/u/b/ub/fwq5/son111whi1341.flv
+Bloomberg Asia,rtmp://v3948069e.live.126.net/live/分享到群死全家aa/u/b/ub/fwq4/12215553tdy.flv
+cbbe,rtmp://v3948069e.live.126.net/live/分享到群死全家aa34/u/b/ub/fwq5/sfeic8881hi11.flv
+cn卡通,rtmp://v3948069e.live.126.net/live/分享到群死全家aa/u/b/ub/prw06285/s1cjzhdf467
+disnerxd,rtmp://v3948069e.live.126.net/live/分享到群死全家z/u/b/ub/fwq5/s1887
+dreamwork,rtmp://v3948069e.live.126.net/live/分享到群死全家z/u/b/ub/fwq5/s188mndwerr1
+boomrange,rtmp://v3948069e.live.126.net/live/分享到群死全家aa/u/b/ub/fwq5/sh1ani1manx1hi11133
+爱放,rtmp://v3948069e.live.126.net/live/分享到群死全家aa/u/b/ub/fwq5/s86866666
+MOMO親子,p8p://0198.02686.cc:16871/5f2e5717000701821d7d60ef00cb8bd5.ts
+求索记录,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8 
+求索生活,http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8 
+求索科学,http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8 
+求索动物,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8 
+hannelV音乐,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+好消息1,rtmp://v3948069e.live.126.net/live/分享到群死全家aa/u/b/ub/fwq5/xxxxhk
+好消息2,rtmp://v3948069e.live.126.net/live/分享到群死全家aa/u/b/ub/fwq5/sssdfffg
 港台測試2,#genre#
 凤凰中文台,http://96.44.140.132:18006/view.php?type=m3u8&id=sz_phcn&key=84797b799ae18d1b
 凤凰资讯台,http://96.44.140.132:18006/view.php?type=m3u8&id=sz_phzx&key=84797b799ae18d1b
