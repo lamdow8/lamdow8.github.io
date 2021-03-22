@@ -211,11 +211,11 @@ CCTV-17农业农村,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc
 黑龙江卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8$陕西12M
 
 🇭🇰香港频道,#genre#
-翡翠台,https://pullhls3948069e.live.126.net/live/9b8266d4ca908bb19e38930ff83eff79/playlist.m3u8$官网代理
-无线新闻,https://pullhls3948069e.live.126.net/live/ce5fc01fa0f523160d85575738fd1e62/playlist.m3u8$官网代理
-无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616254876~exp=1616341276~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=5a960c075d7f826b185630335d8d347a0aeb3067887c10d3206da410509555cc&p=3324$官网
-无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616254773~exp=1616341173~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/*~hmac=0bc45564410c789f33d3ba7d4197303bd167df2aaa0fe7d2d5ecc0485ce77248&p=3324$官网
-有线新闻,https://pullhls3948069e.live.126.net/live/24c9b6f753b51aec1dd530f72368f863/playlist.m3u8$官网代理
+翡翠台,http://pullhls3948069e.live.126.net/live/fcfa305cc223d6600fe823c5f35d5780/playlist.m3u8$官网代理
+无线新闻,http://pullhls3948069e.live.126.net/live/5f223b17c2f2caf7812c0b5da9d60422/playlist.m3u8$官网代理
+无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616410661~exp=1616497061~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=0acebfd8abaab58a244af00aaadc1977b8e29a5957bdd8bf83e8d95753ec5608&p=3324$官网
+无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616410619~exp=1616497019~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/*~hmac=ca08598c334fd4df9fe961394483cdf90c47927fd71e4a313f2ec31fb4676799&p=3324$官网
+有线新闻,http://pullhls3948069e.live.126.net/live/1eabda0a2ba037c53c2dbca9d83cc7cb/playlist.m3u8$官网代理
 
 凤凰资讯,http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228016/index.m3u8$JS1080P
 凤凰中文,http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8$FJ720P
@@ -244,22 +244,22 @@ J2 1080P,http://61.238.6.49:8001/bysid/82
 中视,https://flv3948069e.live.126.net/live/1f9e1461e46f1778e7ff7efc46fdec75.flv#rtmp://59.124.75.157/sat/tv091
 华视,https://flv3948069e.live.126.net/live/ac6b8d33b4d176d6553d38323f6b184d.flv#rtmp://59.124.75.156/sat/tv111
 TVBS·欢乐台,https://flv3948069e.live.126.net/live/18ed6d5ced75a77ef54c8c8abb7533a3.flv#rtmp://59.124.75.157/sat/tv421
-TVBS·新闻台,https://flv3948069e.live.126.net/live/a9e3a0d954dd5c05f804d5d5fa614e63.flv#rtmp://59.124.75.156/sat/tv551
-中天新闻,https://flv3948069e.live.126.net/live/e78f8608e5132c9513d344e7560a3e8f.flv
-东森新闻,https://flv3948069e.live.126.net/live/5ec3ccb61b48935d65485eb751c90662.flv
+TVBS·新闻台,https://flv3948069e.live.126.net/live/a9e3a0d954dd5c05f804d5d5fa614e63.flv#rtmp://59.124.75.156/sat/tv551#http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+中天新闻,https://flv3948069e.live.126.net/live/c693b1d7071c0decc3b35d45bfbb556a.flv#http://seb.sason.top/sc/ztxw_fhd.m3u8
+东森新闻,https://flv3948069e.live.126.net/live/4abb3352d31570384b937d12f5ea99dc.flv#http://seb.sason.top/sc/dsxw_fhd.m3u8
 东森超视,https://flv3948069e.live.126.net/live/92c2cd0dc57776a92cc94953c998d859.flv#rtmp://59.124.75.156/sat/tv771
-东森财经新闻,https://flv3948069e.live.126.net/live/72a13450aa60bdae9cad637f12500c0b.flv#rtmp://59.124.75.157/sat/tv571
-三立直播新闻·,https://flv3948069e.live.126.net/live/92a93d740892974183c2ddc345c7e74f.flv
+东森财经新闻,https://flv3948069e.live.126.net/live/72a13450aa60bdae9cad637f12500c0b.flv#rtmp://59.124.75.157/sat/tv571#http://seb.sason.top/sc/dscjxw_fhd.m3u8
+三立直播新闻·,https://flv3948069e.live.126.net/live/9106de9bdcf96beb74e500d01c256d57.flv#http://seb.sason.top/sc/sllive_fhd.m3u8
 纬来育乐,https://flv3948069e.live.126.net/live/a40e4bad88d87d56615749ee1c07accb.flv#rtmp://59.124.75.157/sat/tv701
 纬来体育,https://flv3948069e.live.126.net/live/5a63d057b99b9bbecc136dd15e111390.flv#rtmp://59.124.75.156/sat/tv721
 纬来日本,https://flv3948069e.live.126.net/live/9cb0735d141b75b334caf51fe959ad52.flv
 GoodTV·综合台,https://dqhxk7sbp7xog.cloudfront.net/osmflivech1.m3u8
 GoodTV·卡通台,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
-台视新闻·,https://flv3948069e.live.126.net/live/c4a16634303574881da5bc76ccbe3577.flv
-中视新闻·,https://flv3948069e.live.126.net/live/07ebed7dfe759343db88a2994d327f8f.flv
-华视新闻·,https://flv3948069e.live.126.net/live/ffb02f0321c2132a544ed41bd6ae9206.flv
-民视新闻·,https://flv3948069e.live.126.net/live/866d70b37e8da1a6c3f5ca7a0ba3889c.flv#http://210.61.56.23/hls/ftvtv/index.m3u8#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-壹新闻台·,https://flv3948069e.live.126.net/live/41adae49a6c0b3f3645679bff079e53a.flv#http://stream.nexttv.com.tw/n001/hd/live.m3u8
+台视新闻·,https://flv3948069e.live.126.net/live/754430c4e5b217232b9d2ecfc026119a.flv#http://seb.sason.top/sc/tsxw_fhd.m3u8
+中视新闻·,https://flv3948069e.live.126.net/live/98dc26982ef3ede2b4cfd5aab3ceb962.flv
+华视新闻·,https://flv3948069e.live.126.net/live/1b9bf4b105eb6f95a49251346e015d19.flv#http://seb.sason.top/sc/hsxw_fhd.m3u8
+民视新闻·,https://flv3948069e.live.126.net/live/56ef64baa443b48cfccada10295bec1c.flv#http://210.61.56.23/hls/ftvtv/index.m3u8#http://seb.sason.top/sc/msxw_fhd.m3u8#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+壹新闻台·,https://flv3948069e.live.126.net/live/6e8cfd3537f603ee0044a4d8e1063e4b.flv#http://stream.nexttv.com.tw/n001/hd/live.m3u8
 星级剧集台,http://hls.haokan.bdstatic.com/haokan/stream_bduid_31696503_0.m3u8
 中视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8814&key=84797b799ae18d1b
 中视新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8821&key=84797b799ae18d1b
@@ -280,30 +280,32 @@ TVBS欢乐台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14016&key=84
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 🇭🇰港台测试1,#genre#
 凤凰中文台,https://player.ggiptv.com/v/ifeng.php?id=2#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8#rtmp://58.200.131.2:1935/livetv/fhzw#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
-凤凰资讯台,https://player.ggiptv.com/v/ifeng.php?id=1#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8#rtmp://58.200.131.2:1935/livetv/fhzx
+凤凰资讯台,https://player.ggiptv.com/v/ifeng.php?id=1#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8#rtmp://58.200.131.2:1935/livetv/fhzx#http://livetv.dnsfor.me/channel.21.m3u8
 凤凰香港台,https://player.ggiptv.com/v/ifeng.php?id=3#http://livetv.dnsfor.me/channel.16.m3u8
 凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
-有线新闻,https://ws.matchupstream.tuboshu.com/live/ee1d32adf7b7755be4d53d9a3dac9666.flv#http://livetv.dnsfor.me/channel.5.m3u8
-有线18台,https://flv3948069e.live.126.net/live/7664a97ab4a9f47650ccde6d7ff18c87.flv#rtmp://59.124.75.156/sat/hk041
-NOW·新闻台,https://flv3948069e.live.126.net/live/2903c67e10f54f6a2d5c3e0eb0f5afba.flv
+有线新闻,https://ws.matchupstream.tuboshu.com/live/545a522180f270e100bf9be8ff6f308b.flv#http://livetv.dnsfor.me/channel.5.m3u8
+有线18台,https://flv3948069e.live.126.net/live/e504bdb6d79661658e057ffdc7559669.flv#rtmp://59.124.75.156/sat/hk041
+NOW·新闻台,https://flv3948069e.live.126.net/live/709de54f34bd9f94a608b7db57c4e309.flv#http://livetv.dnsfor.me/channel.4.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#https://itv.ahcme.edu.cn/hls/startv.m3u8#rtmp://58.200.131.2:1935/livetv/startv
 莲花卫视,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 亚视本港,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
-TVB·翡翠台,https://ws.matchupstream.tuboshu.com/live/061bb2eada64797e67194548c19ec302.flv#http://livetv.dnsfor.me/channel.18.m3u8
-TVB·明珠台,https://ws.matchupstream.tuboshu.com/live/b22826b87547c4a5c771a4b8d8b3b26b.flv
-TVB·新闻台,https://ws.matchupstream.tuboshu.com/live/d049a306a4cb7ef9af7a62fd65de04fb.flv
-TVB·财经台,https://flv3948069e.live.126.net/live/d84cb0ae13732c598af8cbeb234828e6.flv
+TVB·翡翠台,https://ws.matchupstream.tuboshu.com/live/2c5c42f4113defaae3db820e17c925ef.flv#http://livetv.dnsfor.me/channel.18.m3u8
+TVB·明珠台,https://ws.matchupstream.tuboshu.com/live/d8c268143583a436cb7f1c963f383e03.flv
+TVB·新闻台,https://ws.matchupstream.tuboshu.com/live/7b1ef98359f508e5a3edf8ff771717a9.flv
+TVB·财经台,https://flv3948069e.live.126.net/live/eff5e9eb5aa3d56cc8d10832bd84f12e.flv
 TVB·星河台,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-TVB·J2,https://ws.matchupstream.tuboshu.com/live/69d3ba1fc060af948954ca2fdd72adc1.flv
-VIU·TV,https://ws.matchupstream.tuboshu.com/live/7ddf4475b45fe4f4dfd3d26af1030535.flv#http://livetv.dnsfor.me/channel.20.m3u8
+TVB·J2,https://ws.matchupstream.tuboshu.com/live/592ff91ccf5574abed149f6efd4b846d.flv#http://livetv.dnsfor.me/channel.19.m3u8
+VIU·TV,https://ws.matchupstream.tuboshu.com/live/ae24043a55874d7d3e1f6aee31b517d7.flv#http://livetv.dnsfor.me/channel.20.m3u8
 澳视澳门,http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
 澳门卫星,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 澳门资讯,http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-有线603,https://ws.matchupstream.tuboshu.com/live/b77a48db6b829f09bb63216ab7311ffc.flv
-开放电视,https://flv3948069e.live.126.net/live/30396d34f08af0df302d632d6bdfcd6c.flv
+阳光卫视,https://stream.chinasuntv.com/680k/mid_video_index.m3u8
+有线603,https://ws.matchupstream.tuboshu.com/live/839be1904c1d164db279fa7a398a2783.flv
+开放电视,https://flv3948069e.live.126.net/live/5c47b66a98ce98d997101177910582f9.flv#http://media.fantv.hk/m3u8/archive/channel2.m3u8#http://livetv.dnsfor.me/channel.9.m3u8
+澳亚卫视,https://live.mastvnet.com/4rlff1m/1024/live.m3u8
 港视31台·,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8#http://livetv.dnsfor.me/channel.1.m3u8
 港视32台·,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8#http://livetv.dnsfor.me/channel.2.m3u8
 
