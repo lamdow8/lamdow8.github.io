@@ -211,11 +211,11 @@ CCTV-17农业农村,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc
 黑龙江卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8$陕西12M
 
 🇭🇰香港频道,#genre#
-翡翠台,http://pullhls3948069e.live.126.net/live/fcfa305cc223d6600fe823c5f35d5780/playlist.m3u8$官网代理
-无线新闻,http://pullhls3948069e.live.126.net/live/5f223b17c2f2caf7812c0b5da9d60422/playlist.m3u8$官网代理
-无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616410661~exp=1616497061~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=0acebfd8abaab58a244af00aaadc1977b8e29a5957bdd8bf83e8d95753ec5608&p=3324$官网
-无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616410619~exp=1616497019~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/*~hmac=ca08598c334fd4df9fe961394483cdf90c47927fd71e4a313f2ec31fb4676799&p=3324$官网
-有线新闻,http://pullhls3948069e.live.126.net/live/1eabda0a2ba037c53c2dbca9d83cc7cb/playlist.m3u8$官网代理
+翡翠台,http://pullhls3948069e.live.126.net/live/ef04ceb8979b6fd6233ada7e2e775bbc/playlist.m3u8$官网代理
+无线新闻,http://pullhls3948069e.live.126.net/live/9209fea8924fb79ed8220c8b8f0fdbac/playlist.m3u8$官网代理
+无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616598202~exp=1616684602~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=4ef4e33856fa16b9a64c95e88be6b07febc5eafaa3f4359f3d19f34267ea4d36&p=3324$官网
+无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616598156~exp=1616684556~acl=/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/*~hmac=eaa30231f9c1e5e0ad7a6424ed0abea9eb45dacc34d42cd7a6ef799982085127&p=3324$官网
+有线新闻,http://pullhls3948069e.live.126.net/live/3c394149003639a123c70c6dd4c6445b/playlist.m3u8$官网代理
 
 凤凰资讯,http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228016/index.m3u8$JS1080P
 凤凰中文,http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8$FJ720P
