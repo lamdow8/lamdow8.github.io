@@ -323,7 +323,7 @@ TVBS欢乐台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14016&key=84
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
-🇭🇰港台测试,#genre#
+🇭🇰港台测试Ⅰ,#genre#
 有线新闻,https://flv3948069e.live.126.net/live/3c394149003639a123c70c6dd4c6445b.flv
 有线18台,https://flv3948069e.live.126.net/live/558777ce86fcbff9aa3380802461eb6a.flv
 NOW·新闻台,https://flv3948069e.live.126.net/live/e5e45e8fbf1e74696a6e43b55778fe65.flv
@@ -333,7 +333,7 @@ TVB·新闻台,https://flv3948069e.live.126.net/live/9209fea8924fb79ed8220c8b8f0
 TVB·财经台,https://flv3948069e.live.126.net/live/d4398607d52f91c14cb6e426dc334ecd.flv
 TVB·J2,https://flv3948069e.live.126.net/live/a1bf58873617f83ad2c705152d885ffe.flv
 VIU·TV,https://flv3948069e.live.126.net/live/4cb69637cc2527fcae504dfa2ce5528f.flv
-开放电视,https://flv3948069e.live.126.net/live/8351a293bcdfd7b5bcfb75a93250659e.flv#http://media.fantv.hk/m3u8/archive/channel2.m3u8#http://livetv.dnsfor.me/channel.9.m3u8
+开放电视,https://flv3948069e.live.126.net/live/8351a293bcdfd7b5bcfb75a93250659e.flv#http://media.fantv.hk/m3u8/archive/channel2.m3u8
 澳视澳门,http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
 澳门卫星,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 澳门资讯,http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
@@ -342,13 +342,44 @@ VIU·TV,https://flv3948069e.live.126.net/live/4cb69637cc2527fcae504dfa2ce5528f.f
 阳光卫视,https://stream.chinasuntv.com/680k/mid_video_index.m3u8
 有线603,https://ws.matchupstream.tuboshu.com/live/839be1904c1d164db279fa7a398a2783.flv
 澳亚卫视,https://live.mastvnet.com/4rlff1m/1024/live.m3u8
-港视31台·,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8#http://livetv.dnsfor.me/channel.1.m3u8
-港视32台·,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8#http://livetv.dnsfor.me/channel.2.m3u8
+港视31台·,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+港视32台·,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 凤凰中文台,https://player.ggiptv.com/v/ifeng.php?id=2#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8#rtmp://58.200.131.2:1935/livetv/fhzw#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 凤凰资讯台,https://player.ggiptv.com/v/ifeng.php?id=1#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8#rtmp://58.200.131.2:1935/livetv/fhzx#http://livetv.dnsfor.me/channel.21.m3u8
 凤凰香港台,https://player.ggiptv.com/v/ifeng.php?id=3#http://livetv.dnsfor.me/channel.16.m3u8
 凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
-
+🇭🇰港台测试Ⅱ,#genre#
+翡翠台,http://qj.yyrjdp.cn/jiuban/iptv88999.php?id=15
+J2,http://qj.yyrjdp.cn/jiuban/iptv88999.php?id=18
+无线财经,http://qj.yyrjdp.cn/jiuban/iptv88999.php?id=14
+无线新闻,http://qj.yyrjdp.cn/jiuban/iptv88999.php?id=13
+有线新闻台,http://qj.yyrjdp.cn/jiuban/iptv88999.php?id=6
+有线新闻台,http://qj.yyrjdp.cn/jiuban/iptv88999.php?id=7
+有线电影台,http://qj.yyrjdp.cn/jiuban/iptv88999.php?id=9
+有线18台,http://qj.yyrjdp.cn/jiuban/iptv88999.php?id=12
+有线603台,http://qj.yyrjdp.cn/jiuban/iptv88999.php?id=8
+ViuTV,http://qj.yyrjdp.cn/jiuban/iptv88999.php?id=20
+now新闻台,http://qj.yyrjdp.cn/jiuban/iptv88999.php?id=21
+HBOHD,http://qj.yyrjdp.cn/jiuban/iptv88999.php?id=25
+民视,http://qj.yyrjdp.cn/jiuban/iptv88999.php?id=41
+民视新闻台,http://qj.yyrjdp.cn/jiuban/iptv88999.php?id=37
+台视,http://qj.yyrjdp.cn/jiuban/iptv88999.php?id=42
+台视新闻台,http://qj.yyrjdp.cn/jiuban/iptv88999.php?id=31
+中视,http://qj.yyrjdp.cn/jiuban/iptv88999.php?id=43
+中视新闻,http://qj.yyrjdp.cn/jiuban/iptv88999.php?id=32
+华视,http://qj.yyrjdp.cn/jiuban/iptv88999.php?id=44
+华视新闻资讯,http://qj.yyrjdp.cn/jiuban/iptv88999.php?id=33
+中天新闻台,http://qj.yyrjdp.cn/jiuban/iptv88999.php?id=26
+东森新闻台,http://qj.yyrjdp.cn/jiuban/iptv88999.php?id=27
+东森财经新闻台,http://qj.yyrjdp.cn/jiuban/iptv88999.php?id=28
+东森超市,http://qj.yyrjdp.cn/jiuban/iptv88999.php?id=50
+TVBS新闻台,http://qj.yyrjdp.cn/jiuban/iptv88999.php?id=34
+YVBS欢乐台,http://qj.yyrjdp.cn/jiuban/iptv88999.php?id=47
+三立LIVE新闻,http://qj.yyrjdp.cn/jiuban/iptv88999.php?id=35
+三立台湾台,http://qj.yyrjdp.cn/jiuban/iptv88999.php?id=49
+纬来体育台,http://qj.yyrjdp.cn/jiuban/iptv88999.php?id=52
+纬来育乐台,http://qj.yyrjdp.cn/jiuban/iptv88999.php?id=54
+纬来日本台,http://qj.yyrjdp.cn/jiuban/iptv88999.php?id=53
 🇭🇰马来测试,#genre#
 AEC,http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
 华丽台,http://50.7.222.130:8278/streams/d/Wlt/playlist.m3u8
