@@ -85,7 +85,7 @@ CCTV-14少儿,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225673/inde
 CCTV-15音乐,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225830/index.m3u8$广西8M
 CCTV-17农业农村,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225833/index.m3u8$广西8M
 
-CCTV-1综合,http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228013/index.m3u8$江苏10M
+CCTV-1综合,http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228025/index.m3u8$江苏10M
 CCTV-2财经,http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8$江苏8M
 CCTV-3综艺,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227650/index.m3u8$江苏HEVC
 CCTV-4国际,http://223.110.245.142/ott.js.chinamobile.com/PLTV/3/224/3221227658/index.m3u8$江苏HEVC
@@ -255,17 +255,19 @@ CCTV-17农业农村,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc
 🇭🇰香港频道,#genre#
 翡翠台,http://pullhls3948069e.live.126.net/live/23b6ea5948c40f2986be58633e430aab/playlist.m3u8$官网代理
 无线新闻,http://pullhls3948069e.live.126.net/live/29c7f3c401b85199dab15f8159cc1059/playlist.m3u8$官网代理
-无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616734347~exp=1616820747~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=6f1da05e57a950bcd4c89501c813ef2893df8b57e77415a812dc8d64eb7ea6a8&p=3324$官网
-无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616734370~exp=1616820770~acl=/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/*~hmac=71d8188cce9550ca773a17ae04eb1ff9ddb6d662f904ac6c31e338d34a5707c6&p=3324$官网
+无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616775128~exp=1616861528~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=9b8df01f1bcd31108e2694af2628977b2ef9bdcd14390ba1aceca89b87e077a3&p=3324$官网
+无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616775083~exp=1616861483~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/*~hmac=a5f6583969d070f0e34b5288acc374dff99bffd2ca6407aedee3c1ac64953a1c&p=3324$官网
 有线新闻,http://pullhls3948069e.live.126.net/live/ee6b8cdfbb42cfd1d87967867a61d8f7/playlist.m3u8$官网代理
 ViuTV,http://pullhls3948069e.live.126.net/live/d109ba2487c35c4743cc2aa7c738c242/playlist.m3u8
 J2,http://pullhls3948069e.live.126.net/live/e976ccdafcc9551defef9dd9cf72c404/playlist.m3u8
 
 凤凰中文,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8$BJ720P
 凤凰中文,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8$BJ720P
-凤凰资讯,http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228016/index.m3u8$JS1080P
-凤凰中文,http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8$FJ720P
+凤凰中文,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8$FJ720P#http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
+凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P
+凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P
 凤凰资讯,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8$FJ720P
+凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
 凤凰资讯(代),http://www.chahaoquan.com/wz/epg/fhdl.php?id=1
 凤凰中文(代),http://www.chahaoquan.com/wz/epg/fhdl.php?id=2
 无线新闻(代),http://www.chahaoquan.com/wz/epg/tvb.php?id=1
@@ -281,8 +283,6 @@ J2 1080P,http://61.238.6.49:8001/bysid/82
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
 星空衛視,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233
 儋州新闻,http://36009.hlsplay.aodianyun.com/tv_radio_36009/tv_channel_1330.m3u8
-
-
 
 🇹🇼台湾频道🇹🇼,#genre#
 民视,https://flv3948069e.live.126.net/live/194418d970534fac2984761711b8232f.flv
