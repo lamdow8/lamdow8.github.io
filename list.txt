@@ -253,13 +253,13 @@ CCTV-17农业农村,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc
 黑龙江卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8$陕西12M
 
 🇭🇰香港频道,#genre#
-翡翠台,http://pullhls3948069e.live.126.net/live/23b6ea5948c40f2986be58633e430aab/playlist.m3u8$官网代理
-无线新闻,http://pullhls3948069e.live.126.net/live/29c7f3c401b85199dab15f8159cc1059/playlist.m3u8$官网代理
-无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616775128~exp=1616861528~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=9b8df01f1bcd31108e2694af2628977b2ef9bdcd14390ba1aceca89b87e077a3&p=3324$官网
-无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616775083~exp=1616861483~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/*~hmac=a5f6583969d070f0e34b5288acc374dff99bffd2ca6407aedee3c1ac64953a1c&p=3324$官网
-有线新闻,http://pullhls3948069e.live.126.net/live/ee6b8cdfbb42cfd1d87967867a61d8f7/playlist.m3u8$官网代理
-ViuTV,http://pullhls3948069e.live.126.net/live/d109ba2487c35c4743cc2aa7c738c242/playlist.m3u8
-J2,http://pullhls3948069e.live.126.net/live/e976ccdafcc9551defef9dd9cf72c404/playlist.m3u8
+翡翠台,http://pullhls3948069e.live.126.net/live/f06496686cb28fbb3d67b6587993b264/playlist.m3u8$官网代理
+无线新闻,http://pullhls3948069e.live.126.net/live/6bc2ef3ed9e31b0ed24798eebe6ba981/playlist.m3u8$官网代理
+无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616860197~exp=1616946597~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=f42081486b3dc4e3c18e918f87b2f4e39907df6c2dec3df859d8980324e1f5cb&p=3324$官网
+无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616860083~exp=1616946483~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/*~hmac=b48effd1eba31c3a1b69fd45bbee4cfc0955b5cef44829d2ec408268a6c0d363&p=3324$官网
+有线新闻,http://pullhls3948069e.live.126.net/live/41bfe61711f4f7ece74454090d808cb6/playlist.m3u8$官网代理
+ViuTV,http://pullhls3948069e.live.126.net/live/365d19d9161a23556095bceed6b0744f/playlist.m3u8
+J2,http://pullhls3948069e.live.126.net/live/db7bebba5805a2ada54b844e7ac6cb35/playlist.m3u8
 
 凤凰中文,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8$BJ720P
 凤凰中文,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8$BJ720P
