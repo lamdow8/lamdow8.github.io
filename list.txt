@@ -278,6 +278,7 @@ ViuTV 6HD,http://61.238.6.49:8000/bysid/96#http://hls.globaliptv.ml/viu96.php
 明珠台HD,http://61.238.6.49:8001/bysid/2
 J2 1080P,http://61.238.6.49:8001/bysid/82
 无线财经资讯台 1080P,http://61.238.6.49:8001/bysid/85
+無線J1,https://bcovlive-a.akamaihd.net/92d1fb6f11854eafb1b183f2565558c9/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 香港電台視像新聞直播,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
 香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
@@ -590,15 +591,6 @@ Supersports 3,http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 Supersports 4,http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 
 翻墙专区Ⅰ,#genre#
-CTSN,https://www.youtube.com/watch?v=-pvROC_MdYM
-SETN,https://www.youtube.com/watch?v=4ZVUmEUFwaY
-FTVN,https://www.youtube.com/watch?v=XxJKnDLYZz4
-TVBSN,https://www.youtube.com/watch?v=A4FbB8UhNRs
-TTVN,https://www.youtube.com/watch?v=xL0ch83RAK8
-CTVN,https://www.youtube.com/watch?v=lSZZ3YRsW1w
-EBCN,https://www.youtube.com/c/newsebc/live
-CTiN,https://youtu.be/5tQBwbyQ-Fw
-EBCF,https://www.youtube.com/watch?v=68lLQ7hkdzU
 TVB 新闻台,http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
 凤凰香港,http://93.190.139.36:8278/streams/d/hkphoenix_twn/playlist.m3u8
 凤凰卫视,http://93.190.139.36:8278/streams/d/phoenixtv_hd/playlist.m3u8
@@ -607,6 +599,8 @@ ViuTV,http://93.190.139.36:8278/streams/d/viu_twn/playlist.m3u8
 Viu1TV,http://93.190.139.36:8278/streams/d/viu1_twn/playlist.m3u8
 有线新闻,http://93.190.139.36:8278/streams/d/hkcnews_twn/playlist.m3u8
 RTHK31,http://93.190.139.36:8278/streams/d/rhk31_twn/playlist.m3u8
+ViuTV 96,http://hls.globaliptv.ml/viu96.php
+ViuTV 99,http://hls.globaliptv.ml/viu99.php
 RTHK31Web http://teslagram.com/live/channel_31.m3u8
 RTHK32Web http://teslagram.com/live/channel_32.m3u8
 有線直播新聞台,http://teslagram.com/live/channel_110.m3u8
@@ -615,6 +609,7 @@ RTHK32Web http://teslagram.com/live/channel_32.m3u8
 有線603台,http://z1.ubtvfans.com/live/398/0cd0e3d1ca2a6ced2e2830970354a579/index.m3u8
 有線體育台,http://z1.ubtvfans.com/live/401/6d972b4b80bd8ff1ac15eb3352c76bbb/index.m3u8
 有線SPORT PLUS,http://z1.ubtvfans.com/live/356/c3380a31465842258f44c7a9b9d2ea8d/index.m3u8
+
 RTHK31,http://livetv.dnsfor.me:80/channel.1.m3u8
 RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
 Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
@@ -637,6 +632,7 @@ VIU TV,http://livetv.dnsfor.me:80/channel.20.m3u8
 星空卫视,http://livetv.dnsfor.me:80/channel.22.m3u8
 UNIVERSE TV,http://livetv.dnsfor.me:80/channel.23.m3u8
 亚旅卫视,http://livetv.dnsfor.me:80/channel.24.m3u8
+
 开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 LUXE TV,http://58.26.3.53/PLTV/88888888/224/3221226265/06.m3u8
@@ -700,6 +696,13 @@ KIX MALAY,https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 Fox Family Movies,https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 Boomerang,https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 Baby First,https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+Discovery Channel,https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+Discovery Asia,https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+Discovery TLC,https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+Asian Food Network,https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+Outdoor Channel,https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+動物星球頻道,https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+National Geographic HD,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 FOX SPORTS 1,https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8#https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport1
 FOX SPORTS 2,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8#https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport2
 FOX SPORTS 3,https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8#https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport3
