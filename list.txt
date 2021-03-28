@@ -278,11 +278,11 @@ CCTV-17农业农村,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc
 黑龙江卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8$陕西12M
 
 🇭🇰香港频道,#genre#
-翡翠台,http://pullhls3948069e.live.126.net/live/f06496686cb28fbb3d67b6587993b264/playlist.m3u8$官网代理
-无线新闻,http://pullhls3948069e.live.126.net/live/6bc2ef3ed9e31b0ed24798eebe6ba981/playlist.m3u8$官网代理
+翡翠台,http://pullhls3948069e.live.126.net/live/8772ddcb779ed42a96f05f21ac144102/playlist.m3u8$官网代理
+无线新闻,http://pullhls3948069e.live.126.net/live/2a65969d7a6e2ec1a9bbbe83409431bc/playlist.m3u8$官网代理
 无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616860197~exp=1616946597~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=f42081486b3dc4e3c18e918f87b2f4e39907df6c2dec3df859d8980324e1f5cb&p=3324$官网
 无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616860083~exp=1616946483~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/*~hmac=b48effd1eba31c3a1b69fd45bbee4cfc0955b5cef44829d2ec408268a6c0d363&p=3324$官网
-有线新闻,http://pullhls3948069e.live.126.net/live/41bfe61711f4f7ece74454090d808cb6/playlist.m3u8$官网代理
+有线新闻,http://pullhls3948069e.live.126.net/live/d371146f8fcf2d7b329cb2ac4547a4b0/playlist.m3u8$官网代理
 ViuTV,http://pullhls3948069e.live.126.net/live/365d19d9161a23556095bceed6b0744f/playlist.m3u8
 J2,http://pullhls3948069e.live.126.net/live/db7bebba5805a2ada54b844e7ac6cb35/playlist.m3u8
 凤凰中文,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8$ZJ10M720
