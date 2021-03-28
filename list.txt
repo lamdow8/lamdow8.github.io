@@ -1,6 +1,6 @@
 🇨🇳央视频道,#genre#
 央视新闻,https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
-CCTV-4K超高清,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls$浙江#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229683/index.m3u8#http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
+CCTV-4K超高清,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=cctv4k$贵州代理#http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls$浙江#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229683/index.m3u8#http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
 CCTV-1综合,http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8$江西宜春8M
 CCTV-2财经,http://39.135.138.59:18890/PLTV/88888910/224/3221225643/index.m3u8$江西宜春8M
 CCTV-3综艺,http://39.135.138.59:18890/PLTV/88888910/224/3221225634/index.m3u8$江西宜春8M
@@ -1482,7 +1482,9 @@ CCTV7 7M1080,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=cctv7
 CCTV8 7M1080,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=cctv8
 CCTV9 7M1080,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=cctv9
 CCTV10 7M1080,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=cctv10
+CCTV-11戏曲,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=cctv11
 CCTV12 7M1080,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=cctv12
+CCTV-13新闻,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=cctv13
 CCTV14 7M1080,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=cctv14
 CCTV17 7M1080,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=cctv17
 CCTV世界地理 6M1080,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=sjdl
