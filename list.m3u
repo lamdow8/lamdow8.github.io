@@ -1112,42 +1112,42 @@ http://seb.sason.top/ptv/ftv.php?id=zy
 http://seb.sason.top/ptv/ftv.php?id=ly
 #EXTINF:-1 tvg-id="7197" tvg-logo="http://tv.sason.xyz/logo/wljc.png" group-title="台湾频道",纬来精采
 https://usb.bozztv.com/ttvbHD/index.m3u8
-#EXTM3U
-#EXTINF:-1,CTSN 
+
+#EXTINF:-1 group-title="未分组",CTSN 
 https://www.youtube.com/watch?v=-pvROC_MdYM
-#EXTINF:-1,SETN 
+#EXTINF:-1 group-title="未分组",SETN 
 https://www.youtube.com/watch?v=4ZVUmEUFwaY
-#EXTINF:-1,FTVN 
+#EXTINF:-1 group-title="未分组",FTVN 
 https://www.youtube.com/watch?v=XxJKnDLYZz4
-#EXTINF:-1,TVBSN 
+#EXTINF:-1 group-title="未分组",TVBSN 
 https://www.youtube.com/watch?v=A4FbB8UhNRs
-#EXTINF:-1,TTVN 
+#EXTINF:-1 group-title="未分组",TTVN 
 https://www.youtube.com/watch?v=xL0ch83RAK8
-#EXTINF:-1,CTVN 
+#EXTINF:-1 group-title="未分组",CTVN 
 https://www.youtube.com/watch?v=lSZZ3YRsW1w
-#EXTINF:-1,EBCN 
+#EXTINF:-1 group-title="未分组",EBCN 
 https://www.youtube.com/c/newsebc/live
-#EXTINF:-1,CTiN 
+#EXTINF:-1 group-title="未分组",CTiN 
 https://youtu.be/5tQBwbyQ-Fw
-#EXTINF:-1,EBCF 
+#EXTINF:-1 group-title="未分组",EBCF 
 https://www.youtube.com/watch?v=68lLQ7hkdzU
-#EXTINF:-1,TWLegYuanCh1 
+#EXTINF:-1 group-title="未分组",TWLegYuanCh1 
 https://www.youtube.com/watch?v=PQLMD4iHhG8
-#EXTINF:-1,TWLegYuanCh2 
+#EXTINF:-1 group-title="未分组",TWLegYuanCh2 
 https://www.youtube.com/watch?v=Vv4QaX9w9PA
-#EXTINF:-1,AlJazeeraEnglish 
+#EXTINF:-1 group-title="未分组",AlJazeeraEnglish 
 https://www.youtube.com/watch?v=GXfsI-zZO7s
-#EXTINF:-1,BloombergGlobalFinancialNews 
+#EXTINF:-1 group-title="未分组",BloombergGlobalFinancialNews 
 https://www.youtube.com/watch?v=dp8PhLsUcFE
-#EXTINF:-1,ABCUSANews 
+#EXTINF:-1 group-title="未分组",ABCUSANews 
 https://www.youtube.com/watch?v=w_Ma8oQLmSM
-#EXTINF:-1,CNA 
+#EXTINF:-1 group-title="未分组",CNA 
 https://www.youtube.com/watch?v=XWq5kBlakcQ
-#EXTINF:-1,ANNJapanNews 
+#EXTINF:-1 group-title="未分组",ANNJapanNews 
 https://www.youtube.com/watch?v=coYw-eVU0Ks
-#EXTINF:-1,DWNews 
+#EXTINF:-1 group-title="未分组",DWNews 
 https://www.youtube.com/watch?v=HeTWwH1a0CQ
-#EXTINF:-1,ABCAustraliaNews 
+#EXTINF:-1 group-title="未分组",ABCAustraliaNews 
 https://www.youtube.com/watch?v=W1ilCy6XrmI
-#EXTINF:-1,France24English 
+#EXTINF:-1 group-title="未分组",France24English 
 https://www.youtube.com/watch?v=HeTWwH1a0CQ
