@@ -278,13 +278,14 @@ CCTV-17农业农村,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc
 黑龙江卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8$陕西12M
 
 🇭🇰香港频道,#genre#
-翡翠台,http://pullhls3948069e.live.126.net/live/8772ddcb779ed42a96f05f21ac144102/playlist.m3u8$官网代理
-无线新闻,http://pullhls3948069e.live.126.net/live/2a65969d7a6e2ec1a9bbbe83409431bc/playlist.m3u8$官网代理
+翡翠台,http://pullhls3948069e.live.126.net/live/2cea2a6b3450acfb748e41104af91eff/playlist.m3u8$官网代理
+无线新闻,http://pullhls3948069e.live.126.net/live/ef7d21479570fda174c039dccb7f80a6/playlist.m3u8$官网代理
 无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616946659~exp=1617033059~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=5c38d44c421f560c89fe30dedcf890aae98ae3f39f02a9ff7d92cd7a7530614f&p=3324$官网
 无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616946583~exp=1617032983~acl=/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/*~hmac=6a1f58e2668ad5fc049bf8b45bcc310252726f1c03a6fce431c3ffd0763f4732&p=3324$官网
-有线新闻,http://pullhls3948069e.live.126.net/live/d371146f8fcf2d7b329cb2ac4547a4b0/playlist.m3u8$官网代理
-ViuTV,http://pullhls3948069e.live.126.net/live/365d19d9161a23556095bceed6b0744f/playlist.m3u8
-J2,http://pullhls3948069e.live.126.net/live/db7bebba5805a2ada54b844e7ac6cb35/playlist.m3u8
+有线新闻,http://pullhls3948069e.live.126.net/live/c69933167b9ddc219daa543ae0b7424b/playlist.m3u8$官网代理
+NOW·新闻台,http://pullhls3948069e.live.126.net/live/d8b19f8c8ffbd507d626c2c286940a3d/playlist.m3u8
+ViuTV,http://pullhls3948069e.live.126.net/live/fee364e9c7d0f9e5f2334956a797f54c/playlist.m3u8
+J2,http://pullhls3948069e.live.126.net/live/b3f974848c6c55ccc90fe7c03a7fd605/playlist.m3u8
 凤凰中文,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8$ZJ10M720
 凤凰资讯,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8$ZJ10M720
 凤凰中文,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8$BJ720P
@@ -312,25 +313,25 @@ J2 1080P,http://61.238.6.49:8001/bysid/82#http://hls.globaliptv.ml/tvbj2.php
 儋州新闻,http://36009.hlsplay.aodianyun.com/tv_radio_36009/tv_channel_1330.m3u8
 
 🇹🇼台湾频道🇹🇼,#genre#
-民视,https://flv3948069e.live.126.net/live/194418d970534fac2984761711b8232f.flv
-台视,https://flv3948069e.live.126.net/live/910a2177767746c6c662bab6241d0d25.flv
-中视,https://flv3948069e.live.126.net/live/b1b69c1dfcb5686f9ad47806b2c4cebd.flv
-华视,https://flv3948069e.live.126.net/live/1e72e41bb94c8d5d7f2fe45750b320da.flv
-TVBS·欢乐台,https://flv3948069e.live.126.net/live/9876f7142aa6dc1e526f542e56473557.flv
-TVBS·新闻台,https://flv3948069e.live.126.net/live/214aac625811ee602172677e3136cfae.flv
-中天新闻,https://flv3948069e.live.126.net/live/1abe423d5e8fb21494b547c1d08c65fe.flv
-东森新闻,https://flv3948069e.live.126.net/live/a18866904fc78357ada4f07ea8d07d46.flv
-东森超视,https://flv3948069e.live.126.net/live/0e57146a1b0f258d9741f9ce370ef942.flv
-东森财经新闻,https://flv3948069e.live.126.net/live/da9e1205e82004f4ce4fa40e86b936f6.flv
-三立直播新闻,https://flv3948069e.live.126.net/live/9be129b3fe3a48bd5734d347485c8d73.flv
-纬来体育,https://flv3948069e.live.126.net/live/acec7a94860b6ecd4ec0ba1379e60ca8.flv
-纬来育乐,https://flv3948069e.live.126.net/live/15d1baddefe72afbe1dad193a9665212.flv
-纬来日本,https://flv3948069e.live.126.net/live/8963cdc098d79f969cdc55b0fcd652ed.flv
-台视新闻,https://flv3948069e.live.126.net/live/970b375d5589dcc34f23dffdc33c2b52.flv
-中视新闻,https://flv3948069e.live.126.net/live/5873c899d66dc619cfce9207902570eb.flv
-华视新闻,https://flv3948069e.live.126.net/live/69f6f42b3d657d2a70f99a78bb550948.flv
-民视新闻,https://flv3948069e.live.126.net/live/0ccd9c844f8ea6b58c5fb3cb9b7861bd.flv
-壹新闻台,https://flv3948069e.live.126.net/live/61bbd83a3fcf24c4fa524a298e3e8b87.flv
+民视,https://flv3948069e.live.126.net/live/2d1a49e98fc0511f47998ac1ef33bc0b.flv
+台视,https://flv3948069e.live.126.net/live/caec705d9f39532ed97558d722d911db.flv
+中视,https://flv3948069e.live.126.net/live/3f4accd4a84e5b0b05a6cc44028b4260.flv
+华视,https://flv3948069e.live.126.net/live/14726b893369b2aac19e3f4b5a6618ad.flv
+TVBS·欢乐台,https://flv3948069e.live.126.net/live/9614f66d959726a170eea0b48faf96e2.flv
+TVBS·新闻台,https://flv3948069e.live.126.net/live/9994ebaf9160538268aee1271904fcba.flv
+中天新闻,https://flv3948069e.live.126.net/live/76e93c22cd09f9820fa27988e59de85e.flv
+东森新闻,https://flv3948069e.live.126.net/live/8666807706dd4e43c94490b02b53b560.flv
+东森超视,https://flv3948069e.live.126.net/live/e3a65f254d05060e3e39f5935873d161.flv
+东森财经新闻,https://flv3948069e.live.126.net/live/1b78e1e9ea8dba1e281832dea92719d8.flv
+三立直播新闻,https://flv3948069e.live.126.net/live/32291b0a970377979133abd7f7e95121.flv
+纬来体育,https://flv3948069e.live.126.net/live/fb97b52c862c4c78269ccaaa585f1e85.flv
+纬来育乐,https://flv3948069e.live.126.net/live/6507c4ee40198b087bf73bdc1f43633b.flv
+纬来日本,https://flv3948069e.live.126.net/live/719b3a7b60ff06f59bb974858069aaaa.flv
+台视新闻,https://flv3948069e.live.126.net/live/2c4e55235fc3553989cdc5f459f4d4e5.flv
+中视新闻,https://flv3948069e.live.126.net/live/4a63225ea96aa7e355fe73667e5c4699.flv
+华视新闻,https://flv3948069e.live.126.net/live/79fd27c473eb2f4b7ca307f7f7e1044d.flv
+民视新闻,https://flv3948069e.live.126.net/live/6c6fe37d8e175538401642b75dcf10cb.flv
+壹新闻台,https://flv3948069e.live.126.net/live/a13741cdac1c910b8154a9c53614cca5.flv
 环宇新闻(测试),http://v3948069e.live.126.net/live/oauyohkh04062033/109.flv
 年代新闻(测试),http://v3948069e.live.126.net/live/clcfqmkn25536846/111.flv
 星级剧集台,http://hls.haokan.bdstatic.com/haokan/stream_bduid_31696503_0.m3u8
@@ -477,18 +478,18 @@ SONY電影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14018&key=84797
 BBCWORLD,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15007&key=84797b799ae18d1b
 
 🇭🇰港台测试Ⅰ,#genre#
-有线新闻,https://flv3948069e.live.126.net/live/d371146f8fcf2d7b329cb2ac4547a4b0.flv
-有线电影,http://flv3948069e.live.126.net/live/9bf999088f31e8a98e092aeb970ed9cf.flv
-有线18台,https://flv3948069e.live.126.net/live/558777ce86fcbff9aa3380802461eb6a.flv
-有线·603,https://flv3948069e.live.126.net/live/2782e65671f6f5f3230baaadcc990ff8.flv
-NOW·新闻台,https://flv3948069e.live.126.net/live/e5e45e8fbf1e74696a6e43b55778fe65.flv
-TVB·翡翠台,https://flv3948069e.live.126.net/live/8772ddcb779ed42a96f05f21ac144102.flv
-TVB·明珠台,https://flv3948069e.live.126.net/live/29b75df83c0db66a4fd58370e5950c27.flv
-TVB·新闻台,https://flv3948069e.live.126.net/live/2a65969d7a6e2ec1a9bbbe83409431bc.flv
-TVB·财经台,https://flv3948069e.live.126.net/live/d4398607d52f91c14cb6e426dc334ecd.flv
-TVB·J2,https://flv3948069e.live.126.net/live/cf24e3678e3562ca717c7ec99958ce84.flv
-VIU·TV,https://flv3948069e.live.126.net/live/89bf48f6a9eb4ab129b8b32d866899f2.flv
-开放电视,https://flv3948069e.live.126.net/live/8351a293bcdfd7b5bcfb75a93250659e.flv#http://media.fantv.hk/m3u8/archive/channel2.m3u8
+有线新闻,https://flv3948069e.live.126.net/live/c69933167b9ddc219daa543ae0b7424b.flv
+有线电影,http://flv3948069e.live.126.net/live/87a0e128c1d9d668645bfa4dc11e181f.flv
+有线18台,https://flv3948069e.live.126.net/live/6a96308135847dd3d50eca60b0ad8795.flv
+有线·603,https://flv3948069e.live.126.net/live/50cfbab11d1a4936ce5c9ea04ac688a5.flv
+NOW·新闻台,https://flv3948069e.live.126.net/live/d8b19f8c8ffbd507d626c2c286940a3d.flv
+TVB·翡翠台,https://flv3948069e.live.126.net/live/2cea2a6b3450acfb748e41104af91eff.flv
+TVB·明珠台,https://flv3948069e.live.126.net/live/97d48e1ad8bc1f7fadb7eb5dce5aa9e0.flv
+TVB·新闻台,https://flv3948069e.live.126.net/live/ef7d21479570fda174c039dccb7f80a6.flv
+TVB·财经台,https://flv3948069e.live.126.net/live/be23dad9afa515dbbb2594affd7a472f.flv
+TVB·J2,https://flv3948069e.live.126.net/live/b3f974848c6c55ccc90fe7c03a7fd605.flv
+VIU·TV,https://flv3948069e.live.126.net/live/fee364e9c7d0f9e5f2334956a797f54c.flv
+开放电视,https://flv3948069e.live.126.net/live/fb15ac3cc61dcfc6631a677ed4dcdec2.flv#http://media.fantv.hk/m3u8/archive/channel2.m3u8
 澳视澳门,http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
 澳门卫星,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 澳门资讯,http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
