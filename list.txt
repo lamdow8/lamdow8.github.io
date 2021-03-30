@@ -278,7 +278,7 @@ CCTV-17农业农村,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc
 黑龙江卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8$陕西12M
 
 🇭🇰香港频道,#genre#
-翡翠台,http://pullhls3948069e.live.126.net/live/16632fe842c4dd8e432df34abd3d8c0/playlist.m3u8$官网代理
+翡翠台,http://pullhls3948069e.live.126.net/live/016632fe842c4dd8e432df34abd3d8c0/playlist.m3u8$官网代理
 无线新闻,http://pullhls3948069e.live.126.net/live/7853b207f04b97b01940343a341898b8/playlist.m3u8$官网代理
 无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1617119968~exp=1617206368~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=81f818d477e1e8da70c43c0b903ac97919472ed323df22f83b690463e190d441&p=3324$官网
 无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1617119397~exp=1617205797~acl=/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/*~hmac=11dc1be69ecf4ac4f19338d626092644c9d73cc2ef3f54fa7724cdd51597da4b&p=3324$官网
@@ -479,7 +479,7 @@ BBCWORLD,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15007&key=84797b7
 
 🇭🇰港台测试Ⅰ,#genre#
 有线新闻,https://flv3948069e.live.126.net/live/544b4ff28d53e2e0655691bd3f2780be.flv
-有线电影,http://flv3948069e.live.126.net/live/87a0e128c1d9d668645bfa4dc11e181f.flv
+有线电影,https://flv3948069e.live.126.net/live/yxdy.flv
 有线18台,https://flv3948069e.live.126.net/live/6a96308135847dd3d50eca60b0ad8795.flv
 有线·603,https://flv3948069e.live.126.net/live/50cfbab11d1a4936ce5c9ea04ac688a5.flv
 NOW·新闻台,https://flv3948069e.live.126.net/live/d8b19f8c8ffbd507d626c2c286940a3d.flv
@@ -505,6 +505,7 @@ VIU·TV,https://flv3948069e.live.126.net/live/c38d73ee97e838ec76bffae7dfcb0952.f
 凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
 
 🇭🇰港台测试Ⅱ,#genre#
+翡翠台,http://qj.yyrjdp.cn/jiuban/iptv99333.php?id=15
 翡翠台,http://qj.yyrjdp.cn/jiuban/iptv99333.php?id=85
 J2,http://qj.yyrjdp.cn/jiuban/iptv99333.php?id=88
 明珠台,http://qj.yyrjdp.cn/jiuban/iptv99333.php?id=87
