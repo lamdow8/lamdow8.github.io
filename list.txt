@@ -278,10 +278,10 @@ CCTV-17农业农村,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc
 黑龙江卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8$陕西12M
 
 🇭🇰香港频道,#genre#
-翡翠台,http://pullhls3948069e.live.126.net/live/2cea2a6b3450acfb748e41104af91eff/playlist.m3u8$官网代理
+翡翠台,http://pullhls3948069e.live.126.net/live/3241ceabc6c8b8ca68c1cadba8c2104d/playlist.m3u8$官网代理
 无线新闻,http://pullhls3948069e.live.126.net/live/ef7d21479570fda174c039dccb7f80a6/playlist.m3u8$官网代理
-无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616946659~exp=1617033059~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=5c38d44c421f560c89fe30dedcf890aae98ae3f39f02a9ff7d92cd7a7530614f&p=3324$官网
-无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616946583~exp=1617032983~acl=/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/*~hmac=6a1f58e2668ad5fc049bf8b45bcc310252726f1c03a6fce431c3ffd0763f4732&p=3324$官网
+无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1617033424~exp=1617119824~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=1ee591676b9b15efc61a01c4871783763881856534f1504eb2169c5a82cfc894&p=3324$官网
+无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1617033337~exp=1617119737~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/*~hmac=26ffbe44ea3aa4bac995176844d05155fd1bea9f672682e9e81b856c49468e16&p=3324$官网
 有线新闻,http://pullhls3948069e.live.126.net/live/c69933167b9ddc219daa543ae0b7424b/playlist.m3u8$官网代理
 NOW·新闻台,http://pullhls3948069e.live.126.net/live/d8b19f8c8ffbd507d626c2c286940a3d/playlist.m3u8
 ViuTV,http://pullhls3948069e.live.126.net/live/fee364e9c7d0f9e5f2334956a797f54c/playlist.m3u8
@@ -483,7 +483,7 @@ BBCWORLD,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15007&key=84797b7
 有线18台,https://flv3948069e.live.126.net/live/6a96308135847dd3d50eca60b0ad8795.flv
 有线·603,https://flv3948069e.live.126.net/live/50cfbab11d1a4936ce5c9ea04ac688a5.flv
 NOW·新闻台,https://flv3948069e.live.126.net/live/d8b19f8c8ffbd507d626c2c286940a3d.flv
-TVB·翡翠台,https://flv3948069e.live.126.net/live/2cea2a6b3450acfb748e41104af91eff.flv
+TVB·翡翠台,https://flv3948069e.live.126.net/live/3241ceabc6c8b8ca68c1cadba8c2104d.flv
 TVB·明珠台,https://flv3948069e.live.126.net/live/97d48e1ad8bc1f7fadb7eb5dce5aa9e0.flv
 TVB·新闻台,https://flv3948069e.live.126.net/live/ef7d21479570fda174c039dccb7f80a6.flv
 TVB·财经台,https://flv3948069e.live.126.net/live/be23dad9afa515dbbb2594affd7a472f.flv
