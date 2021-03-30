@@ -278,14 +278,14 @@ CCTV-17农业农村,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc
 黑龙江卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8$陕西12M
 
 🇭🇰香港频道,#genre#
-翡翠台,http://pullhls3948069e.live.126.net/live/3241ceabc6c8b8ca68c1cadba8c2104d/playlist.m3u8$官网代理
-无线新闻,http://pullhls3948069e.live.126.net/live/ef7d21479570fda174c039dccb7f80a6/playlist.m3u8$官网代理
-无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1617033424~exp=1617119824~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=1ee591676b9b15efc61a01c4871783763881856534f1504eb2169c5a82cfc894&p=3324$官网
-无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1617033337~exp=1617119737~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/*~hmac=26ffbe44ea3aa4bac995176844d05155fd1bea9f672682e9e81b856c49468e16&p=3324$官网
-有线新闻,http://pullhls3948069e.live.126.net/live/c69933167b9ddc219daa543ae0b7424b/playlist.m3u8$官网代理
+翡翠台,http://pullhls3948069e.live.126.net/live/16632fe842c4dd8e432df34abd3d8c0/playlist.m3u8$官网代理
+无线新闻,http://pullhls3948069e.live.126.net/live/7853b207f04b97b01940343a341898b8/playlist.m3u8$官网代理
+无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1617119968~exp=1617206368~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=81f818d477e1e8da70c43c0b903ac97919472ed323df22f83b690463e190d441&p=3324$官网
+无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1617119397~exp=1617205797~acl=/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/*~hmac=11dc1be69ecf4ac4f19338d626092644c9d73cc2ef3f54fa7724cdd51597da4b&p=3324$官网
+有线新闻,http://pullhls3948069e.live.126.net/live/544b4ff28d53e2e0655691bd3f2780be/playlist.m3u8$官网代理
 NOW·新闻台,http://pullhls3948069e.live.126.net/live/d8b19f8c8ffbd507d626c2c286940a3d/playlist.m3u8
-ViuTV,http://pullhls3948069e.live.126.net/live/fee364e9c7d0f9e5f2334956a797f54c/playlist.m3u8
-J2,http://pullhls3948069e.live.126.net/live/b3f974848c6c55ccc90fe7c03a7fd605/playlist.m3u8
+ViuTV,http://pullhls3948069e.live.126.net/live/c38d73ee97e838ec76bffae7dfcb0952/playlist.m3u8
+J2,http://pullhls3948069e.live.126.net/live/27f18375f20184d0fe04bed20fc82766/playlist.m3u8
 凤凰中文,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8$ZJ10M720
 凤凰资讯,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8$ZJ10M720
 凤凰中文,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8$BJ720P
@@ -478,17 +478,17 @@ SONY電影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14018&key=84797
 BBCWORLD,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15007&key=84797b799ae18d1b
 
 🇭🇰港台测试Ⅰ,#genre#
-有线新闻,https://flv3948069e.live.126.net/live/c69933167b9ddc219daa543ae0b7424b.flv
+有线新闻,https://flv3948069e.live.126.net/live/544b4ff28d53e2e0655691bd3f2780be.flv
 有线电影,http://flv3948069e.live.126.net/live/87a0e128c1d9d668645bfa4dc11e181f.flv
 有线18台,https://flv3948069e.live.126.net/live/6a96308135847dd3d50eca60b0ad8795.flv
 有线·603,https://flv3948069e.live.126.net/live/50cfbab11d1a4936ce5c9ea04ac688a5.flv
 NOW·新闻台,https://flv3948069e.live.126.net/live/d8b19f8c8ffbd507d626c2c286940a3d.flv
-TVB·翡翠台,https://flv3948069e.live.126.net/live/3241ceabc6c8b8ca68c1cadba8c2104d.flv
+TVB·翡翠台,https://flv3948069e.live.126.net/live/016632fe842c4dd8e432df34abd3d8c0.flv
 TVB·明珠台,https://flv3948069e.live.126.net/live/97d48e1ad8bc1f7fadb7eb5dce5aa9e0.flv
-TVB·新闻台,https://flv3948069e.live.126.net/live/ef7d21479570fda174c039dccb7f80a6.flv
+TVB·新闻台,https://flv3948069e.live.126.net/live/7853b207f04b97b01940343a341898b8.flv
 TVB·财经台,https://flv3948069e.live.126.net/live/be23dad9afa515dbbb2594affd7a472f.flv
-TVB·J2,https://flv3948069e.live.126.net/live/b3f974848c6c55ccc90fe7c03a7fd605.flv
-VIU·TV,https://flv3948069e.live.126.net/live/fee364e9c7d0f9e5f2334956a797f54c.flv
+TVB·J2,https://flv3948069e.live.126.net/live/27f18375f20184d0fe04bed20fc82766.flv
+VIU·TV,https://flv3948069e.live.126.net/live/c38d73ee97e838ec76bffae7dfcb0952.flv
 开放电视,https://flv3948069e.live.126.net/live/fb15ac3cc61dcfc6631a677ed4dcdec2.flv#http://media.fantv.hk/m3u8/archive/channel2.m3u8
 澳视澳门,http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
 澳门卫星,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
