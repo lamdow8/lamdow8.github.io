@@ -480,7 +480,7 @@ BBCWORLD,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15007&key=84797b7
 有线电影,https://flv3948069e.live.126.net/live/yxdy.flv
 有线18台,https://flv3948069e.live.126.net/live/c9d65abcad88da0d67efb87699fcde9a.flv
 有线·603,https://flv3948069e.live.126.net/live/2b8ccf69f4c2c5d0db8715260550ca7f.flv
-NOW·新闻台,https://flv3948069e.live.126.net/live/d8b19f8c8ffbd507d626c2c286940a3d.flv
+NOW·新闻台,https://flv3948069e.live.126.net/live/nownews.flv
 TVB·翡翠台,https://flv3948069e.live.126.net/live/016632fe842c4dd8e432df34abd3d8c0.flv
 TVB·明珠台,https://flv3948069e.live.126.net/live/cf2d98089314e4d1f2c1491b665cd549.flv
 TVB·新闻台,https://flv3948069e.live.126.net/live/7853b207f04b97b01940343a341898b8.flv
