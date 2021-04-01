@@ -278,35 +278,6 @@ CCTV-17农业农村,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc
 黑龙江卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8$陕西12M
 
 🇭🇰香港频道,#genre#
-TVB 新闻台,http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
-凤凰 香港,http://93.190.139.36:8278/streams/d/hkphoenix_twn/playlist.m3u8
-凤凰 卫视,http://93.190.139.36:8278/streams/d/phoenixtv_hd/playlist.m3u8
-凤凰 资讯,http://93.190.139.36:8278/streams/d/phoenixinfo_hd/playlist.m3u8
-ViuTV,http://93.190.139.36:8278/streams/d/viu_twn/playlist.m3u8
-Viu1TV,http://93.190.139.36:8278/streams/d/viu1_twn/playlist.m3u8
-有线新闻,http://93.190.139.36:8278/streams/d/hkcnews_twn/playlist.m3u8
-RTHK31,http://93.190.139.36:8278/streams/d/rhk31_twn/playlist.m3u8
-凤凰中文台,http://96.44.140.132:18006/view.php?type=m3u8&id=sz_phcn&key=84797b799ae18d1b
-凤凰资讯台,http://96.44.140.132:18006/view.php?type=m3u8&id=sz_phzx&key=84797b799ae18d1b
-凤凰香港台,http://96.44.140.132:18006/view.php?type=m3u8&id=sz_phhk&key=84797b799ae18d1b
-无线新闻台,http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1005&key=84797b799ae18d1b
-翡翠台,http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1001&key=84797b799ae18d1b
-j2台,http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1002&key=84797b799ae18d1b
-无线财经台,http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1003&key=84797b799ae18d1b
-明珠台,http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1004&key=84797b799ae18d1b
-星河台,http://96.44.140.132:18006/view.php?type=m3u8&id=c_58031&key=84797b799ae18d1b
-澳门台,http://96.44.140.132:18006/view.php?type=m3u8&id=c_58031&key=84797b799ae18d1b
-RTHK31Web http://teslagram.com/live/channel_31.m3u8
-RTHK32Web http://teslagram.com/live/channel_32.m3u8
-有線直播新聞台,http://teslagram.com/live/channel_110.m3u8
-有線電影台,http://z1.ubtvfans.com/live/354/e33d6e97afec4bc4b5fac7e1a7c343a4/index.m3u8
-有線18台,http://z1.ubtvfans.com/live/44/05a8fcf4c14bd564dfa2cacba9442d06/index.m3u8
-有線603台,http://z1.ubtvfans.com/live/398/0cd0e3d1ca2a6ced2e2830970354a579/index.m3u8
-有線體育台,http://z1.ubtvfans.com/live/401/6d972b4b80bd8ff1ac15eb3352c76bbb/index.m3u8
-有線SPORT PLUS,http://z1.ubtvfans.com/live/356/c3380a31465842258f44c7a9b9d2ea8d/index.m3u8
-无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1617205247~exp=1617291647~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=b03d30778d4dc378c6ab8f9a0d8153de222b0f93572680c313b6be8bad6d2a08&p=3324$官网
-无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1617205170~exp=1617291570~acl=/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/*~hmac=481b0b560c8d3954e3f6643b91e83a6d4ccafb4b549dd683bde18f011e4eb3de&p=3324$官网
-
 凤凰中文,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8$ZJ10M720
 凤凰资讯,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8$ZJ10M720
 凤凰中文,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8$BJ720P
@@ -319,18 +290,26 @@ RTHK32Web http://teslagram.com/live/channel_32.m3u8
 凤凰资讯(代),http://www.chahaoquan.com/wz/epg/fhdl.php?id=1
 凤凰中文(代),http://www.chahaoquan.com/wz/epg/fhdl.php?id=2
 无线新闻(代),http://www.chahaoquan.com/wz/epg/tvb.php?id=1
-ViuTV 1080P,http://61.238.6.49:8000/bysid/99#http://hls.globaliptv.ml/viu99.php#https://cdn.hkdtmb.com/hls/99/index.m3u8
-ViuTV 6HD,http://61.238.6.49:8000/bysid/96#http://hls.globaliptv.ml/viu96.php#https://cdn.hkdtmb.com/hls/96/index.m3u8
-翡翠台 1080P,http://61.238.6.49:8000/bysid/1#http://hls.globaliptv.ml/tvbjade.php#https://cdn.hkdtmb.com/hls/81/index.m3u8
+
+翡翠台 1080P,https://cdn.hkdtmb.com/hls/81/index.m3u8#http://61.238.6.49:8000/bysid/1#http://hls.globaliptv.ml/tvbjade.php
 无线新闻 1080P,http://61.238.6.49:8001/bysid/83
 明珠台HD,http://61.238.6.49:8001/bysid/2#http://hls.globaliptv.ml/tvbpearl.php
 J2 1080P,http://61.238.6.49:8001/bysid/82#http://hls.globaliptv.ml/tvbj2.php
 无线财经资讯台 1080P,http://61.238.6.49:8001/bysid/85
-無線J1,https://bcovlive-a.akamaihd.net/92d1fb6f11854eafb1b183f2565558c9/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+ViuTV 1080P,https://cdn.hkdtmb.com/hls/99/index.m3u8#http://61.238.6.49:8000/bysid/99#http://hls.globaliptv.ml/viu99.php
+ViuTV 6HD,https://cdn.hkdtmb.com/hls/96/index.m3u8#http://61.238.6.49:8000/bysid/96#http://hls.globaliptv.ml/viu96.php
+無線新闻,https://bcovlive-a.akamaihd.net/92d1fb6f11854eafb1b183f2565558c9/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+RTHK31Web http://teslagram.com/live/channel_31.m3u8
+RTHK32Web http://teslagram.com/live/channel_32.m3u8
+有線直播新聞台,http://teslagram.com/live/channel_110.m3u8
 香港電台視像新聞直播,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
 香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
-星空衛視,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233
+无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1617205247~exp=1617291647~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=b03d30778d4dc378c6ab8f9a0d8153de222b0f93572680c313b6be8bad6d2a08&p=3324$官网
+无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1617205170~exp=1617291570~acl=/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/*~hmac=481b0b560c8d3954e3f6643b91e83a6d4ccafb4b549dd683bde18f011e4eb3de&p=3324$官网
+
+
+
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 儋州新闻,http://36009.hlsplay.aodianyun.com/tv_radio_36009/tv_channel_1330.m3u8
 
 🇹🇼台湾频道🇹🇼,#genre#
@@ -508,42 +487,61 @@ VIU·外语,https://play-tencent.hilivetech.com/hilivetech/877e191864f2c1ce1a75c
 澳亚卫视,https://live.mastvnet.com/4rlff1m/1024/live.m3u8
 港视31台·,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 港视32台·,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
-凤凰中文台,https://player.ggiptv.com/v/ifeng.php?id=2#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8#rtmp://58.200.131.2:1935/livetv/fhzw#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
-凤凰资讯台,https://player.ggiptv.com/v/ifeng.php?id=1#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8#rtmp://58.200.131.2:1935/livetv/fhzx#http://livetv.dnsfor.me/channel.21.m3u8
-凤凰香港台,https://player.ggiptv.com/v/ifeng.php?id=3#http://livetv.dnsfor.me/channel.16.m3u8
-凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
 
 🇭🇰港台测试Ⅱ,#genre#
-有线新闻台,http://qj.yyrjdp.cn/jiuban/iptv12333.php?id=5
-有线603台,http://qj.yyrjdp.cn/jiuban/iptv12333.php?id=7
-有线18台,http://qj.yyrjdp.cn/jiuban/iptv12333.php?id=8
-有线电影台,http://qj.yyrjdp.cn/jiuban/iptv12333.php?id=9
-无线新闻台,http://qj.yyrjdp.cn/jiuban/iptv12333.php?id=13
-翡翠台,http://qj.yyrjdp.cn/jiuban/iptv12333.php?id=15
-无线财经,http://qj.yyrjdp.cn/jiuban/iptv12333.php?id=14
-明珠台,http://qj.yyrjdp.cn/jiuban/iptv12333.php?id=17
-J2,http://qj.yyrjdp.cn/jiuban/iptv12333.php?id=18
-now新闻台,http://qj.yyrjdp.cn/jiuban/iptv12333.php?id=21
-ViuTV6,http://qj.yyrjdp.cn/jiuban/iptv12333.php?id=22
-ViuTV,http://qj.yyrjdp.cn/jiuban/iptv12333.php?id=24
-香港开电视,http://qj.yyrjdp.cn/jiuban/iptv12333.php?id=28
-港台电视32,http://qj.yyrjdp.cn/jiuban/iptv12333.php?id=30
-中天新闻台,http://qj.yyrjdp.cn/jiuban/iptv12333.php?id=32
-东森新闻台,http://qj.yyrjdp.cn/jiuban/iptv12333.php?id=33
-东森财经新闻台,http://qj.yyrjdp.cn/jiuban/iptv12333.php?id=34
-壹电视新闻台,http://qj.yyrjdp.cn/jiuban/iptv12333.php?id=35
-台视新闻台,http://qj.yyrjdp.cn/jiuban/iptv12333.php?id=37
-中视新闻,http://qj.yyrjdp.cn/jiuban/iptv12333.php?id=38
-TVBS新闻台,http://qj.yyrjdp.cn/jiuban/iptv12333.php?id=40
-三立LIVE新闻,http://qj.yyrjdp.cn/jiuban/iptv12333.php?id=41
-民视新闻台,http://qj.yyrjdp.cn/jiuban/iptv12333.php?id=43
-民视,http://qj.yyrjdp.cn/jiuban/iptv12333.php?id=47
-台视,http://qj.yyrjdp.cn/jiuban/iptv12333.php?id=48
-中视,http://qj.yyrjdp.cn/jiuban/iptv12333.php?id=49
-华视,http://qj.yyrjdp.cn/jiuban/iptv12333.php?id=50
-东森超市,http://qj.yyrjdp.cn/jiuban/iptv12333.php?id=56
-纬来体育台,http://qj.yyrjdp.cn/jiuban/iptv12333.php?id=58
-纬来育乐台,http://qj.yyrjdp.cn/jiuban/iptv12333.php?id=60
+有线新闻台,http://qj.yyrjdp.cn/jiuban/iptv32333.php?id=5
+有线603台,http://qj.yyrjdp.cn/jiuban/iptv32333.php?id=7
+有线18台,http://qj.yyrjdp.cn/jiuban/iptv32333.php?id=8
+有线电影台,http://qj.yyrjdp.cn/jiuban/iptv32333.php?id=9
+无线新闻台,http://qj.yyrjdp.cn/jiuban/iptv32333.php?id=13
+翡翠台,http://qj.yyrjdp.cn/jiuban/iptv32333.php?id=15
+无线财经,http://qj.yyrjdp.cn/jiuban/iptv32333.php?id=14
+明珠台,http://qj.yyrjdp.cn/jiuban/iptv32333.php?id=17
+J2,http://qj.yyrjdp.cn/jiuban/iptv32333.php?id=18
+now新闻台,http://qj.yyrjdp.cn/jiuban/iptv32333.php?id=21
+ViuTV6,http://qj.yyrjdp.cn/jiuban/iptv32333.php?id=22
+ViuTV,http://qj.yyrjdp.cn/jiuban/iptv32333.php?id=24
+香港开电视,http://qj.yyrjdp.cn/jiuban/iptv32333.php?id=28
+港台电视32,http://qj.yyrjdp.cn/jiuban/iptv32333.php?id=30
+中天新闻台,http://qj.yyrjdp.cn/jiuban/iptv32333.php?id=32
+东森新闻台,http://qj.yyrjdp.cn/jiuban/iptv32333.php?id=33
+东森财经新闻台,http://qj.yyrjdp.cn/jiuban/iptv32333.php?id=34
+壹电视新闻台,http://qj.yyrjdp.cn/jiuban/iptv32333.php?id=35
+台视新闻台,http://qj.yyrjdp.cn/jiuban/iptv32333.php?id=37
+中视新闻,http://qj.yyrjdp.cn/jiuban/iptv32333.php?id=38
+TVBS新闻台,http://qj.yyrjdp.cn/jiuban/iptv32333.php?id=40
+三立LIVE新闻,http://qj.yyrjdp.cn/jiuban/iptv32333.php?id=41
+民视新闻台,http://qj.yyrjdp.cn/jiuban/iptv32333.php?id=43
+民视,http://qj.yyrjdp.cn/jiuban/iptv32333.php?id=47
+台视,http://qj.yyrjdp.cn/jiuban/iptv32333.php?id=48
+中视,http://qj.yyrjdp.cn/jiuban/iptv32333.php?id=49
+华视,http://qj.yyrjdp.cn/jiuban/iptv32333.php?id=50
+东森超市,http://qj.yyrjdp.cn/jiuban/iptv32333.php?id=56
+纬来体育台,http://qj.yyrjdp.cn/jiuban/iptv32333.php?id=58
+纬来育乐台,http://qj.yyrjdp.cn/jiuban/iptv32333.php?id=60
+TVB 新闻台,http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
+凤凰香港台,http://93.190.139.36:8278/streams/d/hkphoenix_twn/playlist.m3u8
+凤凰中文台,http://93.190.139.36:8278/streams/d/phoenixtv_hd/playlist.m3u8
+凤凰资讯台,http://93.190.139.36:8278/streams/d/phoenixinfo_hd/playlist.m3u8
+ViuTV,http://93.190.139.36:8278/streams/d/viu_twn/playlist.m3u8
+Viu1TV,http://93.190.139.36:8278/streams/d/viu1_twn/playlist.m3u8
+有线新闻,http://93.190.139.36:8278/streams/d/hkcnews_twn/playlist.m3u8
+RTHK31,http://93.190.139.36:8278/streams/d/rhk31_twn/playlist.m3u8
+凤凰中文台,http://96.44.140.132:18006/view.php?type=m3u8&id=sz_phcn&key=84797b799ae18d1b
+凤凰资讯台,http://96.44.140.132:18006/view.php?type=m3u8&id=sz_phzx&key=84797b799ae18d1b
+凤凰香港台,http://96.44.140.132:18006/view.php?type=m3u8&id=sz_phhk&key=84797b799ae18d1b
+无线新闻台,http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1005&key=84797b799ae18d1b
+翡翠台,http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1001&key=84797b799ae18d1b
+j2台,http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1002&key=84797b799ae18d1b
+无线财经台,http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1003&key=84797b799ae18d1b
+明珠台,http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1004&key=84797b799ae18d1b
+星河台,http://96.44.140.132:18006/view.php?type=m3u8&id=c_58031&key=84797b799ae18d1b
+澳门台,http://96.44.140.132:18006/view.php?type=m3u8&id=c_58031&key=84797b799ae18d1b
+有線電影台,http://z1.ubtvfans.com/live/354/e33d6e97afec4bc4b5fac7e1a7c343a4/index.m3u8
+有線18台,http://z1.ubtvfans.com/live/44/05a8fcf4c14bd564dfa2cacba9442d06/index.m3u8
+有線603台,http://z1.ubtvfans.com/live/398/0cd0e3d1ca2a6ced2e2830970354a579/index.m3u8
+有線體育台,http://z1.ubtvfans.com/live/401/6d972b4b80bd8ff1ac15eb3352c76bbb/index.m3u8
+有線SPORT PLUS,http://z1.ubtvfans.com/live/356/c3380a31465842258f44c7a9b9d2ea8d/index.m3u8
 🇭🇰马来测试,#genre#
 AEC,http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
 华丽台,http://50.7.222.130:8278/streams/d/Wlt/playlist.m3u8
