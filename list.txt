@@ -338,9 +338,9 @@ J2 1080P,http://61.238.6.49:8001/bysid/82#http://hls.globaliptv.ml/tvbj2.php
 台视,https://ws.matchupstream.tuboshu.com/live/84d55d637654f0f846733cadbfbc2dbc.flv
 中视,https://ws.matchupstream.tuboshu.com/live/e890029aa22921fc42b833333691c04f.flv
 华视,https://ws.matchupstream.tuboshu.com/live/aa52386a053086c39b010e6515b47e36.flv
-TVBS·欢乐台,https://ws.matchupstream.tuboshu.com/live/1e8d65a1783bc2ee6307be3b8cda3b60.flv
+TVBS·欢乐台,https://ws.matchupstream.tuboshu.com/live/21d294ed5fe1c8de74b620ea11456edd.flv
 TVBS·新闻台,https://ws.matchupstream.tuboshu.com/live/1df03965b9c149d1d5cc0ffa5c5b1ba8.flv
-中天新闻,https://ws.matchupstream.tuboshu.com/live/7aff1297193ca20af4bf1596dd4e2ead.flv
+中天新闻,http://27.148.151.101/ws.matchupstream.tuboshu.com/live/46b56b74f0bdd8bc3c877c4b1965a518.flv
 东森新闻,https://ws.matchupstream.tuboshu.com/live/9a214f71106fdb71307f7ee24d3e784d.flv
 东森超视,https://ws.matchupstream.tuboshu.com/live/898ae8dfef3eb3b51fd20073e7c845d5.flv
 东森财经新闻,https://ws.matchupstream.tuboshu.com/live/21642eaec9a1a0995432817de0518d99.flv
@@ -348,11 +348,11 @@ TVBS·新闻台,https://ws.matchupstream.tuboshu.com/live/1df03965b9c149d1d5cc0f
 纬来体育,https://ws.matchupstream.tuboshu.com/live/cc91bbbfb94e9f6678f1dcfe1a1268a8.flv
 纬来育乐,https://ws.matchupstream.tuboshu.com/live/31a31b3b4a9b4f3e861c659fdcfa4fe8.flv
 纬来日本,https://ws.matchupstream.tuboshu.com/live/2b69754ba03ba1885ffc764febb5e91e.flv
-台视新闻,https://ws.matchupstream.tuboshu.com/live/87c2c163eb76bb88abe661f104e2f948.flv
+台视新闻,http://157.185.169.178/ws.matchupstream.tuboshu.com/live/87c2c163eb76bb88abe661f104e2f948.flv
 中视新闻,https://ws.matchupstream.tuboshu.com/live/27ccff70e660a1604b68dabcc87cbadc.flv
-华视新闻,https://ws.matchupstream.tuboshu.com/live/80d376e844688e1bbc7c9e93d5a3e538.flv
+华视新闻,https://ws.matchupstream.tuboshu.com/live/1122f583c6ee513b63b3b0e58d94afbd.flv
 民视新闻,https://ws.matchupstream.tuboshu.com/live/ff8005a8981de7a6e5dcb8fc74db6783.flv
-壹新闻台,https://ws.matchupstream.tuboshu.com/live/58e904276bcb9d0bdbf07f313f4fd69a.flv
+壹新闻台,https://ws.matchupstream.tuboshu.com/live/70470e847ea98a1189f6301477bc90aa.flv
 星级剧集台,http://hls.haokan.bdstatic.com/haokan/stream_bduid_31696503_0.m3u8
 民视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8813&key=84797b799ae18d1b
 民视新闻台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8820&key=84797b799ae18d1b
@@ -484,20 +484,20 @@ History Channel 2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8812&key
 HGTV,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8808&key=84797b799ae18d1b
 
 🇭🇰港台测试Ⅰ,#genre#
-有线新闻,https://play-tencent.hilivetech.com/hilivetech/9de66448c972e6931789a99241db948b.flv
+有线新闻,https://play-tencent.hilivetech.com/hilivetech/f6a1745ce93f43acf95ae6530c00cc32.flv
 有线电影,https://flv3948069e.live.126.net/live/yxdy.flv
 有线18台,https://ws.matchupstream.tuboshu.com/live/0a236c6b8dc8af0eadecb14214f85df7.flv
-有线·603,https://play-tencent.hilivetech.com/hilivetech/c3da1e172f27fa2c6e9ef26a3f817ab4.flv
+有线·603,https://play-tencent.hilivetech.com/hilivetech/b46bb98fce10ade8b3cb591476b0d7d9.flv
 NOW·新闻台,https://flv3948069e.live.126.net/live/nownews.flv
-TVB·翡翠台,https://play-tencent.hilivetech.com/hilivetech/86da3dc9df088376e63950f8a53a56c7.flv
-TVB·明珠台,https://play-tencent.hilivetech.com/hilivetech/a8b129358ffd1b59e95aaf82c2ae0306.flv
-TVB·新闻台,https://play-tencent.hilivetech.com/hilivetech/5516e37248f08983572a20084031beb4.flv
-TVB·财经台,https://ws.matchupstream.tuboshu.com/live/eb39e21f334de392fd99908e23801ac6.flv
-TVB·J2,https://play-tencent.hilivetech.com/hilivetech/89f321fcf5135c15a91a98870942ea15.flv
-VIU·综合,https://play-tencent.hilivetech.com/hilivetech/dc4a87b9cd2045d40a9f271cf70049a4.flv
-VIU·外语,https://play-tencent.hilivetech.com/hilivetech/ef624f95ec321d5424e03dbe1c250e22.flv
-开放电视,https://ws.matchupstream.tuboshu.com/live/bfc1114ff8fd45cc37062509d4f0522b.flv#http://media.fantv.hk/m3u8/archive/channel2.m3u8
-港视31台,https://ws.matchupstream.tuboshu.com/live/d5e840985437437b1f65454e2612f9ac.flv
+TVB·翡翠台,https://play-tencent.hilivetech.com/hilivetech/921aa378a680af88b610ffe372086c0d.flv
+TVB·明珠台,https://play-tencent.hilivetech.com/hilivetech/8bfc6ce83aa9534b01dd312d29d8c843.flv
+TVB·新闻台,https://play-tencent.hilivetech.com/hilivetech/549d88f4268f96bac4d999f76be0d40d.flv
+TVB·财经台,https://ws.matchupstream.tuboshu.com/live/efc3a01924e9c8ca7aba45083729b7a6.flv
+TVB·J2,https://play-tencent.hilivetech.com/hilivetech/982e836ef8d0bd33830c8eb5d09c28e0.flv
+VIU·综合,https://play-tencent.hilivetech.com/hilivetech/94a087a901c6f380980e3df304d175f2.flv
+VIU·外语,https://play-tencent.hilivetech.com/hilivetech/877e191864f2c1ce1a75c89d23180a26.flv
+开放电视,https://ws.matchupstream.tuboshu.com/live/bfc1114ff8fd45cc37062509d4f0522b.flv
+港视31台,https://ws.matchupstream.tuboshu.com/live/bc9f2402ad22b78148aa6538b6ec99d8.flv
 港视32台,https://ws.matchupstream.tuboshu.com/live/86a553e67f13ed108b5969149ed8d9b5.flv
 澳视澳门,http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
 澳门卫星,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
