@@ -278,14 +278,25 @@ CCTV-17农业农村,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc
 黑龙江卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8$陕西12M
 
 🇭🇰香港频道,#genre#
-翡翠台,http://pullhls3948069e.live.126.net/live/016632fe842c4dd8e432df34abd3d8c0/playlist.m3u8$官网代理
-无线新闻,http://pullhls3948069e.live.126.net/live/7853b207f04b97b01940343a341898b8/playlist.m3u8$官网代理
-无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1617119968~exp=1617206368~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=81f818d477e1e8da70c43c0b903ac97919472ed323df22f83b690463e190d441&p=3324$官网
-无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1617119397~exp=1617205797~acl=/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/*~hmac=11dc1be69ecf4ac4f19338d626092644c9d73cc2ef3f54fa7724cdd51597da4b&p=3324$官网
-有线新闻,http://pullhls3948069e.live.126.net/live/544b4ff28d53e2e0655691bd3f2780be/playlist.m3u8$官网代理
-NOW·新闻台,http://pullhls3948069e.live.126.net/live/d8b19f8c8ffbd507d626c2c286940a3d/playlist.m3u8
-ViuTV,http://pullhls3948069e.live.126.net/live/c38d73ee97e838ec76bffae7dfcb0952/playlist.m3u8
-J2,http://pullhls3948069e.live.126.net/live/27f18375f20184d0fe04bed20fc82766/playlist.m3u8
+TVB 新闻台,http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
+凤凰香港,http://93.190.139.36:8278/streams/d/hkphoenix_twn/playlist.m3u8
+凤凰卫视,http://93.190.139.36:8278/streams/d/phoenixtv_hd/playlist.m3u8
+凤凰资讯,http://93.190.139.36:8278/streams/d/phoenixinfo_hd/playlist.m3u8
+ViuTV,http://93.190.139.36:8278/streams/d/viu_twn/playlist.m3u8
+Viu1TV,http://93.190.139.36:8278/streams/d/viu1_twn/playlist.m3u8
+有线新闻,http://93.190.139.36:8278/streams/d/hkcnews_twn/playlist.m3u8
+RTHK31,http://93.190.139.36:8278/streams/d/rhk31_twn/playlist.m3u8
+RTHK31Web http://teslagram.com/live/channel_31.m3u8
+RTHK32Web http://teslagram.com/live/channel_32.m3u8
+有線直播新聞台,http://teslagram.com/live/channel_110.m3u8
+有線電影台,http://z1.ubtvfans.com/live/354/e33d6e97afec4bc4b5fac7e1a7c343a4/index.m3u8
+有線18台,http://z1.ubtvfans.com/live/44/05a8fcf4c14bd564dfa2cacba9442d06/index.m3u8
+有線603台,http://z1.ubtvfans.com/live/398/0cd0e3d1ca2a6ced2e2830970354a579/index.m3u8
+有線體育台,http://z1.ubtvfans.com/live/401/6d972b4b80bd8ff1ac15eb3352c76bbb/index.m3u8
+有線SPORT PLUS,http://z1.ubtvfans.com/live/356/c3380a31465842258f44c7a9b9d2ea8d/index.m3u8
+无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1617205247~exp=1617291647~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=b03d30778d4dc378c6ab8f9a0d8153de222b0f93572680c313b6be8bad6d2a08&p=3324$官网
+无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1617205170~exp=1617291570~acl=/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/*~hmac=481b0b560c8d3954e3f6643b91e83a6d4ccafb4b549dd683bde18f011e4eb3de&p=3324$官网
+
 凤凰中文,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8$ZJ10M720
 凤凰资讯,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8$ZJ10M720
 凤凰中文,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8$BJ720P
@@ -587,24 +598,6 @@ Supersports 3,http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 Supersports 4,http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 
 翻墙专区Ⅰ,#genre#
-TVB 新闻台,http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
-凤凰香港,http://93.190.139.36:8278/streams/d/hkphoenix_twn/playlist.m3u8
-凤凰卫视,http://93.190.139.36:8278/streams/d/phoenixtv_hd/playlist.m3u8
-凤凰资讯,http://93.190.139.36:8278/streams/d/phoenixinfo_hd/playlist.m3u8
-ViuTV,http://93.190.139.36:8278/streams/d/viu_twn/playlist.m3u8
-Viu1TV,http://93.190.139.36:8278/streams/d/viu1_twn/playlist.m3u8
-有线新闻,http://93.190.139.36:8278/streams/d/hkcnews_twn/playlist.m3u8
-RTHK31,http://93.190.139.36:8278/streams/d/rhk31_twn/playlist.m3u8
-
-RTHK31Web http://teslagram.com/live/channel_31.m3u8
-RTHK32Web http://teslagram.com/live/channel_32.m3u8
-有線直播新聞台,http://teslagram.com/live/channel_110.m3u8
-有線電影台,http://z1.ubtvfans.com/live/354/e33d6e97afec4bc4b5fac7e1a7c343a4/index.m3u8
-有線18台,http://z1.ubtvfans.com/live/44/05a8fcf4c14bd564dfa2cacba9442d06/index.m3u8
-有線603台,http://z1.ubtvfans.com/live/398/0cd0e3d1ca2a6ced2e2830970354a579/index.m3u8
-有線體育台,http://z1.ubtvfans.com/live/401/6d972b4b80bd8ff1ac15eb3352c76bbb/index.m3u8
-有線SPORT PLUS,http://z1.ubtvfans.com/live/356/c3380a31465842258f44c7a9b9d2ea8d/index.m3u8
-
 RTHK31,http://livetv.dnsfor.me:80/channel.1.m3u8
 RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
 Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
