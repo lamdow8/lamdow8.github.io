@@ -311,11 +311,11 @@ RTHK32Web http://teslagram.com/live/channel_32.m3u8
 🇹🇼台湾频道🇹🇼,#genre#
 民视,https://ws.matchupstream.tuboshu.com/live/768444cd0e7ac84473f4d7a8ec1dafbb.flv
 台视,https://ws.matchupstream.tuboshu.com/live/84d55d637654f0f846733cadbfbc2dbc.flv
-中视,https://ws.matchupstream.tuboshu.com/live/e890029aa22921fc42b833333691c04f.flv
+中视,https://ws.matchupstream.tuboshu.com/live/852834ed6139eca64f585345d499f140.flv
 华视,https://ws.matchupstream.tuboshu.com/live/aa52386a053086c39b010e6515b47e36.flv
 TVBS·欢乐台,https://ws.matchupstream.tuboshu.com/live/21d294ed5fe1c8de74b620ea11456edd.flv
 TVBS·新闻台,https://ws.matchupstream.tuboshu.com/live/1df03965b9c149d1d5cc0ffa5c5b1ba8.flv
-中天新闻,https://ws.matchupstream.tuboshu.com/live/46b56b74f0bdd8bc3c877c4b1965a518.flv
+中天新闻,https://ws.matchupstream.tuboshu.com/live/dad88cb2fa5d73e6dbf9f6b237b3bbe5.flv
 东森新闻,https://ws.matchupstream.tuboshu.com/live/9a214f71106fdb71307f7ee24d3e784d.flv
 东森超视,https://ws.matchupstream.tuboshu.com/live/898ae8dfef3eb3b51fd20073e7c845d5.flv
 东森财经新闻,https://ws.matchupstream.tuboshu.com/live/21642eaec9a1a0995432817de0518d99.flv
@@ -466,10 +466,10 @@ HGTV,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8808&key=84797b799ae1
 NOW·新闻台,https://flv3948069e.live.126.net/live/nownews.flv
 TVB·翡翠台,https://v3948069e.live.126.net/live/fct123456789.flv
 TVB·明珠台,https://v3948069e.live.126.net/live/mingzhutai.flv
-TVB·新闻台,https://ws.matchupstream.tuboshu.com/live/c092806a26078c2d0f5310b53a003f34.flv
+TVB·新闻台,https://ws.matchupstream.tuboshu.com/live/e18d5e559f708e481e8b718b07a6eb58.flv.flv
 TVB·财经台,https://ws.matchupstream.tuboshu.com/live/efc3a01924e9c8ca7aba45083729b7a6.flv
 TVB·J2,https://v3948069e.live.126.net/live/tvbj2.flv
-VIU·综合,https://ws.matchupstream.tuboshu.com/live/d9955c877c41d0bcc8799fdf82f984af.flv
+VIU·综合,https://ws.matchupstream.tuboshu.com/live/a32a5b60cb62114a8c45c80377ccb7fd.flv
 VIU·外语,https://ws.matchupstream.tuboshu.com/live/5a66ea5fd6ae70a116edd2bdf7caedcc.flv
 开放电视,https://ws.matchupstream.tuboshu.com/live/bfc1114ff8fd45cc37062509d4f0522b.flv
 港视31台,https://ws.matchupstream.tuboshu.com/live/bc9f2402ad22b78148aa6538b6ec99d8.flv
