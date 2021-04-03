@@ -315,7 +315,7 @@ RTHK32Web http://teslagram.com/live/channel_32.m3u8
 华视,https://ws.matchupstream.tuboshu.com/live/aa52386a053086c39b010e6515b47e36.flv
 TVBS·欢乐台,https://ws.matchupstream.tuboshu.com/live/21d294ed5fe1c8de74b620ea11456edd.flv
 TVBS·新闻台,https://ws.matchupstream.tuboshu.com/live/1df03965b9c149d1d5cc0ffa5c5b1ba8.flv
-中天新闻,https://ws.matchupstream.tuboshu.com/live/dad88cb2fa5d73e6dbf9f6b237b3bbe5.flv
+中天新闻,https://ws.matchupstream.tuboshu.com/live/b3549be1840943123bdbd88e3a7fccb2.flv
 东森新闻,https://ws.matchupstream.tuboshu.com/live/9a214f71106fdb71307f7ee24d3e784d.flv
 东森超视,https://ws.matchupstream.tuboshu.com/live/898ae8dfef3eb3b51fd20073e7c845d5.flv
 东森财经新闻,https://ws.matchupstream.tuboshu.com/live/21642eaec9a1a0995432817de0518d99.flv
@@ -459,7 +459,7 @@ History Channel 2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8812&key
 HGTV,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8808&key=84797b799ae18d1b
 
 🇭🇰港台测试Ⅰ,#genre#
-有线新闻,https://ws.matchupstream.tuboshu.com/live/2c886ea5d152991e50a5217f4ba49801.flv
+有线新闻,https://v3948069e.live.126.net/live/yxxw123456789.flv
 有线电影,https://flv3948069e.live.126.net/live/yxdy.flv
 有线18台,https://ws.matchupstream.tuboshu.com/live/0a236c6b8dc8af0eadecb14214f85df7.flv
 有线·603,https://ws.matchupstream.tuboshu.com/live/7261d637c6870176dde1a0a410c3b0ab.flv
