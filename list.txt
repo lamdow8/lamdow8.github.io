@@ -462,15 +462,15 @@ HGTV,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8808&key=84797b799ae1
 有线新闻,https://v3948069e.live.126.net/live/yxxw123456789.flv
 有线电影,https://flv3948069e.live.126.net/live/yxdy.flv
 有线18台,https://flv3948069e.live.126.net/live/b422214bd9da45ff098536525b3d7bf7.flv
-有线·603,https://flv3948069e.live.126.net/live/89b60758210e9b46de601ec45933ee94.flv
+有线·603,https://flv3948069e.live.126.net/live/f5730bae7101114643e4e0995ddb84a2.flv
 NOW·新闻台,https://flv3948069e.live.126.net/live/nownews.flv
-TVB·翡翠台,https://v3948069e.live.126.net/live/fct123456789.flv
+TVB·翡翠台,https://flv3948069e.live.126.net/live/fct123456789.flv#https://flv3948069e.live.126.net/live/a01fc55193d3c4eb4bbdee57265c87a3.flv
 TVB·明珠台,https://v3948069e.live.126.net/live/mingzhutai.flv
-TVB·新闻台,https://flv3948069e.live.126.net/live/26cd4ba8bf1fae3a74e95809032a21e9.flv
+TVB·新闻台,https://flv3948069e.live.126.net/live/41e87d4d8bc67715eecd7ba273c4e532.flv
 TVB·财经台,https://flv3948069e.live.126.net/live/fc53a89a57d17285287c96f1b0481fe1.flv
 TVB·J2,https://v3948069e.live.126.net/live/tvbj2.flv
-VIU·综合,https://flv3948069e.live.126.net/live/2affba8715c3259e23b7f32b27960c55.flv
-VIU·外语,https://flv3948069e.live.126.net/live/a05c7f2e62a6114e6d355638f67e758c.flv
+VIU·综合,https://flv3948069e.live.126.net/live/f7afd6c01c6e99b4691479f1fe06e353.flv
+VIU·外语,https://flv3948069e.live.126.net/live/f82816822293032062d19369cb990abb.flv
 开放电视,https://flv3948069e.live.126.net/live/fb66fcde267539ca58d176c3c2267807.flv
 港视31台,https://ws.matchupstream.tuboshu.com/live/bc9f2402ad22b78148aa6538b6ec99d8.flv
 港视32台,https://flv3948069e.live.126.net/live/5704a86fe17821a14f3bc8e1d3412153.flv
@@ -485,36 +485,36 @@ VIU·外语,https://flv3948069e.live.126.net/live/a05c7f2e62a6114e6d355638f67e75
 港视32台·,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 
 🇭🇰港台测试Ⅱ,#genre#
-有线新闻台,http://qj.yyrjdp.cn/jiuban/daili/iptv5333.php?id=5
-有线603台,http://qj.yyrjdp.cn/jiuban/daili/iptv5333.php?id=7
-有线18台,http://qj.yyrjdp.cn/jiuban/daili/iptv5333.php?id=8
-有线电影台,http://qj.yyrjdp.cn/jiuban/daili/iptv5333.php?id=9
-无线新闻台,http://qj.yyrjdp.cn/jiuban/daili/iptv5333.php?id=13
-翡翠台,http://qj.yyrjdp.cn/jiuban/daili/iptv5333.php?id=15
-无线财经,http://qj.yyrjdp.cn/jiuban/daili/iptv5333.php?id=14
-明珠台,http://qj.yyrjdp.cn/jiuban/daili/iptv5333.php?id=17
-J2,http://qj.yyrjdp.cn/jiuban/daili/iptv5333.php?id=18
-now新闻台,http://qj.yyrjdp.cn/jiuban/daili/iptv5333.php?id=21
-ViuTV6,http://qj.yyrjdp.cn/jiuban/daili/iptv5333.php?id=22
-ViuTV,http://qj.yyrjdp.cn/jiuban/daili/iptv5333.php?id=24
-香港开电视,http://qj.yyrjdp.cn/jiuban/daili/iptv5333.php?id=28
-港台电视32,http://qj.yyrjdp.cn/jiuban/daili/iptv5333.php?id=30
-中天新闻台,http://qj.yyrjdp.cn/jiuban/daili/iptv5333.php?id=32
-东森新闻台,http://qj.yyrjdp.cn/jiuban/daili/iptv5333.php?id=33
-东森财经新闻台,http://qj.yyrjdp.cn/jiuban/daili/iptv5333.php?id=34
-壹电视新闻台,http://qj.yyrjdp.cn/jiuban/daili/iptv5333.php?id=35
-台视新闻台,http://qj.yyrjdp.cn/jiuban/daili/iptv5333.php?id=37
-中视新闻,http://qj.yyrjdp.cn/jiuban/daili/iptv5333.php?id=38
-TVBS新闻台,http://qj.yyrjdp.cn/jiuban/daili/iptv5333.php?id=40
-三立LIVE新闻,http://qj.yyrjdp.cn/jiuban/daili/iptv5333.php?id=41
-民视新闻台,http://qj.yyrjdp.cn/jiuban/daili/iptv5333.php?id=43
-民视,http://qj.yyrjdp.cn/jiuban/daili/iptv5333.php?id=47
-台视,http://qj.yyrjdp.cn/jiuban/daili/iptv5333.php?id=48
-中视,http://qj.yyrjdp.cn/jiuban/daili/iptv5333.php?id=49
-华视,http://qj.yyrjdp.cn/jiuban/daili/iptv5333.php?id=50
-东森超市,http://qj.yyrjdp.cn/jiuban/daili/iptv5333.php?id=56
-纬来体育台,http://qj.yyrjdp.cn/jiuban/daili/iptv5333.php?id=58
-纬来育乐台,http://qj.yyrjdp.cn/jiuban/daili/iptv5333.php?id=60
+有线新闻台,http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=5
+有线603台,http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=7
+有线18台,http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=8
+有线电影台,http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=9
+无线新闻台,http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=13
+翡翠台,http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=15
+无线财经,http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=14
+明珠台,http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=17
+J2,http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=18
+now新闻台,http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=21
+ViuTV6,http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=22
+ViuTV,http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=24
+香港开电视,http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=28
+港台电视32,http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=30
+中天新闻台,http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=32
+东森新闻台,http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=33
+东森财经新闻台,http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=34
+壹电视新闻台,http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=35
+台视新闻台,http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=37
+中视新闻,http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=38
+TVBS新闻台,http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=40
+三立LIVE新闻,http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=41
+民视新闻台,http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=43
+民视,http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=47
+台视,http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=48
+中视,http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=49
+华视,http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=50
+东森超市,http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=56
+纬来体育台,http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=58
+纬来育乐台,http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=60
 
 TVB 新闻台,http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
 凤凰香港台,http://93.190.139.36:8278/streams/d/hkphoenix_twn/playlist.m3u8
