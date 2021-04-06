@@ -473,6 +473,12 @@ VIU·综合,https://flv3948069e.live.126.net/live/c4fbf3b86c1289278c475dc0fea8ee
 VIU·外语,https://flv3948069e.live.126.net/live/249e2436a62bbe58b7c439bbb8b015b9.flv
 开放电视,https://flv3948069e.live.126.net/live/c78912f61f6b5c92ea50767b3b030160.flv
 港视32台,https://flv3948069e.live.126.net/live/a55a5be7d8bbab9e000767832b612805.flv
+TVB·翡翠台,http://v3948069e.live.126.net/live/fct123456789.flv
+有线电影台,http://v3948069e.live.126.net/live/yxdy.flv
+NOW·新闻台,http://v3948069e.live.126.net/live/nownews.flv
+nowTV,rtmp://v3948069e.live.126.net/live/nowtv123456789
+TVB星河频道,rtmp://v3948069e.live.126.net/live/xhpd123456789
+TVB经典台,rtmp://v3948069e.live.126.net/live/tvbjd
 澳视澳门,http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
 澳门卫星,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 澳门资讯,http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
