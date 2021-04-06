@@ -667,7 +667,16 @@ MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACB
 MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 MTV Spankin' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-
+新歌速递,rtmp://tx.rtmp.huya.com:1935/huyalive/1099531740262-1099531740262-86382469611257856-2199063603980-10057-A-0-1
+音乐石榴,http://121.12.115.156/tx.hls.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.m3u8
+齐音乐,http://hls.haokan.bdstatic.com/haokan/stream_bduid_5114425148_0.m3u8
+歌曲,http://luotuo.ycchenrong.cn/dl/youku.php?id=8034767
+MV,http://v.iam7.cn/iptv/cibn.php?code=338
+流行榜单,http://v.iam7.cn/iptv/cibn.php?code=155
+巨星演唱会,http://v.iam7.cn/iptv/cibn.php?code=135
+女团专场,http://v.iam7.cn/iptv/cibn.php?code=208
+老陈坐弹会,http://v.iam7.cn/iptv/cibn.php?code=136
+音乐综艺,http://v.iam7.cn/iptv/cibn.php?code=145
 B4U Music,http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 印度 音乐电视台,http://104.237.60.234/live/gabruutv.m3u8?dsjtv.m3u8
 俄罗斯 RU 音乐频道,http://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
