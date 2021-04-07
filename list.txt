@@ -310,26 +310,28 @@ RTHK32Web http://teslagram.com/live/channel_32.m3u8
 凤凰中文(代),http://www.chahaoquan.com/wz/epg/fhdl.php?id=2
 
 🇹🇼台湾频道🇹🇼,#genre#
-民视,https://ws.matchupstream.tuboshu.com/live/b553810a12eeb0844733c4256c3fb5f0.flv
-台视,https://ws.matchupstream.tuboshu.com/live/07c5c823382c134f972c6b0521a70814.flv
-中视,https://ws.matchupstream.tuboshu.com/live/7b13c52229e0cc6c3082ec6c4a82f563.flv
-华视,https://ws.matchupstream.tuboshu.com/live/592afa379a57caff9d14a3d105d1422e.flv
-TVBS·欢乐台,https://flv3948069e.live.126.net/live/e0beaa2716fcd302be0259962a26ad4b.flv
-TVBS·新闻台,https://flv3948069e.live.126.net/live/acf6bea45b0c6dc69d6fed9540a02841.flv
-中天新闻,https://flv3948069e.live.126.net/live/dffcd1df061f5ffd47e25bd7383768fe.flv
-东森新闻,https://flv3948069e.live.126.net/live/3c7a5a554e5ffdc3f71b61fe86d37309.flv
-东森超视,https://flv3948069e.live.126.net/live/e297d5ee8d997d083f680ee794774691.flv
-东森财经新闻,https://flv3948069e.live.126.net/live/9607303859f63c66a0115445f1301e99.flv
+民视,http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=ms
+台视,https://flv3948069e.live.126.net/live/99eb3cc132c5c8ae6298018452e09725.flv#http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=ts
+中视,http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=zs
+华视,http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=hs
+TVBS·欢乐台,http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=tvbshl
+TVBS·新闻台,http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=tvbsxw
+中天新闻,http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=ztxw
+东森新闻,http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=dsxw
+东森超视,http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=dscs
+东森财经新闻,http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=dscj
 三立直播新闻,https://flv3948069e.live.126.net/live/908564590ec88d3470b35d8ad6fbd950.flv
-纬来体育,https://flv3948069e.live.126.net/live/773c059e7eb1daa3f42a320d30c2ada2.flv
-纬来育乐,https://flv3948069e.live.126.net/live/a565e6335573bf10af8a714e33927fd8.flv
-纬来日本,https://flv3948069e.live.126.net/live/f910ca3a4849d3b2aeb3f4e8aed43bba.flv
-台视新闻,https://flv3948069e.live.126.net/live/2b7a2781fb0ae0155761076556d15e8b.flv
-中视新闻,https://flv3948069e.live.126.net/live/4259bb51857c6c69e332ef1d7300f777.flv
-华视新闻,https://flv3948069e.live.126.net/live/108908539d69d894f297b0ab23d14f45.flv
-民视新闻,https://flv3948069e.live.126.net/live/c8eaac2ec1bfcafa51acf9fe68016136.flv
-壹新闻台,https://flv3948069e.live.126.net/live/f12a891e606cb1e693d5cfae8ee40d64.flv
+纬来体育,http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=wlty
+纬来育乐,http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=wlyl
+纬来日本,http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=wlrb
+台视新闻,http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=tsxw
+中视新闻,http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=zsxw#https://flv3948069e.live.126.net/live/4259bb51857c6c69e332ef1d7300f777.flv
+华视新闻,http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=hsxw
+民视新闻,http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=msxw
+壹新闻台,http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=yxw
 星级剧集台,http://hls.haokan.bdstatic.com/haokan/stream_bduid_31696503_0.m3u8
+卫视国际电影,http://xiaojun.cyou/7108live/iptv/test/?m3u8=gz2&id=twwsgjdy#http://116.171.245.2:5005/nn_live/nn_x64/aWQ9MjMyLTEwLTQtNiZubl9haz0wMWQzMWMxMTQ2MTc2MDkwNTkxZTJmNWVjNDk2ZjA5ZTNhJm50dGw9MSZucGlwcz0xMC4yMS4xNi4xMjE6NTEwMCZuY21zaWQ9MTEwMTMxMSZuZ3M9NjA2Y2IwMmIwMDA1MjdjMjEwNTg5MmNlNGMwYjdiNmUmbm5kPWd6Z2QuaW50ZXJuZXQmbnNkPWd6Z2QuaW50ZXJuZXQmbmZ0PXRzMm0zdTgmbm5fdXNlcl9pZD0xNTgyNTM5MjAzMzM4dkhndW9tYUlTc2ImbmR0PXN0YiZuZHY9Mi4wLjAuMC4wLlNDLUdaR0QtQVBBRC4wLjBfUmVsZWFzZSZuc3Q9aXB0diZuYWw9MDEyYmIwNmM2MDA2MDdhZmUyOTY1NzNjOTlmNjQ2YjY2Nzc3ZjY1ZDJkZDA5OA,,/232-10-4-6.m3u8
+HBO·亚洲,http://xiaojun.cyou/7108live/iptv/test/?m3u8=gz2&id=twhbo#http://116.171.246.14:5005/nn_live/nn_x64/aWQ9MjMyLTEwLTQtMiZubl9haz0wMTdmMjRiOGZhZTIwYThhOWIwMTJiZTI1MTY1YmVmOGIyJm50dGw9MSZucGlwcz0xMC4yMS4xNi4xMjE6NTEwMCZuY21zaWQ9MTEwMTI2Jm5ncz02MDZjYjE0MDAwMDE2ZjYxODBiYjlmYWQ5YmQ5ZTU1YyZubmQ9Z3pnZC5pbnRlcm5ldCZuc2Q9Z3pnZC5pbnRlcm5ldCZuZnQ9dHMybTN1OCZubl91c2VyX2lkPTE1ODI1MzkyMDMzMzh2SGd1b21hSVNzYiZuZHQ9c3RiJm5kdj0yLjAuMC4wLjAuU0MtR1pHRC1BUEFELjAuMF9SZWxlYXNlJm5zdD1pcHR2Jm5hbD0wMTQwYjE2YzYwMDYwNzRlN2U1ZTMwNjA5MDc4Y2NjMGE2ZGRjNzZkMTNhMjk4/232-10-4-2.m3u8
 民视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8813&key=84797b799ae18d1b
 民视新闻台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8820&key=84797b799ae18d1b
 公视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8817&key=84797b799ae18d1b
@@ -460,20 +462,20 @@ History Channel 2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8812&key
 HGTV,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8808&key=84797b799ae18d1b
 
 🇭🇰港台测试Ⅰ,#genre#
-有线新闻,https://v3948069e.live.126.net/live/yxxw123456789.flv
-有线电影,https://flv3948069e.live.126.net/live/yxdy.flv
-有线18台,https://flv3948069e.live.126.net/live/eaaa7b6dd14221fe85810cac87b64351.flv
-有线·603,https://flv3948069e.live.126.net/live/845d73107859d8fe8dae109f36bc155e.flv
+有线新闻,https://v3948069e.live.126.net/live/yxxw123456789.flv#http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=yxxw
+有线电影,http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=yxdy#https://flv3948069e.live.126.net/live/yxdy.flv
+有线18台,https://flv3948069e.live.126.net/live/f85e650e3e482385d99bba6b15baef4a.flv#http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=yx18
+有线·603,https://flv3948069e.live.126.net/live/9e06341e52fa13384126e903d8217a9a.flv
 NOW·新闻台,https://flv3948069e.live.126.net/live/nownews.flv
-TVB·翡翠台,https://flv3948069e.live.126.net/live/fct123456789.flv#https://flv3948069e.live.126.net/live/a01fc55193d3c4eb4bbdee57265c87a3.flv
-TVB·明珠台,https://v3948069e.live.126.net/live/mingzhutai.flv
-TVB·新闻台,https://flv3948069e.live.126.net/live/0df799d76521867100de3a436a5cdffd.flv
-TVB·财经台,https://flv3948069e.live.126.net/live/beeaca1efc12e39384b379e325ec2cd1.flv
-TVB·J2,https://v3948069e.live.126.net/live/tvbj2.flv
-VIU·综合,https://flv3948069e.live.126.net/live/c4fbf3b86c1289278c475dc0fea8ee5b.flv
-VIU·外语,https://flv3948069e.live.126.net/live/249e2436a62bbe58b7c439bbb8b015b9.flv
-开放电视,https://flv3948069e.live.126.net/live/c78912f61f6b5c92ea50767b3b030160.flv
-港视32台,https://flv3948069e.live.126.net/live/a55a5be7d8bbab9e000767832b612805.flv
+TVB·翡翠台,https://flv3948069e.live.126.net/live/fct123456789.flv#http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg2a&id=jade
+TVB·明珠台,https://v3948069e.live.126.net/live/mingzhutai.flv#http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=mz
+TVB·新闻台,https://flv3948069e.live.126.net/live/0df799d76521867100de3a436a5cdffd.flv#http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=wxxw
+TVB·财经台,http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=wxcj#https://flv3948069e.live.126.net/live/beeaca1efc12e39384b379e325ec2cd1.flv
+TVB·J2,https://flv3948069e.live.126.net/live/a4aa4a419c28985342bf9b841ae7ae72.flv#http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=j2
+VIU·综合,http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=viutv#https://flv3948069e.live.126.net/live/c4fbf3b86c1289278c475dc0fea8ee5b.flv
+VIU·外语,http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=viutv6
+开放电视,http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=kds
+港视32台,http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=rhk32
 TVB·翡翠台,http://v3948069e.live.126.net/live/fct123456789.flv
 有线电影台,http://v3948069e.live.126.net/live/yxdy.flv
 NOW·新闻台,http://v3948069e.live.126.net/live/nownews.flv
