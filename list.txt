@@ -329,6 +329,13 @@ TVBS·新闻台,http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=tvbsxw
 华视新闻,http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=hsxw
 民视新闻,http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=msxw
 壹新闻台,http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=yxw
+中视新闻,rtmp://v3948069e.live.126.net/live/zsxw123456789
+华视新闻资讯,rtmp://v3948069e.live.126.net/live/hsxw123456789
+壹电视新闻台,rtmp://v3948069e.live.126.net/live/ydsxw123456789
+寰宇新闻,rtmp://v3948069e.live.126.net/live/hyxwt123456789
+寰宇新闻台湾台,rtmp://v3948069e.live.126.net/live/hyxw123456789
+东森新闻台,rtmp://v3948069e.live.126.net/live/dsxw123456789
+东森财经新闻台,rtmp://v3948069e.live.126.net/live/dscj123456789
 星级剧集台,http://hls.haokan.bdstatic.com/haokan/stream_bduid_31696503_0.m3u8
 卫视国际电影,http://xiaojun.cyou/7108live/iptv/test/?m3u8=gz2&id=twwsgjdy#http://116.171.245.2:5005/nn_live/nn_x64/aWQ9MjMyLTEwLTQtNiZubl9haz0wMWQzMWMxMTQ2MTc2MDkwNTkxZTJmNWVjNDk2ZjA5ZTNhJm50dGw9MSZucGlwcz0xMC4yMS4xNi4xMjE6NTEwMCZuY21zaWQ9MTEwMTMxMSZuZ3M9NjA2Y2IwMmIwMDA1MjdjMjEwNTg5MmNlNGMwYjdiNmUmbm5kPWd6Z2QuaW50ZXJuZXQmbnNkPWd6Z2QuaW50ZXJuZXQmbmZ0PXRzMm0zdTgmbm5fdXNlcl9pZD0xNTgyNTM5MjAzMzM4dkhndW9tYUlTc2ImbmR0PXN0YiZuZHY9Mi4wLjAuMC4wLlNDLUdaR0QtQVBBRC4wLjBfUmVsZWFzZSZuc3Q9aXB0diZuYWw9MDEyYmIwNmM2MDA2MDdhZmUyOTY1NzNjOTlmNjQ2YjY2Nzc3ZjY1ZDJkZDA5OA,,/232-10-4-6.m3u8
 HBO·亚洲,http://xiaojun.cyou/7108live/iptv/test/?m3u8=gz2&id=twhbo#http://116.171.246.14:5005/nn_live/nn_x64/aWQ9MjMyLTEwLTQtMiZubl9haz0wMTdmMjRiOGZhZTIwYThhOWIwMTJiZTI1MTY1YmVmOGIyJm50dGw9MSZucGlwcz0xMC4yMS4xNi4xMjE6NTEwMCZuY21zaWQ9MTEwMTI2Jm5ncz02MDZjYjE0MDAwMDE2ZjYxODBiYjlmYWQ5YmQ5ZTU1YyZubmQ9Z3pnZC5pbnRlcm5ldCZuc2Q9Z3pnZC5pbnRlcm5ldCZuZnQ9dHMybTN1OCZubl91c2VyX2lkPTE1ODI1MzkyMDMzMzh2SGd1b21hSVNzYiZuZHQ9c3RiJm5kdj0yLjAuMC4wLjAuU0MtR1pHRC1BUEFELjAuMF9SZWxlYXNlJm5zdD1pcHR2Jm5hbD0wMTQwYjE2YzYwMDYwNzRlN2U1ZTMwNjA5MDc4Y2NjMGE2ZGRjNzZkMTNhMjk4/232-10-4-2.m3u8
