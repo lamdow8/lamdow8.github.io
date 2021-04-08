@@ -310,6 +310,7 @@ RTHK32Web http://teslagram.com/live/channel_32.m3u8
 凤凰中文(代),http://www.chahaoquan.com/wz/epg/fhdl.php?id=2
 
 🇹🇼台湾频道🇹🇼,#genre#
+TVBS亚洲,rtmp://v3948069e.live.126.net/live/tvbsasia123456789
 中视新闻,rtmp://v3948069e.live.126.net/live/zsxw123456789
 华视新闻资讯,rtmp://v3948069e.live.126.net/live/hsxw123456789
 壹电视新闻台,rtmp://v3948069e.live.126.net/live/ydsxw123456789
@@ -344,14 +345,19 @@ TVBS·新闻台,https://flv3948069e.live.126.net/live/57e5827fcd8c6c85d4a3d2b366
 美亚电影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11001&key=52918675711039
 星卫电影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11003&key=37118675739
 卫视电影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13017&key=38657571039
+卫视洋片台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11002&key=84797697553
+卫视中文台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13018&key=35669797469
 HBO·综合台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13001&key=18675711039
+HBO·强档台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13002&key=53655658536
 民视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8813&key=92481867571
 台视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8815&key=01867511039
 中视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8814&key=920061867571
 华视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8816&key=318675718103
+公视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8817&key=641953175718
 TVBS·综合台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14015&key=518675711720
 TVBS·欢乐台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14016&key=86757114205
 TVBS·新闻台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14017&key=928518675711
+中天综合,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14019&key=26678625696
 中天娱乐,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14020&key=596516751720
 东风卫视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12015&key=5352167571120
 年代新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12017&key=927518757120
@@ -359,6 +365,7 @@ TVBS·新闻台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14017&key=
 东森电影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14002&key=188675717260
 东森超视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14008&key=055169867571
 东森戏剧,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14005&key=5657187571720
+东森洋片,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14003&key=645668556384
 东森财经新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14004&key=9551867571260
 三立财经新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14022&key=0351686757172
 三立戏剧,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8809&key=518675711729
@@ -366,6 +373,7 @@ TVBS·新闻台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14017&key=
 三立新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14021&key=645167571720
 龙翔时代,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12019&key=0035186571720
 国兴卫视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12022&key=296518651720
+八大综合台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15002&key=566955563556
 八大第一台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15001&key=5937867571108
 好莱坞电影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13016&key=935826757117
 纬来体育,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14011&key=931867571172
@@ -378,8 +386,10 @@ TVBS·新闻台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14017&key=
 台视财经,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8829&key=918675711720
 中视新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8821&key=935186757120
 中视经典,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8826&key=0651867571120
+中视菁采,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8827&key=8479766669135
 华视新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8823&key=518675711793
 民视新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8820&key=593467571720
+华纳电影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11011&key=766584797653
 探索亚洲,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13009&key=518675711793
 亚洲旅游台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11020&key=9640867571120
 EYE·旅游台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8807&key=519867571172
@@ -389,6 +399,7 @@ CNN·新闻台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12012&key=3
 BBC·国际新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15007&key=9640186757117
 非凡新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12024&key=034186757117
 非凡商业,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12023&key=655951867571
+
 民视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8813&key=84797b799ae18d1b
 民视新闻台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8820&key=84797b799ae18d1b
 公视,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8817&key=84797b799ae18d1b
@@ -522,15 +533,15 @@ HGTV,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8808&key=84797b799ae1
 有线新闻,https://v3948069e.live.126.net/live/yxxw123456789.flv
 有线电影,https://flv3948069e.live.126.net/live/yxdy.flv#http://v3948069e.live.126.net/live/yxdy.flv
 有线18台,https://flv3948069e.live.126.net/live/f85e650e3e482385d99bba6b15baef4a.flv
-有线·603,https://flv3948069e.live.126.net/live/c1c66fac922ba51abc5c55392071f6c9.flv
+有线·603,https://flv3948069e.live.126.net/live/a75bcb80be0c931e105536c682580572.flv
 NOW·新闻台,https://flv3948069e.live.126.net/live/nownews.flv#http://v3948069e.live.126.net/live/nownews.flv
 nowTV,rtmp://v3948069e.live.126.net/live/nowtv123456789
-TVB·翡翠台,https://flv3948069e.live.126.net/live/fct123456789.flv#http://v3948069e.live.126.net/live/fct123456789.flv
+TVB·翡翠台,https://flv3948069e.live.126.net/live/fct123456789.flv#http://v3948069e.live.126.net/live/fct123456789.flv#https://flv3948069e.live.126.net/live/57f72095f5b3d1e92bf7079f2156b6c4.flv
 TVB·明珠台,https://v3948069e.live.126.net/live/mingzhutai.flv
 TVB·新闻台,https://flv3948069e.live.126.net/live/8e5d820aff6e0c24dd020388e1ffe478.flv
 TVB·财经台,https://flv3948069e.live.126.net/live/e2ce22b6b2a334516c0e0f35c755f7d0.flv
-TVB·J2,https://flv3948069e.live.126.net/live/50135539b89f0bd4485b64431f37e9c9.flv
-VIU·综合,https://flv3948069e.live.126.net/live/c0d552e9b4ac7e0c930aba7afaff9899.flv
+TVB·J2,https://flv3948069e.live.126.net/live/da3d15e70b203263c1173be934d435af.flv
+VIU·综合,https://flv3948069e.live.126.net/live/d4430e43d942d9301bbadff29ec19f4b.flv
 VIU·外语,https://flv3948069e.live.126.net/live/e5debe67cf8c22c2af835a855e1b5171.flv
 开放电视,https://flv3948069e.live.126.net/live/1e981d255ff63f89fe999ef7e2fd3ac1.flv
 港视32台,https://flv3948069e.live.126.net/live/3c2afee09b4dbb8737db5d12680015d9.flv
