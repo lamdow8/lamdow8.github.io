@@ -531,7 +531,7 @@ History Channel 2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8812&key
 HGTV,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8808&key=84797b799ae18d1b
 
 🇭🇰港台测试Ⅰ,#genre#
-有线新闻,有线新闻,https://v3948069e.live.126.net/live/yxxw123456789.flv#https://flv3948069e.live.126.net/live/4d8e5fb42b33e0d05feb5520541add7f.flv
+有线新闻,https://v3948069e.live.126.net/live/yxxw123456789.flv#https://flv3948069e.live.126.net/live/4d8e5fb42b33e0d05feb5520541add7f.flv
 有线电影,https://flv3948069e.live.126.net/live/yxdy.flv#http://v3948069e.live.126.net/live/yxdy.flv
 有线18台,https://flv3948069e.live.126.net/live/78655c8ed2c6aed9c28224ec94250c71.flv
 有线·603,https://flv3948069e.live.126.net/live/84d36dc2267166f4a992feacc1941eca.flv
