@@ -322,8 +322,8 @@ RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8#http://teslagram.com/live/channe
 华视,https://flv3948069e.live.126.net/live/ea965339a01a447497ff7d1d40277ade.flv
 TVBS·欢乐台,https://flv3948069e.live.126.net/live/cf0ba8e3aca08928c3156cf2b23dc604.flv
 TVBS·新闻台,https://flv3948069e.live.126.net/live/6af769241a2e9c8a2d8de1282efc448d.flv
-中天新闻,https://flv3948069e.live.126.net/live/ae494f180f08773bd02095ef43240def.flv
-东森新闻,https://flv3948069e.live.126.net/live/9427b3a63eb150473763d4e2da68fb6a.flv
+中天新闻,https://flv3948069e.live.126.net/live/5d7f299594186904ee9f2cb4334bfcbe.flv
+东森新闻,https://flv3948069e.live.126.net/live/096bbd0ebc9f9c9115985bb49b5eac75.flv
 东森超视,https://flv3948069e.live.126.net/live/22d936339fbde2c8eaa2de88e5c2861f.flv
 东森财经新闻,https://flv3948069e.live.126.net/live/fec60d923d539206a3ef498d9254e0c2.flv
 三立直播新闻,https://flv3948069e.live.126.net/live/387159ba96382d5bcdd1a935edf5dbbe.flv
@@ -535,17 +535,17 @@ History Channel 2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8812&key
 HGTV,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8808&key=84797b799ae18d1b
 
 🇭🇰港台测试Ⅰ,#genre#
-有线新闻,https://flv3948069e.live.126.net/live/9bee5beed7247afeee6216a6ecd828f6.flv
-有线18台,https://flv3948069e.live.126.net/live/6f0a0ed22b7d82c3a0d3e8357b6918dc.flv
-有线·603,https://flv3948069e.live.126.net/live/406b7ab55fd490177293c5a8711c333e.flv
-NOW·新闻台,https://flv3948069e.live.126.net/live/02524174afd868f556e50adcb7c3fa08.flv
-TVB·翡翠台,https://flv3948069e.live.126.net/live/3e844c2eda7acd8913eb8ac82dd7ed57.flv
-TVB·明珠台,https://flv3948069e.live.126.net/live/814d67d89df4932240d1a2c93e46125a.flv
-TVB·新闻台,https://flv3948069e.live.126.net/live/0738e2c75ef0a00fc04b6ba1291d0dd5.flv
-TVB·财经台,https://flv3948069e.live.126.net/live/071ed0978b2d6a0cfb97fe03361e8f9e.flv
-VIU·综合,https://flv3948069e.live.126.net/live/f09a336c36a64a256358279d6bd9ade5.flv
-VIU·外语,https://flv3948069e.live.126.net/live/8fd35bed8d0de80ffc02fa8ef4456728.flv
-开放电视,https://flv3948069e.live.126.net/live/bddfba61ec98e2541bfdf002809f0cb3.flv
+有线新闻,https://flv3948069e.live.126.net/live/d3aead5879873bea91beee9ecea22feb.flv
+有线18台,https://flv3948069e.live.126.net/live/0597331c40aa011256e6bdf8636a7baa.flv
+有线·603,https://flv3948069e.live.126.net/live/9eb8bcc68f553e13dd3453960709cd69.flv
+NOW·新闻台,https://flv3948069e.live.126.net/live/a340f723794ec59d83b9e0914179ba70.flv
+TVB·翡翠台,https://flv3948069e.live.126.net/live/256d11542bd3be9e25a92e03fc9d6a5c.flv
+TVB·明珠台,https://flv3948069e.live.126.net/live/b098e0d0be5197d6bc215fcd37a0fde3.flv
+TVB·新闻台,https://flv3948069e.live.126.net/live/39f4f5a52521d151162eaf859817e4fb.flv
+TVB·财经台,https://flv3948069e.live.126.net/live/02efb6194db196578627358d22fd915a.flv
+VIU·综合,https://flv3948069e.live.126.net/live/65ac4cd46856559ed50ab96e5ba781f4.flv
+VIU·外语,https://flv3948069e.live.126.net/live/4f130c06732933dd987db2ae6e016a1b.flv
+开放电视,https://flv3948069e.live.126.net/live/9a5de33fc697f954f5ec9ef396379943.flv
 港视32台,https://flv3948069e.live.126.net/live/56a6e993c7e573508a1c15a68b627b9e.flv
 TVB星河频道,rtmp://v3948069e.live.126.net/live/xhpd123456789
 TVB经典台,rtmp://v3948069e.live.126.net/live/tvbjd
