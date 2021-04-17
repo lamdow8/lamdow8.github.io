@@ -69,19 +69,6 @@ CCTV-15音乐,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221
 CCTV-15音乐,rtsp://183.252.166.199/PLTV/88888888/224/3221225998/10000100000000060000000002296745_0.smil$福建8M
 
 
-CCCTV-1综合,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229818/index.m3u8$浙江8M
-CCTV-2财经,http://39.134.176.163/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230716/01.m3u8?fmt=ts2hls$浙江4.5M
-CCTV-3综艺,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230740/index.m3u8$浙江4.5M
-CCTV-4国际,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229749/01.m3u8?fmt=ts2hls$浙江8M
-CCTV-5体育,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229791/01.m3u8?fmt=ts2hls$浙江8M
-CCTV-5+体育赛事,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229684/01.m3u8?fmt=ts2hls$浙江8M
-CCTV-6电影,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230685/index.m3u8$浙江4.5M
-CCTV-8电视剧,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230737/index.m3u8$浙江4.5M
-CCTV-13新闻,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230877/01.m3u8?fmt=ts2hls$浙江4M
-CCTV-14少儿,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230701/01.m3u8?fmt=ts2hls$浙江4.5M
-CCTV-15音乐,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230658/01.m3u8?fmt=ts2hls$浙江4.5M
-CCTV-17农业农村,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229765/index.m3u8$浙江8M
-
 CCTV-1综合,http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228025/index.m3u8$江苏10M
 CCTV-2财经,http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8$江苏8M
 CCTV-3综艺,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227650/index.m3u8$江苏HEVC
@@ -313,25 +300,6 @@ RTHK32,http://teslagram.com/live/channel_32.m3u8#https://rthklive2-lh.akamaihd.n
 凤凰中文(代),http://www.chahaoquan.com/wz/epg/fhdl.php?id=2
 
 🇹🇼台湾频道🇹🇼,#genre#
-民视,https://flv3948069e.live.126.net/live/6694de906a34bd283f830e43e470b6f9.flv
-台视,https://flv3948069e.live.126.net/live/f7f971b4345d149ddb6c4beac4ddb474.flv
-中视,https://flv3948069e.live.126.net/live/03ee7d2e4c26b436139cffc7a0fbeb62.flv
-华视,https://flv3948069e.live.126.net/live/ea965339a01a447497ff7d1d40277ade.flv
-TVBS·欢乐台,https://flv3948069e.live.126.net/live/cf0ba8e3aca08928c3156cf2b23dc604.flv
-TVBS·新闻台,https://flv3948069e.live.126.net/live/6af769241a2e9c8a2d8de1282efc448d.flv
-中天新闻,https://flv3948069e.live.126.net/live/5d7f299594186904ee9f2cb4334bfcbe.flv
-东森新闻,https://flv3948069e.live.126.net/live/096bbd0ebc9f9c9115985bb49b5eac75.flv
-东森超视,https://flv3948069e.live.126.net/live/22d936339fbde2c8eaa2de88e5c2861f.flv
-东森财经新闻,https://flv3948069e.live.126.net/live/fec60d923d539206a3ef498d9254e0c2.flv
-三立直播新闻,https://flv3948069e.live.126.net/live/387159ba96382d5bcdd1a935edf5dbbe.flv
-纬来体育,https://flv3948069e.live.126.net/live/8ae1a8c36eac97230ed482a44667f971.flv
-纬来育乐,https://flv3948069e.live.126.net/live/75e76254411722ef36af7d50752233d8.flv
-纬来日本,https://flv3948069e.live.126.net/live/024f9018afd65acb09e0c3e4829ca4b4.flv
-台视新闻,https://flv3948069e.live.126.net/live/77c7677fe4ebaa2d6cf38fc9ec172c26.flv
-中视新闻,https://flv3948069e.live.126.net/live/a615610203e50d0c377b7984d3180dfd.flv
-华视新闻,https://flv3948069e.live.126.net/live/56cc6f3262a5cfa21b757d03bd55f970.flv
-民视新闻,https://flv3948069e.live.126.net/live/332c4db7f14efc22690d413e8e6578df.flv
-壹新闻台,https://flv3948069e.live.126.net/live/1f7e0abb871601f8f995cf3a9b5dc870.flv
 星级剧集台,http://hls.haokan.bdstatic.com/haokan/stream_bduid_31696503_0.m3u8
 博斯魅力,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12009&key=7267857110
 博斯网球,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12010&key=8867572103
