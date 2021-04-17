@@ -73,7 +73,6 @@ CCCTV-1综合,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888888
 CCTV-2财经,http://39.134.176.163/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230716/01.m3u8?fmt=ts2hls$浙江4.5M
 CCTV-3综艺,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230740/index.m3u8$浙江4.5M
 CCTV-4国际,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229749/01.m3u8?fmt=ts2hls$浙江8M
-CCTV-5体育,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228965/01.m3u8?fmt=ts2hls$浙江8M
 CCTV-5体育,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229791/01.m3u8?fmt=ts2hls$浙江8M
 CCTV-5+体育赛事,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229684/01.m3u8?fmt=ts2hls$浙江8M
 CCTV-6电影,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230685/index.m3u8$浙江4.5M
@@ -294,19 +293,17 @@ CCTV-17农业农村,http://39.135.138.59:18890/PLTV/88888910/224/3221225909/inde
 凤凰资讯,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8$ZJ10M720
 無線新聞台(官网),http://ohyeah.gear.host/hktvb.php?id=1
 無線財經台(官网),http://ohyeah.gear.host/hktvb.php?id=2
-無線直播台,http://ohyeah.gear.host/hktvb.php?id=3
-翡翠台 1080P,https://cdn.hkdtmb.com/hls/81/index.m3u8#http://61.238.6.49:8000/bysid/1#http://hls.globaliptv.ml/tvbjade.php
-无线新闻 1080P,https://cdn.hkdtmb.com/hls/83/index.m3u8#http://61.238.6.49:8001/bysid/83
-明珠台HD,https://cdn.hkdtmb.com/hls/84/index.m3u8#http://61.238.6.49:8001/bysid/2#http://hls.globaliptv.ml/tvbpearl.php
-J2 1080P,https://cdn.hkdtmb.com/hls/82/index.m3u8#http://61.238.6.49:8001/bysid/82#http://hls.globaliptv.ml/tvbj2.php
-无线财经资讯台 1080P,https://cdn.hkdtmb.com/hls/85/index.m3u8#http://61.238.6.49:8001/bysid/85
-ViuTV 1080P,https://cdn.hkdtmb.com/hls/99/index.m3u8#http://61.238.6.49:8000/bysid/99#http://hls.globaliptv.ml/viu99.php
-ViuTV 6HD,https://cdn.hkdtmb.com/hls/96/index.m3u8#http://61.238.6.49:8000/bysid/96#http://hls.globaliptv.ml/viu96.php
-香港国际财经,https://cdn.hkdtmb.com/hls/76/index.m3u8
-开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8
+無線直播台(官网),http://ohyeah.gear.host/hktvb.php?id=3
+翡翠台 1080P,http://61.238.6.49:8000/bysid/1#http://hls.globaliptv.ml/tvbjade.php
+无线新闻 1080P,http://61.238.6.49:8001/bysid/83
+明珠台HD,http://61.238.6.49:8001/bysid/2#http://hls.globaliptv.ml/tvbpearl.php
+J2 1080P,http://61.238.6.49:8001/bysid/82#http://hls.globaliptv.ml/tvbj2.php
+无线财经资讯台 1080P,http://61.238.6.49:8001/bysid/85
+ViuTV 1080P,http://61.238.6.49:8000/bysid/99#http://hls.globaliptv.ml/viu99.php
+ViuTV 6HD,http://61.238.6.49:8000/bysid/96#http://hls.globaliptv.ml/viu96.php
 無線新闻,https://bcovlive-a.akamaihd.net/92d1fb6f11854eafb1b183f2565558c9/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
-RTHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8#http://teslagram.com/live/channel_31.m3u8
-RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8#http://teslagram.com/live/channel_32.m3u8
+RTHK31,http://teslagram.com/live/channel_31.m3u8#https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+RTHK32,http://teslagram.com/live/channel_32.m3u8#https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 有線直播新聞台,http://teslagram.com/live/channel_110.m3u8
 香港電台視像新聞直播,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
 香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
@@ -535,31 +532,18 @@ History Channel 2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8812&key
 HGTV,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8808&key=84797b799ae18d1b
 
 🇭🇰港台测试Ⅰ,#genre#
-有线新闻,https://flv3948069e.live.126.net/live/d3aead5879873bea91beee9ecea22feb.flv
-有线18台,https://flv3948069e.live.126.net/live/0597331c40aa011256e6bdf8636a7baa.flv
-有线·603,https://flv3948069e.live.126.net/live/9eb8bcc68f553e13dd3453960709cd69.flv
-NOW·新闻台,https://flv3948069e.live.126.net/live/a340f723794ec59d83b9e0914179ba70.flv
-TVB·翡翠台,https://flv3948069e.live.126.net/live/256d11542bd3be9e25a92e03fc9d6a5c.flv
-TVB·明珠台,https://flv3948069e.live.126.net/live/b098e0d0be5197d6bc215fcd37a0fde3.flv
-TVB·新闻台,https://flv3948069e.live.126.net/live/39f4f5a52521d151162eaf859817e4fb.flv
-TVB·财经台,https://flv3948069e.live.126.net/live/02efb6194db196578627358d22fd915a.flv
-VIU·综合,https://flv3948069e.live.126.net/live/65ac4cd46856559ed50ab96e5ba781f4.flv
-VIU·外语,https://flv3948069e.live.126.net/live/4f130c06732933dd987db2ae6e016a1b.flv
-开放电视,https://flv3948069e.live.126.net/live/9a5de33fc697f954f5ec9ef396379943.flv
-港视32台,https://flv3948069e.live.126.net/live/56a6e993c7e573508a1c15a68b627b9e.flv
-TVB星河频道,rtmp://v3948069e.live.126.net/live/xhpd123456789
-TVB经典台,rtmp://v3948069e.live.126.net/live/tvbjd
-澳视澳门,http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
-澳门卫星,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
-澳门资讯,http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
-天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-阳光卫视,https://stream.chinasuntv.com/680k/mid_video_index.m3u8
-澳亚卫视,https://live.mastvnet.com/4rlff1m/1024/live.m3u8
-港视31台·,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
-港视32台·,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+翡翠台 1080P,https://cdn.hkdtmb.com/hls/81/index.m3u8
+无线新闻 1080P,https://cdn.hkdtmb.com/hls/83/index.m3u8
+明珠台HD,https://cdn.hkdtmb.com/hls/84/index.m3u8
+J2 1080P,https://cdn.hkdtmb.com/hls/82/index.m3u8
+无线财经资讯台 1080P,https://cdn.hkdtmb.com/hls/85/index.m3u8
+ViuTV 1080P,https://cdn.hkdtmb.com/hls/99/index.m3u8
+ViuTV 6HD,https://cdn.hkdtmb.com/hls/96/index.m3u8
+香港国际财经,https://cdn.hkdtmb.com/hls/76/index.m3u8
+开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8
+RTHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
+RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 
-🇭🇰港台测试Ⅱ,#genre#
 TVB 新闻台,http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
 凤凰香港台,http://93.190.139.36:8278/streams/d/hkphoenix_twn/playlist.m3u8
 凤凰中文台,http://93.190.139.36:8278/streams/d/phoenixtv_hd/playlist.m3u8
