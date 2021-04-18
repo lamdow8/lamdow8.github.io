@@ -19,18 +19,20 @@ CCTV-14少儿,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225673/inde
 CCTV-15音乐,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225830/index.m3u8$广西8M
 CCTV-17农业农村,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225833/index.m3u8$广西8M
 
-CCTV世界地理 6M1080,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=sjdl
-CCTV兵器科技 6M1080,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=bqkj
-CCTV卫生健康 6M1080,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=wsjk
-CCTV央视台球 6M1080,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=ystq
-CCTV女性时尚 6M1080,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=nxss
-CCTV怀旧剧场 6M1080,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=hjjc
-CCTV文化精品 6M1080,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=whjp
-CCTV第一剧场 6M1080,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=dyjc
-CCTV风云剧场 6M1080,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=fyjc
-CCTV风云足球 6M1080,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=fyzq
-CCTV风云音乐 6M1080,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=fyyy
-CCTV高尔夫网球 6M1080,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=gefwq
+CCTV-1综合,http://39.134.39.39/PLTV/88888888/224/3221226247/index.m3u8#兰州8M
+CCTV-2财经,http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8#兰州8M
+CCTV-3综艺,http://39.134.39.39/PLTV/88888888/224/3221226251/index.m3u8#兰州8M
+CCTV-5体育,http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8#兰州8M
+CCTV-5+体育赛事,http://39.134.39.39/PLTV/88888888/224/3221226253/index.m3u8#兰州8M
+CCTV-6电影,http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8#兰州8M
+CCTV-7国防军事,http://39.134.39.39/PLTV/88888888/224/3221226255/index.m3u8#兰州8M
+CCTV-8电视剧,http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8#兰州8M
+CCTV-9纪录,http://39.134.39.39/PLTV/88888888/224/3221226259/index.m3u8#兰州8M
+CCTV-10科教,http://39.134.39.39/PLTV/88888888/224/3221226228/index.m3u8#兰州8M
+CCTV-11戏曲,http://39.134.39.39/PLTV/88888888/224/3221226261/index.m3u8#兰州8M
+CCTV-12社会与法,http://39.134.39.39/PLTV/88888888/224/3221226230/index.m3u8#兰州8M
+CCTV-14少儿,http://39.134.39.39/PLTV/88888888/224/3221226232/index.m3u8#兰州8M
+CCTV-15音乐,http://39.134.39.39/PLTV/88888888/224/3221226234/index.m3u8#兰州8M
 
 CCTV-1综合,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8$北京8M
 CCTV-1综合,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/1.m3u8$北京8M
@@ -266,7 +268,26 @@ CCTV-17农业农村,http://39.135.138.59:18890/PLTV/88888910/224/3221225909/inde
 重庆卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8$陕西3M
 安徽卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8$陕西12M
 黑龙江卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8$陕西12M
-
+东南卫视 HD,http://39.134.39.39/PLTV/88888888/224/3221226309/index.m3u8#兰州8M
+东方卫视 HD,http://39.134.39.39/PLTV/88888888/224/3221226299/index.m3u8#兰州8M
+北京卫视 HD,http://39.134.39.39/PLTV/88888888/224/3221226270/index.m3u8#兰州8M
+四川卫视 HD,http://39.134.39.39/PLTV/88888888/224/3221226307/index.m3u8#兰州8M
+天津卫视 HD,http://39.134.39.39/PLTV/88888888/224/3221226303/index.m3u8#兰州8M
+安徽卫视 HD,http://39.134.39.39/PLTV/88888888/224/3221226311/index.m3u8#兰州8M
+山东卫视 HD,http://39.134.39.39/PLTV/88888888/224/3221226297/index.m3u8#兰州8M
+广东卫视 HD,http://39.134.39.39/PLTV/88888888/224/3221226293/index.m3u8#兰州8M
+江苏卫视 HD,http://39.134.39.39/PLTV/88888888/224/3221226264/index.m3u8#兰州8M
+江西卫视 HD,http://39.134.39.39/PLTV/88888888/224/3221226305/index.m3u8#兰州8M
+浙江卫视 HD,http://39.134.39.39/PLTV/88888888/224/3221226266/index.m3u8#兰州8M
+海南卫视 HD,http://39.134.39.39/PLTV/88888888/224/3221226301/index.m3u8#兰州8M
+深圳卫视 HD,http://39.134.39.39/PLTV/88888888/224/3221226274/index.m3u8#兰州8M
+湖北卫视 HD,http://39.134.39.39/PLTV/88888888/224/3221226295/index.m3u8#兰州8M
+湖南卫视 HD,http://39.134.39.39/PLTV/88888888/224/3221226268/index.m3u8#兰州8M
+甘肃卫视 HD,http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8#兰州8M
+贵州卫视 HD,http://39.134.39.39/PLTV/88888888/224/3221226276/index.m3u8#兰州8M
+辽宁卫视 HD,http://39.134.39.39/PLTV/88888888/224/3221226278/index.m3u8#兰州8M
+重庆卫视 HD,http://39.134.39.39/PLTV/88888888/224/3221226280/index.m3u8#兰州8M
+黑龙江卫视 HD,http://39.134.39.39/PLTV/88888888/224/3221226272/index.m3u8#兰州8M
 🇭🇰香港频道,#genre#
 儋州新闻,http://36009.hlsplay.aodianyun.com/tv_radio_36009/tv_channel_1330.m3u8
 凤凰中文,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8$BJ720P
@@ -537,6 +558,7 @@ TVB·J2,http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1002&key=18675711039
 有線603台,http://z1.ubtvfans.com/live/398/0cd0e3d1ca2a6ced2e2830970354a579/index.m3u8
 有線體育台,http://z1.ubtvfans.com/live/401/6d972b4b80bd8ff1ac15eb3352c76bbb/index.m3u8
 有線SPORT PLUS,http://z1.ubtvfans.com/live/356/c3380a31465842258f44c7a9b9d2ea8d/index.m3u8
+
 🇭🇰马来测试,#genre#
 AEC,http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
 华丽台,http://50.7.222.130:8278/streams/d/Wlt/playlist.m3u8
