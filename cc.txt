@@ -1,846 +1,463 @@
-新聞,#genre#
-iNEWS,http://s5798207.taohuili.com/huizhang/an.php?id=8
-iNEWS,http://s5798207.taohuili.com/huizhang/an.php?id=1014
-TVBS新聞,http://s5798207.taohuili.com/huizhang/an.php?id=2
-TVBS新聞,http://s5798207.taohuili.com/huizhang/an.php?id=1004
-TVB娛樂新聞,http://s5798207.taohuili.com/huizhang/an.php?id=1242
-中天新聞,http://s5798207.taohuili.com/huizhang/an.php?id=3
-中天新聞,http://s5798207.taohuili.com/huizhang/an.php?id=1002
-民視新聞,http://s5798207.taohuili.com/huizhang/an.php?id=13
-民視新聞,http://s5798207.taohuili.com/huizhang/an.php?id=317
-華視新聞,http://s5798207.taohuili.com/huizhang/an.php?id=6
-華視新聞,http://s5798207.taohuili.com/huizhang/an.php?id=1012
-臺視新聞,http://s5798207.taohuili.com/huizhang/an.php?id=1
-臺視新聞,http://s5798207.taohuili.com/huizhang/an.php?id=1006
-中視新聞,http://s5798207.taohuili.com/huizhang/an.php?id=7
-中視新聞,http://s5798207.taohuili.com/huizhang/an.php?id=1000
-東森新聞,http://s5798207.taohuili.com/huizhang/an.php?id=9
-東森新聞,http://s5798207.taohuili.com/huizhang/an.php?id=1016
-東森財經,http://s5798207.taohuili.com/huizhang/an.php?id=12
-東森財經,http://s5798207.taohuili.com/huizhang/an.php?id=1018
-年代新聞,http://s5798207.taohuili.com/huizhang/an.php?id=236
-年代新聞,http://s5798207.taohuili.com/huizhang/an.php?id=1099
-非凡商業,http://s5798207.taohuili.com/huizhang/an.php?id=187
-非凡新聞,http://s5798207.taohuili.com/huizhang/an.php?id=314
-寰宇財經,http://s5798207.taohuili.com/huizhang/an.php?id=320
-寰宇新聞,http://s5798207.taohuili.com/huizhang/an.php?id=304
-寰宇臺灣,http://s5798207.taohuili.com/huizhang/an.php?id=87
-第1商業,http://s5798207.taohuili.com/huizhang/an.php?id=186
-壹電視新聞,http://s5798207.taohuili.com/huizhang/an.php?id=303
-三立LIVE新聞,http://s5798207.taohuili.com/huizhang/an.php?id=4
-三立LIVE新聞,http://s5798207.taohuili.com/huizhang/an.php?id=1008
-新唐人亞太臺,http://s5798207.taohuili.com/huizhang/an.php?id=10
-半島國際新聞,http://s5798207.taohuili.com/huizhang/an.php?id=494
-CNN頭條新聞,http://s5798207.taohuili.com/huizhang/an.php?id=43
-CNN國際新聞,http://s5798207.taohuili.com/huizhang/an.php?id=420
-DW News,http://s5798207.taohuili.com/huizhang/an.php?id=14
-DW德國之聲,http://s5798207.taohuili.com/huizhang/an.php?id=1059
-VOA衛視,http://s5798207.taohuili.com/huizhang/an.php?id=22
-VOA美國之音,http://s5798207.taohuili.com/huizhang/an.php?id=495
-FRANCE 24,http://s5798207.taohuili.com/huizhang/an.php?id=1042
-CBN News,http://s5798207.taohuili.com/huizhang/an.php?id=499
-THE WORLD,http://s5798207.taohuili.com/huizhang/an.php?id=1013
-RT News,http://s5798207.taohuili.com/huizhang/an.php?id=1025
-TRTWORLD,http://s5798207.taohuili.com/huizhang/an.php?id=1022
-Bloomberg Financial,http://s5798207.taohuili.com/huizhang/an.php?id=1046
-Al Jazeera,http://s5798207.taohuili.com/huizhang/an.php?id=1144
-Bloomberg Europe,http://s5798207.taohuili.com/huizhang/an.php?id=370
-BBC World News,http://s5798207.taohuili.com/huizhang/an.php?id=421
-運通財經,http://s5798207.taohuili.com/huizhang/an.php?id=79
-歐洲新聞,http://s5798207.taohuili.com/huizhang/an.php?id=1343
+央视频道,#genre#
+CCTV1 综合,http://101.71.255.229:6610/zjhs/2/10126/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://183.207.255.190/live/program/live/cctv1hd/4000000/mnf.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226226/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8#http://121.31.30.91:8085/ysten-business/live/cctv-1/1.m3u8#http://scgctvshow.sctv.com/hdlive/cctv1/1.m3u8#rtmp://58.200.131.2:1935/livetv/cctv1hd
+CCTV2 财经,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226655/40417429.smil#http://cm.wshls.homecdn.com/live/11ecc.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226230/index.m3u8#http://101.71.255.229:6610/zjhs/2/10127/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://121.31.30.87:8085/ysten-business/live/cctv-2/1.m3u8#rtmp://58.200.131.2:1935/livetv/cctv2hd
+CCTV3 综艺,http://cm.wshls.homecdn.com/live/11ef4.m3u8#http://183.207.255.190/live/program/live/cctv3hd/4000000/mnf.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226471/index.m3u8#http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8#http://121.31.30.91:8085/ysten-business/live/cctv-3/1.m3u8#http://101.71.255.229:6610/zjhs/2/10128/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV4 国际,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226335/index.m3u8#http://121.31.30.87:8085/ysten-business/live/cctv-4/1.m3u8#http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/1.m3u8#http://39.135.33.12/PLTV/77777777/224/3221226817/index.m3u8#rtmp://58.200.131.2:1935/livetv/cctv4hd
+CCTV5 体育,http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8#http://101.71.255.229:6610/zjhs/2/10130/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://183.207.255.190/live/program/live/cctv5hd/4000000/mnf.m3u8#http://121.31.30.91:8085/ysten-business/live/cctv-5/1.m3u8#http://39.135.33.12/PLTV/77777777/224/3221226719/index.m3u8
+CCTV6 电影,http://183.207.255.190/live/program/live/cctv6hd/4000000/mnf.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226468/index.m3u8#http://101.71.255.229:6610/zjhs/2/10131/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://121.31.30.91:8085/ysten-business/live/cctv-6/1.m3u8#http://39.135.33.12/PLTV/77777777/224/3221226644/index.m3u8
+CCTV7 军事,http://101.71.255.229:6610/zjhs/2/10067/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://39.135.33.12/PLTV/77777777/224/3221226646/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226467/index.m3u8
+CCTV8 视剧,http://183.207.255.190/live/program/live/cctv8hd/4000000/mnf.m3u8#http://121.31.30.91:8085/ysten-business/live/cctv-8/1.m3u8#http://39.135.33.12/PLTV/77777777/224/3221226721/index.m3u8#http://101.71.255.229:6610/zjhs/2/10132/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226485/index.m3u8
+CCTV9 记录,http://101.71.255.229:6610/zjhs/2/10133/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226236/index.m3u8#http://39.135.135.30/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8#http://39.135.33.12/PLTV/77777777/224/3221226648/index.m3u8
+CCTV10 科教,http://cm.wshls.homecdn.com/live/11ed8.m3u8#http://39.135.33.12/PLTV/77777777/224/3221226640/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226227/index.m3u8#http://183.207.255.190/live/program/live/cctv10hd/4000000/mnf.m3u8#http://101.71.255.229:6610/zjhs/2/10072/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV11 戏曲,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226334/index.m3u8#http://101.71.255.229:6610/zjhs/2/10085/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://39.135.33.12/PLTV/77777777/224/3221226816/index.m3u8#http://121.31.30.87:8085/ysten-business/live/cctv-11/1.m3u8
+CCTV12 社会,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225598/index.m3u8#http://101.71.255.229:6610/zjhs/2/10071/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226228/index.m3u8#http://39.135.33.12/PLTV/77777777/224/3221226713/index.m3u8
+CCTV13 新闻,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/index.m3u8#http://101.71.255.229:6610/zjhs/2/10155/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://39.135.33.12/PLTV/77777777/224/3221226819/index.m3u8#http://117.169.120.140:8080/live/cctv-13/.m3u8
+CCTV14 少儿,http://101.71.255.229:6610/zjhs/2/10135/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226229/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8#http://39.135.33.12/PLTV/77777777/224/3221226715/index.m3u8
+CCTV15 音乐,rtsp://183.252.176.54:554/PLTV/88888888/224/3221225998/10000100000000060000000002296745_0.smil#http://121.31.30.87:8085/ysten-business/live/cctv-15/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226333/index.m3u8#http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV17 农业,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226318/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8#http://39.135.33.12/PLTV/77777777/224/3221226815/index.m3u8
+CCTV5+ 赛事,http://39.135.33.12/PLTV/77777777/224/3221226672/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226225/index.m3u8
+CGTN·环球国际,http://live.cgtn.com/1000/prog_index.m3u8
+CGTN·环球记录,https://livedoc.cgtn.com/1000d/prog_index.m3u8
+CCTV·老故事台,http://183.207.248.71/gitv/live1/G_LAOGUSHI/G_LAOGUSHI#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8#rtmp://58.200.131.2:1935/livetv/lgstv
+CCTV·新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2/index.m3u8
+CCTV·发现之旅,http://39.134.24.202/PLTV/88888888/224/3221225879/index.m3u8#http://183.207.248.71/gitv/live1/G_FAXIANZL/G_FAXIANZL#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226235/1.m3u8
+CETV·教育一台,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226494/index.m3u8#http://39.130.215.168:6610/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8#http://39.134.39.38/PLTV/88888888/224/3221226282/index.m3u8#http://39.135.138.6:6610/PLTV/88888888/224/3221225917/2/index.m3u8?fmt=ts2hls#rtmp://58.200.131.2:1935/livetv/cetv1hd
+CCTV·怀旧剧场,rtmp://58.200.131.2:1935/livetv/hjjctv
+CCTV·第一剧场,rtmp://58.200.131.2:1935/livetv/dyjctv
+CCTV·风云足球,rtmp://58.200.131.2:1935/livetv/fyzqtv
+CCTV·兵器科技,rtmp://58.200.131.2:1935/livetv/gfjstv
 
-港澳,#genre#
-爆穀臺,http://s5798207.taohuili.com/huizhang/an.php?id=152
-美亞電影,http://s5798207.taohuili.com/huizhang/an.php?id=375
-AMC最愛電影,http://s5798207.taohuili.com/huizhang/an.php?id=92
-TVB翡翠,http://s5798207.taohuili.com/huizhang/an.php?id=30
-TVB翡翠,http://s5798207.taohuili.com/huizhang/an.php?id=390
-TVB明珠,http://s5798207.taohuili.com/huizhang/an.php?id=391
-TVB經典,http://s5798207.taohuili.com/huizhang/an.php?id=1083
-TVB星河,http://s5798207.taohuili.com/huizhang/an.php?id=1079
-TVB J1,http://s5798207.taohuili.com/huizhang/an.php?id=1244
-TVB J2,http://s5798207.taohuili.com/huizhang/an.php?id=392
-TVB Jade,http://s5798207.taohuili.com/huizhang/an.php?id=429
-TVB Jade,http://s5798207.taohuili.com/huizhang/an.php?id=1084
-TVBDRAMA,http://s5798207.taohuili.com/huizhang/an.php?id=1243
-TVB娛樂新聞,http://s5798207.taohuili.com/huizhang/an.php?id=1242
-無線新聞,http://s5798207.taohuili.com/huizhang/an.php?id=45
-無線新聞,http://s5798207.taohuili.com/huizhang/an.php?id=394
-無線財經,http://s5798207.taohuili.com/huizhang/an.php?id=393
-有線新聞,http://s5798207.taohuili.com/huizhang/an.php?id=395
-有線新聞,http://s5798207.taohuili.com/huizhang/an.php?id=396
-有線娛樂,http://s5798207.taohuili.com/huizhang/an.php?id=360
-有線18臺,http://s5798207.taohuili.com/huizhang/an.php?id=44
-有線603,http://s5798207.taohuili.com/huizhang/an.php?id=398
-有線體育1,http://s5798207.taohuili.com/huizhang/an.php?id=401
-有線體育2,http://s5798207.taohuili.com/huizhang/an.php?id=356
-有線電影,http://s5798207.taohuili.com/huizhang/an.php?id=354
-Now財經,http://s5798207.taohuili.com/huizhang/an.php?id=111
-NOW直播,http://s5798207.taohuili.com/huizhang/an.php?id=400
-NOW電視,http://s5798207.taohuili.com/huizhang/an.php?id=1246
-NOWsportsorime,http://s5798207.taohuili.com/huizhang/an.php?id=1358
-Viutv,http://s5798207.taohuili.com/huizhang/an.php?id=72
-Viutv6,http://s5798207.taohuili.com/huizhang/an.php?id=176
-港臺31,http://s5798207.taohuili.com/huizhang/an.php?id=353
-港臺32,http://s5798207.taohuili.com/huizhang/an.php?id=397
-ATV亞視,http://s5798207.taohuili.com/huizhang/an.php?id=1457
-HKS,http://s5798207.taohuili.com/huizhang/an.php?id=399
-鳳凰香港,http://s5798207.taohuili.com/huizhang/an.php?id=358
-鳳凰衛視,http://s5798207.taohuili.com/huizhang/an.php?id=357
-鳳凰資訊,http://s5798207.taohuili.com/huizhang/an.php?id=359
-鳳凰電影,http://s5798207.taohuili.com/huizhang/an.php?id=19
-星空衛視,http://s5798207.taohuili.com/huizhang/an.php?id=56
-香港開電視,http://s5798207.taohuili.com/huizhang/an.php?id=17
-新時代溫哥華,http://s5798207.taohuili.com/huizhang/an.php?id=1032
-新時代多倫多,http://s5798207.taohuili.com/huizhang/an.php?id=1031
-新時代多倫多2,http://s5798207.taohuili.com/huizhang/an.php?id=1033
-澳門Macau,http://s5798207.taohuili.com/huizhang/an.php?id=364
-澳視澳門,http://s5798207.taohuili.com/huizhang/an.php?id=23
-澳視葡語,http://s5798207.taohuili.com/huizhang/an.php?id=24
-廣東珠江,http://s5798207.taohuili.com/huizhang/an.php?id=1034
-耀才財經,http://s5798207.taohuili.com/huizhang/an.php?id=355
-衛視卡式臺,http://s5798207.taohuili.com/huizhang/an.php?id=1085
+卫视频道,#genre#
+内蒙古卫视,http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
+北京卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8#http://cm.wshls.homecdn.com/live/1bd71.m3u8#http://101.71.255.229:6610/zjhs/2/10136/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://140.207.241.2:8080/live/program/live/bjwshd/4000000/mnf.m3u8#http://121.31.30.87:8085/ysten-business/live/hdbeijingstv/1.m3u8#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225937/1.m3u8
+上海卫视,http://183.207.255.190/live/program/live/hddfws/4000000/mnf.m3u8#http://121.31.30.87:8085/ysten-business/live/hddongfangstv/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226217/1.m3u8#http://101.71.255.229:6610/zjhs/2/10139/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+重庆卫视,http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#http://183.207.248.71/cntv/live1/HD-8000k-1080P-chongqingstv/HD-8000k-1080P-chongqingstv#http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8#http://101.71.255.229:6610/zjhs/2/10142/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://121.31.30.87:8085/ysten-business/live/chongqingstv/1.m3u8
+天津卫视,http://101.71.255.229:6610/zjhs/2/10150/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://183.207.255.190/live/program/live/tjwshd/4000000/mnf.m3u8#http://121.31.30.87:8085/ysten-business/live/hdtianjinstv/1.m3u8#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225941/1.m3u8
+新疆卫视,http://livehyw5.chinamcache.com/hyw/zb01.m3u8
+浙江卫视,http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225934/1.m3u8#http://121.31.30.87:8085/ysten-business/live/hdzhejiangstv/1.m3u8#http://183.207.255.190/live/program/live/zjwshd/4000000/mnf.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+福建卫视,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226121/10000100000000060000000002358085_0.smil#http://183.207.255.190/live/program/live/dnwshd/4000000/mnf.m3u8#http://121.31.30.87:8085/ysten-business/live/dongnanstv/1.m3u8#http://101.71.255.229:6610/zjhs/2/10152/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+海峡卫视,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
+厦门卫视,http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226542/index.m3u8
+湖南卫视,http://183.207.255.190/live/program/live/hnwshd/4000000/mnf.m3u8#http://101.71.255.229:6610/zjhs/2/10140/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225935/1.m3u8#http://121.31.30.87:8085/ysten-business/live/hdhunanstv/1.m3u8
+江苏卫视,rtsp://183.252.176.54/PLTV/88888888/224/3221226038/10000100000000060000000002296879_0.smil#http://cm.wshls.homecdn.com/live/1bd81.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226242/1.m3u8#http://101.71.255.229:6610/zjhs/2/10138/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://183.207.255.190/live/program/live/jswshd/4000000/mnf.m3u8#http://121.31.30.87:8085/ysten-business/live/hdjiangsustv/1.m3u8#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221226869/1.m3u8
+江西卫视,http://101.71.255.229:6610/zjhs/2/10145/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://121.31.30.87:8085/ysten-business/live/jiangxistv/1.m3u8#http://140.207.241.2:8080/live/program/live/jxwshd/4000000/mnf.m3u8#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225834/1.m3u8
+青海卫视,http://live.geermurmt.com/qhws/sd/live.m3u8#http://101.71.255.229:6610/zjhs/2/10038/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#rtmp://58.200.131.2:1935/livetv/qhtv
+云南卫视,http://yntvpullhls.ynradio.com/live/yunnanweishi/playlist.m3u8#http://39.130.215.168:6610/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8#https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
+贵州卫视,rtsp://183.252.166.199:554/PLTV/88888888/224/3221226126/10000100000000060000000002434541_0.smil#http://39.130.215.168:6610/gitv_live/G_GUIZHOU-HD/G_GUIZHOU-HD.m3u8#http://101.71.255.229:6610/zjhs/2/10146/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+四川卫视,http://101.71.255.229:6610/zjhs/2/10144/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://39.134.39.38/PLTV/88888888/224/3221226307/index.m3u8#http://ivi.bupt.edu.cn/hls/schd.m3u8
+安徽卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226223/1.m3u8#http://101.71.255.229:6610/zjhs/2/10141/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://183.207.255.190/live/program/live/ahwshd/4000000/mnf.m3u8#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225844/1.m3u8#http://zbbf2.ahtv.cn/live/749.m3u8
+山东卫视,http://livealone302.iqilu.com/iqilu/sdtv.m3u8#http://183.207.255.190/live/program/live/sdwshd/4000000/mnf.m3u8#http://101.71.255.229:6610/zjhs/2/10147/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://cm.wshls.homecdn.com/live/1bd5d.m3u8#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225843/1.m3u8
+甘肃卫视,http://39.134.39.38/PLTV/88888888/224/3221226240/index.m3u8#http://itv.ahau.edu.cn/hls/gstv.m3u8#http://117.156.28.119/PLTV/88888888/224/3221225613/index.m3u8#rtmp://58.200.131.2:1935/livetv/gstv
+广东卫视,http://183.207.255.190/live/program/live/gdwshd/4000000/mnf.m3u8#http://nclive.grtn.cn/gdws/sd/live.m3u8#http://101.71.255.229:6610/zjhs/2/10143/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://cm.wshls.homecdn.com/live/1bd69.m3u8#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225824/1.m3u8
+广西卫视,http://39.130.215.168:6610/gitv_live/G_GUANGXI-HD/G_GUANGXI-HD.m3u8#http://itv.ahau.edu.cn/hls/gxhd.m3u8
+深圳卫视,http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225848/1.m3u8#http://101.71.255.229:6610/zjhs/2/10045/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://183.207.255.190/live/program/live/szwshd/4000000/mnf.m3u8#http://121.31.30.87:8085/ysten-business/live/hdshenzhenstv/1.m3u8
+康巴卫视,http://scgctvshow.sctv.com/hdlive/kangba/1.m3u8
+湖北卫视,http://183.207.255.190/live/program/live/hbwshd/4000000/mnf.m3u8#http://cm.wshls.homecdn.com/live/1bd65.m3u8#http://121.31.30.87:8085/ysten-business/live/hdhubeistv/1.m3u8#http://101.71.255.229:6610/zjhs/2/10154/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
+河北卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226507/index.m3u8#http://39.135.138.6:6610/PLTV/88888888/224/3221225610/2/index.m3u8?fmt=ts2hls#http://101.71.255.229:6610/zjhs/2/10017/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+河南卫视,http://101.71.255.229:6610/zjhs/2/10153/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://ivi.bupt.edu.cn/hls/hnhd.m3u8
+辽宁卫视,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227410/index.m3u8#http://101.71.255.229:6610/zjhs/2/10148/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225947/1.m3u8#http://183.207.255.190/live/program/live/lnwshd/4000000/mnf.m3u8
+吉林卫视,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226792/48616745.smil#http://101.71.255.229:6610/zjhs/2/10149/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+黑龙江卫视,http://stream3.hljtv.com/hljws2/sd/live.m3u8#http://103.18.208.181/keonline.shanghai.liveplay.qq.com/live/program/live/hljwshd/4000000/mnf.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225640/index.m3u8#http://101.71.255.229:6610/zjhs/2/10151/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225940/1.m3u8
+海南卫视,rtsp://183.252.166.199:554/PLTV/88888888/224/3221226048/10000100000000060000000002296889_0.smil#http://39.134.39.38/PLTV/88888888/224/3221226301/index.m3u8#http://ivi.bupt.edu.cn/hls/lyhd.m3u8#http://101.71.255.229:6610/zjhs/2/10034/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+三沙卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226544/index.m3u8#http://ivi.bupt.edu.cn/hls/sstv.m3u8#rtmp://58.200.131.2:1935/livetv/sstv
+宁夏卫视,https://hhytv.ningxiahuangheyun.com/live/nxws1M.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226528/index.m3u8#rtmp://58.200.131.2:1935/livetv/nxtv
+山西卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226531/index.m3u8#http://ivi.bupt.edu.cn/hls/sxrtv.m3u8#rtmp://58.200.131.2:1935/livetv/sxrtv
+陕西卫视,http://ivi.bupt.edu.cn/hls/sxtv.m3u8
 
-臺灣,#genre#
-民視,http://s5798207.taohuili.com/huizhang/an.php?id=26
-民視,http://s5798207.taohuili.com/huizhang/an.php?id=336
-臺視,http://s5798207.taohuili.com/huizhang/an.php?id=27
-臺視,http://s5798207.taohuili.com/huizhang/an.php?id=326
-中視,http://s5798207.taohuili.com/huizhang/an.php?id=28
-中視,http://s5798207.taohuili.com/huizhang/an.php?id=333
-華視,http://s5798207.taohuili.com/huizhang/an.php?id=32
-華視,http://s5798207.taohuili.com/huizhang/an.php?id=327
-公視,http://s5798207.taohuili.com/huizhang/an.php?id=86
-公視,http://s5798207.taohuili.com/huizhang/an.php?id=361
-公視三臺,http://s5798207.taohuili.com/huizhang/an.php?id=1340
-公視臺語,http://s5798207.taohuili.com/huizhang/an.php?id=58
-VTV4,http://s5798207.taohuili.com/huizhang/an.php?id=341
-JET綜合,http://s5798207.taohuili.com/huizhang/an.php?id=41
-ELTA綜合,http://s5798207.taohuili.com/huizhang/an.php?id=1137
-TVBS,http://s5798207.taohuili.com/huizhang/an.php?id=88
-TVBS綜合,http://s5798207.taohuili.com/huizhang/an.php?id=16
-TVBS歡樂,http://s5798207.taohuili.com/huizhang/an.php?id=40
-TVBS精采,http://s5798207.taohuili.com/huizhang/an.php?id=66
-好消息,http://s5798207.taohuili.com/huizhang/an.php?id=104
-好消息2,http://s5798207.taohuili.com/huizhang/an.php?id=363
-緯來綜合,http://s5798207.taohuili.com/huizhang/an.php?id=340
-緯來育樂,http://s5798207.taohuili.com/huizhang/an.php?id=338
-緯來育樂,http://s5798207.taohuili.com/huizhang/an.php?id=312
-緯來日本,http://s5798207.taohuili.com/huizhang/an.php?id=337
-緯來日本,http://s5798207.taohuili.com/huizhang/an.php?id=46
-八大娛樂,http://s5798207.taohuili.com/huizhang/an.php?id=105
-八大第一,http://s5798207.taohuili.com/huizhang/an.php?id=318
-八大綜合,http://s5798207.taohuili.com/huizhang/an.php?id=325
-八大綜合,http://s5798207.taohuili.com/huizhang/an.php?id=90
-八大精彩,http://s5798207.taohuili.com/huizhang/an.php?id=1024
-三立臺灣,http://s5798207.taohuili.com/huizhang/an.php?id=21
-三立臺灣,http://s5798207.taohuili.com/huizhang/an.php?id=35
-三立都會,http://s5798207.taohuili.com/huizhang/an.php?id=38
-三立都會,http://s5798207.taohuili.com/huizhang/an.php?id=1001
-三立綜合,http://s5798207.taohuili.com/huizhang/an.php?id=315
-東森綜合,http://s5798207.taohuili.com/huizhang/an.php?id=372
-東森超視,http://s5798207.taohuili.com/huizhang/an.php?id=80
-中天綜合,http://s5798207.taohuili.com/huizhang/an.php?id=54
-中天娛樂,http://s5798207.taohuili.com/huizhang/an.php?id=324
-中天亞洲,http://s5798207.taohuili.com/huizhang/an.php?id=322
-靖天國際,http://s5798207.taohuili.com/huizhang/an.php?id=345
-靖天育樂,http://s5798207.taohuili.com/huizhang/an.php?id=1029
-靖天日本,http://s5798207.taohuili.com/huizhang/an.php?id=108
-靖天歡樂,http://s5798207.taohuili.com/huizhang/an.php?id=51
-靖天資訊,http://s5798207.taohuili.com/huizhang/an.php?id=49
-靖天綜合,http://s5798207.taohuili.com/huizhang/an.php?id=308
-中視經典,http://s5798207.taohuili.com/huizhang/an.php?id=185
-中視菁采,http://s5798207.taohuili.com/huizhang/an.php?id=74
-民視綜藝,http://s5798207.taohuili.com/huizhang/an.php?id=98
-民視第一臺,http://s5798207.taohuili.com/huizhang/an.php?id=34
-民視臺灣,http://s5798207.taohuili.com/huizhang/an.php?id=36
-龍華偶像,http://s5798207.taohuili.com/huizhang/an.php?id=347
-龍華日韓,http://s5798207.taohuili.com/huizhang/an.php?id=382
-衛視中文,http://s5798207.taohuili.com/huizhang/an.php?id=342
-壹電視綜合,http://s5798207.taohuili.com/huizhang/an.php?id=305
-臺視綜合,http://s5798207.taohuili.com/huizhang/an.php?id=309
-華藝綜合,http://s5798207.taohuili.com/huizhang/an.php?id=310
-高點綜合,http://s5798207.taohuili.com/huizhang/an.php?id=99
-豬哥亮歌廳秀,http://s5798207.taohuili.com/huizhang/an.php?id=75
-ELTA娛樂臺,http://s5798207.taohuili.com/huizhang/an.php?id=351
-韓國娛樂臺,http://s5798207.taohuili.com/huizhang/an.php?id=73
-星衛娛樂,http://s5798207.taohuili.com/huizhang/an.php?id=89
-寰宇綜合,http://s5798207.taohuili.com/huizhang/an.php?id=190
-國興衛視,http://s5798207.taohuili.com/huizhang/an.php?id=65
-信吉電視,http://s5798207.taohuili.com/huizhang/an.php?id=422
-年代much,http://s5798207.taohuili.com/huizhang/an.php?id=1359
-番薯電視,http://s5798207.taohuili.com/huizhang/an.php?id=29
-大愛一臺,http://s5798207.taohuili.com/huizhang/an.php?id=11
-客家電視,http://s5798207.taohuili.com/huizhang/an.php?id=76
-原住民電視,http://s5798207.taohuili.com/huizhang/an.php?id=95
-幸福空間居家,http://s5798207.taohuili.com/huizhang/an.php?id=61
-MTV音樂,http://s5798207.taohuili.com/huizhang/an.php?id=106
+港澳频道,#genre#
+凤凰中文台,https://player.ggiptv.com/v/ifeng.php?id=2#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8#rtmp://58.200.131.2:1935/livetv/fhzw#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8#http://96.44.140.132:18006/view.php?type=m3u8&id=sz_phcn&key=84797b799ae18d1b#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
+凤凰资讯台,https://player.ggiptv.com/v/ifeng.php?id=1#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8#http://96.44.140.132:18006/view.php?type=m3u8&id=sz_phzx&key=84797b799ae18d1b#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8#rtmp://58.200.131.2:1935/livetv/fhzx
+凤凰香港台,https://player.ggiptv.com/v/ifeng.php?id=3
+凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#https://itv.ahcme.edu.cn/hls/startv.m3u8#rtmp://58.200.131.2:1935/livetv/startv
+星空体育,rtmp://58.200.131.2:1935/livetv/starsports
+莲花卫视,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
+TVB·翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1&lv=1&c=0&s=4&v=100&wh=16:9&p=1#http://livetv.dnsfor.me/channel.18.m3u8#http://cdn.hkdtmb.com/hls/81/index.m3u8
+TVB·星河台,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
+探索频道,rtmp://58.200.131.2:1935/livetv/discovery
+澳视澳门,http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
+澳门卫星,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
+澳门资讯,http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
+天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+阳光卫视,https://stream.chinasuntv.com/680k/mid_video_index.m3u8
+开放电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8#http://cdn.hkdtmb.com/hls/77/index.m3u8
+澳亚卫视,https://live.mastvnet.com/4rlff1m/1024/live.m3u8
+卫视音乐,rtmp://58.200.131.2:1935/livetv/channelv
+港视31台·,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8#http://cdn.hkdtmb.com/hls/31/index.m3u8
+港视32台·,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8#http://cdn.hkdtmb.com/hls/32/index.m3u8
 
-電影,#genre#
-AMC最愛電影,http://s5798207.taohuili.com/huizhang/an.php?id=92
-AXN臺灣,http://s5798207.taohuili.com/huizhang/an.php?id=423
-AXN亞洲,http://s5798207.taohuili.com/huizhang/an.php?id=1066
-CBN每日影院,http://s5798207.taohuili.com/huizhang/an.php?id=1348
-CHC高清電影,http://s5798207.taohuili.com/huizhang/an.php?id=1345
-CHC動作電影,http://s5798207.taohuili.com/huizhang/an.php?id=1346
-CHC家庭影院,http://s5798207.taohuili.com/huizhang/an.php?id=1347
-爆穀臺,http://s5798207.taohuili.com/huizhang/an.php?id=152
-星衛電影,http://s5798207.taohuili.com/huizhang/an.php?id=496
-衛視電影,http://s5798207.taohuili.com/huizhang/an.php?id=93
-東森電影,http://s5798207.taohuili.com/huizhang/an.php?id=350
-緯來電影,http://s5798207.taohuili.com/huizhang/an.php?id=96
-HBO HD,http://s5798207.taohuili.com/huizhang/an.php?id=332
-HBOSignature,http://s5798207.taohuili.com/huizhang/an.php?id=329
-HBO Hits,http://s5798207.taohuili.com/huizhang/an.php?id=330
-HBO Family,http://s5798207.taohuili.com/huizhang/an.php?id=331
-CineMAX,http://s5798207.taohuili.com/huizhang/an.php?id=346
-FOX,http://s5798207.taohuili.com/huizhang/an.php?id=384
-FOX CRIME,http://s5798207.taohuili.com/huizhang/an.php?id=386
-FOX Family,http://s5798207.taohuili.com/huizhang/an.php?id=383
-FOX MOVIES,http://s5798207.taohuili.com/huizhang/an.php?id=387
-FOX ACTION,http://s5798207.taohuili.com/huizhang/an.php?id=385
-好萊塢電影,http://s5798207.taohuili.com/huizhang/an.php?id=37
-愛爾達影劇,http://s5798207.taohuili.com/huizhang/an.php?id=500
-龍華電影,http://s5798207.taohuili.com/huizhang/an.php?id=311
-華納電影,http://s5798207.taohuili.com/huizhang/an.php?id=83
-EYE戲劇,http://s5798207.taohuili.com/huizhang/an.php?id=191
-三立戲劇,http://s5798207.taohuili.com/huizhang/an.php?id=64
-公視戲劇,http://s5798207.taohuili.com/huizhang/an.php?id=69
-民視影劇,http://s5798207.taohuili.com/huizhang/an.php?id=1023
-八大戲劇,http://s5798207.taohuili.com/huizhang/an.php?id=81
-緯來戲劇,http://s5798207.taohuili.com/huizhang/an.php?id=339
-靖洋戲劇,http://s5798207.taohuili.com/huizhang/an.php?id=319
-東森戲劇,http://s5798207.taohuili.com/huizhang/an.php?id=321
-東森洋片,http://s5798207.taohuili.com/huizhang/an.php?id=1128
-靖天映畫,http://s5798207.taohuili.com/huizhang/an.php?id=349
-靖天電影,http://s5798207.taohuili.com/huizhang/an.php?id=110
-美亞電影,http://s5798207.taohuili.com/huizhang/an.php?id=375
-采昌影劇,http://s5798207.taohuili.com/huizhang/an.php?id=62
-龍華戲劇,http://s5798207.taohuili.com/huizhang/an.php?id=365
-龍華經典,http://s5798207.taohuili.com/huizhang/an.php?id=100
-龍翔時代,http://s5798207.taohuili.com/huizhang/an.php?id=373
-霹靂臺灣,http://s5798207.taohuili.com/huizhang/an.php?id=1339
-CinemaWorld,http://s5798207.taohuili.com/huizhang/an.php?id=84
-CATCHPLAY,http://s5798207.taohuili.com/huizhang/an.php?id=362
-天映經典,http://s5798207.taohuili.com/huizhang/an.php?id=328
-光影歐洲,http://s5798207.taohuili.com/huizhang/an.php?id=1157
-金光布袋戲,http://s5798207.taohuili.com/huizhang/an.php?id=1060
-Trill恐怖電影,http://s5798207.taohuili.com/huizhang/an.php?id=18
-影迷數位電影,http://s5798207.taohuili.com/huizhang/an.php?id=497
-靖天戲劇,http://s5798207.taohuili.com/huizhang/an.php?id=109
-衛視西片,http://s5798207.taohuili.com/huizhang/an.php?id=369
-Blue Ant Extreme,http://s5798207.taohuili.com/huizhang/an.php?id=103
-SETONE,http://s5798207.taohuili.com/huizhang/an.php?id=1349
-GEM,http://s5798207.taohuili.com/huizhang/an.php?id=1350
-優電影一,http://s5798207.taohuili.com/huizhang/an.php?id=1505
-都市劇場,http://s5798207.taohuili.com/huizhang/an.php?id=1497
-嶺南戲曲,http://s5798207.taohuili.com/huizhang/an.php?id=1502
-OCN外國電影,http://s5798207.taohuili.com/huizhang/an.php?id=488
+杂类频道,#genre#
+中华特产,http://play.zhtctv.cn/portal/btv.m3u8
+福州综合,http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
+福州影视,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
+福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+哈哈炫动,http://183.207.255.190/live/program/live/hhxdhd/4000000/mnf.m3u8
+广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
+广东综艺,http://nclive.grtn.cn/4K/sd/live.m3u8
+欢笑剧场,http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8#http://183.207.248.71/cntv/live1/HD-15M-2160P-jshuanxiaojc/HD-15M-2160P-jshuanxiaojc
+卡酷少儿,rtmp://58.200.131.2:1935/livetv/btv10hd
+上海外语,http://183.207.255.190/live/program/live/wypdhd/2300000/mnf.m3u8
+清华大学,https://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
+CNC·中文频道,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+CNC·英文频道,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+珠江频道,http://nclive.grtn.cn/zjpd/sd/live.m3u8#http://39.135.32.29:6610/000000001000/1000000004000011655/1.m3u8?#http://39.135.33.12/PLTV/77777777/224/3221226608/index.m3u8
+南方卫视,http://nclive.grtn.cn/tvs2/sd/live.m3u8#http://39.134.24.202/PLTV/88888888/224/3221225871/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226218/1.m3u8#http://39.135.33.12/PLTV/77777777/224/3221226596/index.m3u8#http://183.207.248.71/gitv/live1/G_NANFANG/G_NANFANG
+南国都市,http://player.ioioz.com/1237/gd/gztvm3u8.php?id=gzngds
+广州影视,http://player.ioioz.com/1237/gd/gztvm3u8.php?id=gzys
+广州竞赛,http://player.ioioz.com/1237/gd/gztvm3u8.php?id=gzjs
+都市剧场,http://183.207.248.71/gitv/live1/G_DUSHIJC/G_DUSHIJC#http://39.134.186.42/PLTV/88888888/224/3221226825/index.m3u8
+佛山综合,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_zhpd.m3u8
+佛山影视,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd.m3u8
+东方影视,http://183.207.255.190/live/program/live/dsjpdhd/4000000/mnf.m3u8
+高尔夫台,http://szlive.grtn.cn/grfpd/sd/live.m3u8
+快乐垂钓,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226549/index.m3u8
+深圳都市,https://sztv-live.cutv.com/ZwxzUXr/500/d1uZ5x0.m3u8?
+深圳电视剧,https://sztv-live.cutv.com/4azbkoY/500/g3r45z0.m3u8?
+内蒙古综合,http://live4.m2oplus.nmtv.cn/7/playlist.m3u8
+内蒙古娱乐,http://live4.m2oplus.nmtv.cn/8/playlist.m3u8
+内蒙古少儿,http://live5.m2oplus.nmtv.cn/4/playlist.m3u8
+足球频道,http://ivi.bupt.edu.cn/hls/zqhd.m3u8#rtmp://58.200.131.2:1935/livetv/zqhd
+新疆体育,http://livehyw5.chinamcache.com/hyw/zb10.m3u8
+山东体育,http://livealone302.iqilu.com/iqilu/typd.m3u8
+山东齐鲁,http://livealone302.iqilu.com/iqilu/qlpd.m3u8
+齐影视港剧,http://hls.haokan.bdstatic.com/haokan/stream_bduid_1831830486_0.m3u8
+爱上4K,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226352/1.m3u8#http://39.134.24.202/PLTV/88888888/224/3221226005/index.m3u8
+CHC·动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8#rtmp://58.200.131.2:1935/livetv/chcatv
+CHC·家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8#rtmp://58.200.131.2:1935/livetv/chctv
+CHC·高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8#http://itv.ahau.edu.cn/hls/chchd.m3u8#rtmp://58.200.131.2:1935/livetv/chchd
 
-體育,#genre#
-緯來體育,http://s5798207.taohuili.com/huizhang/an.php?id=52
-緯來體育,http://s5798207.taohuili.com/huizhang/an.php?id=118
-FOX Sport 1,http://s5798207.taohuili.com/huizhang/an.php?id=1131
-FOX Sport 2,http://s5798207.taohuili.com/huizhang/an.php?id=1132
-FOX Sport 3,http://s5798207.taohuili.com/huizhang/an.php?id=376
-Eleven Sport 1,http://s5798207.taohuili.com/huizhang/an.php?id=1133
-Eleven Sport 2,http://s5798207.taohuili.com/huizhang/an.php?id=301
-ELEVEN SPORTS PLUS,http://s5798207.taohuili.com/huizhang/an.php?id=419
-ELTA體育1,http://s5798207.taohuili.com/huizhang/an.php?id=192
-ELTA體育2,http://s5798207.taohuili.com/huizhang/an.php?id=193
-ELTA體育3,http://s5798207.taohuili.com/huizhang/an.php?id=194
-Z頻道,http://s5798207.taohuili.com/huizhang/an.php?id=1130
-皇馬足球,http://s5798207.taohuili.com/huizhang/an.php?id=20
-博斯無限,http://s5798207.taohuili.com/huizhang/an.php?id=381
-博斯無限2,http://s5798207.taohuili.com/huizhang/an.php?id=426
-博斯網球,http://s5798207.taohuili.com/huizhang/an.php?id=498
-博斯高球1,http://s5798207.taohuili.com/huizhang/an.php?id=377
-博斯高球2,http://s5798207.taohuili.com/huizhang/an.php?id=378
-博斯魅力,http://s5798207.taohuili.com/huizhang/an.php?id=175
-博斯運動1,http://s5798207.taohuili.com/huizhang/an.php?id=379
-博斯運動2,http://s5798207.taohuili.com/huizhang/an.php?id=380
-TRACE Sport Stars,http://s5798207.taohuili.com/huizhang/an.php?id=1037
-智林體育,http://s5798207.taohuili.com/huizhang/an.php?id=82
-時尚運動X,http://s5798207.taohuili.com/huizhang/an.php?id=71
-歐洲體育,http://s5798207.taohuili.com/huizhang/an.php?id=1342
-Edge Sport,http://s5798207.taohuili.com/huizhang/an.php?id=1341
-Ginx電競,http://s5798207.taohuili.com/huizhang/an.php?id=425
-廣東體育,http://s5798207.taohuili.com/huizhang/an.php?id=1344
-jsport1,http://s5798207.taohuili.com/huizhang/an.php?id=129
-jsport2,http://s5798207.taohuili.com/huizhang/an.php?id=130
-jsport3,http://s5798207.taohuili.com/huizhang/an.php?id=131
-jsport4,http://s5798207.taohuili.com/huizhang/an.php?id=132
-ESPN-News,http://s5798207.taohuili.com/huizhang/an.php?id=148
-NBC-HD,http://s5798207.taohuili.com/huizhang/an.php?id=154
-NBC-Golf,http://s5798207.taohuili.com/huizhang/an.php?id=155
-NBA-TV,http://s5798207.taohuili.com/huizhang/an.php?id=153
-BT Sport ESPN,http://s5798207.taohuili.com/huizhang/an.php?id=168
-BT Sport 2,http://s5798207.taohuili.com/huizhang/an.php?id=166
-BT Sport 3,http://s5798207.taohuili.com/huizhang/an.php?id=167
-BT Sport 1,http://s5798207.taohuili.com/huizhang/an.php?id=165
-Sky Sport 2,http://s5798207.taohuili.com/huizhang/an.php?id=171
-Sky Sports 1,http://s5798207.taohuili.com/huizhang/an.php?id=172
-Sky Sports F1,http://s5798207.taohuili.com/huizhang/an.php?id=182
-Sky Sport 3,http://s5798207.taohuili.com/huizhang/an.php?id=183
-Sky Sport 4,http://s5798207.taohuili.com/huizhang/an.php?id=417
-Sky Sport 5,http://s5798207.taohuili.com/huizhang/an.php?id=418
-Astro Sp1,http://s5798207.taohuili.com/huizhang/an.php?id=444
-Astro Sp2,http://s5798207.taohuili.com/huizhang/an.php?id=445
-Astro Sp3,http://s5798207.taohuili.com/huizhang/an.php?id=446
-Astro Sp4,http://s5798207.taohuili.com/huizhang/an.php?id=447
-WWE,http://s5798207.taohuili.com/huizhang/an.php?id=1081
-風雲足球,http://s5798207.taohuili.com/huizhang/an.php?id=463
-魅力足球,http://s5798207.taohuili.com/huizhang/an.php?id=464
+地方电视,#genre#
+点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
+上海教育,http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
+上海综合,http://183.207.255.190/live/program/live/xwzhhd/2300000/mnf.m3u8#http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
+上海影视,http://140.207.241.2:8080/live/program/live/dsjpdhd/2300000/mnf.m3u8#http://183.207.255.190/live/program/live/dsjpdhd/2300000/mnf.m3u8
+上海纪实,http://183.207.255.190/live/program/live/jspdhd/2300000/mnf.m3u8#http://140.207.241.2:8080/live/program/live/jspdhd/4000000/mnf.m3u8
+上海外语,http://183.207.255.190/live/program/live/wypdhd/2300000/mnf.m3u8#http://140.207.241.2:8080/live/program/live/wypdhd/2300000/mnf.m3u8
+上海都市,http://183.207.255.190/live/program/live/ylpdhd/2300000/mnf.m3u8#http://140.207.241.2:8080/live/program/live/ylpdhd/2300000/mnf.m3u8
+上海·哈哈炫动,http://183.207.255.190/live/program/live/hhxdhd/4000000/mnf.m3u8
+上海·欢笑剧场,http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
+内蒙古综合,http://live4.m2oplus.nmtv.cn/7/sd/live.m3u8
+内蒙古农牧,http://live4.m2oplus.nmtv.cn/6/sd/live.m3u8
+内蒙古娱乐,http://live4.m2oplus.nmtv.cn/8/sd/live.m3u8
+内蒙古经济,http://live5.m2oplus.nmtv.cn/2/sd/live.m3u8
+内蒙古蒙语,http://live5.m2oplus.nmtv.cn/3/sd/live.m3u8
+内蒙古少儿,http://live5.m2oplus.nmtv.cn/4/sd/live.m3u8
+福建·福州综合,http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
+福建·福州影视,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
+福建·福州生活,http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
+福建·福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+福建·厦门一台,http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221226814/1.m3u8
+福建·厦门二台,http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221226777/1.m3u8
+福建·厦门三台,http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221226760/1.m3u8
+福建·龙岩综合,http://live.lytv.net.cn/zhpwd/hd/live.m3u8
+福建·龙岩公共,http://live.lytv.net.cn/ggpd/sd/live.m3u8
+福建·晋江电视,http://stream.jinjiang.tv/1/sd/live.m3u8?_upt=7738cbdd1569250965
+福建·新罗电视,http://stream.lyxltv.com/xltv/sd/live.m3u8
+新疆汉语综艺,http://livehyw5.chinamcache.com/hyw/zb04.m3u8
+新疆汉语生活,http://livehyw5.chinamcache.com/hyw/zb07.m3u8
+新疆汉语法治,http://livehyw5.chinamcache.com/hyw/zb11.m3u8
+新疆汉语体育,http://livehyw5.chinamcache.com/hyw/zb10.m3u8
+新疆维语综合,http://livehyw5.chinamcache.com/hyw/zb02.m3u8
+新疆维语综艺,http://livehyw5.chinamcache.com/hyw/zb05.m3u8
+新疆维语经济,http://livehyw5.chinamcache.com/hyw/zb09.m3u8
+新疆哈语综合,http://livehyw5.chinamcache.com/hyw/zb03.m3u8
+新疆少儿频道,http://livehyw5.chinamcache.com/hyw/zb12.m3u8
+北京影视,http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
+北京文艺,http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
+北京新闻,http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
+北京科教,http://ivi.bupt.edu.cn/hls/btv3.m3u8
+清华大学,https://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
+卡酷少儿,rtmp://58.200.131.2:1935/livetv/btv10hd
+浙江·柯桥综合,http://live.scbtv.cn/hls/news/index.m3u8
+浙江·柯桥时尚,http://live.scbtv.cn/hls/qfc/index.m3u8
+浙江·浙江影视,http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
+浙江·浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8
+浙江·浙江教育,http://hw-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
+浙江·浙江钱江,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+浙江·浙江休闲,http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+浙江·浙江经济,http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
+浙江·浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8
+广东·南方卫视,http://nclive.grtn.cn/tvs2/sd/live.m3u8#http://39.135.33.12/PLTV/77777777/224/3221226596/index.m3u8
+广东·广东新闻,http://nclive.grtn.cn/xwpd/sd/live.m3u8
+广东·广东影视,http://nclive.grtn.cn/tvs4/sd/live.m3u8
+广东·广东综艺,http://nclive.grtn.cn/4K/sd/live.m3u8
+广东·广东少儿,http://nclive.grtn.cn/tvs5/sd/live.m3u8
+广东·广东经济,http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
+广东·珠江频道,http://nclive.grtn.cn/zjpd/sd/live.m3u8#http://39.135.33.12/PLTV/77777777/224/3221226608/index.m3u8#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+广东·广东体育,http://nclive.grtn.cn/typd/sd/live.m3u8
+广东·广东公共,http://nclive.grtn.cn/ggpd/sd/live.m3u8
+广东·番禺电视,http://live.pybtv.cn/channel1/sd/live.m3u8?_upt=16fb00e01563813775
+广东·佛山综合,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_zhpd.m3u8
+广东·佛山公共,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_ggpd.m3u8
+广东·佛山顺德,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_sdpd.m3u8
+广东·佛山南海,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_nhpd.m3u8
+广东·蛇口综合,http://218.17.99.211:82/hls/d4encs75.m3u8
+广东·广州综合,http://player.ioioz.com/1237/gd/gztvm3u8.php?id=gzzh#http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=81&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+广东·广州影视,http://player.ioioz.com/1237/gd/gztvm3u8.php?id=gzys
+广东·广州新闻,http://player.ioioz.com/1237/gd/gztvm3u8.php?id=gzxw
+广东·广州竞赛,http://player.ioioz.com/1237/gd/gztvm3u8.php?id=gzjs
+广东·南国都市,http://player.ioioz.com/1237/gd/gztvm3u8.php?id=gzngds
+广东·惠州一台,http://livehuiz.chinamcache.com/live/zb01.m3u8
+广东·惠州二台,http://livehuiz.chinamcache.com/live/zb02.m3u8
+广东·阳江综合,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b3628000.m3u8
+广东·阳江公共,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b3628000.m3u8
+广东·湛江综合,http://zjstyhls.tianma3600.com/zjsty/zhpd.m3u8
+广东·湛江公共,http://zjstyhls.tianma3600.com/zjsty/ggpd.m3u8
+广东·揭阳综合,http://pili-playback.liveyulin.sobeycache.com/stjy2020/zhpd.m3u8
+广东·揭阳公共,http://pili-playback.liveyulin.sobeycache.com/stjy2020/ggpd.m3u8
+广东·嘉佳卡通,http://nclive.grtn.cn/jjkt/sd/live.m3u8
+湖南·湖南教育,http://pull.hnedutv.com/live/hnedutv0406.m3u8
+湖南·娄底综合,http://mms.ldntv.cn:1935/live/zonghe/playlist.m3u8
+湖南·湘西综合,http://36514.hlsplay.aodianyun.com/tv_radio_36514/tv_channel_1382.m3u8
+湖南·湘西公共,http://36514.hlsplay.aodianyun.com/tv_radio_36514/tv_channel_1381.m3u8
+四川影视台,http://219.145.171.78/scgctvshow.sctv.com/hdlive/sctv5/1.m3u8#http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
+四川新闻台,http://scgctvshow.sctv.com/hdlive/sctv4/1.m3u8#http://219.145.171.78/scgctvshow.sctv.com/hdlive/sctv4/1.m3u8
+四川旅游台,http://scgctvshow.sctv.com/hdlive/sctv2/1.m3u8#http://219.145.171.78/scgctvshow.sctv.com/hdlive/sctv2/1.m3u8
+四川经济台,http://219.145.171.78/scgctvshow.sctv.com/hdlive/sctv3/1.m3u8#http://scgctvshow.sctv.com/hdlive/sctv3/1.m3u8
+四川公共台,http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8#http://219.145.171.78/scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
+四川·成都综合,http://67.230.188.214/17/sc/chengdum3u8.php?rate=hd&id=1
+四川·成都公共,http://67.230.188.214/17/sc/chengdum3u8.php?rate=hd&id=5
+四川·成都影视,http://67.230.188.214/17/sc/chengdum3u8.php?rate=hd&id=45
+四川·峨眉电影,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8#http://219.145.171.78/scgctvshow.sctv.com/hdlive/emei/1.m3u8
+四川·巴中综合,http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.flv
+四川·巴中公共,https://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_247.m3u8
+四川·达州综合,http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel35/playlist.m3u8
+四川·达州公共,http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel36/playlist.m3u8
+四川·雅安综合,http://flv.drs.tv.yatv.tv:8080/channellive/xinwen.flv
+四川·雅安公共,http://flv.drs.tv.yatv.tv:8080/channellive/gonggong.flv
+四川·甘孜综合,http://m3u8.channel.ganzitv.com/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
+云南都市,http://39.130.215.166:6410/gitv_live/G_YNTV-2-HD/G_YNTV-2-HD.m3u8?
+云南影视,http://39.130.215.166:6410/gitv_live/G_YNTV-5-HD/G_YNTV-5-HD.m3u8?
+云南娱乐,http://39.130.215.166:6410/gitv_live/G_YNTV-3-HD/G_YNTV-3-HD.m3u8?
+云南公共,http://39.130.215.166:6410/gitv_live/G_YNTV-6-HD/G_YNTV-6-HD.m3u8?
+云南·文山综合,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+云南·文山公共,http://tvdrs.wsrtv.com.cn:8100/channellive/ch2.flv
+云南·怒江电视,http://39.130.215.166:6410/gitv_live/G_NUJIANGTV/G_NUJIANGTV.m3u8?
+云南·西双版纳一,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
+云南·西双版纳二,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8
+湖北·襄阳综合,http://xiangyang.live.cjyun.org/video/s10125-news_hd/index.m3u8
+湖北·襄阳公共,http://xiangyang.live.cjyun.org/video/s10125-education_hd.m3u8
+湖北·鄂州综合,http://ezhou.live.cjyun.org/video/s10098-EZ2T/index.m3u8
+湖北·鄂州公共,http://ezhou.live.cjyun.org/video/s10098-EZ1T/index.m3u8
+湖北·随州综合,http://suizhou.source.cjyun.org/video/s10145-szzhpd.m3u8
+湖北·鹤峰影视,http://hefeng.live.tempsource.cjyun.org/videotmp/s10100-hftv2.m3u8
+江苏·南京综合台,http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
+江苏·如东综合台,http://rudong-hls-tv-yf.cm.jstv.com/live/rdxwzh/online.m3u8
+江苏·靖江综合台,http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
+安徽影视,http://zbbf2.ahtv.cn/live/756.m3u8
+安徽生活,http://zbbf2.ahtv.cn/live/750.m3u8
+安徽科教,http://zbbf2.ahtv.cn/live/754.m3u8
+安徽·六安综合,http://live.china-latv.com/channel1/sd/live.m3u8
+安徽·六安公共,http://live.china-latv.com/channel2/sd/live.m3u8
+安徽·淮北综合,http://live.0561rtv.cn/xwzh/hd/live.m3u8
+安徽·淮北公共,http://live.0561rtv.cn/ggpd/hd/live.m3u8
+安徽·铜陵综合,http://dstpush1.retalltech.com/app/stream1.m3u8
+安徽·铜陵公共,http://dstpush1.retalltech.com/app/stream2.m3u8
+陕西·西安新闻台,http://stream2.xiancity.cn/xatv1/sd/live.m3u8
+陕西·西安白鸽台,http://stream2.xiancity.cn/xatv2/sd/live.m3u8
+陕西·西安影视台,http://stream2.xiancity.cn/xatv4/sd/live.m3u8
+陕西·西安丝路台,http://stream2.xiancity.cn/xatv5/sd/live.m3u8
+山东体育,http://livealone302.iqilu.com/iqilu/typd.m3u8
+山东齐鲁,http://livealone302.iqilu.com/iqilu/qlpd.m3u8
+山东新闻,http://livealone302.iqilu.com/iqilu/ggpd.m3u8
+山东生活,http://livealone302.iqilu.com/iqilu/shpd.m3u8
+山东·德州综合,http://video.dztv.tv:1935/live/xwzh_gq/playlist.m3u8
+山东·德州公共,http://video.dztv.tv:1935/live/dzgg_gq/playlist.m3u8
+甘肃影视,http://39.134.39.38/PLTV/88888888/224/3221226287/index.m3u8
+甘肃都市,http://39.134.39.38/PLTV/88888888/224/3221226248/index.m3u8
+甘肃少儿,http://39.134.39.38/PLTV/88888888/224/3221226289/index.m3u8
+甘肃·兰州综合,http://39.134.39.38/PLTV/88888888/224/3221226242/index.m3u8
+甘肃·兰州公共,http://39.134.39.38/PLTV/88888888/224/3221226244/index.m3u8
 
-探索,#genre#
-EYE旅遊,http://s5798207.taohuili.com/huizhang/an.php?id=1494
-TLC旅遊,http://s5798207.taohuili.com/huizhang/an.php?id=102
-民視旅遊,http://s5798207.taohuili.com/huizhang/an.php?id=78
-亞洲旅遊,http://s5798207.taohuili.com/huizhang/an.php?id=77
-車迷TV,http://s5798207.taohuili.com/huizhang/an.php?id=352
-TVN,http://s5798207.taohuili.com/huizhang/an.php?id=1583
-Love Nature,http://s5798207.taohuili.com/huizhang/an.php?id=388
-Fashion One,http://s5798207.taohuili.com/huizhang/an.php?id=113
-國家地理,http://s5798207.taohuili.com/huizhang/an.php?id=302
-探索EVE,http://s5798207.taohuili.com/huizhang/an.php?id=1036
-探索頻道,http://s5798207.taohuili.com/huizhang/an.php?id=1035
-探索亞洲,http://s5798207.taohuili.com/huizhang/an.php?id=306
-探索科學,http://s5798207.taohuili.com/huizhang/an.php?id=343
-探索動力DMAX,http://s5798207.taohuili.com/huizhang/an.php?id=335
-國家野生,http://s5798207.taohuili.com/huizhang/an.php?id=1038
-國家人文,http://s5798207.taohuili.com/huizhang/an.php?id=334
-國家地理悠人,http://s5798207.taohuili.com/huizhang/an.php?id=114
-CI罪案偵查,http://s5798207.taohuili.com/huizhang/an.php?id=1159
-視納華仁紀實,http://s5798207.taohuili.com/huizhang/an.php?id=91
-爆笑頻道,http://s5798207.taohuili.com/huizhang/an.php?id=85
-History 2,http://s5798207.taohuili.com/huizhang/an.php?id=1158
-History,http://s5798207.taohuili.com/huizhang/an.php?id=116
-BBC Lifestyle,http://s5798207.taohuili.com/huizhang/an.php?id=424
-BBC EARTH,http://s5798207.taohuili.com/huizhang/an.php?id=97
-美食星球,http://s5798207.taohuili.com/huizhang/an.php?id=1360
-動物星球,http://s5798207.taohuili.com/huizhang/an.php?id=367
-Travel Channel,http://s5798207.taohuili.com/huizhang/an.php?id=63
-LUXE,http://s5798207.taohuili.com/huizhang/an.php?id=112
-Astronaut Spacewalk Earth,http://s5798207.taohuili.com/huizhang/an.php?id=1026
-NASA ISS,http://s5798207.taohuili.com/huizhang/an.php?id=1009
-Earth Views,http://s5798207.taohuili.com/huizhang/an.php?id=1017
-NASA Live,http://s5798207.taohuili.com/huizhang/an.php?id=196
-NASA TV,http://s5798207.taohuili.com/huizhang/an.php?id=25
-Pet Club,http://s5798207.taohuili.com/huizhang/an.php?id=368
-Outdoor,http://s5798207.taohuili.com/huizhang/an.php?id=374
-TV5MONDE STYLE,http://s5798207.taohuili.com/huizhang/an.php?id=389
-Smithsonian,http://s5798207.taohuili.com/huizhang/an.php?id=291
-Lifetime,http://s5798207.taohuili.com/huizhang/an.php?id=246
-TLC,http://s5798207.taohuili.com/huizhang/an.php?id=1206
+其它频道,#genre#
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+半岛新闻,https://live-hls-web-aje.getaj.net/AJE/02.m3u8#https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8#http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+狗狗宠物,http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+彭博财经,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+日本新闻,https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+华丽翡翠,http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_884&key=35884483805
+NHK·华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+NHK·国际频道,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+TVB·电视剧台,https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/playlist.m3u8
+K I X·动作频道,http://50.7.161.82:8278/streams/d/KiX/playlist.m3u8
+俄罗斯老电影,http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+俄罗斯第一台,https://radio-live-mg.rtr-vesti.ru/hls/russia_hd/playlist_3.m3u8
+Astro·BOO,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+Astro·Citra,http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+Astro·Prima,http://live8.cdn.iptv8k.org:80/review_stream/primakbmm23/i.m3u8
+Astro·华丽台,http://50.7.161.82:8278/streams/d/Wlt/playlist.m3u8
+Astro·全佳台,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+Astro·双星台,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+Astro·小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+迪拜卫视,http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+高清时尚,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+摩洛哥·TV5,http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+CME·财经一号,http://69.57.222.151:8082/45/stream.m3u8
+ABC·新闻频道,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+Kral·音乐频道,http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+News·Max,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+Racing·运动,http://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 
-私密成人,#genre#
-松視1,http://s5798207.taohuili.com/huizhang/an.php?id=402
-松視2,http://s5798207.taohuili.com/huizhang/an.php?id=403
-松視3,http://s5798207.taohuili.com/huizhang/an.php?id=404
-香蕉臺,http://s5798207.taohuili.com/huizhang/an.php?id=408
-潘朵拉完美,http://s5798207.taohuili.com/huizhang/an.php?id=410
-潘朵拉粉紅,http://s5798207.taohuili.com/huizhang/an.php?id=411
-彩虹電影,http://s5798207.taohuili.com/huizhang/an.php?id=413
-彩虹K,http://s5798207.taohuili.com/huizhang/an.php?id=406
-彩虹E,http://s5798207.taohuili.com/huizhang/an.php?id=405
-一本道,http://s5798207.taohuili.com/huizhang/an.php?id=414
-二本道,http://s5798207.taohuili.com/huizhang/an.php?id=415
-東京熱,http://s5798207.taohuili.com/huizhang/an.php?id=416
-HOT,http://s5798207.taohuili.com/huizhang/an.php?id=407
-happy,http://s5798207.taohuili.com/huizhang/an.php?id=412
-驚豔臺,http://s5798207.taohuili.com/huizhang/an.php?id=409
-Erox,http://s5798207.taohuili.com/huizhang/an.php?id=456
-Dorcel,http://s5798207.taohuili.com/huizhang/an.php?id=454
-Babes TV,http://s5798207.taohuili.com/huizhang/an.php?id=458
-Hustler,http://s5798207.taohuili.com/huizhang/an.php?id=451
-SCT Classic,http://s5798207.taohuili.com/huizhang/an.php?id=462
-Redlight,http://s5798207.taohuili.com/huizhang/an.php?id=452
-SEX ATION,http://s5798207.taohuili.com/huizhang/an.php?id=459
-Super One,http://s5798207.taohuili.com/huizhang/an.php?id=457
-Pr?vate TV,http://s5798207.taohuili.com/huizhang/an.php?id=453
-Passie,http://s5798207.taohuili.com/huizhang/an.php?id=461
-Vivid Red,http://s5798207.taohuili.com/huizhang/an.php?id=455
+·港台电视·,#genre#
+有线新闻,https://flv3948069e.live.126.net/live/9a46ad4e29b67d10501754d81c2ab83e.flv
+有线18台,https://flv3948069e.live.126.net/live/8712e23ae3e917aff60fee6a39cb98f3.flv
+NOW·新闻台,https://flv3948069e.live.126.net/live/b5df1683a4443464e913b3b87ac1bb5b.flv
+动物星球,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13014&key=67711038219
+美食星球,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8804&key=18671811039
+TVB·翡翠台,https://flv3948069e.live.126.net/live/5c41d663f214043243ef814dbdcbb845.flv
+TVB·明珠台,https://flv3948069e.live.126.net/live/06bd6f3e429aa5aa98ef645185bb2a66.flv
+TVB·新闻台,https://flv3948069e.live.126.net/live/ca8a744a6d1790706e79a64eb347b3a0.flv
+TVB·财经台,https://flv3948069e.live.126.net/live/4fb71f2470f85776c6a3b7a6448e3c57.flv
+TVB·星河台,http://96.44.140.132:18006/view.php?type=m3u8&id=c_58031&key=51867571109
+TVB·J2,http://93.190.139.36:8278/streams/d/j2_twn/playlist.m3u8#http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1002&key=06556580346
+港视31台,http://93.190.139.36:8278/streams/d/rhk31_twn/playlist.m3u8
+港视32台,https://flv3948069e.live.126.net/live/6b507dbfa9eebf263d1f5e5e3ff6153b.flv
+VIU·综合,https://flv3948069e.live.126.net/live/f8f535af3c822f431b746e839c63135d.flv#http://93.190.139.36:8278/streams/d/viu_twn/playlist.m3u8
+VIU·外语,https://flv3948069e.live.126.net/live/a3a57af85ae9ab11a9cfa3d52893311f.flv
+龙翔时代,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12019&key=0035186571720
+开放电视,https://flv3948069e.live.126.net/live/2989ed1df531abf4f34bd7684a8fba8d.flv
+中视,https://flv3948069e.live.126.net/live/07232a1aa70d5d44688a548da882265f.flv#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8814&key=920061867571
+华视,https://flv3948069e.live.126.net/live/d2071350d3c43faa171534955e683e9d.flv#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8816&key=318675718103
+台视,https://flv3948069e.live.126.net/live/e12e9780f34794cdd0053038259ca1c6.flv#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8815&key=01867511039
+TVBS·综合台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14015&key=518675711720
+TVBS·欢乐台,https://flv3948069e.live.126.net/live/99f457cd7e0f52427475fd4b6537b0c8.flv#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14016&key=86757114205
+TVBS·新闻台,https://flv3948069e.live.126.net/live/8f0d611755a0df4f39150b9a9b6be9a4.flv#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14017&key=928518675711
+中天综合,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14019&key=26678625696
+中天娱乐,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14020&key=596516751720
+中天新闻,https://flv3948069e.live.126.net/live/169b1df7d769024e08676d1e63defb0a.flv#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14018&key=685885312106
+中视新闻,https://flv3948069e.live.126.net/live/e910f861d88c734a1176e10555eaf98f.flv#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8821&key=935186757120
+中视经典,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8826&key=0651867571120
+纬来体育,https://flv3948069e.live.126.net/live/1313b06609b44336f25efbb37e0515d9.flv#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14011&key=931867571172
+纬来育乐,https://flv3948069e.live.126.net/live/909aba7be65f3010add668d5fbacdb0a.flv#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14010&key=389518675711
+纬来戏剧,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14012&key=5193576867571
+纬来电影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14009&key=518675711720
+东森电影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14002&key=188675717260
+东森戏剧,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14005&key=5657187571720
+东森超视,https://flv3948069e.live.126.net/live/4fedf0a3f5f4186f0301db0c3cfeec86.flv#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14008&key=055169867571
+博斯魅力,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12009&key=7267857110
+博斯网球,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12010&key=8867572103
+美亚电影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11001&key=52918675711039
+星卫电影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11003&key=37118675739
+卫视电影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13017&key=38657571039
+八大戏剧台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15003&key=6675628003266
+TVB·翡翠台(联通),http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1001&key=86358849095
+TVB·明珠台(联通),http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1004&key=64480647552
+TVB·新闻台(联通),http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1005&key=65805614862
 
-
-少兒,#genre#
-愛放2,http://s5798207.taohuili.com/huizhang/an.php?id=299
-愛放3,http://s5798207.taohuili.com/huizhang/an.php?id=259
-CN卡通,http://s5798207.taohuili.com/huizhang/an.php?id=107
-達文西,http://s5798207.taohuili.com/huizhang/an.php?id=68
-東森幼幼,http://s5798207.taohuili.com/huizhang/an.php?id=371
-龍華動畫,http://s5798207.taohuili.com/huizhang/an.php?id=366
-靖洋卡通,http://s5798207.taohuili.com/huizhang/an.php?id=348
-靖天卡通,http://s5798207.taohuili.com/huizhang/an.php?id=344
-i-Fun動漫,http://s5798207.taohuili.com/huizhang/an.php?id=1127
-MOMO親子,http://s5798207.taohuili.com/huizhang/an.php?id=1126
-MOMO親子臺,http://s5798207.taohuili.com/huizhang/an.php?id=1149
-空中英語教室,http://s5798207.taohuili.com/huizhang/an.php?id=313
-ELTV生活英語,http://s5798207.taohuili.com/huizhang/an.php?id=323
-Nickj,http://s5798207.taohuili.com/huizhang/an.php?id=53
-Nick Jr.,http://s5798207.taohuili.com/huizhang/an.php?id=50
-Animax,http://s5798207.taohuili.com/huizhang/an.php?id=59
-BabyFirst,http://s5798207.taohuili.com/huizhang/an.php?id=173
-Baby TV,http://s5798207.taohuili.com/huizhang/an.php?id=1129
-Boomerang,http://s5798207.taohuili.com/huizhang/an.php?id=57
-BBC CBeebies,http://s5798207.taohuili.com/huizhang/an.php?id=115
-BabyTV,http://s5798207.taohuili.com/huizhang/an.php?id=1241
-Disney,http://s5798207.taohuili.com/huizhang/an.php?id=5
-Disneyxd,http://s5798207.taohuili.com/huizhang/an.php?id=31
-Disneyj,http://s5798207.taohuili.com/huizhang/an.php?id=47
-Dreamworks,http://s5798207.taohuili.com/huizhang/an.php?id=48
-Treehouse,http://s5798207.taohuili.com/huizhang/an.php?id=55
-
-
-新馬,#genre#
-CNA 24,http://s5798207.taohuili.com/huizhang/an.php?id=15
-CERIA,http://s5798207.taohuili.com/huizhang/an.php?id=1161
-AOD351,http://s5798207.taohuili.com/huizhang/an.php?id=1162
-AOD352,http://s5798207.taohuili.com/huizhang/an.php?id=1163
-AOD353,http://s5798207.taohuili.com/huizhang/an.php?id=1164
-AOD354,http://s5798207.taohuili.com/huizhang/an.php?id=1165
-AOD355,http://s5798207.taohuili.com/huizhang/an.php?id=1166
-WWE,http://s5798207.taohuili.com/huizhang/an.php?id=1167
-EGG,http://s5798207.taohuili.com/huizhang/an.php?id=1168
-OKTO,http://s5798207.taohuili.com/huizhang/an.php?id=1169
-TVN,http://s5798207.taohuili.com/huizhang/an.php?id=1170
-BNC,http://s5798207.taohuili.com/huizhang/an.php?id=1171
-Arena,http://s5798207.taohuili.com/huizhang/an.php?id=1172
-CRICKET,http://s5798207.taohuili.com/huizhang/an.php?id=1173
-Astro Awani,http://s5798207.taohuili.com/huizhang/an.php?id=440
-天映頻道,http://s5798207.taohuili.com/huizhang/an.php?id=441
-全佳,http://s5798207.taohuili.com/huizhang/an.php?id=427
-KIX,http://s5798207.taohuili.com/huizhang/an.php?id=430
-歡喜,http://s5798207.taohuili.com/huizhang/an.php?id=432
-Suria,http://s5798207.taohuili.com/huizhang/an.php?id=434
-雙星,http://s5798207.taohuili.com/huizhang/an.php?id=431
-AEC,http://s5798207.taohuili.com/huizhang/an.php?id=433
-華麗,http://s5798207.taohuili.com/huizhang/an.php?id=429
-TV2,http://s5798207.taohuili.com/huizhang/an.php?id=436
-TV3,http://s5798207.taohuili.com/huizhang/an.php?id=437
-TV9,http://s5798207.taohuili.com/huizhang/an.php?id=438
-NTV7,http://s5798207.taohuili.com/huizhang/an.php?id=439
-TV8,http://s5798207.taohuili.com/huizhang/an.php?id=442
-小太陽,http://s5798207.taohuili.com/huizhang/an.php?id=443
-AOD,http://s5798207.taohuili.com/huizhang/an.php?id=428
-Channel 5,http://s5798207.taohuili.com/huizhang/an.php?id=449
-TV1,http://s5798207.taohuili.com/huizhang/an.php?id=435
-Channel U,http://s5798207.taohuili.com/huizhang/an.php?id=448
-Astro Sp1,http://s5798207.taohuili.com/huizhang/an.php?id=444
-Astro Sp2,http://s5798207.taohuili.com/huizhang/an.php?id=445
-Astro Sp3,http://s5798207.taohuili.com/huizhang/an.php?id=446
-Astro Sp4,http://s5798207.taohuili.com/huizhang/an.php?id=447
-Channel 8,http://s5798207.taohuili.com/huizhang/an.php?id=1160
-
-
-日本,#genre#
-日本┃JapaNews24,http://s5798207.taohuili.com/huizhang/an.php?id=1043
-日本┃NTV News24,http://s5798207.taohuili.com/huizhang/an.php?id=42
-日本┃BSテレビ東京,http://s5798207.taohuili.com/huizhang/an.php?id=243
-日本┃時代劇の専門家,http://s5798207.taohuili.com/huizhang/an.php?id=287
-日本┃テレビ朝日,http://s5798207.taohuili.com/huizhang/an.php?id=237
-日本┃SKY A,http://s5798207.taohuili.com/huizhang/an.php?id=247
-日本┃読売テレビ,http://s5798207.taohuili.com/huizhang/an.php?id=198
-日本┃毎日放送,http://s5798207.taohuili.com/huizhang/an.php?id=199
-日本┃FU JI,http://s5798207.taohuili.com/huizhang/an.php?id=122
-日本┃NHK World,http://s5798207.taohuili.com/huizhang/an.php?id=117
-日本┃旅チャンネル,http://s5798207.taohuili.com/huizhang/an.php?id=292
-日本┃NTV,http://s5798207.taohuili.com/huizhang/an.php?id=119
-日本┃サンテレビ,http://s5798207.taohuili.com/huizhang/an.php?id=238
-日本┃BSプレミアム,http://s5798207.taohuili.com/huizhang/an.php?id=239
-日本┃BS日テレ,http://s5798207.taohuili.com/huizhang/an.php?id=240
-日本┃BS朝日,http://s5798207.taohuili.com/huizhang/an.php?id=241
-日本┃BS12,http://s5798207.taohuili.com/huizhang/an.php?id=245
-日本┃関西テレビ,http://s5798207.taohuili.com/huizhang/an.php?id=235
-日本┃BS-TBS,http://s5798207.taohuili.com/huizhang/an.php?id=242
-日本┃Golf Network,http://s5798207.taohuili.com/huizhang/an.php?id=249
-日本┃BS-FUJI,http://s5798207.taohuili.com/huizhang/an.php?id=244
-日本┃jsport1,http://s5798207.taohuili.com/huizhang/an.php?id=129
-日本┃jsport2,http://s5798207.taohuili.com/huizhang/an.php?id=130
-日本┃jsport3,http://s5798207.taohuili.com/huizhang/an.php?id=131
-日本┃jsport4,http://s5798207.taohuili.com/huizhang/an.php?id=132
-日本┃HTB北海道,http://s5798207.taohuili.com/huizhang/an.php?id=39
-日本┃GaoRa,http://s5798207.taohuili.com/huizhang/an.php?id=296
-日本┃NHKE,http://s5798207.taohuili.com/huizhang/an.php?id=120
-日本┃NHK-G,http://s5798207.taohuili.com/huizhang/an.php?id=121
-日本┃TV Tokyo,http://s5798207.taohuili.com/huizhang/an.php?id=123
-日本┃TBS,http://s5798207.taohuili.com/huizhang/an.php?id=124
-日本┃大阪TV,http://s5798207.taohuili.com/huizhang/an.php?id=126
-日本┃ABC朝日,http://s5798207.taohuili.com/huizhang/an.php?id=127
-日本┃BS1,http://s5798207.taohuili.com/huizhang/an.php?id=128
-日本┃wowo1,http://s5798207.taohuili.com/huizhang/an.php?id=133
-日本┃wowo2,http://s5798207.taohuili.com/huizhang/an.php?id=134
-日本┃wowo3,http://s5798207.taohuili.com/huizhang/an.php?id=135
-日本┃STAR1,http://s5798207.taohuili.com/huizhang/an.php?id=136
-日本┃STAR2,http://s5798207.taohuili.com/huizhang/an.php?id=137
-日本┃STAR3,http://s5798207.taohuili.com/huizhang/an.php?id=138
-日本┃animax,http://s5798207.taohuili.com/huizhang/an.php?id=139
-日本┃Green,http://s5798207.taohuili.com/huizhang/an.php?id=140
-日本┃Discovery,http://s5798207.taohuili.com/huizhang/an.php?id=290
-日本┃Tokyo MX1,http://s5798207.taohuili.com/huizhang/an.php?id=33
-日本┃Tokyo MX2,http://s5798207.taohuili.com/huizhang/an.php?id=1148
-日本┃KIDS,http://s5798207.taohuili.com/huizhang/an.php?id=289
-日本┃衛星劇場,http://s5798207.taohuili.com/huizhang/an.php?id=298
-日本┃MUSIC JAPAN,http://s5798207.taohuili.com/huizhang/an.php?id=288
-日本┃TV asahi,http://s5798207.taohuili.com/huizhang/an.php?id=125
-日本┃KBC NEWS24,http://s5798207.taohuili.com/huizhang/an.php?id=297
-日本┃CN,http://s5798207.taohuili.com/huizhang/an.php?id=1296
-
-韓國,#genre#
-韓國┃TVN,http://s5798207.taohuili.com/huizhang/an.php?id=295
-韓國┃연합뉴스TV,http://s5798207.taohuili.com/huizhang/an.php?id=1039
-韓國┃KBS WORLD 24,http://s5798207.taohuili.com/huizhang/an.php?id=1040
-韓國┃YTN,http://s5798207.taohuili.com/huizhang/an.php?id=1061
-韓國┃KBS1,http://s5798207.taohuili.com/huizhang/an.php?id=174
-韓國┃KBS2,http://s5798207.taohuili.com/huizhang/an.php?id=250
-韓國┃MBC,http://s5798207.taohuili.com/huizhang/an.php?id=251
-韓國┃SBS,http://s5798207.taohuili.com/huizhang/an.php?id=252
-韓國┃SBS FUNE,http://s5798207.taohuili.com/huizhang/an.php?id=254
-韓國┃SBS CNBC,http://s5798207.taohuili.com/huizhang/an.php?id=255
-韓國┃MBN,http://s5798207.taohuili.com/huizhang/an.php?id=257
-韓國┃KBS24,http://s5798207.taohuili.com/huizhang/an.php?id=260
-韓國┃KBSW,http://s5798207.taohuili.com/huizhang/an.php?id=1100
-韓國┃Channel A,http://s5798207.taohuili.com/huizhang/an.php?id=258
-韓國┃MBC드라마,http://s5798207.taohuili.com/huizhang/an.php?id=261
-韓國┃SBS PLus,http://s5798207.taohuili.com/huizhang/an.php?id=262
-韓國┃KBSNLife,http://s5798207.taohuili.com/huizhang/an.php?id=263
-韓國┃KBSN Plus,http://s5798207.taohuili.com/huizhang/an.php?id=264
-韓國┃KBSKids,http://s5798207.taohuili.com/huizhang/an.php?id=1582
-韓國┃MBC스포츠,http://s5798207.taohuili.com/huizhang/an.php?id=265
-韓國┃JTBC골프,http://s5798207.taohuili.com/huizhang/an.php?id=268
-韓國┃JTBC,http://s5798207.taohuili.com/huizhang/an.php?id=253
-韓國┃KBS joy,http://s5798207.taohuili.com/huizhang/an.php?id=1154
-韓國┃OCN,http://s5798207.taohuili.com/huizhang/an.php?id=488
-韓國┃iNet,http://s5798207.taohuili.com/huizhang/an.php?id=490
-韓國┃CTS,http://s5798207.taohuili.com/huizhang/an.php?id=491
-韓國┃Spotv,http://s5798207.taohuili.com/huizhang/an.php?id=266
-韓國┃Spotv2,http://s5798207.taohuili.com/huizhang/an.php?id=267
-韓國┃THE K-POP,http://s5798207.taohuili.com/huizhang/an.php?id=493
-韓國┃SBS골프,http://s5798207.taohuili.com/huizhang/an.php?id=486
-韓國┃Olive,http://s5798207.taohuili.com/huizhang/an.php?id=1063
-韓國┃한국경제,http://s5798207.taohuili.com/huizhang/an.php?id=1064
-韓國┃YTN,http://s5798207.taohuili.com/huizhang/an.php?id=1065
-韓國┃YTN dmb,http://s5798207.taohuili.com/huizhang/an.php?id=492
-韓國┃CNTV,http://s5798207.taohuili.com/huizhang/an.php?id=256
-韓國┃OCNMOVIES,http://s5798207.taohuili.com/huizhang/an.php?id=1020
-韓國┃TV CHOSUN,http://s5798207.taohuili.com/huizhang/an.php?id=489
-韓國┃SBS Sports,http://s5798207.taohuili.com/huizhang/an.php?id=487
-韓國┃Mnet,http://s5798207.taohuili.com/huizhang/an.php?id=1136
-韓國┃MBCevery1,http://s5798207.taohuili.com/huizhang/an.php?id=476
-韓國┃Tconvers,http://s5798207.taohuili.com/huizhang/an.php?id=1134
-韓國┃KBS Drama,http://s5798207.taohuili.com/huizhang/an.php?id=1062
-韓國┃채널A,http://s5798207.taohuili.com/huizhang/an.php?id=1092
-韓國┃EBS 2,http://s5798207.taohuili.com/huizhang/an.php?id=1093
-韓國┃EBS Kids,http://s5798207.taohuili.com/huizhang/an.php?id=1094
-韓國┃EBS English,http://s5798207.taohuili.com/huizhang/an.php?id=1095
-韓國┃EBSPlus 1,http://s5798207.taohuili.com/huizhang/an.php?id=1096
-韓國┃EBSPlus 2,http://s5798207.taohuili.com/huizhang/an.php?id=1097
-韓國┃EBS1,http://s5798207.taohuili.com/huizhang/an.php?id=1098
-韓國┃SBS Star,http://s5798207.taohuili.com/huizhang/an.php?id=1101
-韓國┃KBC,http://s5798207.taohuili.com/huizhang/an.php?id=1307
-韓國┃MTN,http://s5798207.taohuili.com/huizhang/an.php?id=1504
-
-南亞,#genre#
-<菲律賓>LIGA,http://s5798207.taohuili.com/huizhang/an.php?id=1332
-<菲律賓>CinemaOne,http://s5798207.taohuili.com/huizhang/an.php?id=1333
-<菲律賓>SportsAction,http://s5798207.taohuili.com/huizhang/an.php?id=1334
-<菲律賓>Jeepney,http://s5798207.taohuili.com/huizhang/an.php?id=1335
-<菲律賓>MYX,http://s5798207.taohuili.com/huizhang/an.php?id=1336
-<菲律賓>GMA,http://s5798207.taohuili.com/huizhang/an.php?id=1337
-<菲律賓>TV5,http://s5798207.taohuili.com/huizhang/an.php?id=1338
-<泰國>Thairath TV,http://s5798207.taohuili.com/huizhang/an.php?id=1139
-<泰國>Channel 8,http://s5798207.taohuili.com/huizhang/an.php?id=1140
-<泰國>DDTV,http://s5798207.taohuili.com/huizhang/an.php?id=1138
-<泰國>Thai PBS,http://s5798207.taohuili.com/huizhang/an.php?id=1047
-<印尼>TVRI,http://s5798207.taohuili.com/huizhang/an.php?id=1473
-<印尼>Rcti,http://s5798207.taohuili.com/huizhang/an.php?id=1474
-<印尼>Kompass,http://s5798207.taohuili.com/huizhang/an.php?id=1475
-<印尼>GlobalTV,http://s5798207.taohuili.com/huizhang/an.php?id=1476
-<印尼>BeritaSatu,http://s5798207.taohuili.com/huizhang/an.php?id=1477
-<印尼>Indosiar,http://s5798207.taohuili.com/huizhang/an.php?id=1478
-<印尼>Antv,http://s5798207.taohuili.com/huizhang/an.php?id=1479
-<印尼>TV9,http://s5798207.taohuili.com/huizhang/an.php?id=1480
-<印尼>Mnctv,http://s5798207.taohuili.com/huizhang/an.php?id=1481
-<印尼>Trans7,http://s5798207.taohuili.com/huizhang/an.php?id=1482
-<印尼>Transtv,http://s5798207.taohuili.com/huizhang/an.php?id=1483
-<印尼>JTV,http://s5798207.taohuili.com/huizhang/an.php?id=1484
-<印尼>Metrotv,http://s5798207.taohuili.com/huizhang/an.php?id=1485
-<印尼>Sctv,http://s5798207.taohuili.com/huizhang/an.php?id=1486
-<印尼>TVone,http://s5798207.taohuili.com/huizhang/an.php?id=1487
-<印尼>OChannel,http://s5798207.taohuili.com/huizhang/an.php?id=1488
-<印尼>Balitv,http://s5798207.taohuili.com/huizhang/an.php?id=1489
-<印尼>TVMU,http://s5798207.taohuili.com/huizhang/an.php?id=1490
-<印尼>PijarTV,http://s5798207.taohuili.com/huizhang/an.php?id=1491
-<印尼>UTV,http://s5798207.taohuili.com/huizhang/an.php?id=1492
-<印尼>MYTV,http://s5798207.taohuili.com/huizhang/an.php?id=1493
-<印尼>KOMPAS TV,http://s5798207.taohuili.com/huizhang/an.php?id=1146
-<印尼>Karaoke,http://s5798207.taohuili.com/huizhang/an.php?id=1141
-<印尼>Jakarta Globe,http://s5798207.taohuili.com/huizhang/an.php?id=1142
-<印尼>CNN Indonesia,http://s5798207.taohuili.com/huizhang/an.php?id=1145
-<越南>VTV1,http://s5798207.taohuili.com/huizhang/an.php?id=1326
-<越南>VTV2,http://s5798207.taohuili.com/huizhang/an.php?id=1327
-<越南>VTV4,http://s5798207.taohuili.com/huizhang/an.php?id=1328
-<越南>VTV5,http://s5798207.taohuili.com/huizhang/an.php?id=1329
-<越南>VTV6,http://s5798207.taohuili.com/huizhang/an.php?id=1330
-<越南>VTV7,http://s5798207.taohuili.com/huizhang/an.php?id=1331
-<越南>THHN,http://s5798207.taohuili.com/huizhang/an.php?id=1290
-<越南>THGL,http://s5798207.taohuili.com/huizhang/an.php?id=1292
-<越南>PTP,http://s5798207.taohuili.com/huizhang/an.php?id=1293
-<越南>QRT,http://s5798207.taohuili.com/huizhang/an.php?id=1294
-<越南>THBT,http://s5798207.taohuili.com/huizhang/an.php?id=1295
-<越南>ANTV,http://s5798207.taohuili.com/huizhang/an.php?id=1300
-<越南>ANTV HD,http://s5798207.taohuili.com/huizhang/an.php?id=1301
-<越南>HBTV,http://s5798207.taohuili.com/huizhang/an.php?id=1302
-<越南>KienGiangTV,http://s5798207.taohuili.com/huizhang/an.php?id=1309
-<越南>KienGiangTV1,http://s5798207.taohuili.com/huizhang/an.php?id=1310
-<越南>ANTV,http://s5798207.taohuili.com/huizhang/an.php?id=1312
-<越南>BenTreTV,http://s5798207.taohuili.com/huizhang/an.php?id=1313
-<越南>Da Nang TV1,http://s5798207.taohuili.com/huizhang/an.php?id=1316
-<越南>KhanhHoaTV,http://s5798207.taohuili.com/huizhang/an.php?id=1318
-<越南>KienGiangTV,http://s5798207.taohuili.com/huizhang/an.php?id=1319
-<越南>KienGiangTV1,http://s5798207.taohuili.com/huizhang/an.php?id=1320
-<越南>PhuYenTV,http://s5798207.taohuili.com/huizhang/an.php?id=1323
-<越南>QuangNamTV,http://s5798207.taohuili.com/huizhang/an.php?id=1324
-<越南>LongAnTV,http://s5798207.taohuili.com/huizhang/an.php?id=1321
-<越南>LA34,http://s5798207.taohuili.com/huizhang/an.php?id=1291
-<越南>VITV,http://s5798207.taohuili.com/huizhang/an.php?id=1299
-
-印度┋Sun TV,http://s5798207.taohuili.com/huizhang/an.php?id=1458
-印度┋Star Vijay,http://s5798207.taohuili.com/huizhang/an.php?id=1459
-印度┋Zee Tamil,http://s5798207.taohuili.com/huizhang/an.php?id=1460
-印度┋Zee Business,http://s5798207.taohuili.com/huizhang/an.php?id=1461
-印度┋Thanthi TV,http://s5798207.taohuili.com/huizhang/an.php?id=1462
-印度┋Raj Musix,http://s5798207.taohuili.com/huizhang/an.php?id=1463
-印度┋Zee Actions,http://s5798207.taohuili.com/huizhang/an.php?id=1464
-印度┋KTV Tamil,http://s5798207.taohuili.com/huizhang/an.php?id=1465
-印度┋Zee TV HD,http://s5798207.taohuili.com/huizhang/an.php?id=1466
-印度┋Zee Cinema HD,http://s5798207.taohuili.com/huizhang/an.php?id=1467
-印度┋Colors HD,http://s5798207.taohuili.com/huizhang/an.php?id=1468
-印度┋Starplus,http://s5798207.taohuili.com/huizhang/an.php?id=1469
-印度┋Picture,http://s5798207.taohuili.com/huizhang/an.php?id=1470
-印度┋Asianet,http://s5798207.taohuili.com/huizhang/an.php?id=1471
-印度┋Times Now,http://s5798207.taohuili.com/huizhang/an.php?id=1472
-印度┋Tv9 Bharatvarsh,http://s5798207.taohuili.com/huizhang/an.php?id=1125
-印度┋NDTV India,http://s5798207.taohuili.com/huizhang/an.php?id=1030
-印度┋NDTV,http://s5798207.taohuili.com/huizhang/an.php?id=1028
-印度┋ZeeNews,http://s5798207.taohuili.com/huizhang/an.php?id=465
-<
-加拿大,#genre#
-<加拿大>CP 24 Canada,http://s5798207.taohuili.com/huizhang/an.php?id=1247
-<加拿大>The Weather Network,http://s5798207.taohuili.com/huizhang/an.php?id=1251
-<加拿大>CBC,http://s5798207.taohuili.com/huizhang/an.php?id=1252
-<加拿大>CTV,http://s5798207.taohuili.com/huizhang/an.php?id=1253
-<加拿大>CHCH,http://s5798207.taohuili.com/huizhang/an.php?id=1256
-<加拿大>CTV 2,http://s5798207.taohuili.com/huizhang/an.php?id=1257
-<加拿大>OMNI 1,http://s5798207.taohuili.com/huizhang/an.php?id=1258
-<加拿大>OMNI 2,http://s5798207.taohuili.com/huizhang/an.php?id=1259
-<加拿大>TVO,http://s5798207.taohuili.com/huizhang/an.php?id=1260
-<加拿大>Discovery Canada,http://s5798207.taohuili.com/huizhang/an.php?id=1261
-<加拿大>TLC Canada,http://s5798207.taohuili.com/huizhang/an.php?id=1262
-<加拿大>Love Nature,http://s5798207.taohuili.com/huizhang/an.php?id=1263
-<加拿大>Food Network Canada,http://s5798207.taohuili.com/huizhang/an.php?id=1265
-<加拿大>Cooking Channel Canada,http://s5798207.taohuili.com/huizhang/an.php?id=1266
-<加拿大>CTV Comedy,http://s5798207.taohuili.com/huizhang/an.php?id=1267
-<加拿大>CTV Sci-Fi,http://s5798207.taohuili.com/huizhang/an.php?id=1268
-<加拿大>Crave 1,http://s5798207.taohuili.com/huizhang/an.php?id=1269
-<加拿大>Crave 2,http://s5798207.taohuili.com/huizhang/an.php?id=1270
-<加拿大>Crave 3,http://s5798207.taohuili.com/huizhang/an.php?id=1271
-<加拿大>TSN 3,http://s5798207.taohuili.com/huizhang/an.php?id=1275
-<加拿大>TSN 4,http://s5798207.taohuili.com/huizhang/an.php?id=1276
-<加拿大>TSN 5,http://s5798207.taohuili.com/huizhang/an.php?id=1277
-<加拿大>SportNet ON,http://s5798207.taohuili.com/huizhang/an.php?id=1278
-<加拿大>SportNet One,http://s5798207.taohuili.com/huizhang/an.php?id=1279
-<加拿大>SportNet World,http://s5798207.taohuili.com/huizhang/an.php?id=1280
-<加拿大>SportNet 360,http://s5798207.taohuili.com/huizhang/an.php?id=1281
-<加拿大>NBA CA,http://s5798207.taohuili.com/huizhang/an.php?id=1282
-<加拿大>TreeHouse,http://s5798207.taohuili.com/huizhang/an.php?id=1283
-<加拿大>Teletoon,http://s5798207.taohuili.com/huizhang/an.php?id=1284
-<加拿大>YTV,http://s5798207.taohuili.com/huizhang/an.php?id=1285
-<加拿大>新時代東部,http://s5798207.taohuili.com/huizhang/an.php?id=1286
-<加拿大>新時代西部,http://s5798207.taohuili.com/huizhang/an.php?id=1287
-<加拿大>城市電視,http://s5798207.taohuili.com/huizhang/an.php?id=1289
-<加拿大>新時代2,http://s5798207.taohuili.com/huizhang/an.php?id=1288
-<加拿大>TSN 2,http://s5798207.taohuili.com/huizhang/an.php?id=1274
-<加拿大>TSN 1,http://s5798207.taohuili.com/huizhang/an.php?id=1273
-<加拿大>Global,http://s5798207.taohuili.com/huizhang/an.php?id=1254
-<加拿大>City,http://s5798207.taohuili.com/huizhang/an.php?id=1255
-<加拿大>HGTV Canada,http://s5798207.taohuili.com/huizhang/an.php?id=1264
-<加拿大>Business Network News,http://s5798207.taohuili.com/huizhang/an.php?id=1250
-<加拿大>CTV News,http://s5798207.taohuili.com/huizhang/an.php?id=1249
-<加拿大>CBC News,http://s5798207.taohuili.com/huizhang/an.php?id=1248
-<加拿大>Crave 4,http://s5798207.taohuili.com/huizhang/an.php?id=1272
-
-英國,#genre#
-<英國>BBC one,http://s5798207.taohuili.com/huizhang/an.php?id=1382
-<英國>Discovery turbo,http://s5798207.taohuili.com/huizhang/an.php?id=1387
-<英國>Sky greats,http://s5798207.taohuili.com/huizhang/an.php?id=1388
-<英國>Hoem and health,http://s5798207.taohuili.com/huizhang/an.php?id=1389
-<英國>Channel 4,http://s5798207.taohuili.com/huizhang/an.php?id=1390
-<英國>Channel 5,http://s5798207.taohuili.com/huizhang/an.php?id=1391
-<英國>E ent,http://s5798207.taohuili.com/huizhang/an.php?id=1392
-<英國>BBC red button,http://s5798207.taohuili.com/huizhang/an.php?id=1393
-<英國>Citv,http://s5798207.taohuili.com/huizhang/an.php?id=1394
-<英國>Sony tv,http://s5798207.taohuili.com/huizhang/an.php?id=1395
-<英國>Nickelodeon,http://s5798207.taohuili.com/huizhang/an.php?id=1396
-<英國>E4,http://s5798207.taohuili.com/huizhang/an.php?id=1397
-<英國>Alibi,http://s5798207.taohuili.com/huizhang/an.php?id=1398
-<英國>CBS action,http://s5798207.taohuili.com/huizhang/an.php?id=1399
-<英國>5 star,http://s5798207.taohuili.com/huizhang/an.php?id=1400
-<英國>Itv 1,http://s5798207.taohuili.com/huizhang/an.php?id=1401
-<英國>Itv 2,http://s5798207.taohuili.com/huizhang/an.php?id=1402
-<英國>Itv 3,http://s5798207.taohuili.com/huizhang/an.php?id=1403
-<英國>Itv 4,http://s5798207.taohuili.com/huizhang/an.php?id=1404
-<英國>4seven,http://s5798207.taohuili.com/huizhang/an.php?id=1405
-<英國>Sky docu,http://s5798207.taohuili.com/huizhang/an.php?id=1406
-<英國>Russia Today,http://s5798207.taohuili.com/huizhang/an.php?id=1407
-<英國>Comedy Central,http://s5798207.taohuili.com/huizhang/an.php?id=1408
-<英國>Rte1,http://s5798207.taohuili.com/huizhang/an.php?id=1409
-<英國>Rte2,http://s5798207.taohuili.com/huizhang/an.php?id=1410
-<英國>Premiersp,http://s5798207.taohuili.com/huizhang/an.php?id=1411
-<英國>Freesports,http://s5798207.taohuili.com/huizhang/an.php?id=1412
-<英國>History,http://s5798207.taohuili.com/huizhang/an.php?id=1413
-<英國>CNBC,http://s5798207.taohuili.com/huizhang/an.php?id=1414
-<英國>Aljazeera,http://s5798207.taohuili.com/huizhang/an.php?id=1415
-<英國>Tv3 virgin,http://s5798207.taohuili.com/huizhang/an.php?id=1416
-<英國>Home,http://s5798207.taohuili.com/huizhang/an.php?id=1417
-<英國>Dave,http://s5798207.taohuili.com/huizhang/an.php?id=1418
-<英國>Film 4,http://s5798207.taohuili.com/huizhang/an.php?id=1419
-<英國>More 4,http://s5798207.taohuili.com/huizhang/an.php?id=1420
-<英國>Food Network,http://s5798207.taohuili.com/huizhang/an.php?id=1421
-<英國>Gold,http://s5798207.taohuili.com/huizhang/an.php?id=1422
-<英國>Syfy,http://s5798207.taohuili.com/huizhang/an.php?id=1423
-<英國>Discovery,http://s5798207.taohuili.com/huizhang/an.php?id=1424
-<英國>Discovery science,http://s5798207.taohuili.com/huizhang/an.php?id=1425
-<英國>Discovery investigation,http://s5798207.taohuili.com/huizhang/an.php?id=1426
-<英國>Tg4,http://s5798207.taohuili.com/huizhang/an.php?id=1427
-<英國>Real live,http://s5798207.taohuili.com/huizhang/an.php?id=1428
-<英國>Cartoonito,http://s5798207.taohuili.com/huizhang/an.php?id=1429
-<英國>Watch,http://s5798207.taohuili.com/huizhang/an.php?id=1430
-<英國>Challenge,http://s5798207.taohuili.com/huizhang/an.php?id=1431
-<英國>Vault,http://s5798207.taohuili.com/huizhang/an.php?id=1432
-<英國>Pick,http://s5798207.taohuili.com/huizhang/an.php?id=1433
-<英國>Nat Geo Wild,http://s5798207.taohuili.com/huizhang/an.php?id=1434
-<英國>Nick jr,http://s5798207.taohuili.com/huizhang/an.php?id=1435
-<英國>Quest,http://s5798207.taohuili.com/huizhang/an.php?id=1436
-<英國>BBC World News,http://s5798207.taohuili.com/huizhang/an.php?id=421
-<英國>Sky News,http://s5798207.taohuili.com/huizhang/an.php?id=1041
-<英國>Sky News,http://s5798207.taohuili.com/huizhang/an.php?id=169
-<英國>BBC News,http://s5798207.taohuili.com/huizhang/an.php?id=164
-<英國>BBC World News,http://s5798207.taohuili.com/huizhang/an.php?id=1308
-<英國>Sky Sport 2,http://s5798207.taohuili.com/huizhang/an.php?id=171
-<英國>Sky Sports 1,http://s5798207.taohuili.com/huizhang/an.php?id=172
-<英國>Sky Sports F1,http://s5798207.taohuili.com/huizhang/an.php?id=182
-<英國>Sky Sport 3,http://s5798207.taohuili.com/huizhang/an.php?id=183
-<英國>Sky Sport 4,http://s5798207.taohuili.com/huizhang/an.php?id=417
-<英國>Sky Sport 5,http://s5798207.taohuili.com/huizhang/an.php?id=418
-<英國>Nickelodeon UK,http://s5798207.taohuili.com/huizhang/an.php?id=1305
-
-意大利,#genre#
-意大利┃TOP CALCIO 24,http://s5798207.taohuili.com/huizhang/an.php?id=1595
-意大利┃Rai Italia,http://s5798207.taohuili.com/huizhang/an.php?id=1596
-意大利┃Sky sport uno,http://s5798207.taohuili.com/huizhang/an.php?id=1597
-意大利┃Sky sport serie A,http://s5798207.taohuili.com/huizhang/an.php?id=1598
-意大利┃Inter TV,http://s5798207.taohuili.com/huizhang/an.php?id=1599
-意大利┃AGR TV,http://s5798207.taohuili.com/huizhang/an.php?id=1600
-意大利┃Deejay TV,http://s5798207.taohuili.com/huizhang/an.php?id=1601
-意大利┃Style Channel,http://s5798207.taohuili.com/huizhang/an.php?id=1602
-意大利┃Babayaga TV,http://s5798207.taohuili.com/huizhang/an.php?id=1603
-意大利┃Rai News 24,http://s5798207.taohuili.com/huizhang/an.php?id=1604
-
-
-北美,#genre#
-<美國>E,http://s5798207.taohuili.com/huizhang/an.php?id=1536
-<美國>Syfy,http://s5798207.taohuili.com/huizhang/an.php?id=1537
-<美國>HGTV,http://s5798207.taohuili.com/huizhang/an.php?id=1538
-<美國>NBCGolf,http://s5798207.taohuili.com/huizhang/an.php?id=1539
-<美國>lawandcrime,http://s5798207.taohuili.com/huizhang/an.php?id=1540
-<美國>Msnbc,http://s5798207.taohuili.com/huizhang/an.php?id=1541
-<美國>Goltv,http://s5798207.taohuili.com/huizhang/an.php?id=1542
-<美國>TVG,http://s5798207.taohuili.com/huizhang/an.php?id=1543
-<美國>Willow Cricket,http://s5798207.taohuili.com/huizhang/an.php?id=1544
-<美國>TBS,http://s5798207.taohuili.com/huizhang/an.php?id=1545
-<美國>MTV,http://s5798207.taohuili.com/huizhang/an.php?id=1546
-<美國>PBS,http://s5798207.taohuili.com/huizhang/an.php?id=1547
-<美國>SundanceTV,http://s5798207.taohuili.com/huizhang/an.php?id=1548
-<美國>truTV,http://s5798207.taohuili.com/huizhang/an.php?id=1549
-<美國>WE TV,http://s5798207.taohuili.com/huizhang/an.php?id=1550
-<美國>FX,http://s5798207.taohuili.com/huizhang/an.php?id=1551
-<美國>FXX,http://s5798207.taohuili.com/huizhang/an.php?id=1552
-<美國>Lifetime,http://s5798207.taohuili.com/huizhang/an.php?id=1553
-<美國>Bet,http://s5798207.taohuili.com/huizhang/an.php?id=1554
-<美國>CNBC,http://s5798207.taohuili.com/huizhang/an.php?id=1555
-<美國>Comedy,http://s5798207.taohuili.com/huizhang/an.php?id=1556
-<美國>CW,http://s5798207.taohuili.com/huizhang/an.php?id=1557
-<美國>Animal,http://s5798207.taohuili.com/huizhang/an.php?id=1558
-<美國>AE,http://s5798207.taohuili.com/huizhang/an.php?id=1559
-<美國>Freeform,http://s5798207.taohuili.com/huizhang/an.php?id=1560
-<美國>FX Movie,http://s5798207.taohuili.com/huizhang/an.php?id=1561
-<美國>Game Show Network,http://s5798207.taohuili.com/huizhang/an.php?id=1562
-<美國>HLN,http://s5798207.taohuili.com/huizhang/an.php?id=1563
-<美國>Investigation Discovery,http://s5798207.taohuili.com/huizhang/an.php?id=1564
-<美國>Lifetime Movie Network,http://s5798207.taohuili.com/huizhang/an.php?id=1565
-<美國>Motor Trend,http://s5798207.taohuili.com/huizhang/an.php?id=1566
-<美國>Science,http://s5798207.taohuili.com/huizhang/an.php?id=1567
-<美國>Showtime,http://s5798207.taohuili.com/huizhang/an.php?id=1568
-<美國>StarZ,http://s5798207.taohuili.com/huizhang/an.php?id=1569
-<美國>Telemundo,http://s5798207.taohuili.com/huizhang/an.php?id=1570
-<美國>USA Network,http://s5798207.taohuili.com/huizhang/an.php?id=1571
-<美國>wwe-network,http://s5798207.taohuili.com/huizhang/an.php?id=1572
-<美國>Nickelodeon,http://s5798207.taohuili.com/huizhang/an.php?id=1573
-<美國>One America News Network,http://s5798207.taohuili.com/huizhang/an.php?id=1574
-<美國>Oprah Winfrey Network,http://s5798207.taohuili.com/huizhang/an.php?id=1575
-<美國>Oxygen,http://s5798207.taohuili.com/huizhang/an.php?id=1576
-<美國>Paramount,http://s5798207.taohuili.com/huizhang/an.php?id=1577
-<美國>DisneyJr,http://s5798207.taohuili.com/huizhang/an.php?id=1578
-<美國>DisneyXD,http://s5798207.taohuili.com/huizhang/an.php?id=1579
-<美國>Destination Americ,http://s5798207.taohuili.com/huizhang/an.php?id=1580
-<美國>Disney,http://s5798207.taohuili.com/huizhang/an.php?id=1581
-<美國>FOXHD,http://s5798207.taohuili.com/huizhang/an.php?id=1506
-<美國>CNN,http://s5798207.taohuili.com/huizhang/an.php?id=1507
-<美國>ABC News,http://s5798207.taohuili.com/huizhang/an.php?id=1508
-<美國>NBC,http://s5798207.taohuili.com/huizhang/an.php?id=1509
-<美國>Fox News,http://s5798207.taohuili.com/huizhang/an.php?id=1510
-<美國>Fox Business,http://s5798207.taohuili.com/huizhang/an.php?id=1511
-<美國>Hbo Family,http://s5798207.taohuili.com/huizhang/an.php?id=1512
-<美國>Hbo East,http://s5798207.taohuili.com/huizhang/an.php?id=1513
-<美國>Hbo One,http://s5798207.taohuili.com/huizhang/an.php?id=1514
-<美國>Travel ch,http://s5798207.taohuili.com/huizhang/an.php?id=1515
-<美國>Coking,http://s5798207.taohuili.com/huizhang/an.php?id=1516
-<美國>Bloomberg,http://s5798207.taohuili.com/huizhang/an.php?id=1517
-<美國>Cinemax,http://s5798207.taohuili.com/huizhang/an.php?id=1518
-<美國>Tennis chan,http://s5798207.taohuili.com/huizhang/an.php?id=1519
-<美國>Nat Geo,http://s5798207.taohuili.com/huizhang/an.php?id=1520
-<美國>Nat Geo Wild,http://s5798207.taohuili.com/huizhang/an.php?id=1521
-<美國>Babytv,http://s5798207.taohuili.com/huizhang/an.php?id=1522
-<美國>Mlb net,http://s5798207.taohuili.com/huizhang/an.php?id=1523
-<美國>TNT,http://s5798207.taohuili.com/huizhang/an.php?id=1524
-<美國>Bravo,http://s5798207.taohuili.com/huizhang/an.php?id=1525
-<美國>Food network,http://s5798207.taohuili.com/huizhang/an.php?id=1526
-<美國>Fight network,http://s5798207.taohuili.com/huizhang/an.php?id=1527
-<美國>Diy network,http://s5798207.taohuili.com/huizhang/an.php?id=1528
-<美國>Discovery,http://s5798207.taohuili.com/huizhang/an.php?id=1529
-<美國>History,http://s5798207.taohuili.com/huizhang/an.php?id=1530
-<美國>World Fishing,http://s5798207.taohuili.com/huizhang/an.php?id=1531
-<美國>VH1,http://s5798207.taohuili.com/huizhang/an.php?id=1532
-<美國>TLC,http://s5798207.taohuili.com/huizhang/an.php?id=1533
-<美國>NHL net,http://s5798207.taohuili.com/huizhang/an.php?id=1534
-<美國>Hallmark,http://s5798207.taohuili.com/huizhang/an.php?id=1535
-<美國>CNN頭條新聞,http://s5798207.taohuili.com/huizhang/an.php?id=43
-<美國>CNN國際新聞,http://s5798207.taohuili.com/huizhang/an.php?id=420
-<美國>ABC News,http://s5798207.taohuili.com/huizhang/an.php?id=189
-<美國>NBC2,http://s5798207.taohuili.com/huizhang/an.php?id=460
-<美國>Newsmax,http://s5798207.taohuili.com/huizhang/an.php?id=156
-<美國>First TV,http://s5798207.taohuili.com/huizhang/an.php?id=1143
-<美國>People,http://s5798207.taohuili.com/huizhang/an.php?id=143
-<美國>Right Now,http://s5798207.taohuili.com/huizhang/an.php?id=144
-<美國>Bloomberg Television,http://s5798207.taohuili.com/huizhang/an.php?id=1058
-<美國>American Horrors,http://s5798207.taohuili.com/huizhang/an.php?id=1054
-<美國>30A TV,http://s5798207.taohuili.com/huizhang/an.php?id=1052
-<美國>Atlanta,http://s5798207.taohuili.com/huizhang/an.php?id=1055
-<美國>Panama City,http://s5798207.taohuili.com/huizhang/an.php?id=1056
-<美國>Pawleys Island,http://s5798207.taohuili.com/huizhang/an.php?id=1057
-<美國>NewsNet,http://s5798207.taohuili.com/huizhang/an.php?id=1216
-<美國>BT Sport ESPN,http://s5798207.taohuili.com/huizhang/an.php?id=168
-<美國>BT Sport 2,http://s5798207.taohuili.com/huizhang/an.php?id=166
-<美國>BT Sport 3,http://s5798207.taohuili.com/huizhang/an.php?id=167
-<美國>BT Sport 1,http://s5798207.taohuili.com/huizhang/an.php?id=165
-
+·音乐嗨歌·,#genre#
+DJ·体面,http://189.ly93.cc/Ufiii2Ez6zIv/1130124235746654
+DJ·情火,http://189.ly93.cc/Rrmqiu7fqMfu/4154723731487362
+DJ·爱的路上千万里,http://189.ly93.cc/AjMNbiIJr6vy/4154724975796127
+DJ·寂寞爱上了眼泪,http://189.ly93.cc/Fba6fqvYnYbq/4154124975555768
+PO·被情伤过的女人,http://189.ly93.cc/7JjIVvIBnQFv/2154727908394121
+PO·别让我一个人醉,http://189.ly93.cc/I7Bju2jURJZv/7154123970872735
+PO·下定决心忘记你,http://189.ly93.cc/bqeUnmuUV7zm/6151223603714873
+DJ·我又想你了,http://189.ly93.cc/YRBrUn6BbuQb/5154124992888666
+DJ·突然好想念,http://189.ly93.cc/RFVJf2yumyQn/2151224005139501
+DJ·菊花爆满山,http://189.ly93.cc/2iyABrVfYNZ3/4150024975567825
+PO·不变的情缘,http://189.ly93.cc/BZ7NziVvmY7r/1150025457114652
+PO·惦记这一些,http://189.ly93.cc/vYFRniumammu/5154123620157136
+DJ·我的唇吻不到我爱的人,http://189.ly93.cc/BbimUnEVjuEj/1130124473858841
+DJ·你不懂,http://189.ly93.cc/2yMzMrbQbQf2/9130124986501627
+DJ·一级棒,http://189.ly93.cc/n2umUba2IN3y/1151226213489940
+PO·离别两依依,http://189.ly93.cc/faIrYr6fYnQv/1151228383729699
+PO·忘了我的爱,http://189.ly93.cc/YrYFj2NZV7b2/8130127870429593
+DJ·忘了我的爱,http://189.ly93.cc/qQfUFv6BZFfm/5154124010253070
+DJ·新娘不是我,http://189.ly93.cc/qUBjuqbQBjYv/6130124972472292
+PO·走过咖啡屋,http://189.ly93.cc/M7JJbmIr2Ynu/1151225457404910
+DJ·一晃就老了,http://189.ly93.cc/ieiqaeqYJ3Ij/4154727899696922
+DJ·一首小情歌,http://189.ly93.cc/7Zz6jqze2qe2/8150024977459443
+DJ·情歌里的你,http://189.ly93.cc/qy26F3ENvUnq/8130127870072596
+PO·香水有毒。,http://189.ly93.cc/eayIneMf6Bzm/8150024975560071
+PO·假情真爱,http://189.ly93.cc/u26ne2INj6zu/9132223978339181
+PO·千千阙歌,http://189.ly93.cc/ARbiy27vQZzu/5130123627925551
+PO·冷冷长街,http://189.ly93.cc/bMB3aeNnYZbe/4150323598554086
+PO·光辉岁月,http://189.ly93.cc/N3MVrieINNrq/6154124973138813
+PO·一生何求,http://189.ly93.cc/YNj6FfR3mm6b/6151223603716604
+DJ·爱的故事上集,http://189.ly93.cc/jEri2ebai2iu/4132223780553427
+DJ·往事只能回味,http://189.ly93.cc/3a2eYfqemuA3/3150025721881214
+DJ·爱一回伤一回,http://189.ly93.cc/ei22aeziaqI3/1150325459275124
+PO·忘了你忘了我,http://189.ly93.cc/Z3maUf3IjEbm/9130123980656219
+DJ·最爱的那个人,http://189.ly93.cc/rQ73QvZBVz2q/2150024985454077
+DJ·失恋阵线联盟,http://189.ly93.cc/EFBNJnF7ra2q/2150323626514445
+DJ·爱着你宠着你,http://189.ly93.cc/FfMnAzBRBRzi/6154123992753894
+DJ·因为爱你,http://189.ly93.cc/a67raimyUNZf/3154723728905859
+DJ·浪子回头,http://189.ly93.cc/yEnmMfaMfQrq/4154724975797142
+DJ·潮湿的心,http://189.ly93.cc/nmYVZnvaMR7n/4132223780551841
+DJ·自由飞翔,http://189.ly93.cc/7vqimyieIbeu/3150024966406276
+PO·爱很简单,http://189.ly93.cc/BJrAJj3ABBNz/2154727908396289
+PO·倩女幽魂,http://189.ly93.cc/zMfqe2UnYbAf/3154723604135470
+DJ·你会遇见更好的人,http://189.ly93.cc/IzqIBfbuuyiy/3150327889751975
+DJ·下辈子也要找到你,http://189.ly93.cc/juyemamyiqmq/8154723966675236
+PO·下辈子也要找到你,http://189.ly93.cc/vuMV3aEBneqi/2130124984372353
+PO·天在下雨我在恨你,http://189.ly93.cc/zEJrUffArm2y/9132224985664561
+DJ·把酒倒满,http://189.ly93.cc/vmMRVnmaA7re/8130124975944414
+DJ·孤单为伴,http://189.ly93.cc/nY7veeZbAjay/8154723966674314
+DJ·爱情主演,http://189.ly93.cc/MfuAbaUzQ7Vb/1151226213489549
+DJ·爱的热浪,http://189.ly93.cc/QBj2m2MnQN7n/6130125727770107
+PO·欢喜就好,http://189.ly93.cc/Br6bmumAF77z/4130123598542127
+DJ·今夜我一个人醉,http://189.ly93.cc/JZn6FnaUnmMf/8150324976407711
+DJ·伤心的人醉茫茫,http://189.ly93.cc/Fnqiuaq6vQ3e/8132227870173288
+DJ·一路风雨一路你,http://189.ly93.cc/UBjqAny6ZZze/5132224992881976
+PO·死心塌地去爱你,http://189.ly93.cc/2yAzueyQziyu/6132223611617338
+PO·爱情的故事,http://189.ly93.cc/jMFFJf6jU3ui/5150023986871780
+DJ·爱如蝴蝶飞,http://189.ly93.cc/fMJJ73VNNBvm/3154124967455240
+DJ·酒醉的蝴蝶,http://189.ly93.cc/3ANbyeNJzA7j/4150024975569998
+DJ·三分钟热度,http://189.ly93.cc/YfmeAjv6jiue/7154723608568888
+DJ·我们不一样,http://189.ly93.cc/bQRrumZFvemi/3154724966314677
+DJ·我们都一样,http://189.ly93.cc/bMzuIffAVJJr/4130125729350643
+DJ·街舞,http://189.ly93.cc/fqeMZjmUBzEb/6130125727773790
+DJ·殇雪,http://189.ly93.cc/meqQjq6Rfymq/7150023970894679
+DJ·格局,http://189.ly93.cc/QnIvIb3qaeIf/9132224985672244
+DJ·坦荡,http://189.ly93.cc/eQB7JvemeaEf/5150024991816924
+PO·犯错,http://189.ly93.cc/m2IJRrzaUf6n/6150323611314713
+DJ·为你祈祷,http://189.ly93.cc/6zAf63rYRvAv/8154723966675210
+DJ·多年以后,http://189.ly93.cc/Ij6jiuzqQrIz/4130124975633735
+DJ·你的世界到底有了谁,http://189.ly93.cc/aIRVfmNBjIbi/4154724975791438
+DJ·念旧的人最容易掉眼泪,http://189.ly93.cc/iiyu2mfu2iAz/5150024991813414
+DJ·夜之光,http://189.ly93.cc/3AnQB3yY7Nba/9151224985890076
+DJ·夜上海,http://189.ly93.cc/Abaaqeba6ZZ3/9132223978343443
+DJ·踢了他,http://189.ly93.cc/ya2QR37vEJ3a/6130124973415505
+DJ·公虾米,http://189.ly93.cc/qMJJn2Rf6ZBz/8150323966739911
+DJ·嘀嗒嘀,http://189.ly93.cc/Uv2InqQfYfEz/2130124984374764
+DJ·哦哦哦,http://189.ly93.cc/NJJNBvqMvu2e/6154723611447175
+DJ·苍天不负有情人,http://189.ly93.cc/6BZBRfaUBNvy/7154123970926170
+DJ·别说你已不在乎,http://189.ly93.cc/Q32uU33uqIBz/4150024975562134
+DJ·曾经被爱,http://189.ly93.cc/AJniayvy2Uvy/3154723977005576
+DJ·不再犯傻,http://189.ly93.cc/VjQBNrqEvey2/8130124975935762
+DJ·狂狼(DJ 1版),http://189.ly93.cc/eUbyyarUzaI3/8130123885898203
+DJ·狂狼(DJ 2版),http://189.ly93.cc/uimuAvmiyEba/3150024966410271
+PO·大约在冬季,http://189.ly93.cc/uENBVvQjQNzi/9130123980656127
+PO·说给男人听,http://189.ly93.cc/euYF7fJNZNvq/1151226213936843
+DJ·不浪漫的罪,http://189.ly93.cc/myUzqyAv6zEb/4132224975540974
+DJ·拥抱你离去,http://189.ly93.cc/MF32iu77VJva/5154124010254865
+DJ·受伤的刺猬,http://189.ly93.cc/uEVVNbqMBn6z/9151224985892177
+PO·许多年以后,http://189.ly93.cc/e6fUju2A3YRj/8132223604432881
+PO·一剪梅,http://189.ly93.cc/VRR7biRvmIbq/2150324984232664
+PO·差一步,http://189.ly93.cc/Mzim6jVJVFfi/8132227870470901
+PO·凡人歌,http://189.ly93.cc/BJ3EzeiuQVfe/1130128383795876
+PO·水喷喷,http://189.ly93.cc/fMZba23aUN7z/2150323618737919
+PO·听说你离开他,http://189.ly93.cc/QrEBnuFnMb2u/9130123980655707
+DJ·再见吧我最爱的你,http://189.ly93.cc/QRryamRzeERz/5130124992431463
+DJ·痴情的只有我一个,http://189.ly93.cc/JbQVNbvmM7B3/3150024966408287
+PO·不想哭却有泪在流,http://189.ly93.cc/jMfUruz6fyEj/7154123970873310
+PO·谁会记得,http://189.ly93.cc/YryAfyNfaMBz/1130128383795532
+PO·她的背影,http://189.ly93.cc/jMby2iYr2YRv/9151223896788159
+PO·等一分钟,http://189.ly93.cc/miamYfYJFZ3a/3150327889995036
+PO·今生最爱,http://189.ly93.cc/qIjmuyA3Inme/1151226213937095
+PO·情非得已,http://189.ly93.cc/6vEFzyMRNJBn/6132223611616548
+PO·小二上酒,http://189.ly93.cc/JF7bAbYbyima/5150325742473657
+DJ·你说我永远的痛,http://189.ly93.cc/JVvue26BzEja/9151224985884367
+PO·我们终究是错过,https://cloud.189.cn/t/bqaQBjeMFJ7b
+PO·留不住变心的你,http://189.ly93.cc/via2iuqaAZvu/5150325742476220
+PO·爱过了也伤过了,http://189.ly93.cc/j6jEFrfyiaiu/1151226213935870
+PO·最后一个才明白,http://189.ly93.cc/I7RnM37BBrIf/2130124985946102
+PO·姐姐,http://189.ly93.cc/IJN7j2iERj6n/9130123617452676
+PO·一个人的时候好好爱自己,http://189.ly93.cc/YzMFBbUNBNrm/2154124983835281
+PO·大约在冬季(越南语),http://189.ly93.cc/VBjaQnbUZ3Ev/7150023616974600
+PO·千千阙歌(越南语),http://189.ly93.cc/IfEba222qAb2/7150023617035037
