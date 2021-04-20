@@ -18,7 +18,17 @@ CCTV-13新闻,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225787/inde
 CCTV-14少儿,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8$广西8M
 CCTV-15音乐,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225830/index.m3u8$广西8M
 CCTV-17农业农村,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225833/index.m3u8$广西8M
-
+世界地理,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=sjdl
+兵器科技,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=bqkj
+卫生健康,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=wsjk
+央视台球,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=ystq
+女性时尚,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=nxss
+怀旧剧场,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=hjjc
+第一剧场,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=dyjc
+风云剧场,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=fyjc
+风云足球,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=fyzq
+风云音乐,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=fyyy
+高尔夫网球,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=gefwq
 CCTV-1综合,http://39.134.39.39/PLTV/88888888/224/3221226247/index.m3u8$兰州8M
 CCTV-2财经,http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8$兰州8M
 CCTV-3综艺,http://39.134.39.39/PLTV/88888888/224/3221226251/index.m3u8$兰州8M
@@ -533,14 +543,28 @@ ViuTV 6HD,https://cdn.hkdtmb.com/hls/96/index.m3u8
 RTHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
 RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 
-TVB 新闻台,http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
-凤凰香港台,http://93.190.139.36:8278/streams/d/hkphoenix_twn/playlist.m3u8
 凤凰中文台,http://93.190.139.36:8278/streams/d/phoenixtv_hd/playlist.m3u8
 凤凰资讯台,http://93.190.139.36:8278/streams/d/phoenixinfo_hd/playlist.m3u8
+凤凰香港台,http://93.190.139.36:8278/streams/d/hkphoenix_twn/playlist.m3u8
+有线新闻,http://93.190.139.36:8278/streams/d/hkcnews_twn/playlist.m3u8
+HK03_電影一臺,http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
 ViuTV,http://93.190.139.36:8278/streams/d/viu_twn/playlist.m3u8
 Viu1TV,http://93.190.139.36:8278/streams/d/viu1_twn/playlist.m3u8
-有线新闻,http://93.190.139.36:8278/streams/d/hkcnews_twn/playlist.m3u8
 RTHK31,http://93.190.139.36:8278/streams/d/rhk31_twn/playlist.m3u8
+RTHK32,http://93.190.139.36:8278/streams/d/rhk32_twn/playlist.m3u8
+TVB·翡翠台,http://93.190.139.36:8278/streams/d/jade_twn/playlist.m3u8
+TVB·明珠台,http://93.190.139.36:8278/streams/d/pearl_twn/playlist.m3u8
+TVB·J2,http://93.190.139.36:8278/streams/d/j2_twn/playlist.m3u8
+TVB 新闻台,http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
+TVB·财经台,http://93.190.139.36:8278/streams/d/j5_twn/playlist.m3u8
+HBO Family,http://93.190.139.34:8278/streams/d/Hbofamily/playlist.m3u8
+HBO hits,http://93.190.139.34:8278/streams/d/Hbohits/playlist.m3u8
+FOX HD,http://93.190.139.34:8278/streams/d/Foxhd/playlist.m3u8
+FOX MOVIE,http://93.190.139.34:8278/streams/d/Foxmovie/playlist.m3u8
+AXN,http://93.190.139.34:8278/streams/d/Axn/playlist.m3u8
+CHC 家庭影院,http://93.190.139.36:8278/streams/d/chcfamily/playlist.m3u8
+CHC 高清电影,http://93.190.139.36:8278/streams/d/chchdmovie/playlist.m3u8
+CHC 动作电影,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
 
 凤凰中文台,http://96.44.140.132:18006/view.php?type=m3u8&id=sz_phcn&key=84797b799ae18d1b
 凤凰资讯台,http://96.44.140.132:18006/view.php?type=m3u8&id=sz_phzx&key=84797b799ae18d1b
