@@ -313,6 +313,17 @@ CCTV-17农业农村,http://39.135.138.59:18890/PLTV/88888910/224/3221225909/inde
 無線新聞台(DL),http://ohyeah.gear.host/hktvb.php?id=1
 無線財經台(DL),http://ohyeah.gear.host/hktvb.php?id=2
 無線直播台(DL),http://ohyeah.gear.host/hktvb.php?id=3
+翡翠台 1080P,https://cdn.hkdtmb.com/hls/81/index.m3u8
+无线新闻 1080P,https://cdn.hkdtmb.com/hls/83/index.m3u8
+明珠台HD,https://cdn.hkdtmb.com/hls/84/index.m3u8
+J2 1080P,https://cdn.hkdtmb.com/hls/82/index.m3u8
+无线财经资讯台 1080P,https://cdn.hkdtmb.com/hls/85/index.m3u8
+ViuTV 1080P,https://cdn.hkdtmb.com/hls/99/index.m3u8
+ViuTV 6HD,https://cdn.hkdtmb.com/hls/96/index.m3u8
+香港国际财经,https://cdn.hkdtmb.com/hls/76/index.m3u8
+开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8
+RTHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
+RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 翡翠台 1080P,http://61.238.6.49:8000/bysid/1#http://hls.globaliptv.ml/tvbjade.php
 无线新闻 1080P,http://61.238.6.49:8001/bysid/83
 明珠台HD,http://61.238.6.49:8001/bysid/2#http://hls.globaliptv.ml/tvbpearl.php
@@ -532,18 +543,17 @@ History Channel 2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8812&key
 HGTV,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8808&key=84797b799ae18d1b
 
 🇭🇰港台测试Ⅰ,#genre#
-翡翠台 1080P,https://cdn.hkdtmb.com/hls/81/index.m3u8
-无线新闻 1080P,https://cdn.hkdtmb.com/hls/83/index.m3u8
-明珠台HD,https://cdn.hkdtmb.com/hls/84/index.m3u8
-J2 1080P,https://cdn.hkdtmb.com/hls/82/index.m3u8
-无线财经资讯台 1080P,https://cdn.hkdtmb.com/hls/85/index.m3u8
-ViuTV 1080P,https://cdn.hkdtmb.com/hls/99/index.m3u8
-ViuTV 6HD,https://cdn.hkdtmb.com/hls/96/index.m3u8
-香港国际财经,https://cdn.hkdtmb.com/hls/76/index.m3u8
-开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8
-RTHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
-RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 
+RTHK31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
+RTHK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
+RTHK33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
+翡翠台 1080P,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+J2 1080P,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+无线新闻 1080P,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+明珠台HD,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+无线财经资讯台 1080P,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
+ViuTV 6HD,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+ViuTV 1080P,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 凤凰中文台,http://93.190.139.36:8278/streams/d/phoenixtv_hd/playlist.m3u8
 凤凰资讯台,http://93.190.139.36:8278/streams/d/phoenixinfo_hd/playlist.m3u8
 凤凰香港台,http://93.190.139.36:8278/streams/d/hkphoenix_twn/playlist.m3u8
@@ -585,6 +595,12 @@ TVB·J2,http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1002&key=18675711039
 有線SPORT PLUS,http://z1.ubtvfans.com/live/356/c3380a31465842258f44c7a9b9d2ea8d/index.m3u8
 
 🇭🇰马来测试,#genre#
+AOD,http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+华丽台,http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
+欢喜台,http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+boo恐怖片,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+八度空间,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+天映频道,http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 AEC,http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
 华丽台,http://50.7.222.130:8278/streams/d/Wlt/playlist.m3u8
 欢喜台,http://50.7.222.130:8278/streams/d/Huahee/playlist.m3u8
