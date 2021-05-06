@@ -525,6 +525,7 @@ PP体育,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/
 百事通体育 1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226642/index.m3u8
 
 ⚽境外频道,#genre#
+NBA HD,https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 [V] HD,https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 FOX HD,https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 FOX MOVIES,https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
