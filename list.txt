@@ -18,17 +18,7 @@ CCTV-13新闻,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/32212257
 CCTV-14少儿,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225673/index.m3u8$广西8M
 CCTV-15音乐,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225830/index.m3u8$广西8M
 CCTV-17农业农村,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225833/index.m3u8$广西8M
-世界地理,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=sjdl
-兵器科技,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=bqkj
-卫生健康,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=wsjk
-央视台球,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=ystq
-女性时尚,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=nxss
-怀旧剧场,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=hjjc
-第一剧场,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=dyjc
-风云剧场,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=fyjc
-风云足球,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=fyzq
-风云音乐,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=fyyy
-高尔夫网球,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=gefwq
+
 高尔夫网球,http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/gefwq/gefwq711/1000/index.m3u8?ProgramID=&encrypt=1$河南郑州市移动
 央视台球,http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/ystq/ystq711/1000/index.m3u8?ProgramID=&encrypt=1$河南郑州市移动
 风云足球,http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/fyzq/fyzq711/1000/index.m3u8?ProgramID=&encrypt=1$河南郑州市移动
@@ -40,6 +30,18 @@ CCTV-17农业农村,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/32
 怀旧剧场,http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/hjjc/hjjc711/1000/index.m3u8?ProgramID=&encrypt=1$河南郑州市移动
 第一剧场,http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/dyjc/dyjc711/1000/index.m3u8?ProgramID=&encrypt=1$河南郑州市移动
 世界地理,http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/sjdl/sjdl711/1000/index.m3u8?ProgramID=&encrypt=1$河南郑州市移动
+世界地理,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=sjdl
+兵器科技,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=bqkj
+卫生健康,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=wsjk
+央视台球,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=ystq
+女性时尚,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=nxss
+怀旧剧场,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=hjjc
+第一剧场,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=dyjc
+风云剧场,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=fyjc
+风云足球,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=fyzq
+风云音乐,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=fyyy
+高尔夫网球,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=gefwq
+
 CCTV-1综合,http://39.134.39.39/PLTV/88888888/224/3221226247/index.m3u8$兰州8M
 CCTV-2财经,http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8$兰州8M
 CCTV-3综艺,http://39.134.39.39/PLTV/88888888/224/3221226251/index.m3u8$兰州8M
@@ -409,7 +411,7 @@ CCTV-17农业农村,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/322122583
 凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
 凤凰中文,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8$ZJ10M720
 凤凰资讯,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8$ZJ10M720
-翡翠台-（大陆线路）,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+翡翠台-（大陆线路）,http://190.2.133.47:8278/streams/d/Jade/playlist.m3u8#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 無線新聞台(DL),http://ohyeah.gear.host/hktvb.php?id=1
 無線財經台(DL),http://ohyeah.gear.host/hktvb.php?id=2
 無線直播台(DL),http://ohyeah.gear.host/hktvb.php?id=3
@@ -444,17 +446,29 @@ RTHK32,http://teslagram.com/live/channel_32.m3u8#https://rthklive2-lh.akamaihd.n
 
 🇹🇼台湾频道🇹🇼,#genre#
 星级剧集台,http://hls.haokan.bdstatic.com/haokan/stream_bduid_31696503_0.m3u8
-中视新闻,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
-中视,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
-中视菁采,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
-中视经典,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
-民视新闻台,http://185.207.176.189:8080/channels/tw-302/playlist.m3u8
-民视,http://185.207.176.189:8080/channels/tw-300/playlist.m3u8
-民视第一台,http://185.207.176.189:8080/channels/tw-301/playlist.m3u8
-民视台湾台,http://185.207.176.189:8080/channels/tw-304/playlist.m3u8
-华视,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
-华视新闻,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
-华视教育体育文化,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
+壹新聞,http://stream.nexttv.com.tw/n001/playlist.m3u8
+壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+民視新聞,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+民视新闻台,http://210.61.56.23/hls/ftvtv/index.m3u8
+寰宇新聞台,http://seb.sason.top/sc/hyxw.m3u8
+三立Live新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
+三立iNews新闻,http://seb.sason.top/sc/slinews_fhd.m3u8
+中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
+東森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8
+华視新闻,http://seb.sason.top/sc/hsxw_fhd.m3u8
+TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+中視新闻,http://seb.sason.top/sc/zsxw_fhd.m3u8
+台視新闻,http://seb.sason.top/sc/tsxw_fhd.m3u8
+民視,http://seb.sason.top/ptv/ftv.php?id=ms
+民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
+民視旅游台,http://seb.sason.top/ptv/ftv.php?id=ly
+民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
+民視新聞台,http://seb.sason.top/sc/msxw_fhd.m3u8
+民視綜藝台,http://seb.sason.top/ptv/ftv.php?id=zy
+民視影劇台,http://seb.sason.top/ptv/ftv.php?id=yj
+東森財經新聞台,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+華視新聞資訊 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8
+華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
 
 🇭🇰港台测试Ⅰ,#genre#
 
@@ -547,7 +561,7 @@ Supersports 2,http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
 Supersports 3,http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 Supersports 4,http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 
-翻墙专区Ⅰ,#genre#
+翻墙专区,#genre#
 RTHK31,http://livetv.dnsfor.me:80/channel.1.m3u8
 RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
 Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
@@ -580,29 +594,7 @@ RTHK31,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
 RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 beIN Xtra,https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 
-壹新聞,http://stream.nexttv.com.tw/n001/playlist.m3u8
-壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
-民視新聞,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-民视新闻台,http://210.61.56.23/hls/ftvtv/index.m3u8
-寰宇新聞台,http://seb.sason.top/sc/hyxw.m3u8
-三立Live新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
-三立iNews新闻,http://seb.sason.top/sc/slinews_fhd.m3u8
-中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
-東森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8
-华視新闻,http://seb.sason.top/sc/hsxw_fhd.m3u8
-TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-中視新闻,http://seb.sason.top/sc/zsxw_fhd.m3u8
-台視新闻,http://seb.sason.top/sc/tsxw_fhd.m3u8
-民視,http://seb.sason.top/ptv/ftv.php?id=ms
-民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
-民視旅游台,http://seb.sason.top/ptv/ftv.php?id=ly
-民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
-民視新聞台,http://seb.sason.top/sc/msxw_fhd.m3u8
-民視綜藝台,http://seb.sason.top/ptv/ftv.php?id=zy
-民視影劇台,http://seb.sason.top/ptv/ftv.php?id=yj
-東森財經新聞台,http://seb.sason.top/sc/dscjxw_fhd.m3u8
-華視新聞資訊 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8
-華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
+
 
 ⚽体育综合,#genre#
 广东体育频道,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
