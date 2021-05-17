@@ -30,18 +30,11 @@ CCTV-17农业农村,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/32
 怀旧剧场,http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/hjjc/hjjc711/1000/index.m3u8?ProgramID=&encrypt=1$河南郑州市移动
 第一剧场,http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/dyjc/dyjc711/1000/index.m3u8?ProgramID=&encrypt=1$河南郑州市移动
 世界地理,http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/sjdl/sjdl711/1000/index.m3u8?ProgramID=&encrypt=1$河南郑州市移动
-世界地理,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=sjdl
-兵器科技,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=bqkj
-卫生健康,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=wsjk
-央视台球,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=ystq
-女性时尚,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=nxss
-怀旧剧场,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=hjjc
-第一剧场,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=dyjc
-风云剧场,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=fyjc
-风云足球,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=fyzq
-风云音乐,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=fyyy
-高尔夫网球,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=gefwq
-
+怀旧剧场,rtmp://58.200.131.2:1935/livetv/hjjctv
+第一剧场,rtmp://58.200.131.2:1935/livetv/dyjctv
+风云足球,rtmp://58.200.131.2:1935/livetv/fyzqtv
+兵器科技,rtmp://58.200.131.2:1935/livetv/gfjstv
+风云足球,rtmp://ivi.bupt.edu.cn:1935/livetv/fyzqtv
 CCTV-1综合,http://39.134.39.39/PLTV/88888888/224/3221226247/index.m3u8$兰州8M
 CCTV-2财经,http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8$兰州8M
 CCTV-3综艺,http://39.134.39.39/PLTV/88888888/224/3221226251/index.m3u8$兰州8M
@@ -631,6 +624,9 @@ NBA HD,https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 FOX HD,https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 FOX MOVIES,https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 FOX家庭影院,https://livecdn.fptplay.net/hda/foxfamilymovies_2000.stream/chunklist.m3u8
+FOX SPORTS 1,https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8#https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport1
+FOX SPORTS 2,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8#https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport2
+FOX SPORTS 3,https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8#https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport3
 Blue Ant Entertainment,https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 KIX MALAY,https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 Fox Family Movies,https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
@@ -643,12 +639,25 @@ Asian Food Network,https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2
 Outdoor Channel,https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 動物星球頻道,https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 National Geographic HD,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-FOX SPORTS 1,https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8#https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport1
-FOX SPORTS 2,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8#https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport2
-FOX SPORTS 3,https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8#https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport3
 
+aramount Channel,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+Nat Geo Wild,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
+Discovery Channel,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
+Fox Sports 2,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
+Baby First,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BABYFIRST-SD-720p/chunks.m3u8
+Cartoon Network HD,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
+Fox Family Movies,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+Fox Life,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXLIFE-SD-720p/playlist.m3u8
+Fox Movies HD,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+CinemaWorld,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8
+WarnerTV,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
+AXN HD,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+Asian Food Network,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
+Channel V HD,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
+Davinci HD,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
+Fox HD,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 🎵音乐频道,#genre#
-Channel [V],https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+Channel [V],https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8#https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 Channel V,rtmp://58.200.131.2/livetv/channelv
 Channel V,rtmp://58.200.131.2:1935/livetv/channelv
 MTV 音乐频道,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
@@ -690,10 +699,8 @@ SiTV欢笑剧场 15M2160,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/P
 咪咕体育 31M2160HDR,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230373/index.m3u8
 咪咕4K,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226399/1.m3u8
 爱上4K测试,http://39.134.24.24/PLTV/88888888/224/3221226005/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8#http://118.123.60.5:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=097&Provider_id=&Pcontent_id=index.m3u8#http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=092&Provider_id=&Pcontent_id=index.m3u8
-4K超高清电影,http://live.rxip.sc96655.com/live/emdy4k_8000.m3u8$四川广电
-CHC高清电影,http://live.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8$四川广电
-CHC动作电影,http://live.rxip.sc96655.com/live/gef.wqCHCdzdyH265_4000.m3u8$四川广电
-CHC家庭影院,http://live.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8$四川广电
+百视通轮播(谍战),http://39.135.230.66/ott.fj.chinamobile.com/PLTV/88888888/224/3221227045/index.m3u8
+百视通轮播(科幻),http://39.135.230.79/ott.fj.chinamobile.com/PLTV/88888888/224/3221227037/index.m3u8
 CHC动作电影,http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 CHC动作电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 CHC动作电影,http://39.134.18.69:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8?icpid=88888888&from=1&ocs=2_39.134.18.69_80&hms_devid=7855&vqe=3
@@ -1366,100 +1373,7 @@ NewTV金牌综艺 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/32212
 咪咕视频 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226383/1.m3u8
 咪咕视频 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226384/1.m3u8
 咪咕视频 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226400/1.m3u8
- 📺易视腾源,#genre#
-纯享4K 20M2160,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=2
-CCTV1 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=2
-CCTV1 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=2
-CCTV2 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=2
-CCTV2 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=2
-CCTV3 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=2
-CCTV3 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000013682&livemode=1&stbId=2
-CCTV4 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=2
-CCTV5 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=2
-CCTV5+ 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=2
-CCTV6 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=2
-CCTV6 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=2
-CCTV7 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=2
-CCTV7 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000024341&livemode=1&stbId=2
-CCTV8 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=2
-CCTV8 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000031433&livemode=1&stbId=2
-CCTV9 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028286&livemode=1&stbId=2
-CCTV9 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=2
-CCTV10 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000026367&livemode=1&stbId=2
-CCTV10 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023734&livemode=1&stbId=2
-CCTV11 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=2
-CCTV12 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001640&livemode=1&stbId=2
-CCTV12 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000032494&livemode=1&stbId=2
-CCTV13 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=2
-CCTV14 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021349&livemode=1&stbId=2
-CCTV14 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008170&livemode=1&stbId=2
-CCTV15 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=2
-CCTV17 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=2
-东南卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=2
-东方卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=2
-东方卫视 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000005866&livemode=1&stbId=2
-北京卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017156&livemode=1&stbId=2
-北京卫视 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021288&livemode=1&stbId=2
-天津卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000831&livemode=1&stbId=2
-天津卫视 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003475&livemode=1&stbId=2
-安徽卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020780&livemode=1&stbId=2
-安徽卫视 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000030159&livemode=1&stbId=2
-山东卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012807&livemode=1&stbId=2
-广东卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028357&livemode=1&stbId=2
-广东卫视 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014176&livemode=1&stbId=2
-江苏卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004684&livemode=1&stbId=2
-江苏卫视 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001828&livemode=1&stbId=2
-江西卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000013731&livemode=1&stbId=2
-浙江卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=2
-浙江卫视 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014260&livemode=1&stbId=2
-深圳卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011645&livemode=1&stbId=2
-深圳卫视 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009227&livemode=1&stbId=2
-辽宁卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000024033&livemode=1&stbId=2
-湖北卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000010355&livemode=1&stbId=2
-湖北卫视 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000024621&livemode=1&stbId=2
-湖南卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=2
-湖南卫视 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000032695&livemode=1&stbId=2
-海南卫视 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=2
-重庆卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=2
-黑龙江卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009082&livemode=1&stbId=2
-黑龙江卫视 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=2
-黑莓电竞 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003775&livemode=1&stbId=2
-黑莓电竞 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006906&livemode=1&stbId=2
-黑莓电竞 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5320946857686967621&livemode=1&stbId=2
-黑莓电影 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=2
-黑莓动画 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=2
-上海纪实人文 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000010606&livemode=1&stbId=2
-上海纪实人文 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016545&livemode=1&stbId=2
-上海五星体育 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5000000010000017540&livemode=1&stbId=2
-北京冬奥纪实 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=2
-NewTV中国功夫 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=2
-NewTV军事评论 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5822616274253344775&livemode=1&stbId=2
-NewTV军旅剧场 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7485075951068666323&livemode=1&stbId=2
-NewTV农业致富 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=2
-NewTV动作电影 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=2
-NewTV古装剧场 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6859053933687922163&livemode=1&stbId=2
-NewTV家庭剧场 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6316377948248689070&livemode=1&stbId=2
-NewTV怡伴健康 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7820874641606664941&livemode=1&stbId=2
-NewTV惊悚悬疑 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7151256057701199617&livemode=1&stbId=2
-NewTV明星大片 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=2
-NewTV明星大片 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=2
-NewTV武搏世界 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=2
-NewTV海外剧场 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=2
-NewTV潮妈辣婆 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=2
-NewTV炫舞未来 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=2
-NewTV爱情喜剧 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8393829412396288037&livemode=1&stbId=2
-NewTV精品体育 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6460382139625130259&livemode=1&stbId=2
-NewTV精品大剧 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7882297361445410858&livemode=1&stbId=2
-NewTV精品纪录 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6298506997017621594&livemode=1&stbId=2
-NewTV超级体育 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009204&livemode=1&stbId=2
-NewTV超级体育 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=2
-NewTV超级电影 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012884&livemode=1&stbId=2
-NewTV超级电影 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=2
-NewTV超级电视剧 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008139&livemode=1&stbId=2
-NewTV超级综艺 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000025771&livemode=1&stbId=2
-NewTV超级综艺 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=2
-NewTV金牌综艺 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=2
-NewTV魅力潇湘 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=2
+
 📺浙江移动,#genre#
 CCTV4K 35M2160,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls
 百视通4K 22M2160,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/01.m3u8?fmt=ts2hls
@@ -1670,104 +1584,7 @@ NewTV金牌综艺 4M1080,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/P
 央广购物 4M1080,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231409/index.m3u8
 山西优购物 4M1080,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231360/index.m3u8
 山西优购物 4M1080,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231415/index.m3u8
-📺贵州广电,#genre#
-多彩云导视 8M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=dcyds
-CCTV4K 20M2160HDR,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=cctv4k
-CCTV1 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=cctv1
-CCTV2 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=cctv2
-CCTV3 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=cctv3
-CCTV4 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=cctv4
-CCTV5 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=cctv5
-CCTV6 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=cctv6
-CCTV7 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=cctv7
-CCTV8 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=cctv8
-CCTV9 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=cctv9
-CCTV10 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=cctv10
-CCTV-11戏曲,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=cctv11
-CCTV12 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=cctv12
-CCTV-13新闻,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=cctv13
-CCTV14 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=cctv14
-CCTV17 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=cctv17
-CCTV世界地理 6M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=sjdl
-CCTV兵器科技 6M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=bqkj
-CCTV卫生健康 6M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=wsjk
-CCTV央视台球 6M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=ystq
-CCTV女性时尚 6M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=nxss
-CCTV怀旧剧场 6M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=hjjc
-CCTV文化精品 6M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=whjp
-CCTV第一剧场 6M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=dyjc
-CCTV风云剧场 6M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=fyjc
-CCTV风云足球 6M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=fyzq
-CCTV风云音乐 6M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=fyyy
-CCTV高尔夫网球 6M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=gefwq
-中国教育1 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=zgjy1
-东南卫视 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=dnws
-东方卫视 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=dfws
-北京卫视 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=bjws
-吉林卫视 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=jlws
-四川卫视 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=scws
-安徽卫视 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=ahws
-山东卫视 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=sdws
-广东卫视 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=gdws
-江苏卫视 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=jsws
-江西卫视 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=jxws
-浙江卫视 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=zjws
-深圳卫视 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=szws
-湖南卫视 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=hunws
-贵州卫视 12M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=gzws
-辽宁卫视 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=lnws
-重庆卫视 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=cqws
-广西卫视 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=gxws
-黑龙江卫视 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=hljws
-CBN幸福剧场 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=cbnxfjc
-CBN幸福娱乐 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=cbnxfyl
-CBN每日影院 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=cbnmryy
-CBN风尚生活 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=cbnfssh
-CHC动作电影 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=chcdzdy
-CHC家庭影院 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=chcjtyy
-CHC高清电影 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=chcgqdy
-Dox剧场 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=doxjc
-Dox怡家 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=doxyj
-Dox新知 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=doxxz
-Dox新艺 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=doxxy
-Dox映画 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=doxyh
-Dox环映 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=doxyx
-Dox英伦 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=doxyl
-Dox雅趣 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=doxyq
-Hot精彩影视 8M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=jcyshd
-SiTV全纪实 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=qjshd
-SiTV动漫秀场 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=dmxchd
-SiTV劲爆体育 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=jbty
-SiTV幸福彩 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=xfchd
-SiTV极速汽车 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=jsqc
-SiTV欢笑剧场 8M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=hxjchd
-SiTV法治天地 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=cm
-SiTV游戏风云 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=yxfy
-SiTV生活时尚 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=shss
-SiTV都市剧场 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=dsjchd
-SiTV金色频道 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=hqly
-SiTV魅力足球 7M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=mlylhd
-湖南快乐垂钓 6M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=klcd
-求索纪录 8M1080,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=qsjlhd
-凤凰中文 576,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=fhzw
-凤凰电影 576,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=fhdy
-凤凰资讯 576,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=fhzx
-星空电影 576,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=wsgjdy
-卫视体育 576,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=wsty2
-卫视体育2 576,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=wsty
-卫视国际电影 576,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=wsgjdy
-卫视音乐 576,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=v
-国家地理 576,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=gjdl
-AXN 576,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=axn
-Cinemax 576,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=cinemax
-Discovery 576,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=ts
-DoxTV 576,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=doxtv
-HBO 576,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=hbo
-MTV 576,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=mtv
-NHK 576,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=bbc
-POCC 576,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=pocc
-TV5 576,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=tv5
-书画频道 576,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=shpd
+
 📺上海联通,#genre#
 CCTV1,http://140.207.241.3:8080/live/program/live/cctv1hd/4000000/mnf.m3u8
 CCTV3,http://140.207.241.3:8080/live/program/live/cctv3hd/4000000/mnf.m3u8
