@@ -456,59 +456,6 @@ RTHK32,http://teslagram.com/live/channel_32.m3u8#https://rthklive2-lh.akamaihd.n
 凤凰中文(代),http://www.chahaoquan.com/wz/epg/fhdl.php?id=2
 
 🇹🇼台湾频道🇹🇼,#genre#
-AXN,http://211.75.9.37:20020/20029
-CINEMAX电影 720,http://211.75.9.37:20060/20063
-CINEMAX电影 720HEVC,http://211.75.9.37:20020/20023
-CN卡通 720HEVC,http://211.75.9.37:20040/20043
-Fox体育 720,http://211.75.9.37:20060/20065
-Fox体育 720HEVC,http://211.75.9.37:20020/20025
-Fox电影 720HEVC,http://211.75.9.37:20040/20046
-HBO原创巨献 720,http://211.75.9.37:20030/20035
-HBO原创巨献 720HEVC,http://211.75.9.37:20030/20034
-HBO家庭影院 720,http://211.75.9.37:20030/20037
-HBO家庭影院 720HEVC,http://211.75.9.37:20030/20036
-HBO强档巨献 720,http://211.75.9.37:20030/20033
-HBO强档巨献 720HEVC,http://211.75.9.37:20030/20032
-JET综合 720HEVC,http://211.75.9.37:20030/20031
-TLC 720HEVC,http://211.75.9.37:20000/20001
-TVBS 720HEVC,http://211.75.9.37:20010/20016
-TVBS欢乐台 720HEVC,http://211.75.9.37:20010/20013
-TVBS精选 720,http://211.75.9.37:20060/20068
-三立台湾台 720,http://211.75.9.37:20050/20053
-三立台湾台 720HEVC,http://211.75.9.37:20040/20041
-三立新闻 720,http://211.75.9.37:20050/20056
-三立新闻 720HEVC,http://211.75.9.37:20010/20015
-三立都会台 720,http://211.75.9.37:20050/20054
-三立都会台 720HEVC,http://211.75.9.37:20040/20042
-东森幼幼 720HEVC,http://211.75.9.37:20000/20008
-东森戏剧 720HEVC,http://211.75.9.37:20010/20012
-东森新闻 720HEVC,http://211.75.9.37:20000/20005
-东森洋片 1080HEVC,http://211.75.9.37:20010/20018
-东森洋片 540,http://211.75.9.37:20060/20069
-东森电影 720HEVC,http://211.75.9.37:20050/20051
-东森综合 720HEVC,http://211.75.9.37:20040/20045
-东森财经新闻 720,http://211.75.9.37:20050/20057
-东森财经新闻 720HEVC,http://211.75.9.37:20010/20017
-中天新闻 720,http://211.75.9.37:20060/20067
-中天新闻 720HEVC,http://211.75.9.37:20010/20011
-中天综合 720HEVC,http://211.75.9.37:20000/20007
-动物星球 720HEVC,http://211.75.9.37:20000/20002
-卫视中文台 720HEVC,http://211.75.9.37:20000/20006
-卫视电影台 720HEVC,http://211.75.9.37:20020/20026
-好莱坞电影 720,http://211.75.9.37:20060/20062
-好莱坞电影 720HEVC,http://211.75.9.37:20020/20022
-年代新闻 720,http://211.75.9.37:20050/20055
-年代新闻 720HEVC,http://211.75.9.37:20010/20014
-纬来体育 720,http://211.75.9.37:20060/20064
-纬来体育 720HEVC,http://211.75.9.37:20020/20024
-纬来戏剧 720HEVC,http://211.75.9.37:20040/20047
-纬来电影 720HEVC,http://211.75.9.37:20020/20027
-纬来综合 720HEVC,http://211.75.9.37:20000/20003
-纬来育乐 720HEVC,http://211.75.9.37:20000/20004
-迪士尼 720HEVC,http://211.75.9.37:20040/20044
-非凡商业 720HEVC,http://211.75.9.37:20050/20052
-非凡新闻 720,http://211.75.9.37:20060/20061
-非凡新闻 720HEVC,http://211.75.9.37:20020/20028
 星级剧集台,http://hls.haokan.bdstatic.com/haokan/stream_bduid_31696503_0.m3u8
 壹新聞,http://stream.nexttv.com.tw/n001/playlist.m3u8
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
@@ -533,39 +480,39 @@ TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 東森財經新聞台,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 華視新聞資訊 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8
 華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
-🇭🇰港台测试Ⅰ,#genre#
-RTHK31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
-RTHK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
-RTHK33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
-翡翠台 1080P,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
-J2 1080P,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
-无线新闻 1080P,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
-明珠台HD,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-无线财经资讯台 1080P,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
-ViuTV 6HD,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
-ViuTV 1080P,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-凤凰中文台,http://93.190.139.36:8278/streams/d/phoenixtv_hd/playlist.m3u8
-凤凰资讯台,http://93.190.139.36:8278/streams/d/phoenixinfo_hd/playlist.m3u8
-凤凰香港台,http://93.190.139.36:8278/streams/d/hkphoenix_twn/playlist.m3u8
-有线新闻,http://93.190.139.36:8278/streams/d/hkcnews_twn/playlist.m3u8
-HK03_電影一臺,http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
-ViuTV,http://93.190.139.36:8278/streams/d/viu_twn/playlist.m3u8
-Viu1TV,http://93.190.139.36:8278/streams/d/viu1_twn/playlist.m3u8
-RTHK31,http://93.190.139.36:8278/streams/d/rhk31_twn/playlist.m3u8
-RTHK32,http://93.190.139.36:8278/streams/d/rhk32_twn/playlist.m3u8
-TVB·翡翠台,http://93.190.139.36:8278/streams/d/jade_twn/playlist.m3u8
-TVB·明珠台,http://93.190.139.36:8278/streams/d/pearl_twn/playlist.m3u8
-TVB·J2,http://93.190.139.36:8278/streams/d/j2_twn/playlist.m3u8
-TVB 新闻台,http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
-TVB·财经台,http://93.190.139.36:8278/streams/d/j5_twn/playlist.m3u8
-HBO Family,http://93.190.139.34:8278/streams/d/Hbofamily/playlist.m3u8
-HBO hits,http://93.190.139.34:8278/streams/d/Hbohits/playlist.m3u8
-FOX HD,http://93.190.139.34:8278/streams/d/Foxhd/playlist.m3u8
-FOX MOVIE,http://93.190.139.34:8278/streams/d/Foxmovie/playlist.m3u8
-AXN,http://93.190.139.34:8278/streams/d/Axn/playlist.m3u8
-CHC 家庭影院,http://93.190.139.36:8278/streams/d/chcfamily/playlist.m3u8
-CHC 高清电影,http://93.190.139.36:8278/streams/d/chchdmovie/playlist.m3u8
-CHC 动作电影,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
+
+翻墙专区,#genre#
+RTHK31,http://livetv.dnsfor.me:80/channel.1.m3u8
+RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
+Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
+Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
+有線新聞台 HD,http://livetv.dnsfor.me:80/channel.5.m3u8
+有線財經資訊台 HD,http://livetv.dnsfor.me:80/channel.6.m3u8
+有線綜合娛樂台 HD,http://livetv.dnsfor.me:80/channel.7.m3u8
+開電視,http://livetv.dnsfor.me:80/channel.9.m3u8
+無綫新聞台,http://livetv.dnsfor.me:80/channel.10.m3u8
+無綫財經資訊台,http://livetv.dnsfor.me:80/channel.11.m3u8
+Now Sports Prime 630,http://livetv.dnsfor.me:80/channel.12.m3u8
+ATV,http://livetv.dnsfor.me:80/channel.14.m3u8
+HKS香港卫视,http://livetv.dnsfor.me:80/channel.15.m3u8
+凤凰香港台,http://livetv.dnsfor.me:80/channel.16.m3u8
+CCTV5HD,http://livetv.dnsfor.me:80/channel.17.m3u8
+翡翠台,http://livetv.dnsfor.me:80/channel.18.m3u8
+J2,http://livetv.dnsfor.me:80/channel.19.m3u8
+VIU TV,http://livetv.dnsfor.me:80/channel.20.m3u8
+鳳凰資訊台,http://livetv.dnsfor.me:80/channel.21.m3u8
+星空卫视,http://livetv.dnsfor.me:80/channel.22.m3u8
+UNIVERSE TV,http://livetv.dnsfor.me:80/channel.23.m3u8
+亚旅卫视,http://livetv.dnsfor.me:80/channel.24.m3u8
+
+开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
+开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+LUXE TV,http://58.26.3.53/PLTV/88888888/224/3221226265/06.m3u8
+RTHK31 ★,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+RTHK32 ★,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+RTHK31,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
+RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+beIN Xtra,https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 
 🇭🇰马来测试,#genre#
 AOD,http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
@@ -623,39 +570,39 @@ Supersports 2,http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
 Supersports 3,http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 Supersports 4,http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 
-翻墙专区,#genre#
-RTHK31,http://livetv.dnsfor.me:80/channel.1.m3u8
-RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
-Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
-Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
-有線新聞台 HD,http://livetv.dnsfor.me:80/channel.5.m3u8
-有線財經資訊台 HD,http://livetv.dnsfor.me:80/channel.6.m3u8
-有線綜合娛樂台 HD,http://livetv.dnsfor.me:80/channel.7.m3u8
-開電視,http://livetv.dnsfor.me:80/channel.9.m3u8
-無綫新聞台,http://livetv.dnsfor.me:80/channel.10.m3u8
-無綫財經資訊台,http://livetv.dnsfor.me:80/channel.11.m3u8
-Now Sports Prime 630,http://livetv.dnsfor.me:80/channel.12.m3u8
-ATV,http://livetv.dnsfor.me:80/channel.14.m3u8
-HKS香港卫视,http://livetv.dnsfor.me:80/channel.15.m3u8
-凤凰香港台,http://livetv.dnsfor.me:80/channel.16.m3u8
-CCTV5HD,http://livetv.dnsfor.me:80/channel.17.m3u8
-翡翠台,http://livetv.dnsfor.me:80/channel.18.m3u8
-J2,http://livetv.dnsfor.me:80/channel.19.m3u8
-VIU TV,http://livetv.dnsfor.me:80/channel.20.m3u8
-鳳凰資訊台,http://livetv.dnsfor.me:80/channel.21.m3u8
-星空卫视,http://livetv.dnsfor.me:80/channel.22.m3u8
-UNIVERSE TV,http://livetv.dnsfor.me:80/channel.23.m3u8
-亚旅卫视,http://livetv.dnsfor.me:80/channel.24.m3u8
-
-开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
-开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-LUXE TV,http://58.26.3.53/PLTV/88888888/224/3221226265/06.m3u8
-RTHK31 ★,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
-RTHK32 ★,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
-RTHK31,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
-RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
-beIN Xtra,https://bein-plutolive-vo.akamaized.net/playlist.m3u8
-
+🇭🇰港台测试Ⅰ,#genre#
+RTHK31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
+RTHK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
+RTHK33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
+翡翠台 1080P,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+J2 1080P,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+无线新闻 1080P,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+明珠台HD,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+无线财经资讯台 1080P,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
+ViuTV 6HD,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+ViuTV 1080P,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+凤凰中文台,http://93.190.139.36:8278/streams/d/phoenixtv_hd/playlist.m3u8
+凤凰资讯台,http://93.190.139.36:8278/streams/d/phoenixinfo_hd/playlist.m3u8
+凤凰香港台,http://93.190.139.36:8278/streams/d/hkphoenix_twn/playlist.m3u8
+有线新闻,http://93.190.139.36:8278/streams/d/hkcnews_twn/playlist.m3u8
+HK03_電影一臺,http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
+ViuTV,http://93.190.139.36:8278/streams/d/viu_twn/playlist.m3u8
+Viu1TV,http://93.190.139.36:8278/streams/d/viu1_twn/playlist.m3u8
+RTHK31,http://93.190.139.36:8278/streams/d/rhk31_twn/playlist.m3u8
+RTHK32,http://93.190.139.36:8278/streams/d/rhk32_twn/playlist.m3u8
+TVB·翡翠台,http://93.190.139.36:8278/streams/d/jade_twn/playlist.m3u8
+TVB·明珠台,http://93.190.139.36:8278/streams/d/pearl_twn/playlist.m3u8
+TVB·J2,http://93.190.139.36:8278/streams/d/j2_twn/playlist.m3u8
+TVB 新闻台,http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
+TVB·财经台,http://93.190.139.36:8278/streams/d/j5_twn/playlist.m3u8
+HBO Family,http://93.190.139.34:8278/streams/d/Hbofamily/playlist.m3u8
+HBO hits,http://93.190.139.34:8278/streams/d/Hbohits/playlist.m3u8
+FOX HD,http://93.190.139.34:8278/streams/d/Foxhd/playlist.m3u8
+FOX MOVIE,http://93.190.139.34:8278/streams/d/Foxmovie/playlist.m3u8
+AXN,http://93.190.139.34:8278/streams/d/Axn/playlist.m3u8
+CHC 家庭影院,http://93.190.139.36:8278/streams/d/chcfamily/playlist.m3u8
+CHC 高清电影,http://93.190.139.36:8278/streams/d/chchdmovie/playlist.m3u8
+CHC 动作电影,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
 
 
 ⚽体育综合,#genre#
@@ -699,6 +646,7 @@ National Geographic HD,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chu
 FOX SPORTS 1,https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8#https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport1
 FOX SPORTS 2,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8#https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport2
 FOX SPORTS 3,https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8#https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport3
+
 🎵音乐频道,#genre#
 Channel [V],https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 Channel V,rtmp://58.200.131.2/livetv/channelv
@@ -2306,7 +2254,6 @@ FTV③欧莱雅,https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
 FTV④午夜秘密,http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 FTV④午夜秘密,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 FTV④午夜秘密,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
-
 
 Fashion时装,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 a3 Bikini,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
