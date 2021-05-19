@@ -1,6 +1,6 @@
+#EXTM3U
 
 #央视频道
-#EXTM3U
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/10/8/1570468475876_655.png" group-title="央视", 央视新闻
 https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4K
@@ -963,7 +963,7 @@ https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi_1080p.m3u
 http://112.17.40.139/PLTV/88888888/224/3221226368/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="https://rb.gy/opr7sq" group-title="香港頻道",創世電視
 https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
-#EXTM3U
+
 # 澳門頻道
 #EXTINF:-1 tvg-id="" tvg-logo="https://rb.gy/by4mta" group-title="澳門頻道",澳視澳門
 http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
