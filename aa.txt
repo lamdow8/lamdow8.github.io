@@ -2136,14 +2136,17 @@ HOTns2,mitv://ns2.hellotvvod.com:9906/604c896000002f44ba234c2e19716622
 
 
 中国移动_1,#genre#
-彩虹e台,mitv://ns2.hellotvvod.com:9906/5f8981c0000ec1bd2eb8f83d6e1d70ec.ts
-彩虹電影台,mitv://ns2.hellotvvod.com:9906/5f8981c1000557c82eb8f9b427146e0f.ts
-LOOK TV,mitv://ns2.hellotvvod.com:9906/5f6f13fd000df5af9efa871e6c7b3ce4.ts
-潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/5f89837800056df62ebfac9c6a20310d.ts
-驚豔成人電影台,mitv://ns2.hellotvvod.com:9906/5f898378000aecef2ebfae03144d6e94.ts
-松視1台,mitv://ns2.hellotvvod.com:9906/5f897f67000298ef2eafc978696968c5.ts
-松視2台,mitv://ns2.hellotvvod.com:9906/5f89837900017eef2ebfaf7a483e2b6a.ts
-JStar極限台電影頻道,mitv://ns2.hellotvvod.com:9906/5f8984c100059f812ec4b1c42bbd637b.ts
+彩虹E台,mitv://ns2.hellotvvod.com:9906/c25019124f3645afbdc3e4a4dfd1682c
+彩虹电影台,mitv://ns2.hellotvvod.com:9906/420eb811b47042c2a74e7b21ebcf67cb
+LOOK TV,mitv://ns2.hellotvvod.com:9906/221ef2707d8a41f1b1a64cf71e453219
+潘多拉玩美台,mitv://ns2.hellotvvod.com:9906/7ad121b48700493db7665f7f8442a195
+潘多拉粉红台,mitv://ns2.hellotvvod.com:9906/700d7a8c3f904192b06c484db6a82795
+惊艳成人台,mitv://ns2.hellotvvod.com:9906/1fd26742b98f488786cdd80c5689b0b8
+香蕉台,mitv://ns2.hellotvvod.com:9906/83a5f224813b4fb1a7794729728ae518
+松视1,mitv://ns2.hellotvvod.com:9906/5fe8948420ee47be9ad6764c7e40b510
+松视2,mitv://ns2.hellotvvod.com:9906/11a7fe17c2c94bcfb1185dee359f314b
+HOT,mitv://ns2.hellotvvod.com:9906/1666d67b41bf40a6b6a173bf2897b55b
+PLAYBOY,mitv://ns2.hellotvvod.com:9906/9c626b3b95664c93b57d4469a1c78cec
 Live Cams,http://cdn.adultiptv.net/livecams.m3u8
 Anal,http://cdn.adultiptv.net/anal.m3u8
 Big Ass,http://cdn.adultiptv.net/bigass.m3u8
