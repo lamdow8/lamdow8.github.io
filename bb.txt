@@ -1,6 +1,6 @@
 
 喜爱频道,#genre#
-书画频道(新),http://sun.chxjon.cn/iptv/qq2383132354/gzyx.php?id=shpd#http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&playtoken=31667LZMVCGFXDL10&verifycode=2000000576&rate=org&programid=4200000099.m3u8&ts=50&auth=no
+书画频道(新),http://tyzbcdn.chxjon.cn/iptv/qq2383132354/gzyx.php?id=shpd#http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&playtoken=31667LZMVCGFXDL10&verifycode=2000000576&rate=org&programid=4200000099.m3u8&ts=50&auth=no
 书画频道(新加),http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000180
 书画频道,rtmp://112.73.66.58/livepkgr/shtv#http://wx.tt1008.top/gd.php?id=shuhua_1500#http://36.112.79.186:8235/hls/hd-live.m3u8#http://125.210.152.18:9090/live/SH.m3u8#http://gehua-back2source.beijingcloud.com.cn:8088/vsd33/live/ShuHuaPinDao_2000.m3u8?a=0&ET=1608085398475&TOKEN=733f6308f32af8710c91405a2d513380
 CCTV央视台球 8M1080,http://39.135.253.38/PLTV/88888888/224/3221230173/index.m3u8
@@ -10,22 +10,22 @@ CCTV怀旧剧场,http://39.135.253.10/PLTV/88888888/224/3221230091/index.m3u8
 CCTV世界地理,http://39.135.253.10/PLTV/88888888/224/3221230072/index.m3u8
 CCTV电视指南,http://39.135.253.21/PLTV/88888888/224/3221230078/index.m3u8
 CCTV风云音乐,http://39.135.253.10/PLTV/88888888/224/3221230089/index.m3u8
-CCTV兵器科技,http://sun.chxjon.cn/iptv/qq2383132354/gzyx.php?id=bqkj
-CCTV央视台球,http://sun.chxjon.cn/iptv/qq2383132354/gzyx.php?id=ystq
-CCTV文化精品,http://sun.chxjon.cn/iptv/qq2383132354/gzyx.php?id=ysjp
-CCTV精品剧场,http://sun.chxjon.cn/iptv/qq2383132354/gzyx.php?id=jpjc
-CCTV世界地理,http://sun.chxjon.cn/iptv/qq2383132354/gzyx.php?id=sjdl
-CCTV高尔网球,http://sun.chxjon.cn/iptv/qq2383132354/gzyx.php?id=gefwq
-CCTV怀旧剧场,http://sun.chxjon.cn/iptv/qq2383132354/gzyx.php?id=hjjc
-CCTV第一剧场,http://sun.chxjon.cn/iptv/qq2383132354/gzyx.php?id=dyjc
-CCTV风云剧场,http://sun.chxjon.cn/iptv/qq2383132354/gzyx.php?id=fyjc
-CCTV风云音乐,http://sun.chxjon.cn/iptv/qq2383132354/gzyx.php?id=fyyy
-CCTV风云足球,http://sun.chxjon.cn/iptv/qq2383132354/gzyx.php?id=fyzq
-CCTV女性时尚,http://sun.chxjon.cn/iptv/qq2383132354/gzyx.php?id=nxss
-CCTV卫生健康,http://sun.chxjon.cn/iptv/qq2383132354/gzyx.php?id=wsjk
-CCTV老故事台,http://sun.chxjon.cn/iptv/qq2383132354/gzyx.php?id=lgs
-CCTV发现之旅,http://sun.chxjon.cn/iptv/qq2383132354/gzyx.php?id=fxzl
-CCTV中学生台,http://sun.chxjon.cn/iptv/qq2383132354/gzyx.php?id=hbxxzn
+CCTV兵器科技,http://tyzbcdn.chxjon.cn/iptv/qq2383132354/gzyx.php?id=bqkj  
+CCTV央视台球,http://tyzbcdn.chxjon.cn/iptv/qq2383132354/gzyx.php?id=ystq  
+CCTV文化精品,http://tyzbcdn.chxjon.cn/iptv/qq2383132354/gzyx.php?id=ysjp   
+CCTV精品剧场,http://tyzbcdn.chxjon.cn/iptv/qq2383132354/gzyx.php?id=jpjc  
+CCTV世界地理,http://tyzbcdn.chxjon.cn/iptv/qq2383132354/gzyx.php?id=sjdl   
+CCTV高尔网球,http://tyzbcdn.chxjon.cn/iptv/qq2383132354/gzyx.php?id=gefwq   
+CCTV怀旧剧场,http://tyzbcdn.chxjon.cn/iptv/qq2383132354/gzyx.php?id=hjjc   
+CCTV第一剧场,http://tyzbcdn.chxjon.cn/iptv/qq2383132354/gzyx.php?id=dyjc   
+CCTV风云剧场,http://tyzbcdn.chxjon.cn/iptv/qq2383132354/gzyx.php?id=fyjc   
+CCTV风云音乐,http://tyzbcdn.chxjon.cn/iptv/qq2383132354/gzyx.php?id=fyyy   
+CCTV风云足球,http://tyzbcdn.chxjon.cn/iptv/qq2383132354/gzyx.php?id=fyzq   
+CCTV女性时尚,http://tyzbcdn.chxjon.cn/iptv/qq2383132354/gzyx.php?id=nxss   
+CCTV卫生健康,http://tyzbcdn.chxjon.cn/iptv/qq2383132354/gzyx.php?id=wsjk   
+CCTV老故事台,http://tyzbcdn.chxjon.cn/iptv/qq2383132354/gzyx.php?id=lgs 
+CCTV发现之旅,http://tyzbcdn.chxjon.cn/iptv/qq2383132354/gzyx.php?id=fxzl   
+CCTV中学生台,http://tyzbcdn.chxjon.cn/iptv/qq2383132354/gzyx.php?id=hbxxzn
 凤凰中文,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8$BJ720P
 凤凰中文,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8$BJ720P
 凤凰资讯,http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228016/index.m3u8$JS1080P
