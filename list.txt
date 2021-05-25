@@ -1,5 +1,7 @@
-25号NBA直播,#genre#
-掘金vs开拓者,https://zplay.fangyidengji.cn/live/2447256430772845672.m3u8#https://pull.luojizhongyi.com/live/stream-203383.m3u8
+26号NBA直播,#genre#
+凯尔特人vs篮网,https://zplay.fangyidengji.cn/live/2447256430772845672.m3u8#https://pull.luojizhongyi.com/live/stream-203383.m3u8
+湖人vs太阳,https://zplay.fangyidengji.cn/live/2447256430772845672.m3u8#https://pull.luojizhongyi.com/live/stream-203383.m3u8
+独行侠vs快船,https://zplay.fangyidengji.cn/live/2447256430772845672.m3u8#https://pull.luojizhongyi.com/live/stream-203383.m3u8
 🇨🇳央视频道,#genre#
 央视新闻,https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
 CCTV-4K超高清,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=cctv4k#http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls$浙江#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229683/index.m3u8#http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
