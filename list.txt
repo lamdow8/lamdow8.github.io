@@ -1,6 +1,3 @@
-26号NBA直播,#genre#
-湖人vs太阳,https://ipv6-txycdn.video.qq.com/txycdn.video.qq.com/937B8F485C043E9BFCD46F8B1D16D0B2D0FA029A4C7A434E2DC2E3B74E545D6B57695FFA7BA0B58DDD4E7F350370B964154DF7025392B788C15DBC92E0578FEB1B64BFD019FE326BFC35708EFE7B2B6B277512EC6E1C5265B4D7D3117BFD7DA0/1725220302.m3u8?from=player&cdncode=%2f18907E7BE0798990%2f&time=1621993857&cdn=tcloud&sdtfrom=v30212&platform=10201&butype=30&scheduleflag=0&HLSP2P=1&buname=qqlive&vkey=937B8F485C043E9BFCD46F8B1D16D0B2D0FA029A4C7A434E2DC2E3B74E545D6B57695FFA7BA0B58DDD4E7F350370B964154DF7025392B788C15DBC92E0578FEB1B64BFD019FE326BFC35708EFE7B2B6B277512EC6E1C5265B4D7D3117BFD7DA0&drmtype=0
-独行侠vs快船,https://ipv6-txycdn.video.qq.com/txycdn.video.qq.com/29B6D5B14A90894AC794CF0130245F00C228A83522282F721BD29A9D8CF1CC81CC08576D19CEAFFF7B0274FE48BF501C6C5EE3A66C4388895672D53E2E0A22EA5AC314BA723F7D1C74FABA75CFA5EF4F5FD23A295C008EE309267727B2A5D8C4/1339233902.m3u8?from=player&cdncode=%2f18907E7BE0798990%2f&time=1621993991&cdn=tcloud&sdtfrom=v30212&platform=10201&butype=30&scheduleflag=0&HLSP2P=1&buname=qqlive&vkey=29B6D5B14A90894AC794CF0130245F00C228A83522282F721BD29A9D8CF1CC81CC08576D19CEAFFF7B0274FE48BF501C6C5EE3A66C4388895672D53E2E0A22EA5AC314BA723F7D1C74FABA75CFA5EF4F5FD23A295C008EE309267727B2A5D8C4&drmtype=0
 🇨🇳央视频道,#genre#
 央视新闻,https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
 CCTV-4K超高清,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=cctv4k#http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls$浙江#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229683/index.m3u8#http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
@@ -1922,17 +1919,9 @@ NewTV金牌综艺 4M1080,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/2
 紫雨,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20210128/5623330Lm5LmkTruipQZ6sknC.mp4
 
 最爱歌曲,#genre#
-排笛[老鹰之歌],https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200317/5623330n7oQ6uBlXFhUdZTz3A-safe1600663646.m3u8
-雅尼-Rainmaker,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201213/5623330A7S1Bib8Mk1R4xdS35.mp4
-雅尼-On Sacred Ground,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201213/5623330Lqza92Pie30kCoICfj.mp4
-雅尼-For All Seasons,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201213/5623330ewhRb5UqXRRsb9nKqO.mp4
-雅尼-Playtime,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201213/5623330e08trzq9cZvOAB6uP6.mp4
-巨星金曲迎新春 第1集,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/5623330Er2DcyIsoClOlISJ3H.m3u8
-巨星金曲迎新春 第2集,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/5623330OSnsCdwvvnyO7tVo9w.m3u8
-巨星金曲迎新春 第3集,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/5623330DP3dRrYfqtq6VyPBNl.m3u8
-巨星金曲迎新春 第4集,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/56233303FWTFhdGBb9wYV7boH.m3u8
-巨星金曲迎新春 第5集,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/5623330TxVAehrMQwH94njYEM.m3u8
+谁爱谁,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20210424/5623330CBva7lEhVkirCsiIFJ.mp4
 甜蜜蜜,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201231/56233303RsmdkhU56yo7PofTv.mp4
+我的梦,https://rescdn.yishihui.com/longvideo/transcode/video/2019-1-3/751697ea0ee34132a56f29a7f5230b021548387006288.m3u8
 哭砂,https://rescdn.yishihui.com/longvideo/transcode/video/live/201903265623330b7Y5a9jnTT1ZgnKF62.m3u8
 祝福,https://rescdn.yishihui.com/longvideo/transcode/video/live/201905145623330aCm0SD3BtrQpdu4aE0-safe1600664112.m3u8
 虚伪,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201217/5623330PBpqCOlHlGpoXpt1o7.mp4
@@ -1985,7 +1974,16 @@ NewTV金牌综艺 4M1080,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/2
 套马杆,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200316/5623330y3oE8Rxs4Rmygd3NwS.m3u8
 我要去西藏,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200316/5623330SrPMOGycmf4LVtBPf1.m3u8
 天长地久,https://rescdn.yishihui.com/longvideo/transcode/video/live/201907095623330fMIGbfhNGL2arPi87P.m3u8
-
+排笛[老鹰之歌],https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200317/5623330n7oQ6uBlXFhUdZTz3A-safe1600663646.m3u8
+雅尼-Rainmaker,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201213/5623330A7S1Bib8Mk1R4xdS35.mp4
+雅尼-On Sacred Ground,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201213/5623330Lqza92Pie30kCoICfj.mp4
+雅尼-For All Seasons,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201213/5623330ewhRb5UqXRRsb9nKqO.mp4
+雅尼-Playtime,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201213/5623330e08trzq9cZvOAB6uP6.mp4
+巨星金曲迎新春 第1集,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/5623330Er2DcyIsoClOlISJ3H.m3u8
+巨星金曲迎新春 第2集,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/5623330OSnsCdwvvnyO7tVo9w.m3u8
+巨星金曲迎新春 第3集,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/5623330DP3dRrYfqtq6VyPBNl.m3u8
+巨星金曲迎新春 第4集,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/56233303FWTFhdGBb9wYV7boH.m3u8
+巨星金曲迎新春 第5集,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/5623330TxVAehrMQwH94njYEM.m3u8
 怀旧歌曲,#genre#
 浪人情歌,http://qukufile2.qianqian.com/data2/video/f562e3ba4d6ec779c1fb2def8336b2b9/607998066/607998066.mp4
 我是不是你最疼爱的人,http://qukufile2.qianqian.com/data2/video/7600f12b9f579908d0da1250ec0fb198/607962297/607962297.mp4
