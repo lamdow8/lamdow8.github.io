@@ -1,5 +1,5 @@
 26号NBA直播,#genre#
-凯尔特人vs篮网,https://zplay.fangyidengji.cn/live/2447256430772845672.m3u8#https://pull.luojizhongyi.com/live/stream-203383.m3u8
+凯尔特人vs篮网,https://txycdn.video.qq.com/txycdn.video.qq.com/51B97E960499373D96240681C6C408059E06EE656CC23600FAD3E56292CE103DCDEEB277FEF4FA8B979445750C49C4AA609492C028586FADA726884D34B72393094910C68F44BFACFE8DB0BC8E7D514FCA02BD2A45758404B9F0873BA2BDE73F/1338280902.m3u8?from=player&cdncode=%2f18907E7BE0798990%2f&time=1621984599&cdn=tcloud&sdtfrom=v30212&platform=10201&butype=30&scheduleflag=0&HLSP2P=1&buname=qqlive&vkey=51B97E960499373D96240681C6C408059E06EE656CC23600FAD3E56292CE103DCDEEB277FEF4FA8B979445750C49C4AA609492C028586FADA726884D34B72393094910C68F44BFACFE8DB0BC8E7D514FCA02BD2A45758404B9F0873BA2BDE73F&drmtype=0#https://pull.luojizhongyi.com/live/stream-206353.m3u8
 湖人vs太阳,https://zplay.fangyidengji.cn/live/2447256430772845672.m3u8#https://pull.luojizhongyi.com/live/stream-203383.m3u8
 独行侠vs快船,https://zplay.fangyidengji.cn/live/2447256430772845672.m3u8#https://pull.luojizhongyi.com/live/stream-203383.m3u8
 🇨🇳央视频道,#genre#
