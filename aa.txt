@@ -937,257 +937,59 @@ MLB Network,tvbus://5qD5b3kCL2Vu54sgfgv8sy7Rk7Msps1z43tBUuGPUY6G5J3VNjDsiG2nYyRb
 高爾夫美國,tvbus://5keAFkcojbKfrBYtjrFtVibNP6oZN2BZt3wHdVnbdAw4muZGgFhiFxJeSWqeG
 新動力600news,tvbus://5jYymnbuNFPoHM9MVy6rRqgGakMhZnNKQUQS7ubW57HxmwRkKngHpXSS4UTLz
 
-港澳P198,#genre#
-J2,mitv://198.255.74.56:41196/600dbefb00079fe37bdc95e40d126699
-J2,mitv://198.255.74.56:41196/600dbe6c000db4287bda68da7f4bbe3f
-無線新聞,mitv://198.255.74.56:41196/600dbefb000757547bdc95d2c38a11c1
-無線新聞,mitv://198.255.74.56:41196/600dbe6c000be0b27bda68636b13256c
-翡翠台,mitv://198.255.74.56:41196/600dbef6000a75b87bdc8316c0c1d8d4
-翡翠台,mitv://198.255.74.56:41196/600dbe6c000cc8f27bda689e69b407cc
-香港開電視,mitv://198.255.74.56:41196/600dbef6000992d07bdc82dc42b7278f
-香港開電視,mitv://198.255.74.56:41196/600dbe7400015fd77bda84f2ec7c1018
-明珠台,mitv://198.255.74.56:41196/600dbef60008a2f47bdc829eba3c1ded
-港台電視31,mitv://198.255.74.56:41196/600dbe7400032e8e7bda8569104ce1b8
-港台電視32,mitv://198.255.74.56:41196/600dbef60007ca4e7bdc826798c1bb07
-ViuTV,mitv://198.255.74.56:41196/600dbef60006f0927bdc822fa302dc15
-VuiTV 6,mitv://198.255.74.56:41196/600dbef600060bcf7bdc81f5207d0998
-無線財經,mitv://198.255.74.56:41196/600dbef600052c8e7bdc81bb135103e1
-星空衛視,mitv://198.255.74.56:41196/600dbef6000450717bdc8183517b605a
-澳門蓮花,mitv://198.255.74.56:41196/600dbef6000372337bdc814a689b9931
-澳門蓮花,mitv://198.255.74.56:41196/600dbe7300087bd07bda82dcfed77ab5
-鳳凰中文,mitv://198.255.74.56:41196/600dbef6000280f37bdc810c981924ca
-鳳凰中文,mitv://198.255.74.56:41196/600dbe73000edc8b7bda847e51c0b1aa
-鳳凰資訊,mitv://198.255.74.56:41196/600dbef60001a0927bdc80d3772bff35
-鳳凰資訊,mitv://198.255.74.56:41196/600dbe73000dfc1c7bda8445a6d4c55b
-鳳凰香港,mitv://198.255.74.56:41196/600dbef60000b8eb7bdc80984effbcac
-鳳凰香港,mitv://198.255.74.56:41196/600dbe73000d19387bda840ba9cb6e52
-有線新聞台,mitv://198.255.74.56:41196/600dbef6000068f87bdc8083dad3996a
-有線新聞台,mitv://198.255.74.56:41196/600dbf02000aad347bdcb2040d3fc763
-有線電影台,mitv://198.255.74.56:41196/600dbe6c00050f1e7bda66a44ae04448
-有線電影台,mitv://198.255.74.56:41196/600dbef0000e5baf7bdc6ca55c2375ae
-TVB經典台,mitv://198.255.74.56:41196/600dbe6c000826cb7bda676ff07e3886
-TVB星河頻道,mitv://198.255.74.56:41196/600dbe6c000a09ce7bda67eaa6faad0d
-翡翠台(馬來),mitv://198.255.74.56:41196/600dbe6c00091c657bda67ad0d34268a
-有線體育台,mitv://198.255.74.56:41196/600dbe6c00072c687bda672f6a44c3b5
-Sport Plus1,mitv://198.255.74.56:41196/600dbe6c00060aa47bda66e419ef777f
-衛視卡式台,mitv://198.255.74.56:41196/600dbe6c000414cd7bda66644b9635c3
-鳳凰電影,mitv://198.255.74.56:41196/600dbf030000fe217bdcb371b4e6a6c4
+港台測試1,#genre#
+有線18台,rtmp://59.124.75.130/sat/hk042
+中視,rtmp://59.124.75.130/sat/tv091
+華視,rtmp://59.124.75.130/sat/tv112
+台視,rtmp://59.124.75.130/sat/tv071
+民視,rtmp://59.124.75.130/sat/tv052
+TVBS·歡樂台,rtmp://59.124.75.130/sat/tv422
+TVBS·歡樂台,rtmp://59.124.75.130/sat/tv421
+TVBS·新聞台,rtmp://59.124.75.130/sat/tv552
+緯來體育,rtmp://59.124.75.130/sat/tv721
+緯來體育,rtmp://59.124.75.130:1935/sat/tv721
+緯來育樂,rtmp://59.124.75.130/sat/tv701
+緯來育樂,rtmp://59.124.75.130/sat/tv702
+緯來育樂,rtmp://59.124.75.130:1935/sat/tv701
+緯來日本,rtmp://59.124.75.130:1935/sat/tv521
+緯來日本,rtmp://59.124.75.130/sat/tv522
+愛爾達體育一,rtmp://59.124.75.130/sat/md011
+東森超視,rtmp://59.124.75.130/sat/tv772
+東森超視,rtmp://59.124.75.130:1935/sat/tv771
+東森超視,rtmp://59.124.75.130/sat/tv771
+博斯魅力,rtmp://59.124.75.130/sat/md042
+東森財經新聞,rtmp://59.124.75.130:1935/sat/tv571
+MoMo綜合台,rtmp://59.124.75.130/sat/tv761
+TVBS歡樂,rtmp://59.124.75.130:1935/sat/tv421
+TVBS新聞,rtmp://59.124.75.130:1935/sat/tv551
+Mono綜合,rtmp://59.124.75.130:1935/sat/tv761
+FOX體育,rtmp://59.124.75.130:1935/sat/tv731
+FOX2體育,rtmp://59.124.75.130:1935/sat/tv741
+TVBS新聞,rtmp://59.124.75.130/sat/tv551
+TVB 翡翠台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-81
+TVB J2,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-82
+TVB 新聞台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-83
+明珠台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-84
+財經資訊台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-85
+31港台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-31
+32港台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-32
+33港台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-33
+ViuTV six,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-96
+ViuTV,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-99
+華視,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-501
+華視教育體育文化台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-502
+華視新聞資訊台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-503
+華視國會頻道1,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-504
+華視國會頻道2,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-505
+中視,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-100
+中視新聞台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-101
+中視經典台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-102
+中視菁採台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-103
+民視,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-300
+民視第一台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-301
+民視新聞台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-302
 
-台灣P198,#genre#
-中視,mitv://198.255.74.56:41196/600dbef00008c37a7bdc6b376b306ae7.ts
-中視經典,mitv://198.255.74.56:41196/600dbef00009aa5f7bdc6b72b5b0fef0.ts
-中視新聞,mitv://198.255.74.56:41196/600dbef00007d2637bdc6af95972d9a1.ts
-東森超視,mitv://198.255.74.56:41196/600dbe6c0003a49a7bda6647cd792d55
-公視,mitv://198.255.74.56:41196/600dbef00006e2e47bdc6abca4940fbc
-民視台灣台,mitv://198.255.74.56:41196/600dbef00005b3307bdc6a6e6681d66e
-民視新聞台,mitv://198.255.74.56:41196/600dbef00004c59e7bdc6a3173694a50
-民視第一台,mitv://198.255.74.56:41196/600dbee2000d205b7bdc35a535f620eb
-民視第一台,mitv://198.255.74.56:41196/600dbe7400007b747bda84b82c604894
-民視,mitv://198.255.74.56:41196/600dbef00003d8667bdc69f45a726af1
-台視,mitv://198.255.74.56:41196/600dbef0000348fa7bdc69d0a82e3b59
-台視新聞台,mitv://198.255.74.56:41196/600dbeea00027e7b7bdc522c85568f50
-華視,mitv://198.255.74.56:41196/600dbeea00018e9a7bdc51ee8f4d792c
-年代新聞台,mitv://198.255.74.56:41196/600dbeea00009ff07bdc51b199a516ba
-非凡新聞台,mitv://198.255.74.56:41196/600dbee9000ef7367bdc51751f75f969
-緯來育樂台,mitv://198.255.74.56:41196/600dbee9000e0e3f7bdc513a53b7da02
-緯來綜合台,mitv://198.255.74.56:41196/600dbee9000d255c7bdc50fe5fcb70eb
-緯來電影台,mitv://198.255.74.56:41196/600dbee9000c3d127bdc50c28b7042a0
-緯來體育台,mitv://198.255.74.56:41196/600dbee9000b5b627bdc508999c3edb6
-緯來戲劇台,mitv://198.255.74.56:41196/600dbee9000a4ef77bdc5044ce170c2a
-緯來日本台,mitv://198.255.74.56:41196/600dbee9000960697bdc500710697893
-愛爾達綜合,mitv://198.255.74.56:41196/600dbf02000d8d317bdcb2c1e244000b
-愛爾達綜合,mitv://198.255.74.56:41196/600b13bb000bcac7716fa4f57d175bf2
-愛爾達娛樂,mitv://198.255.74.56:41196/600dbf02000c93377bdcb2819c7bcc9b
-東森新聞台,mitv://198.255.74.56:41196/600dbee9000877d57bdc4fcb4979a03c
-東森新聞台,mitv://198.255.74.56:41196/600dbf020005702d7bdcb0ad1fb415a8
-東森財經新聞台,mitv://198.255.74.56:41196/600dbee90007958d7bdc4f9144374572
-東森電影台,mitv://198.255.74.56:41196/600dbee9000741567bdc4f7c00b9e2cc
-東森洋片台,mitv://198.255.74.56:41196/600dbee3000815737bdc3842835a968e
-東森綜合台,mitv://198.255.74.56:41196/600dbee300072a997bdc3806e85926e8
-東森戲劇台,mitv://198.255.74.56:41196/600dbee3000640f27bdc37ca1c573595
-東森幼幼台,mitv://198.255.74.56:41196/600dbee30005390f7bdc378770688dfc
-壹電視綜合台,mitv://198.255.74.56:41196/600dbee30004561a7bdc374db4ff4f7c
-壹電視新聞台,mitv://198.255.74.56:41196/600dbee300036a7c7bdc3710478e6f35
-龍華動畫,mitv://198.255.74.56:41196/600dbee3000250a67bdc36c86a2ed249
-龍華洋片,mitv://198.255.74.56:41196/600dbee3000161037bdc368bde10034b
-龍華影劇,mitv://198.255.74.56:41196/600dbee3000080917bdc3651fb355c72
-龍華影劇,mitv://198.255.74.56:41196/600dbe7300083a1f7bda82cc22128c65
-龍華偶像,mitv://198.255.74.56:41196/600dbee2000ee1947bdc3618d3dbb2c4
-三立iNews,mitv://198.255.74.56:41196/600dbecd0004756e7bdbe165738b7afc
-三立新聞台,mitv://198.255.74.56:41196/600dbee2000cc1ca7bdc358cb0c845ca
-三立台灣台,mitv://198.255.74.56:41196/600dbedc0009db1e7bdc1d5ed8c3d2bf
-三立都會台,mitv://198.255.74.56:41196/600dbedc0008f9797bdc1d257307a3ba
-三立綜合台,mitv://198.255.74.56:41196/600dbedc000802397bdc1ce552b77b57
-三立戲劇,mitv://198.255.74.56:41196/600dbedc00070d457bdc1ca70c7f4922
-中天新聞,mitv://198.255.74.56:41196/600dbedc00061d427bdc1c69ba4098ea
-中天新聞,mitv://198.255.74.56:41196/600dbf02000650c87bdcb0e6b512f972
-中天綜合台,mitv://198.255.74.56:41196/600dbedc0005037c7bdc1c2158e81aaf
-中天亞洲,mitv://198.255.74.56:41196/600dbedc0004224f7bdc1be74acd8feb
-中天亞洲,mitv://198.255.74.56:41196/600dbf020007345f7bdcb1214e53bc11
-中天娛樂台,mitv://198.255.74.56:41196/600dbedc000340ad7bdc1bae62c0d29f
-八大第一台,mitv://198.255.74.56:41196/600dbedc0002590c7bdc1b728fab3509
-八大戲劇台,mitv://198.255.74.56:41196/600dbedc000175997bdc1b384eb6f7b0
-八大娛樂台,mitv://198.255.74.56:41196/600dbedc00008c867bdc1afcecdb0995
-八大綜合台,mitv://198.255.74.56:41196/600dbedb000ef05b7bdc1ac3c34f7394
-TVBS新聞台,mitv://198.255.74.56:41196/600dbedb000e9f7f7bdc1aaf8d719f91
-TVBS新聞台,mitv://198.255.74.56:41196/600dbe6c000ea2f27bda691881f4f511
-TVBS歡樂台,mitv://198.255.74.56:41196/600dbed4000c703d7bdbfec813b03c31
-TVBS,mitv://198.255.74.56:41196/600dbed4000b8bec7bdbfe8db7f0a351
-TVBS,mitv://198.255.74.56:41196/600dbf02000bb67a7bdcb2481895d80e
-靖洋卡通台,mitv://198.255.74.56:41196/600dbed4000aa0bd7bdbfe51cdac480b
-靖天卡通台,mitv://198.255.74.56:41196/600dbed40009a86b7bdbfe11e56b8b98
-靖天電影台,mitv://198.255.74.56:41196/600dbed40008b7af7bdbfdd4662f1933
-靖天映畫台,mitv://198.255.74.56:41196/600dbed40007d6357bdbfd9aa583a3cd
-靖天映畫台,mitv://198.255.74.56:41196/600dbe730009660f7bda8318b581a3e8
-靖天國際,mitv://198.255.74.56:41196/600dbed40006f2177bdbfd60996b2e74
-靖天育樂台,mitv://198.255.74.56:41196/600dbed400060f677bdbfd26100ea3aa
-靖天日本台,mitv://198.255.74.56:41196/600dbed40005324b7bdbfced0c83705f
-靖天資訊台,mitv://198.255.74.56:41196/600dbecd000c7c9f7bdbe3734e66c1d2
-靖洋戲劇台,mitv://198.255.74.56:41196/600dbed4000456397bdbfcb51d026fe5
-壹電視電影台,mitv://198.255.74.56:41196/600dbed400037a5e7bdbfc7c305b4213
-EYETV旅遊,mitv://198.255.74.56:41196/600dbed400029ffb7bdbfc442806cc37
-EYETV戲劇,mitv://198.255.74.56:41196/600dbed4000246937bdbfc2ecfdac261
-阿里郎電視台,mitv://198.255.74.56:41196/600dbecd000d749d7bdbe3b237fdb414
-JET綜合台,mitv://198.255.74.56:41196/600dbecd000ba0f87bdbe33a999bc9c8
-寰宇HD綜合,mitv://198.255.74.56:41196/600dbecd000aba5e7bdbe2ff2d8f1e9e
-寰宇新聞,mitv://198.255.74.56:41196/600dbecd0009c63f7bdbe2c1d1f4032c
-台視財經,mitv://198.255.74.56:41196/600dbecd0008d3db7bdbe283c0083a0a
-愛爾達影劇,mitv://198.255.74.56:41196/600dbecd000629d87bdbe1d40a64762b
-愛爾達體育,mitv://198.255.74.56:41196/600dbecd000550657bdbe19d2ebb849e
-國興衛視,mitv://198.255.74.56:41196/600dbecd00039e5c7bdbe12e2bd32a62
-台灣戲劇,mitv://198.255.74.56:41196/600dbecd000359bf7bdbe11c520597ea
-博斯運動一台,mitv://198.255.74.56:41196/600dbec7000aa13c7bdbcb8901ecddf1
-博斯運動二台,mitv://198.255.74.56:41196/600dbec70009c1817bdbcb50136478e2
-博斯運動II,mitv://198.255.74.56:41196/600dbec70008a9517bdbcb0803ac775b
-博斯網球檯,mitv://198.255.74.56:41196/600dbec70007c1ad7bdbcacd7b5a06e7
-博斯無限台,mitv://198.255.74.56:41196/600dbec70006da6f7bdbca920674e8c6
-博斯高球1台,mitv://198.255.74.56:41196/600dbec70005d5017bdbca4f06d640b6
-FOX SPORTS,mitv://198.255.74.56:41196/600dbec70004ed717bdbca1311ef1d53
-FOX SPORTS 3,mitv://198.255.74.56:41196/600dbec70003ebfd7bdbc9d191fd5948
-MOMO親子台,mitv://198.255.74.56:41196/600dbec70003059e7bdbc99661618909
-GoodTV2,mitv://198.255.74.56:41196/600dbec7000222aa7bdbc95caec09c09
-大愛一台,mitv://198.255.74.56:41196/600dbec7000139c07bdbc9212672fcc5
-BBC動畫,mitv://198.255.74.56:41196/600dbec7000047fc7bdbc8e32fcb9293
-亞洲旅遊台,mitv://198.255.74.56:41196/600dbec6000f34717bdbc8cd9710c5be
-美食星球,mitv://198.255.74.56:41196/600dbec100036b9f7bdbb24128c4524e
-China Movie,mitv://198.255.74.56:41196/600dbec100027c257bd??bb2036f4e0034
-衛視電影台,mitv://198.255.74.56:41196/600dbec100019bfa7bdbb1cad0164eca
-衛視中文台,mitv://198.255.74.56:41196/600dbec0000eede77bdbb14b0a2e40f4
-衛視西片,mitv://198.255.74.56:41196/600dbec0000e058b7bdbb10f22c63a87
-LSTime電影台,mitv://198.255.74.56:41196/600dbec0000d27ae7bdbb0d709d81d14
-天映經典,mitv://198.255.74.56:41196/600dbec0000b57697bdbb0603e3f2890
-好萊塢電影,mitv://198.255.74.56:41196/600dbec0000a71ad7bdbb0258f4c2084
-CinemaWorld,mitv://198.255.74.56:41196/600dbec00009924e7bdbafec370d9d6d
-美亞電影台,mitv://198.255.74.56:41196/600dbec00008b4e97bdbafb346ccf404
-星衛HD電影,mitv://198.255.74.56:41196/600dbec000086f8f7bdbafa1374ccfa7
-星衛娛樂,mitv://198.255.74.56:41196/600dbeba000053017bdb961ee55279cb
-
-國際P198,#genre#
-HBO HD,mitv://198.255.74.56:41196/600dbeb9000eb0c67bdb95e3f65e6085
-HBO Hits,mitv://198.255.74.56:41196/600dbeb9000dbccf7bdb95a54e81b864
-HBO Signature,mitv://198.255.74.56:41196/600dbeb9000cda0b7bdb956bc88e0e5a
-FX HD,mitv://198.255.74.56:41196/600dbeb9000bf5ac7bdb953036e8338a
-FX HD,mitv://198.255.74.56:41196/600dbeb9000b17e47bdb94f7dd407141
-FOX MOVIES,mitv://198.255.74.56:41196/600dbeb9000a35057bdb94bdf889db99
-FOX家庭影院,mitv://198.255.74.56:41196/600dbeb9000945197bdb948091d2d0b5
-FOX CRIME,mitv://198.255.74.56:41196/600dbeb9000862e47bdb94463b3d84cd
-FOX NEWS,mitv://198.255.74.56:41196/600dbeb900078b1b7bdb940f3d3d3df9
-CINEMAX,mitv://198.255.74.56:41196/600dbeb90006ac697bdb93d6a3d44027
-探索頻道高清,mitv://198.255.74.56:41196/600dbeb90005cc147bdb939c23ee9504
-探索,mitv://198.255.74.56:41196/600dbeb2000bce297bdb79ce4ca54571
-Discovery 動力頻道,mitv://198.255.74.56:41196/600dbeb2000a0d2f7bdb795bff108167
-Discovery 動力頻道,mitv://198.255.74.56:41196/600dbf0200051e397bdcb098fd4ac46d
-Discovery 科學頻道,mitv://198.255.74.56:41196/600dbeb2000924a97bdb7920e40ac6ee
-Discovery 科學頻道,mitv://198.255.74.56:41196/600dbe6c000af4ce7bda6826da633550
-Discovery EVE,mitv://198.255.74.56:41196/600dbeb2000842cc7bdb78e69952657b
-國家地理,mitv://198.255.74.56:41196/600dbeb2000761e67bdb78ac058a0d6f
-國家地理People,mitv://198.255.74.56:41196/600dbeb200066a517bdb786d1570b709
-國家地理野生頻道,mitv://198.255.74.56:41196/600dbeb20005896a7bdb783311a1b3ee
-History HD,mitv://198.255.74.56:41196/600dbeb20004a81d7bdb77fa9828c5b4
-History2,mitv://198.255.74.56:41196/600dbeb20003cbf97bdb77c12244c52f
-History2,mitv://198.255.74.56:41196/600dbf02000844617bdcb1660fc99dbd
-Sky Sports,mitv://198.255.74.56:41196/600dbeb20002f2597bdb778a834c3821
-Sky Action,mitv://198.255.74.56:41196/600dbeb20002177a7bdb7751150e7e8f
-Sky Comedy,mitv://198.255.74.56:41196/600dbeb20001d1207bdb773f063d8be3
-Sky Disney,mitv://198.255.74.56:41196/600dbeac0004f7577bdb609eb04a20e8
-Sky Family,mitv://198.255.74.56:41196/600dbeac0004142b7bdb6064e5fbce58
-Sky Sports Golf,mitv://198.255.74.56:41196/600dbe7400023f547bda852cddc51b9f
-動物星球,mitv://198.255.74.56:41196/600dbeac000331467bdb602a8f742ed7
-亞洲美食,mitv://198.255.74.56:41196/600dbeac000240957bdb5fec012cc99d
-OUTDOOR,mitv://198.255.74.56:41196/600dbeac000160847bdb5fb31ff8be0d
-TRAVEL,mitv://198.255.74.56:41196/600dbeac000070667bdb5f751ca5a963
-Bloomberg,mitv://198.255.74.56:41196/600dbeab000ecdde7bdb5f3b13cc3af8
-CN 卡通,mitv://198.255.74.56:41196/600dbeab000df6527bdb5f0307715477
-Disney迪士尼,mitv://198.255.74.56:41196/600dbeab000d15d77bdb5eca88bee1f2
-BabyTV,mitv://198.255.74.56:41196/600dbeab000c2b0a7bdb5e8e144db723
-BabyFirst,mitv://198.255.74.56:41196/600dbeab000b47957bdb5e54dca4c5d7
-E! Entertainmen,mitv://198.255.74.56:41196/600dbeab000a23487bdb5e0971b17695
-Ci罪案偵緝,mitv://198.255.74.56:41196/600dbea6000ae9747bdb4ab4a7056d24
-fashiontv,mitv://198.255.74.56:41196/600dbea6000a036a7bdb4a793ab884f3
-Warner Bros,mitv://198.255.74.56:41196/600dbea600091ae47bdb4a3d85d8bd52
-Warner Bros,mitv://198.255.74.56:41196/600dbf020009936c7bdcb1bc25609650
-Nick Jr,mitv://198.255.74.56:41196/600dbea600083a517bdb4a04f2cf80ad
-MY KIDS,mitv://198.255.74.56:41196/600dbea6000751a97bdb49c8c611c4b3
-CatchPlay HD,mitv://198.255.74.56:41196/600dbea600066a007bdb498df27403df
-NBA HD,mitv://198.255.74.56:41196/600dbea6000582677bdb4951cb4ac3a0
-GOLF,mitv://198.255.74.56:41196/600dbea60004a0997bdb4918a1bc6116
-MTV LIVE,mitv://198.255.74.56:41196/600dbea60002ceba7bdb48a0e8717d65
-BBC,mitv://198.255.74.56:41196/600dbea60001e5977bdb48656f77052b
-BBC Lifestyle,mitv://198.255.74.56:41196/600dbea60000fa6c7bdb482989f72e1c
-BBC earth,mitv://198.255.74.56:41196/600dbea600009b027bdb48100cf3c231
-FRANCE 24-English,mitv://198.255.74.56:41196/600dbea000021c0e7bdb3103e1647d1a
-tvN HD,mitv://198.255.74.56:41196/600dbea0000145ae7bdb30cca3d65992
-TV5,mitv://198.255.74.56:41196/600dbe9f000e97357bdb304d1fb3a6e8
-AXN,mitv://198.255.74.56:41196/600dbe9f000db9457bdb30144fd6fe69
-CNN HD,mitv://198.255.74.56:41196/600dbe9f000ca38d7bdb2fcdf3d70ab3
-CNBC,mitv://198.255.74.56:41196/600dbe9f000bc0aa7bdb2f93ce97453e
-Boomerang,mitv://198.255.74.56:41196/600dbe9f000abbfe7bdb2f50e662f5a9
-Mezzo Live,mitv://198.255.74.56:41196/600dbe9f0009c60d7bdb2f113a4987d1
-LUXE TV,mitv://198.255.74.56:41196/600dbe9f0008e3bb7bdb2ed7f97f81be
-DW-TV,mitv://198.255.74.56:41196/600dbe9f0007fd487bdb2e9c5abef537
-
-新馬P198,#genre#
-AEC,mitv://198.255.74.56:41196/600dbe86000c4df87bdace0f422bfdbe
-AOD,mitv://198.255.74.56:41196/600dbe86000b390d7bdacdc82c38d5ff
-AWANI,mitv://198.255.74.56:41196/600dbe86000954707bdacd4cd8274313
-BERNAMA,mitv://198.255.74.56:41196/600dbe86000868357bdacd0f322c523e
-PRIMA,mitv://198.255.74.56:41196/600dbe8600080b917bdaccf8d17b39fa
-RIA,mitv://198.255.74.56:41196/600dbe810002a2f27bdab80d5a61f6aa
-TV1,mitv://198.255.74.56:41196/600dbe810001adca7bdab7cefac57085
-TV2,mitv://198.255.74.56:41196/600dbe810000c00a7bdab7921d02162e
-TV3,mitv://198.255.74.56:41196600dbe80000f0be67bdab7524685a3c1
-NTV7,mitv://198.255.74.56:41196/600dbe80000e21c07bdab7177d3ab2fa
-TV8,mitv://198.255.74.56:41196/600dbe80000d39017bdab6db84634048
-TV9,mitv://198.255.74.56:41196/600dbe80000c4f257bd??ab69f2d5e8d53
-華麗臺,mitv://198.255.74.56:41196/600dbe80000b42947bdab65a9dd161e0
-小太陽,mitv://198.255.74.56:41196600dbe80000945b37bdab5d842bbe497
-全佳,mitv://198.255.74.56:41196600dbe80000853947bdab59a4cfd7941
-雙星,mitv://198.255.74.56:41196600dbe8000076e657bdab55f1ca3938b
-
-日本,#genre#
-CGN 日本,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
-日テレ NEWS24,https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
-NHK総合,http://203.162.235.41:16903
-NHK Eテレ,http://203.162.235.41:16901
-NHK BSプレミアム,http://203.162.235.41:16910
-TBSテレビ,http://203.162.235.41:16907
-BS TBS,http://203.162.235.41:16913
-テレビ朝日,http://203.162.235.41:16906
-BS 朝日,http://203.162.235.41:16914
-フジテレビ,http://203.162.235.41:16904
-BSフジ,http://203.162.235.41:16911
-テレビ東京,http://203.162.235.41:16908
-BS 東京,http://203.162.235.41:16915
-BS 日テレ,http://203.162.235.41:16912
-日テレ,http://203.162.235.41:16905
-WOWOW シネマ,http://203.162.235.41:16916
-群馬テレビ,https://movie.mcas.jp/switcher/mcas8_2/chunklist.m3u8
-Tokyo MX 1,http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
-Tokyo MX 2,http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
-MX Live,http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
-ウェザーニュース,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-日本Japanet Channel DX,http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
-港台測試,#genre#
+港台測試2,#genre#
   CNN,mitv://ns2.hellotvvod.com:9906/af9a53b73f054846895c9897f8ab4eb6.ts
  民视,mitv://ns2.hellotvvod.com:9906/08fb8494b81e4dfa9a61b876ce6022a3.ts
  人间卫视,mitv://ns2.hellotvvod.com:9906/29553337e2594caf922a0cccc38c1232.ts
@@ -1899,6 +1701,152 @@ MX Live,http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
  龙华戏剧,mitv://ns2.hellotvvod.com:9906/33aef6bf34f84309a724b1175b37b200.ts
  靖天戏剧台,mitv://ns2.hellotvvod.com:9906/6d974d62f64149b5bdac029aee05b45f.ts
  靖洋戏剧台,mitv://ns2.hellotvvod.com:9906/fe3194fd94db457f97449a99e317e863.ts
+港台測試3,#genre#
+國家地理悠人,http://50.7.59.216:61980/myplay/cn_0_8801/index.m3u8?key=84797b799ae18d1b
+FoodNetwork,http://50.7.59.216:61980/myplay/cn_0_8802/index.m3u8?key=84797b799ae18d1b
+BABYFIRST,http://50.7.59.216:61980/myplay/cn_0_8803/index.m3u8?key=84797b799ae18d1b
+美食星球,http://50.7.59.216:61980/myplay/cn_0_8804/index.m3u8?key=84797b799ae18d1b
+LIFESTYLE,http://50.7.59.216:61980/myplay/cn_0_8805/index.m3u8?key=84797b799ae18d1b
+LUXE TV,http://50.7.59.216:61980/myplay/cn_0_8806/index.m3u8?key=84797b799ae18d1b
+EYE旅遊,http://50.7.59.216:61980/myplay/cn_0_8807/index.m3u8?key=84797b799ae18d1b
+HGTV,http://50.7.59.216:61980/myplay/cn_0_8808/index.m3u8?key=84797b799ae18d1b
+三立戲劇,http://50.7.59.216:61980/myplay/cn_0_8809/index.m3u8?key=84797b799ae18d1b
+勁爆NBA,http://50.7.59.216:61980/myplay/cn_0_8810/index.m3u8?key=84797b799ae18d1b
+H歷史頻道,http://50.7.59.216:61980/myplay/cn_0_8811/index.m3u8?key=84797b799ae18d1b
+民視,http://50.7.59.216:61980/myplay/cn_0_8813/index.m3u8?key=84797b799ae18d1b
+中視,http://50.7.59.216:61980/myplay/cn_0_8814/index.m3u8?key=84797b799ae18d1b
+台視,http://50.7.59.216:61980/myplay/cn_0_8815/index.m3u8?key=84797b799ae18d1b
+華視,http://50.7.59.216:61980/myplay/cn_0_8816/index.m3u8?key=84797b799ae18d1b
+公視,http://50.7.59.216:61980/myplay/cn_0_8817/index.m3u8?key=84797b799ae18d1b
+公視台語台,http://50.7.59.216:61980/myplay/cn_0_8818/index.m3u8?key=84797b799ae18d1b
+公視3,http://50.7.59.216:61980/myplay/cn_0_8819/index.m3u8?key=84797b799ae18d1b
+民視新聞,http://50.7.59.216:61980/myplay/cn_0_8820/index.m3u8?key=84797b799ae18d1b
+中視新聞,http://50.7.59.216:61980/myplay/cn_0_8821/index.m3u8?key=84797b799ae18d1b
+台視新聞,http://50.7.59.216:61980/myplay/cn_0_8822/index.m3u8?key=84797b799ae18d1b
+華視新聞資訊,http://50.7.59.216:61980/myplay/cn_0_8823/index.m3u8?key=84797b799ae18d1b
+中視經典,http://50.7.59.216:61980/myplay/cn_0_8826/index.m3u8?key=84797b799ae18d1b
+中視菁采,http://50.7.59.216:61980/myplay/cn_0_8827/index.m3u8?key=84797b799ae18d1b
+台視綜合,http://50.7.59.216:61980/myplay/cn_0_8828/index.m3u8?key=84797b799ae18d1b
+台視財經,http://50.7.59.216:61980/myplay/cn_0_8829/index.m3u8?key=84797b799ae18d1b
+美亞電影,http://50.7.59.216:61980/myplay/cn_1_11001/index.m3u8?key=84797b799ae18d1b
+衛視洋片,http://50.7.59.216:61980/myplay/cn_1_11002/index.m3u8?key=84797b799ae18d1b
+星衛電影,http://50.7.59.216:61980/myplay/cn_1_11003/index.m3u8?key=84797b799ae18d1b
+星衛娛樂,http://50.7.59.216:61980/myplay/cn_1_11004/index.m3u8?key=84797b799ae18d1b
+BBC EARTH,http://50.7.59.216:61980/myplay/cn_1_11005/index.m3u8?key=84797b799ae18d1b
+ELEVEN+,http://50.7.59.216:61980/myplay/cn_1_11006/index.m3u8?key=84797b799ae18d1b
+ELEVEN2,http://50.7.59.216:61980/myplay/cn_1_11007/index.m3u8?key=84797b799ae18d1b
+國家地理野生,http://50.7.59.216:61980/myplay/cn_1_11008/index.m3u8?key=84797b799ae18d1b
+FOX CRIME,http://50.7.59.216:61980/myplay/cn_1_11009/index.m3u8?key=84797b799ae18d1b
+FOX家庭,http://50.7.59.216:61980/myplay/cn_1_11010/index.m3u8?key=84797b799ae18d1b
+華納TV,http://50.7.59.216:61980/myplay/cn_1_11011/index.m3u8?key=84797b799ae18d1b
+FX,http://50.7.59.216:61980/myplay/cn_1_11012/index.m3u8?key=84797b799ae18d1b
+CRIME+偵查,http://50.7.59.216:61980/myplay/cn_1_11013/index.m3u8?key=84797b799ae18d1b
+BABY TV,http://50.7.59.216:61980/myplay/cn_1_11014/index.m3u8?key=84797b799ae18d1b
+TVN,http://50.7.59.216:61980/myplay/cn_1_11015/index.m3u8?key=84797b799ae18d1b
+韓國娛樂台,http://50.7.59.216:61980/myplay/cn_1_11016/index.m3u8?key=84797b799ae18d1b
+LIFETIME,http://50.7.59.216:61980/myplay/cn_1_11017/index.m3u8?key=84797b799ae18d1b
+CEBBBIES卡通,http://50.7.59.216:61980/myplay/cn_1_11018/index.m3u8?key=84797b799ae18d1b
+亞洲旅遊,http://50.7.59.216:61980/myplay/cn_1_11020/index.m3u8?key=84797b799ae18d1b
+FOX,http://50.7.59.216:61980/myplay/cn_2_12001/index.m3u8?key=84797b799ae18d1b
+FOX MOVIE,http://50.7.59.216:61980/myplay/cn_2_12002/index.m3u8?key=84797b799ae18d1b
+緯來育樂,http://50.7.59.216:61980/myplay/cn_2_12003/index.m3u8?key=84797b799ae18d1b
+緯來體育,http://50.7.59.216:61980/myplay/cn_2_12004/index.m3u8?key=84797b799ae18d1b
+博斯運動1,http://50.7.59.216:61980/myplay/cn_2_12005/index.m3u8?key=84797b799ae18d1b
+博斯運動2,http://50.7.59.216:61980/myplay/cn_2_12006/index.m3u8?key=84797b799ae18d1b
+博斯高球1,http://50.7.59.216:61980/myplay/cn_2_12007/index.m3u8?key=84797b799ae18d1b
+博斯高球2,http://50.7.59.216:61980/myplay/cn_2_12008/index.m3u8?key=84797b799ae18d1b
+博斯魅力,http://50.7.59.216:61980/myplay/cn_2_12009/index.m3u8?key=84797b799ae18d1b
+博斯網球,http://50.7.59.216:61980/myplay/cn_2_12010/index.m3u8?key=84797b799ae18d1b
+博斯無限,http://50.7.59.216:61980/myplay/cn_2_12011/index.m3u8?key=84797b799ae18d1b
+CNN CEO,http://50.7.59.216:61980/myplay/cn_2_12012/index.m3u8?key=84797b799ae18d1b
+MTV,http://50.7.59.216:61980/myplay/cn_2_12013/index.m3u8?key=84797b799ae18d1b
+Z頻道,http://50.7.59.216:61980/myplay/cn_2_12014/index.m3u8?key=84797b799ae18d1b
+東風37,http://50.7.59.216:61980/myplay/cn_2_12015/index.m3u8?key=84797b799ae18d1b
+年代MUCH,http://50.7.59.216:61980/myplay/cn_2_12016/index.m3u8?key=84797b799ae18d1b
+年代新聞,http://50.7.59.216:61980/myplay/cn_2_12017/index.m3u8?key=84797b799ae18d1b
+JET綜合,http://50.7.59.216:61980/myplay/cn_2_12018/index.m3u8?key=84797b799ae18d1b
+龍祥電影,http://50.7.59.216:61980/myplay/cn_2_12019/index.m3u8?key=84797b799ae18d1b
+霹靂台灣,http://50.7.59.216:61980/myplay/cn_2_12020/index.m3u8?key=84797b799ae18d1b
+MOMO親子,http://50.7.59.216:61980/myplay/cn_2_12021/index.m3u8?key=84797b799ae18d1b
+國興衛視,http://50.7.59.216:61980/myplay/cn_2_12022/index.m3u8?key=84797b799ae18d1b
+非凡新聞,http://50.7.59.216:61980/myplay/cn_2_12023/index.m3u8?key=84797b799ae18d1b
+非凡商業,http://50.7.59.216:61980/myplay/cn_2_12024/index.m3u8?key=84797b799ae18d1b
+HBO,http://50.7.59.216:61980/myplay/cn_3_13001/index.m3u8?key=84797b799ae18d1b
+HBOHITS,http://50.7.59.216:61980/myplay/cn_3_13002/index.m3u8?key=84797b799ae18d1b
+HBO原創,http://50.7.59.216:61980/myplay/cn_3_13003/index.m3u8?key=84797b799ae18d1b
+HBO家庭,http://50.7.59.216:61980/myplay/cn_3_13004/index.m3u8?key=84797b799ae18d1b
+AFN美食,http://50.7.59.216:61980/myplay/cn_3_13005/index.m3u8?key=84797b799ae18d1b
+EVE,http://50.7.59.216:61980/myplay/cn_3_13006/index.m3u8?key=84797b799ae18d1b
+ARIRANG,http://50.7.59.216:61980/myplay/cn_3_13007/index.m3u8?key=84797b799ae18d1b
+DISCOVERY,http://50.7.59.216:61980/myplay/cn_3_13008/index.m3u8?key=84797b799ae18d1b
+DISCOVERY ASIA,http://50.7.59.216:61980/myplay/cn_3_13009/index.m3u8?key=84797b799ae18d1b
+DISCOVERY SCI,http://50.7.59.216:61980/myplay/cn_3_13010/index.m3u8?key=84797b799ae18d1b
+DMAX,http://50.7.59.216:61980/myplay/cn_3_13011/index.m3u8?key=84797b799ae18d1b
+國家地理,http://50.7.59.216:61980/myplay/cn_3_13012/index.m3u8?key=84797b799ae18d1b
+TLC旅遊生活,http://50.7.59.216:61980/myplay/cn_3_13013/index.m3u8?key=84797b799ae18d1b
+動物星球,http://50.7.59.216:61980/myplay/cn_3_13014/index.m3u8?key=84797b799ae18d1b
+CN卡通,http://50.7.59.216:61980/myplay/cn_3_13015/index.m3u8?key=84797b799ae18d1b
+好萊塢電影,http://50.7.59.216:61980/myplay/cn_3_13016/index.m3u8?key=84797b799ae18d1b
+衛視電影,http://50.7.59.216:61980/myplay/cn_3_13017/index.m3u8?key=84797b799ae18d1b
+衛視中文,http://50.7.59.216:61980/myplay/cn_3_13018/index.m3u8?key=84797b799ae18d1b
+迪士尼,http://50.7.59.216:61980/myplay/cn_3_13019/index.m3u8?key=84797b799ae18d1b
+ANIMAX,http://50.7.59.216:61980/myplay/cn_3_13021/index.m3u8?key=84797b799ae18d1b
+CINEMAX,http://50.7.59.216:61980/myplay/cn_3_13022/index.m3u8?key=84797b799ae18d1b
+EUROSPORT,http://50.7.59.216:61980/myplay/cn_3_13023/index.m3u8?key=84797b799ae18d1b
+TRAVEL旅遊,http://50.7.59.216:61980/myplay/cn_3_13024/index.m3u8?key=84797b799ae18d1b
+東森新聞,http://50.7.59.216:61980/myplay/cn_4_14001/index.m3u8?key=84797b799ae18d1b
+東森電影,http://50.7.59.216:61980/myplay/cn_4_14002/index.m3u8?key=84797b799ae18d1b
+東森洋片,http://50.7.59.216:61980/myplay/cn_4_14003/index.m3u8?key=84797b799ae18d1b
+東森財經新聞,http://50.7.59.216:61980/myplay/cn_4_14004/index.m3u8?key=84797b799ae18d1b
+東森戲劇,http://50.7.59.216:61980/myplay/cn_4_14005/index.m3u8?key=84797b799ae18d1b
+東森綜合,http://50.7.59.216:61980/myplay/cn_4_14006/index.m3u8?key=84797b799ae18d1b
+東森幼幼,http://50.7.59.216:61980/myplay/cn_4_14007/index.m3u8?key=84797b799ae18d1b
+東森超視,http://50.7.59.216:61980/myplay/cn_4_14008/index.m3u8?key=84797b799ae18d1b
+緯來電影,http://50.7.59.216:61980/myplay/cn_4_14009/index.m3u8?key=84797b799ae18d1b
+緯來育樂,http://50.7.59.216:61980/myplay/cn_4_14010/index.m3u8?key=84797b799ae18d1b
+緯來體育,http://50.7.59.216:61980/myplay/cn_4_14011/index.m3u8?key=84797b799ae18d1b
+緯來戲劇,http://50.7.59.216:61980/myplay/cn_4_14012/index.m3u8?key=84797b799ae18d1b
+緯來日本,http://50.7.59.216:61980/myplay/cn_4_14013/index.m3u8?key=84797b799ae18d1b
+緯來綜合,http://50.7.59.216:61980/myplay/cn_4_14014/index.m3u8?key=84797b799ae18d1b
+TVBS,http://50.7.59.216:61980/myplay/cn_4_14015/index.m3u8?key=84797b799ae18d1b
+TVBS歡樂,http://50.7.59.216:61980/myplay/cn_4_14016/index.m3u8?key=84797b799ae18d1b
+TVBS新聞,http://50.7.59.216:61980/myplay/cn_4_14017/index.m3u8?key=84797b799ae18d1b
+中天綜合,http://50.7.59.216:61980/myplay/cn_4_14019/index.m3u8?key=84797b799ae18d1b
+中天娛樂,http://50.7.59.216:61980/myplay/cn_4_14020/index.m3u8?key=84797b799ae18d1b
+三立新聞,http://50.7.59.216:61980/myplay/cn_4_14021/index.m3u8?key=84797b799ae18d1b
+三立INEW,http://50.7.59.216:61980/myplay/cn_4_14022/index.m3u8?key=84797b799ae18d1b
+三立台灣,http://50.7.59.216:61980/myplay/cn_4_14023/index.m3u8?key=84797b799ae18d1b
+三立都會,http://50.7.59.216:61980/myplay/cn_4_14024/index.m3u8?key=84797b799ae18d1b
+八大第一,http://50.7.59.216:61980/myplay/cn_5_15001/index.m3u8?key=84797b799ae18d1b
+八大綜合,http://50.7.59.216:61980/myplay/cn_5_15002/index.m3u8?key=84797b799ae18d1b
+八大戲劇,http://50.7.59.216:61980/myplay/cn_5_15003/index.m3u8?key=84797b799ae18d1b
+八大娛樂,http://50.7.59.216:61980/myplay/cn_5_15004/index.m3u8?key=84797b799ae18d1b
+BBCWORLD,http://50.7.59.216:61980/myplay/cn_5_15007/index.m3u8?key=84797b799ae18d1b
+
+
+日本,#genre#
+CGN 日本,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
+日テレ NEWS24,https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
+NHK総合,http://203.162.235.41:16903
+NHK Eテレ,http://203.162.235.41:16901
+NHK BSプレミアム,http://203.162.235.41:16910
+TBSテレビ,http://203.162.235.41:16907
+BS TBS,http://203.162.235.41:16913
+テレビ朝日,http://203.162.235.41:16906
+BS 朝日,http://203.162.235.41:16914
+フジテレビ,http://203.162.235.41:16904
+BSフジ,http://203.162.235.41:16911
+テレビ東京,http://203.162.235.41:16908
+BS 東京,http://203.162.235.41:16915
+BS 日テレ,http://203.162.235.41:16912
+日テレ,http://203.162.235.41:16905
+WOWOW シネマ,http://203.162.235.41:16916
+群馬テレビ,https://movie.mcas.jp/switcher/mcas8_2/chunklist.m3u8
+Tokyo MX 1,http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+Tokyo MX 2,http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+MX Live,http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+ウェザーニュース,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+日本Japanet Channel DX,http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
 
 影視輪播,#genre#
 周星馳,http://kuqq.tk/00/huya.php?id=11342412
@@ -2440,3 +2388,32 @@ A级优等生下海记FromStraightA'stoXXX,http://youku1.dianfubang.com/20190812
 电梯另类X体验/电梯另类性体验,http://youku1.dianfubang.com/20190411/lXWftAJM/index.m3u8
 善良的弟妹,http://youku1.dianfubang.com/20200122/oZpgvH4v/index.m3u8
 開発三昧～恋するスルマ争奪戦!,http://youku1.dianfubang.com/20190403/7RIeYwcz/index.m3u8
+太阳_1,#genre#
+HOT欧美版,http://live.redtraffic.xyz:80/hardcore.m3u8
+K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
+松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
+松视2欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
+松视3欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
+松视4欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
+一本道欧美版,http://live.redtraffic.xyz:80/bigass.m3u8
+二本道欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8
+惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
+粉红台欧美版,http://live.redtraffic.xyz:80/teen.m3u8
+玩美台欧美版,http://live.redtraffic.xyz:80/pov.m3u8
+潘多拉欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8
+香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
+太阳直播_1,#genre#
+日韩电影01,http://videony.rhsj520.com:8091/SR0802/010119-001/1500kb/hls/index.m3u8
+日韩电影02,http://videony.rhsj520.com:8091/SR0802/012618-002/1500kb/hls/index.m3u8
+日韩电影03,http://videony.rhsj520.com:8091/SR0802/012518-001/1500kb/hls/index.m3u8
+日韩电影04,http://videony.rhsj520.com:8091/SR0802/012018-210/1500kb/hls/index.m3u8
+日韩电影05,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/121914-760/index.m3u8
+日韩电影06,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/120614-753/index.m3u8,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/091715_154-1pon/index.m3u8
+日韩电影07,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/081315_133-1pon/index.m3u8
+日韩电影08,https://m3u8.46cdn.com/videos/akex/1905/7vjtDwwP/7vjtDwwP.m3u8
+日韩电影09,https://m3u8.46cdn.com/videos/akex/1905/N8UFEDcj/N8UFEDcj.m3u8
+日韩电影10,https://m3u8.41cdn.com/videos/201910/0y7WTW0v/hls/0y7WTW0v.m3u8
+日韩电影11,https://m3u8.34cdn.com/videos/201908/8v33bdqt/hls/8v33bdqt.m3u8
+日韩电影12,https://m3u8.48cdn.com/videos/201908/sb6ksmxx/hls/sb6ksmxx.m3u8
+日韩电影13,https://lbbf9.com/20191105/xAf8e6gN/index.m3u8
+日韩电影14,https://lbbf9.com/20191105/6dCdeenO/index.m3u8
