@@ -1,8 +1,9 @@
 NBA直播,#genre#
-纬来体育台,mitv://ns2.hellotvvod.com:9906/d4e143ff1a594d44ba179e58ef298bce.ts
-纬来体育,rtmp://59.124.75.130/sat/tv721
 纬来体育,rtmp://59.124.75.130:1935/sat/tv721
+纬来体育,rtmp://59.124.75.130/sat/tv721
+纬来体育台,mitv://ns2.hellotvvod.com:9906/d4e143ff1a594d44ba179e58ef298bce.ts
 爱尔达体育1台,mitv://ns2.hellotvvod.com:9906/35cad482912e43909d2d4c20c7088378.ts
+雄鹿vs热火,https://txycdn.video.qq.com/txycdn.video.qq.com/2E3B901F45FA442C332B7EE220DCA993AC3AEEC551F78237D4F74136255BC11F8EAD9A2ECBA8EA26E9297950C3DCBD16FC91DCDEBA0276CD47DF5D46DB09B470A46F4679DDFB85DF78205727806E7ECF0AE0867502607DB14DD65BFAEBA5AF73/1727487802.m3u8?from=player&cdncode=%2f18907E7BE0798990%2f&time=1622156670&cdn=tcloud&sdtfrom=v30212&platform=10201&butype=30&scheduleflag=0&HLSP2P=1&buname=qqlive&vkey=2E3B901F45FA442C332B7EE220DCA993AC3AEEC551F78237D4F74136255BC11F8EAD9A2ECBA8EA26E9297950C3DCBD16FC91DCDEBA0276CD47DF5D46DB09B470A46F4679DDFB85DF78205727806E7ECF0AE0867502607DB14DD65BFAEBA5AF73&drmtype=0
 🇨🇳央视频道,#genre#
 央视新闻,https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
 CCTV-4K超高清,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=cctv4k#http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls$浙江#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229683/index.m3u8#http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
