@@ -512,6 +512,44 @@ TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 東森財經新聞台,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 華視新聞資訊 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8
 華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
+HiTV-港澳▪全网,#genre#
+凤凰中文,http://tyzbcdn.chxjon.cn/iptv/qq2383132354/gzyx.php?id=fhwshd ,http://tyzbcdn.chxjon.cn/iptv/qq2383132354/gzyx.php?id=fhws ,http://tyzbcdn.chxjon.cn/iptv/qq2383132354/xgfh.php?id=2,mitv://ns2.hellotvvod.com:9906/e16ed6dd1be84501b4047217b30a3ec1.ts
+凤凰资讯,http://tyzbcdn.chxjon.cn/iptv/qq2383132354/gzyx.php?id=fhzxhd ,http://tyzbcdn.chxjon.cn/iptv/qq2383132354/gzyx.php?id=fhzx ,http://tyzbcdn.chxjon.cn/iptv/qq2383132354/xgfh.php?id=1,mitv://ns2.hellotvvod.com:9906/8fb4351c45754fc2942a6b394182b5f6.ts
+凤凰香港,http://tyzbcdn.chxjon.cn/iptv/qq2383132354/xgfh.php?id=3,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804,http://223.82.250.72/live/fhhongkong/1.m3u8,mitv://ns2.hellotvvod.com:9906/ae8447b5427f4bcc8b03405261fc6f39.ts
+凤凰电影,http://tyzbcdn.chxjon.cn/iptv/qq2383132354/gzyx.php?id=fhdy   ,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy,rtmp://ivi.bupt.edu.cn/livetv/fhdy,mitv://ns2.hellotvvod.com:9906/6bd66634bff74f80a56740b285a3e358.ts
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8,http://zhibo.hkstv.tv/livestream/mutfysrq.flv,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+TVB J2,mitv://ns2.hellotvvod.com:9906/3f1748c99c95496e8547204939705429.ts
+TVB翡翠,mitv://ns2.hellotvvod.com:9906/0610977b37cc4c978192818eb8686053.ts,mitv://ns2.hellotvvod.com:9906/1e78ff7373bd46e39f2f40c0a09e81ee.ts
+TVB明珠,mitv://ns2.hellotvvod.com:9906/169a24692ba84e95b8b2ebe2491ef83a.ts
+TVB星河,mitv://ns2.hellotvvod.com:9906/e91c8f49b9bb4174b7cd336aaa8938db.ts
+TVB华丽,mitv://ns2.hellotvvod.com:9906/ad0d9f8a12ee4ab4ab184373bbeb1ad6.ts
+无线新闻,mitv://ns2.hellotvvod.com:9906/9915905cf4c44d919f98188a625d2a5f.ts
+无线财经,mitv://ns2.hellotvvod.com:9906/24d12cc7a47f40e893b4ef198ed2c26d.ts
+有线 18,mitv://ns2.hellotvvod.com:9906/60925bda000bdd5acae1c1dd36f87576.ts
+有线 603,mitv://ns2.hellotvvod.com:9906/60536a0c000375ded500ecd976f06cfd.ts
+有线新闻,mitv://ns2.hellotvvod.com:9906/09d02262a19e4deab9463d22c3305e4c.ts
+有线电影,mitv://ns2.hellotvvod.com:9906/29fc6c424bb04f4abf5701ae4dbe59e8.ts
+有线娱乐,mitv://ns2.hellotvvod.com:9906/c43ce56111dd47e2a52dd79fbadb3626.ts
+有线体育,mitv://ns2.hellotvvod.com:9906/60925bdb00028a23cae1c3634f536302.ts
+ViuTV,mitv://ns2.hellotvvod.com:9906/d2ee9b500bdd4e1e8bf60fdb7a34498c.ts
+RTHK31,mitv://ns2.hellotvvod.com:9906/dcf163898ead413e9c3ebb85d52d8277.ts
+RTHK32,mitv://ns2.hellotvvod.com:9906/12cabfd27d194e4685af3ac1f06c494a.ts
+香港开视,mitv://ns2.hellotvvod.com:9906/26eb82c3f8d94db5a7700d76946184cb.ts
+阳光卫视,mitv://ns2.hellotvvod.com:9906/8548a9c41bfd4bea9dc94c25617e85a4.ts,http://stream.chinasuntv.com/680k/mid_video_index.m3u8
+now新闻,mitv://ns2.hellotvvod.com:9906/965d29611a8c4fa7a77462a95bc52c5a.ts
+now直播,mitv://ns2.hellotvvod.com:9906/cbe7973c8191466c9d4939de7f455324.ts
+卫视卡式,mitv://ns2.hellotvvod.com:9906/609244960008becdca86df725dec17a5.ts
+天映频道,mitv://ns2.hellotvvod.com:9906/58769bfba6c247d2855f39050c076253.ts
+卫视音乐,rtmp://58.200.131.2:1935/livetv/channelv
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv,rtmp://58.200.131.2:1935/livetv/startv
+星空体育,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports,rtmp://58.200.131.2:1935/livetv/starsports
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+亚洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
+点掌财经,http://cclive.aniu.tv/live/anzb.m3u8,http://cclive2.aniu.tv/live/anzb.m3u8
+Sports Plus,mitv://ns2.hellotvvod.com:9906/60925bdb0008874ecae1c4ea1c9b6d90.ts
+儒释道经,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+澳门莲花,mitv://ns2.hellotvvod.com:9906/6089930824dc4a86921e6bef52a1fc2e.ts
 晴天TV源,#genre#
   民视,mitv://ns2.hellotvvod.com:9906/08fb8494b81e4dfa9a61b876ce6022a3.ts
  人间卫视,mitv://ns2.hellotvvod.com:9906/29553337e2594caf922a0cccc38c1232.ts
