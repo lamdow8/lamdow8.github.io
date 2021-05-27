@@ -1,8 +1,8 @@
 NBA直播,#genre#
-纬来体育台,mitv://ns2.hellotvvod.com:9906/d4e143ff1a594d44ba179e58ef298bce.ts
+纬来体育台,mitv://ns2.hellotvvod.com:9906/6056219f000f1cc8df9e107f50f97b2a.ts#mitv://ns2.hellotvvod.com:9906/d4e143ff1a594d44ba179e58ef298bce.ts
 纬来体育,rtmp://59.124.75.130/sat/tv721
 纬来体育,rtmp://59.124.75.130:1935/sat/tv721
-ELTA体育1台,mitv://ns2.hellotvvod.com:9906/35cad482912e43909d2d4c20c7088378.ts
+爱尔达体育1台,mitv://ns2.hellotvvod.com:9906/60575228000a970be443a67e4f722369.ts#mitv://ns2.hellotvvod.com:9906/35cad482912e43909d2d4c20c7088378.ts
 🇨🇳央视频道,#genre#
 央视新闻,https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
 CCTV-4K超高清,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=cctv4k#http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls$浙江#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229683/index.m3u8#http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
@@ -449,6 +449,17 @@ RTHK32,http://teslagram.com/live/channel_32.m3u8#https://rthklive2-lh.akamaihd.n
 香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 
 🇹🇼台湾频道🇹🇼,#genre#
+中视新闻,http://www.hrcloud.tk/hls/zs_xwt.m3u8
+华视新闻,http://www.hrcloud.tk/hls/hs_xwt.m3u8
+台视新闻,http://www.hrcloud.tk/hls/ts_xwt.m3u8
+民视新闻,http://www.hrcloud.tk/hls/ms_xwt.m3u8
+年代新闻HD,http://125.227.210.37:20434/VideoInput/play.ts
+三立INEWS,http://www.hrpan.tk/hls/sl_news.m3u8
+三立LIVE新闻,http://www.hrcloud.tk/hls/sl_live.m3u8
+中天新闻,http://www.hrpan.tk/hls/zt_news.m3u8
+东森新闻,http://www.hrpan.tk/hls/ds_xwt.m3u8
+TVBS新闻,http://www.hrpan.tk/hls/tvbs_xw.m3u8
+寰宇新闻,http://www.hrpan.tk/hls/hy_xwt.m3u8
 有线18台,rtmp://59.124.75.130/sat/hk042
 中视,rtmp://59.124.75.130/sat/tv091
 华视,rtmp://59.124.75.130/sat/tv112
@@ -591,7 +602,51 @@ supersports 1,http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
 Supersports 2,http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
 Supersports 3,http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 Supersports 4,http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+47代理,#genre#
+華視,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-501
+華視教育體育文化台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-502
+華視新聞資訊台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-503
+中視,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-100
+中視新聞台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-101
+中視經典台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-102
+中視菁采台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-103
+民視,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-300
+民視第一台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-301
+民視新聞台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-302
 
+TVB 翡翠,http://47.242.54.220/daili/ce50.php?gun=1&id=Jade#http://qj.yyrjdp.cn/jiuban/iptv5/huanip.php?id=Jade
+天映經典,http://47.242.54.220/daili/ce50.php?gun=3&id=celestial2_pye
+天映頻道,http://47.242.54.220/daili/ce50.php?gun=3&id=celestial_pye
+CATCHPAYj電影台,http://47.242.54.220/daili/ce50.php?gun=3&id=cmovie_pye
+WWE,http://47.242.54.220/daili/ce50.php?gun=3&id=wwe_pye
+AXN,http://47.242.54.220/daili/ce50.php?gun=2&id=Axn
+HITS,http://47.242.54.220/daili/ce50.php?gun=2&id=Hits
+History,http://47.242.54.220/daili/ce50.php?gun=2&id=History
+FOX,http://47.242.54.220/daili/ce50.php?gun=2&id=Foxhd
+Baby TV,http://47.242.54.220/daili/ce50.php?gun=2&id=Babytv
+Life Time,http://50.7.59.216:61980/myplay/cn_1_11017/index.m3u8?key=84797b799ae18d1b
+OHK,http://47.242.54.220/daili/ce50.php?gun=3&id=ohk_pye
+OHK,http://47.242.54.220/daili/ce50.php?gun=3&id=Ohk
+FOX Action Movies,http://47.242.54.220/daili/ce50.php?gun=2&id=Foxactionhd
+FOX Crime,http://47.242.54.220/daili/ce50.php?gun=2&id=Foxcrime
+FOX Family Movies,http://47.242.54.220/daili/ce50.php?gun=2&id=Foxfamily
+FOX Life,http://47.242.54.220/daili/ce50.php?gun=2&id=Foxlife
+FOX Movies,http://47.242.54.220/daili/ce50.php?gun=2&id=Foxmovie
+Hits Movie,http://47.242.54.220/daili/ce50.php?gun=2&id=Hitsmovie
+KIX,http://45.126.83.51/uq2663/h/h07/01.m3u8
+LifeTime,http://47.242.54.220/daili/ce50.php?gun=2&id=Lifetime
+Thrill,http://47.242.54.220/daili/ce50.php?gun=2&id=Thrill
+Warner TV,http://47.242.54.220/daili/ce50.php?gun=2&id=WarnerTV
+Discovery Channel,http://47.242.54.220/daili/ce50.php?gun=2&id=Discoveryhd
+Nat Geo,http://47.242.54.220/daili/ce50.php?gun=2&id=Natgeo
+Nat Geo Wild,http://47.242.54.220/daili/ce50.php?gun=2&id=Natgeopeople
+Animax,http://47.242.54.220/daili/ce50.php?gun=2&id=Animax
+Boomerang,http://47.242.54.220/daili/ce50.php?gun=2&id=Boomerang
+Cartoon Network,http://47.242.54.220/daili/ce50.php?gun=2&id=Cn
+CBeebies,http://47.242.54.220/daili/ce50.php?gun=2&id=Cbeebies
+Disney Channel,http://47.242.54.220/daili/ce50.php?gun=2&id=Disneyxd
+Nick Jr,http://47.242.54.220/daili/ce50.php?gun=2&id=Nickjr
+Nickelodeon,http://47.242.54.220/daili/ce50.php?gun=2&id=Nickelodeon
 🇭🇰港澳测试🇭🇰,#genre#
 RTHK31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
 RTHK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
