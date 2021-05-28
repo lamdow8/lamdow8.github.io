@@ -2234,6 +2234,7 @@ NewTV金牌综艺 4M1080,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/2
 最爱歌曲,#genre#
 谁爱谁,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20210424/5623330CBva7lEhVkirCsiIFJ.mp4
 甜蜜蜜,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201231/56233303RsmdkhU56yo7PofTv.mp4
+爱不来,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20210526/5623330cJ8eFkeDwSoD3x2hgt.mp4
 我的梦,https://rescdn.yishihui.com/longvideo/transcode/video/2019-1-3/751697ea0ee34132a56f29a7f5230b021548387006288.m3u8
 哭砂,https://rescdn.yishihui.com/longvideo/transcode/video/live/201903265623330b7Y5a9jnTT1ZgnKF62.m3u8
 祝福,https://rescdn.yishihui.com/longvideo/transcode/video/live/201905145623330aCm0SD3BtrQpdu4aE0-safe1600664112.m3u8
