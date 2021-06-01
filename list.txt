@@ -1,10 +1,9 @@
 NBA直播,#genre#
 纬来体育,rtmp://59.124.75.130:1935/sat/tv721
 纬来体育,rtmp://59.124.75.130/sat/tv721
-爱尔达体育1,rtmp://59.124.75.130:1935/sat/md022
-爱尔达体育2,rtmp://59.124.75.130:1935/sat/md011
-纬来体育台,p2p://ns2.hellotvvod.com:9906/d4e143ff1a594d44ba179e58ef298bce.ts
-爱尔达体育1台,p2p://ns2.hellotvvod.com:9906/35cad482912e43909d2d4c20c7088378.ts
+爱尔达体育1,rtmp://59.124.75.130:1935/sat/md041
+爱尔达体育1,rtmp://59.124.75.130:1935/sat/md042
+
 
 🇨🇳央视频道,#genre#
 央视新闻,https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
@@ -478,11 +477,11 @@ TVBS·新闻台,rtmp://59.124.75.130/sat/tv552
 纬来育乐,rtmp://59.124.75.130:1935/sat/tv701
 纬来日本,rtmp://59.124.75.130:1935/sat/tv521
 纬来日本,rtmp://59.124.75.130/sat/tv522
-爱尔达体育一,rtmp://59.124.75.130/sat/md011
+爱尔达体育一,rtmp://59.124.75.130/sat/md041
 东森超视,rtmp://59.124.75.130/sat/tv772
 东森超视,rtmp://59.124.75.130:1935/sat/tv771
 东森超视,rtmp://59.124.75.130/sat/tv771
-博斯魅力,rtmp://59.124.75.130/sat/md042
+博斯魅力,rtmp://59.124.75.130/sat/md051
 东森财经新闻,rtmp://59.124.75.130:1935/sat/tv571
 MoMo综合台,rtmp://59.124.75.130/sat/tv761
 TVBS欢乐,rtmp://59.124.75.130:1935/sat/tv421
@@ -639,6 +638,7 @@ CBeebies,http://47.242.54.220/daili/ce50.php?gun=2&id=Cbeebies
 Disney Channel,http://47.242.54.220/daili/ce50.php?gun=2&id=Disneyxd
 Nick Jr,http://47.242.54.220/daili/ce50.php?gun=2&id=Nickjr
 Nickelodeon,http://47.242.54.220/daili/ce50.php?gun=2&id=Nickelodeon
+
 🇭🇰港澳测试🇭🇰,#genre#
 RTHK31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
 RTHK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
@@ -791,6 +791,10 @@ CHC家庭影院,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/
 邵氏老电影,https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8
 邵氏老电影,https://cn-hnzz-cmcc-live-01.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8
 邵氏影院,http://tx2play1.douyucdn.cn/live/4246519rRn8e6QwX.m3u8?
+开心影院,http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
+私人影院1,http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv
+私人影院2,http://tx2play1.douyucdn.cn/live/85894rmovieChow.flv
+私人影院3,http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_2000.flv?uuid=
 黑莓电影,http://112.17.40.140/PLTV/88888888/224/3221226755/index.m3u8
 黑莓动画 4M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/donghuawg/index.m3u8?IAS
 黑莓电影 4M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/jdianying/index.m3u8?IAS
