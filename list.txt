@@ -432,6 +432,7 @@ CCTV-17农业农村,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/322122583
 無線新聞台,http://ohyeah.gear.host/hktvb.php?id=1
 無線財經台,http://ohyeah.gear.host/hktvb.php?id=2
 無線直播台,http://ohyeah.gear.host/hktvb.php?id=3
+NOW新闻,http://ohyeah.gear.host/hknow.php?id=332
 翡翠台 1080P,https://cdn.hkdtmb.com/hls/81/index.m3u8
 无线新闻 1080P,https://cdn.hkdtmb.com/hls/83/index.m3u8
 明珠台HD,https://cdn.hkdtmb.com/hls/84/index.m3u8
@@ -455,7 +456,6 @@ RTHK32,http://teslagram.com/live/channel_32.m3u8#https://rthklive2-lh.akamaihd.n
 华视新闻,http://www.hrcloud.tk/hls/hs_xwt.m3u8
 台视新闻,http://www.hrcloud.tk/hls/ts_xwt.m3u8
 民视新闻,http://www.hrcloud.tk/hls/ms_xwt.m3u8
-年代新闻HD,http://125.227.210.37:20434/VideoInput/play.ts
 三立INEWS,http://www.hrpan.tk/hls/sl_news.m3u8
 三立LIVE新闻,http://www.hrcloud.tk/hls/sl_live.m3u8
 中天新闻,http://www.hrpan.tk/hls/zt_news.m3u8
