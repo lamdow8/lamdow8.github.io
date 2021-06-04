@@ -650,6 +650,7 @@ J2 1080P,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 无线财经资讯台 1080P,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
 ViuTV 6HD,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 ViuTV 1080P,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+TVB星河台,http://185.180.221.194:8278/streams/d/Xinhe/playlist.m3u8
 翡翠台 1080P,http://61.238.6.49:8000/bysid/1#http://hls.globaliptv.ml/tvbjade.php
 无线新闻 1080P,http://61.238.6.49:8001/bysid/83
 明珠台HD,http://61.238.6.49:8001/bysid/2#http://hls.globaliptv.ml/tvbpearl.php
@@ -657,6 +658,18 @@ J2 1080P,http://61.238.6.49:8001/bysid/82#http://hls.globaliptv.ml/tvbj2.php
 无线财经资讯台 1080P,http://61.238.6.49:8001/bysid/85
 ViuTV 1080P,http://61.238.6.49:8000/bysid/99#http://hls.globaliptv.ml/viu99.php
 ViuTV 6HD,http://61.238.6.49:8000/bysid/96#http://hls.globaliptv.ml/viu96.php
+華視,http://185.207.176.189:8080/channels/tw-501/mpeg.2ts
+華視教育體育文化,http://185.207.176.189:8080/channels/tw-502/mpeg.2ts
+華視新聞,http://185.207.176.189:8080/channels/tw-503/mpeg.2ts
+華視國會頻道1,http://185.207.176.189:8080/channels/tw-504/mpeg.2ts
+華視國會頻道2,http://185.207.176.189:8080/channels/tw-505/mpeg.2ts
+中視,http://185.207.176.189:8080/channels/tw-100/mpeg.2ts
+中視新聞,http://185.207.176.189:8080/channels/tw-101/mpeg.2ts
+中視經典,http://185.207.176.189:8080/channels/tw-102/mpeg.2ts
+中視精采,http://185.207.176.189:8080/channels/tw-103/mpeg.2ts
+民視,http://185.207.176.189:8080/channels/tw-300/mpeg.2ts
+民視第一台,http://185.207.176.189:8080/channels/tw-301/mpeg.2ts
+民視新聞台,http://185.207.176.189:8080/channels/tw-302/mpeg.2ts
 莲花卫视,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 澳視澳門,http://61.244.22.5/ch1/ch1.live/playlist.m3u8
 澳視卫星,http://61.244.22.5/ch3/ch3.live/chunklist_w30461384.m3u8
