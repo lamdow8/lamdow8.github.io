@@ -434,7 +434,10 @@ CCTV-17农业农村,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/322122583
 NOW新闻,http://ohyeah.gear.host/hknow.php?id=332
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
-
+香港有綫新聞,http://47.242.54.220:80/daili/yang.php?token=sasafa742&tid=zdy4&id=yxxw
+TVB無綫新聞,http://47.242.54.220:80/daili/yang.php?token=sasafa742&tid=zdy2&id=wxxw
+TVB翡翠台,http://47.242.54.220:80/daili/yang.php?token=sasafa742&tid=zdy2&id=jade
+TVB J2台,http://47.242.54.220:80/daili/yang.php?token=sasafa742&tid=zdy2&id=j2
 🇹🇼台湾频道🇹🇼,#genre#
 中视新闻,http://www.hrcloud.tk/hls/zs_xwt.m3u8
 华视新闻,http://www.hrcloud.tk/hls/hs_xwt.m3u8
