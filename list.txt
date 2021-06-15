@@ -1916,13 +1916,13 @@ SiTV幸福彩,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xfc
 孟庭苇-相爱的可能性,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/5lsxCqoKs6ZE7MfJZvM%40%40hd.m3u8
 孟庭苇-不下雨就出太阳吧,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/lhaW77A2RRwiJrh0CiJ%40%40hd.m3u8
 
-时尚,#genre# 
+时尚_0000,#genre# 
 HD Fashion,http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 HD Fashion,http://95.67.47.114/hls/hdfashion_ua_mid/index.m3u8
 HD Fashion,http://95.67.47.114/hls/hdfashion_ua_low/index.m3u8
 WFC时装,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
 WFC时装,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
-
+Dorcel TV HD,http://188.35.9.11:21141/udp/214h
 FTV①国际 ,mitv://147.135.39.171:9906/5ee0b0f200002646c348aa803078676e.ts
 FTV②巴黎 ,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 FTV③欧莱雅,https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
