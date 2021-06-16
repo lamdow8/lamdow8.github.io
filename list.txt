@@ -114,40 +114,6 @@ CCTV-14少儿,http://39.135.138.59:18890/PLTV/88888910/224/3221225639/index.m3u8
 CCTV-15音乐,http://39.135.138.59:18890/PLTV/88888910/224/3221225641/index.m3u8$江西宜春4M
 CCTV-17农业农村,http://39.135.138.59:18890/PLTV/88888910/224/3221225909/index.m3u8$江西宜春8M
 
-CCTV-1综合,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225674/index.m3u8$广西8M
-CCTV-2财经,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225676/index.m3u8$广西8M
-CCTV-3综艺,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225677/index.m3u8$广西8M
-CCTV-4国际,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225753/index.m3u8$广西8M
-CCTV-5体育,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225680/index.m3u8$广西8M
-CCTV-5+体育赛事,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225621/index.m3u8$广西8M
-CCTV-6电影,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225683/index.m3u8$广西8M
-CCTV-7国防军事,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225627/index.m3u8$广西8M
-CCTV-8电视剧,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225630/index.m3u8$广西8M
-CCTV-9纪录,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225633/index.m3u8$广西8M
-CCTV-10科教,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225624/index.m3u8$广西8M
-CCTV-11戏曲,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225750/index.m3u8$广西8M
-CCTV-12社会与法,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225670/index.m3u8$广西8M
-CCTV-13新闻,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225787/index.m3u8$广西8M
-CCTV-14少儿,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225673/index.m3u8$广西8M
-CCTV-15音乐,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225830/index.m3u8$广西8M
-CCTV-17农业农村,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225833/index.m3u8$广西8M
-CCTV-1综合,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$广西8M
-CCTV-2财经,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8$广西8M
-CCTV-3综艺,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8$广西8M
-CCTV-4国际,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225753/index.m3u8$广西8M
-CCTV-5体育,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8$广西8M
-CCTV-5+体育赛事,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225621/index.m3u8$广西8M
-CCTV-6电影,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8$广西8M
-CCTV-7国防军事,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8$广西8M
-CCTV-8电视剧,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225630/index.m3u8$广西8M
-CCTV-9纪录,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8$广西8M
-CCTV-10科教,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8$广西8M
-CCTV-11戏曲,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225750/index.m3u8$广西8M
-CCTV-12社会与法,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$广西8M
-CCTV-13新闻,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225787/index.m3u8$广西8M
-CCTV-14少儿,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8$广西8M
-CCTV-15音乐,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225830/index.m3u8$广西8M
-CCTV-17农业农村,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225833/index.m3u8$广西8M
 
 📺卫视频道,#genre#
 东南卫视 HD,rtsp://183.252.166.199/PLTV/88888888/224/3221226121/10000100000000060000000002358085_0.smil$福建8M
@@ -202,21 +168,7 @@ CCTV-17农业农村,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/322122583
 黑龙江卫视 HD,http://39.135.138.8:6610/PLTV/88888888/224/3221225586/2/index.m3u8?fmt=ts2hls$江西宜春8M
 黑龙江卫视 HD,http://39.135.138.8:6610/PLTV/88888888/224/3221225690/2/index.m3u8?fmt=ts2hls$江西宜春8M
 
-东南卫视 HD,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225696/index.m3u8$广西4M
-东方卫视 HD,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225682/index.m3u8$广西8M
-北京卫视 HD,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225664/index.m3u8$广西8M
-天津卫视 HD,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225694/index.m3u8$广西8M
-安徽卫视 HD,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225671/index.m3u8$广西8M
-山东卫视 HD,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225642/index.m3u8$广西8M
-广东卫视 HD,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225685/index.m3u8$广西8M
-江苏卫视 HD,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225636/index.m3u8$广西8M
-浙江卫视 HD,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225695/index.m3u8$广西8M
-深圳卫视 HD,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225691/index.m3u8$广西8M
-湖北卫视 HD,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225689/index.m3u8$广西8M
-湖南卫视 HD,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225692/index.m3u8$广西8M
-辽宁卫视 HD,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225639/index.m3u8$广西8M
-重庆卫视 HD,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225679/index.m3u8$广西8M
-黑龙江卫视 HD,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225686/index.m3u8$广西8M
+
 东方卫视 HD,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230689/01.m3u8?fmt=ts2hls$浙江4.5M
 北京卫视 HD,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228321/01.m3u8?fmt=ts2hls$浙江8M
 天津卫视 HD,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228818/index.m3u8$浙江4M
@@ -264,22 +216,6 @@ CCTV-17农业农村,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/322122583
 东南卫视 HD,http://39.135.138.59:18890/PLTV/88888910/224/3221225657/index.m3u8$江西宜春4M
 江西卫视 HD,http://39.135.138.59:18890/PLTV/88888910/224/3221225705/index.m3u8$江西宜春4M
 
-东南卫视 HD,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225696/index.m3u8$广西4M
-东方卫视 HD,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225682/index.m3u8$广西8M
-北京卫视 HD,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8$广西8M
-天津卫视 HD,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225694/index.m3u8$广西8M
-安徽卫视 HD,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8$广西8M
-山东卫视 HD,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225642/index.m3u8$广西8M
-广东卫视 HD,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8$广西8M
-江苏卫视 HD,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225636/index.m3u8$广西8M
-浙江卫视 HD,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225695/index.m3u8$广西8M
-深圳卫视 HD,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225691/index.m3u8$广西8M
-湖北卫视 HD,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8$广西8M
-湖南卫视 HD,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225692/index.m3u8$广西8M
-辽宁卫视 HD,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8$广西8M
-重庆卫视 HD,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225679/index.m3u8$广西8M
-黑龙江卫视 HD,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225686/index.m3u8$广西8M
-
 东南卫视 HD,http://39.134.39.39/PLTV/88888888/224/3221226309/index.m3u8$兰州8M
 东方卫视 HD,http://39.134.39.39/PLTV/88888888/224/3221226299/index.m3u8$兰州8M
 北京卫视 HD,http://39.134.39.39/PLTV/88888888/224/3221226270/index.m3u8$兰州8M
@@ -318,16 +254,6 @@ NOW新闻,http://ohyeah.gear.host/hknow.php?id=332
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
 🇹🇼台湾频道🇹🇼,#genre#
-中视新闻,http://www.hrcloud.tk/hls/zs_xwt.m3u8
-华视新闻,http://www.hrcloud.tk/hls/hs_xwt.m3u8
-台视新闻,http://www.hrcloud.tk/hls/ts_xwt.m3u8
-民视新闻,http://www.hrcloud.tk/hls/ms_xwt.m3u8
-三立INEWS,http://www.hrpan.tk/hls/sl_news.m3u8
-三立LIVE新闻,http://www.hrcloud.tk/hls/sl_live.m3u8
-中天新闻,http://www.hrpan.tk/hls/zt_news.m3u8
-东森新闻,http://www.hrpan.tk/hls/ds_xwt.m3u8
-TVBS新闻,http://www.hrpan.tk/hls/tvbs_xw.m3u8
-寰宇新闻,http://www.hrpan.tk/hls/hy_xwt.m3u8
 有线18台,rtmp://59.124.75.130/sat/hk042
 中视,rtmp://59.124.75.130/sat/tv091
 华视,rtmp://59.124.75.130/sat/tv112
@@ -380,7 +306,16 @@ TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 東森財經新聞台,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 華視新聞資訊 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8
 華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
-
+中视新闻,http://www.hrcloud.tk/hls/zs_xwt.m3u8
+华视新闻,http://www.hrcloud.tk/hls/hs_xwt.m3u8
+台视新闻,http://www.hrcloud.tk/hls/ts_xwt.m3u8
+民视新闻,http://www.hrcloud.tk/hls/ms_xwt.m3u8
+三立INEWS,http://www.hrpan.tk/hls/sl_news.m3u8
+三立LIVE新闻,http://www.hrcloud.tk/hls/sl_live.m3u8
+中天新闻,http://www.hrpan.tk/hls/zt_news.m3u8
+东森新闻,http://www.hrpan.tk/hls/ds_xwt.m3u8
+TVBS新闻,http://www.hrpan.tk/hls/tvbs_xw.m3u8
+寰宇新闻,http://www.hrpan.tk/hls/hy_xwt.m3u8
 翻墙专区,#genre#
 RTHK31,http://livetv.dnsfor.me:80/channel.1.m3u8
 RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
