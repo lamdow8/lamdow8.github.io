@@ -9,6 +9,20 @@ ELEVEN+体育,rtmp://59.124.75.130:1935/sat/md031
 🇨🇳央视频道,#genre#
 央视新闻,https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
 CCTV-4K超高清,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls$浙江#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229683/index.m3u8#http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
+CCTV-1综合,http://223.110.241.137:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/.m3u8$银河
+CCTV-2财经,http://223.110.241.137:6610/gitv/live1/G_CCTV-2-HD/G_CCTV-2-HD/.m3u8$银河
+CCTV-3综艺,http://223.110.241.137:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/.m3u8$银河
+CCTV-4国际,http://223.110.241.137:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/.m3u8$银河
+CCTV-5体育,http://223.110.241.137:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/.m3u8$银河
+CCTV-5+体育赛事,http://223.110.241.137:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ/.m3u8$银河
+CCTV-6电影,http://223.110.241.137:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/.m3u8$银河
+CCTV-7国防军事,http://223.110.241.137:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/.m3u8$银河
+CCTV-8电视剧,http://223.110.241.137:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/.m3u8$银河
+CCTV-10科教,http://223.110.241.137:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/.m3u8$银河
+CCTV-11戏曲,http://223.110.241.137:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/.m3u8$银河
+CCTV-13新闻,http://223.110.241.137:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/.m3u8$银河
+
+
 CCTV-1综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8$陕西12M
 CCTV-2财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8$陕西12M
 CCTV-3综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8$陕西5M
@@ -246,7 +260,6 @@ CCTV-17农业农村,http://39.135.138.59:18890/PLTV/88888910/224/3221225909/inde
 凤凰中文,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8$ZJ10M720
 凤凰资讯,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8$ZJ10M720
 翡翠台(大陆线路）,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-翡翠台,http://iptv.321.bz/wz.php?id=1
 無線新聞台,http://ohyeah.gear.host/hktvb.php?id=1
 無線財經台,http://ohyeah.gear.host/hktvb.php?id=2
 無線直播台,http://ohyeah.gear.host/hktvb.php?id=3
@@ -306,16 +319,7 @@ TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 東森財經新聞台,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 華視新聞資訊 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8
 華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
-中视新闻,http://www.hrcloud.tk/hls/zs_xwt.m3u8
-华视新闻,http://www.hrcloud.tk/hls/hs_xwt.m3u8
-台视新闻,http://www.hrcloud.tk/hls/ts_xwt.m3u8
-民视新闻,http://www.hrcloud.tk/hls/ms_xwt.m3u8
-三立INEWS,http://www.hrpan.tk/hls/sl_news.m3u8
-三立LIVE新闻,http://www.hrcloud.tk/hls/sl_live.m3u8
-中天新闻,http://www.hrpan.tk/hls/zt_news.m3u8
-东森新闻,http://www.hrpan.tk/hls/ds_xwt.m3u8
-TVBS新闻,http://www.hrpan.tk/hls/tvbs_xw.m3u8
-寰宇新闻,http://www.hrpan.tk/hls/hy_xwt.m3u8
+
 翻墙专区,#genre#
 RTHK31,http://livetv.dnsfor.me:80/channel.1.m3u8
 RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
@@ -1369,7 +1373,7 @@ SiTV幸福彩,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xfc
 孟庭苇-相爱的可能性,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/5lsxCqoKs6ZE7MfJZvM%40%40hd.m3u8
 孟庭苇-不下雨就出太阳吧,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/lhaW77A2RRwiJrh0CiJ%40%40hd.m3u8
 
-时尚_0000,#genre# 
+时尚_1,#genre# 
 HD Fashion,http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 HD Fashion,http://95.67.47.114/hls/hdfashion_ua_mid/index.m3u8
 HD Fashion,http://95.67.47.114/hls/hdfashion_ua_low/index.m3u8
