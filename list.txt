@@ -23,6 +23,43 @@ CCTV-10科教,http://223.110.241.137:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/.
 CCTV-11戏曲,http://223.110.241.137:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/.m3u8$银河
 CCTV-13新闻,http://223.110.241.137:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/.m3u8$银河
 
+CCTV-1综合,http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8$北京8M
+CCTV-1综合,http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/1.m3u8$北京8M
+CCTV-2财经,http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226371/1.m3u8$北京8M
+CCTV-2财经,http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226472/1.m3u8$北京8M
+CCTV-3综艺,http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226471/1.m3u8$北京8M
+CCTV-4国际,http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226335/1.m3u8$北京4M
+CCTV-5体育,http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8$北京8M
+CCTV-5+体育赛事,http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226349/1.m3u8$北京4M
+CCTV-5+体育赛事,http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226458/1.m3u8$北京8M
+CCTV-7国防军事,http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226467/1.m3u8$北京8M
+CCTV-8电视剧,http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226485/1.m3u8$北京8M
+CCTV-9纪录,http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226465/1.m3u8$北京8M
+CCTV-10科教,http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226464/1.m3u8$北京8M
+CCTV-11戏曲,http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226463/1.m3u8$北京8M
+CCTV-12社会与法,http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226462/1.m3u8$北京8M
+CCTV-13新闻,http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8$北京4M
+CCTV-15音乐,http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226333/1.m3u8$北京4M
+CCTV-17农业农村,http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226318/1.m3u8$北京4M
+
+CCTV-1综合,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8$福建8M
+CCTV-2财经,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225923/index.m3u8$福建8M
+CCTV-2财经,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226915/index.m3u8$福建8M
+CCTV-4国际,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226968/index.m3u8$福建8M
+CCTV-7国防军事,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226803/index.m3u8$福建12M
+CCTV-7国防军事,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8$福建HEVC
+CCTV-9纪录,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225929/index.m3u8$福建8M
+CCTV-9纪录,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226923/index.m3u8$福建8M
+CCTV-10科教,http://39.135.230.66/ott.fj.chinamobile.com/PLTV/88888888/224/3221226976/index.m3u8$福建8M
+CCTV-10科教,http://39.135.230.68/ott.fj.chinamobile.com/PLTV/88888888/224/3221226140/index.m3u8$福建8M
+CCTV-10科教,http://39.135.230.86/ott.fj.chinamobile.com/PLTV/88888888/224/3221225931/index.m3u8$福建8M
+CCTV-11戏曲,rtsp://183.252.176.54:554/PLTV/88888888/224/3221225996/10000100000000060000000002296743_0.smil
+CCTV-12社会与法,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225932/index.m3u8$福建8M
+CCTV-12社会与法,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226931/index.m3u8$福建8M
+CCTV-13新闻,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8$福建4M
+CCTV-13新闻,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226104/10000100000000060000000002298296_0.smil$福建8M
+CCTV-15音乐,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226989/index.m3u8$福建8M
+CCTV-15音乐,rtsp://183.252.166.199/PLTV/88888888/224/3221225998/10000100000000060000000002296745_0.smil$福建8M
 
 CCTV-1综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8$陕西12M
 CCTV-2财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8$陕西12M
@@ -73,8 +110,6 @@ CCTV-11戏曲,http://39.134.39.39/PLTV/88888888/224/3221226261/index.m3u8$兰州
 CCTV-12社会与法,http://39.134.39.39/PLTV/88888888/224/3221226230/index.m3u8$兰州8M
 CCTV-14少儿,http://39.134.39.39/PLTV/88888888/224/3221226232/index.m3u8$兰州8M
 CCTV-15音乐,http://39.134.39.39/PLTV/88888888/224/3221226234/index.m3u8$兰州8M
-
-
 
 CCTV-1综合,http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228025/index.m3u8$江苏10M
 CCTV-2财经,http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8$江苏8M
@@ -265,9 +300,56 @@ CCTV-17农业农村,http://39.135.138.59:18890/PLTV/88888910/224/3221225909/inde
 無線財經台,http://ohyeah.gear.host/hktvb.php?id=2
 無線直播台,http://ohyeah.gear.host/hktvb.php?id=3
 NOW新闻,http://ohyeah.gear.host/hknow.php?id=332
+有线新闻台,http://198.16.106.62:8278/streams/d/hkcnews_twn/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-
+翡翠台 1080P,https://hk1.chaojidianshi.net/hls/81/index.m3u8
+无线新闻 1080P,https://hk1.chaojidianshi.net/hls/83/index.m3u8
+明珠台HD,https://hk1.chaojidianshi.net/hls/84/index.m3u8
+J2 1080P,https://hk1.chaojidianshi.net/hls/82/index.m3u8
+无线财经资讯台 1080P,https://hk1.chaojidianshi.net/hls/85/index.m3u8
+ViuTV 1080P,https://hk1.chaojidianshi.net/hls/99/index.m3u8
+ViuTV 6HD,https://hk1.chaojidianshi.net/hls/96/index.m3u8
+香港国际财经,https://hk1.chaojidianshi.net/hls/76/index.m3u8
+开电视,https://hk1.chaojidianshi.net/hls/77/index.m3u8
+RTHK31,https://hk1.chaojidianshi.net/hls/31/index.m3u8
+RTHK32,https://hk1.chaojidianshi.net/hls/32/index.m3u8
+RTHK33,https://hk1.chaojidianshi.net/hls/33/index.m3u8
 🇹🇼台湾频道🇹🇼,#genre#
+TVBS News 新闻台,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
+TVBS,http://198.16.106.62:8278/streams/d/tvbsgbk_twn/playlist.m3u8
+TVBS,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
+中天新闻,http://198.16.106.62:8278/streams/d/ctinews/playlist.m3u8
+中天娱乐,http://198.16.106.62:8278/streams/d/ctient/playlist.m3u8
+中天综合,http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
+民视,http://198.16.106.62:8278/streams/d/ftvᴴᴰ_taiwan/playlist.m3u8
+民视台湾台,http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8
+三立台湾,http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8
+纬来日本台,http://198.16.106.62:8278/streams/d/videolandjapan_zero/playlist.m3u8
+纬来电影台,http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
+纬来精彩台,http://198.16.106.62:8278/streams/d/videolandspecial_zero/playlist.m3u8
+纬来体育台,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8
+纬来戏剧台,http://198.16.106.62:8278/streams/d/videolandxiju_zero/playlist.m3u8
+纬来综合台,http://198.16.106.62:8278/streams/d/videolandzonghe_zero/playlist.m3u8
+亚洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+美食星球,http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
+亚洲旅游,http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8
+MTV Live,http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
+三立戏剧台,http://198.16.106.62:8278/sanlixiju_zero/playlist.m3u8
+爱尔达体育3台,http://198.16.106.62:8278/eltasport3_zero/playlist.m3u8
+爱尔达综合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+NatGeo_People,http://198.16.106.62:8278/streams/d/natgeopeople_zero/playlist.m3u8
+Discovery Eve,http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
+BBC Earth ᴴᴰ,http://198.16.106.62:8278/streams/d/bbcearthᴴᴰ_zero/playlist.m3u8
+BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
+Luxe TV,http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
+Nickelodeon,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
+Nick Jr,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
+Baby TV Eng,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
+Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
+CBeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
+Disney Channel,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
+Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
+
 有线18台,rtmp://59.124.75.130/sat/hk042
 民视,rtmp://59.124.75.130/sat/tv051
 台视,rtmp://59.124.75.130/sat/tv071
@@ -546,10 +628,59 @@ ViuTV 6HD,http://61.238.6.49:8000/bysid/96#http://hls.globaliptv.ml/viu96.php
 百事通体育 1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226638/index.m3u8
 百事通体育 1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 百事通体育 1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226642/index.m3u8
+⚽BEIN体育频道,#genre#
+BEIN Sport 1ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20066
+BEIN Sport 2ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20067
+BEIN Sport 3ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20068
+BEIN Sport 4ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20069
+BEIN Sport 5ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20070
+BEIN Sport 9 maxᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20071
+BEIN Sport 7ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20072
+BEIN Sport 5 maxᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20073
+BEIN Sport 9ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20074
+BEIN Sport 1 maxᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20075
+BEIN Sport 5ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/24724
+BEIN SPORTS 1,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/7340
+BEIN SPORTS 2,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/7341
+BEIN SPORTS 3,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/7342
+BEIN SPORTS 1 max,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/7343
+BEIN SPORTS 5,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/7344
+BEIN SPORTS 9 max,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/7345
+BEIN SPORTS 7 4k,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/7346
+BEIN SPORTS 8,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/7347
+BEIN SPORTS 9 max,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/7348
+BEIN SPORTS 3 PREMIUM,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/7349
+BEIN SPORTS 11,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/7350
+BEIN SPORTS 2 EN,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/7351
+BEIN SPORT 1,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1313
+BEIN SPORT 2,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1314
+BEIN SPORT 3,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1315
+BEIN SPORT 4,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1316
+BEIN SPORT 5,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1317
+BEIN SPORT 6,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1318
+BEIN SPORT 7,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1319
+BEIN SPORT 8,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1320
+BEIN SPORT 9,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1321
+BEIN SPORT 10,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1322
+BEIN SPORT 11 (ENG),http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1323
+BeIN Sport 5 (ENG),http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1324
+BEIN SPORTS 1ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/998
+BEIN SPORTS 2ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/999
+BEIN SPORTS 3ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1000
+Eurosport 1ᴴᴰ,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/986
+RMC Sport 1,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1001
+RMC Sport 2,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1002
+RMC Sport 3,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1003
+RMC Sport Live 6,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1005
+RMC Sport Live 7,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1006
+RMC Sport Live 8,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1007
+RMC Sport Live 10,http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1009
 
 ⚽境外频道,#genre#
 HBO,https://gratismkctv.net/film/hbo.m3u8
 NBA HD,https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+ELEVEN1,http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+ELEVEN2,http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 [V] HD,https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 FOX HD,https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 FOX MOVIES,https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
@@ -1452,3 +1583,1150 @@ FTV Paris,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4
 FTV L'Original,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8
 FTV Midnight Secert,https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 World Fashion,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
+台湾,#genre#
+ELTA影劇,p2p://fccsovh.pvbox.live:18912/5b1409dc0006a1ca305641ab9696976b#p2p://fccseuro.pvbox.live:18912/5b1409dc0006a1ca305641ab9696976b
+ELTA綜合,p2p://fccsovh.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a#p2p://fccseuro.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a
+EYETV旅遊,p2p://fccseuro.pvbox.live:18912/5b140916000c98189a8f92d5a76411a4#p2p://fccsovh.pvbox.live:18912/5b140916000c98189a8f92d5a76411a4
+KIX,p2p://fccseuro.pvbox.live:18912/5d65047e00051ab5970166de4f65e1b1#p2p://fccsovh.pvbox.live:18912/5d65047e00051ab5970166de4f65e1b1
+TVN,p2p://fccsovh.pvbox.live:18912/5bdbf3a70003296c1991afcf478c85b7#p2p://fccseuro.pvbox.live:18912/5bdbf3a70003296c1991afcf478c85b7
+民視,p2p://fccsovh.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881#p2p://fccsovh.pvbox.live:18912/5b1409690006a24a6938240e2c12a4c4#p2p://fccseuro.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881
+台視 HD,p2p://fccsovh.pvbox.live:18912/5c2dd73f000c83be0db4384477f9ca94#p2p://fccsovh.pvbox.live:18912/5b14095f000570be5e3fec254bfb79a4#p2p://fccseuro.pvbox.live:18912/5c72484300073d551d51cd7d6de955c4#p2p://fccseuro.pvbox.live:18912/5c2dd73f000c83be0db4384477f9ca94
+大愛,p2p://fccsovh.pvbox.live:18912/5b1409db0005716852e798a18129af98#p2p://fccseuro.pvbox.live:18912/5b1409db0005716852e798a18129af98
+中視,p2p://fccsovh.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d#p2p://fccsovh.pvbox.live:18912/5b14095f00075e71dbcaee608f5a7f3c#p2p://fccsovh.pvbox.live:18912/5c72484b000b1d091d51edb7087b7686#p2p://fccseuro.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d
+華視,p2p://fccsovh.pvbox.live:18912/5c2dd7470006324161ec704805b9e422#p2p://fccsovh.pvbox.live:18912/5b14095f000efa0ea879c11942a356bd#p2p://fccseuro.pvbox.live:18912/5c72484f000e498b1d51fe2201d92dd3#p2p://fccseuro.pvbox.live:18912/5c2dd7470006324161ec704805b9e422
+公視,p2p://fccseuro.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0#p2p://fccsovh.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0
+亞洲旅遊臺 HD,p2p://fccsovh.pvbox.live:18912/5b140917000941832426c7a7c76903f7#p2p://fccseuro.pvbox.live:18912/5c724854000188081d520e6e279b2446#p2p://fccsovh.pvbox.live:18912/5b140917000941831d58f5cbea1509ac#p2p://fccseuro.pvbox.live:18912/5b140917000941832426c7a7c76903f7
+好消息,p2p://fccsovh.pvbox.live:18912/5bdbf38a000e2c49f7287c5591c78943#p2p://fccseuro.pvbox.live:18912/5bdbf38a000e2c49f7287c5591c78943
+國家地理HD,p2p://fccseuro.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b#p2p://fccseuro.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b#p2p://fccsovh.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b
+探索頻道,p2p://fccsovh.pvbox.live:18912/5b14092b000cd4e0b31a629500c1a30f#p2p://fccseuro.pvbox.live:18912/5b14092b000cd4e0b31a629500c1a30f
+TLC,p2p://fccsovh.pvbox.live:18912/5b13f6f10002d2ef87429e6d2f0f4a1b#p2p://fccseuro.pvbox.live:18912/5b13f6f10002d2ef87429e6d2f0f4a1b
+動物星球,p2p://fccsovh.pvbox.live:18912/5b14096100006f339d699b1699f3896d#p2p://fccseuro.pvbox.live:18912/5b14096100006f339d699b1699f3896d
+CN卡通HD,p2p://fccsovh.pvbox.live:18912/5b140917000efaac21db0941c02449d8#p2p://fccseuro.pvbox.live:18912/5b140917000efaac21db0941c02449d8
+迪士尼卡通,p2p://fccsovh.pvbox.live:18912/5b1409f30004f6ece892d1065e09745c#p2p://fccseuro.pvbox.live:18912/5b1409f30004f6ece892d1065e09745c
+MOMO親子臺,p2p://fccsovh.pvbox.live:18912/5b1409690009f8b05e37c26041779937#p2p://fccseuro.pvbox.live:18912/5d70eb0f000a5e750d0a9659304554ba#p2p://fccseuro.pvbox.live:18912/5b1409690009f8b05e37c26041779937
+東森幼幼,p2p://fccsovh.pvbox.live:18912/5b140a9a00071c28641ddb2252e4cebc#p2p://fccseuro.pvbox.live:18912/5c724866000564111d5255b84de26a1c#p2p://fccseuro.pvbox.live:18912/5b140a9a00071c28641ddb2252e4cebc
+緯來綜合,p2p://fccseuro.pvbox.live:18912/5b1409230004f71efab2c84f47ebe4ef#p2p://fccsovh.pvbox.live:18912/5b1409230004f71efab2c84f47ebe4ef
+八大第一,p2p://fccsovh.pvbox.live:18912/5b14096a0004400315488cff3fdbf3b5#p2p://fccseuro.pvbox.live:18912/5b14096a0004400315488cff3fdbf3b5
+八大綜合,p2p://fccsovh.pvbox.live:18912/5b14092c0004b9c210b0c400e8356e40#http://104.250.154.42:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8#p2p://fccseuro.pvbox.live:18912/5b14092c0004b9c210b0c400e8356e40
+三立臺灣,p2p://fccsovh.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb#p2p://fccsovh.pvbox.live:18912/5b1409f100088a843e552539cfdf3021#p2p://fccseuro.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb
+三立都會,p2p://fccseuro.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73#p2p://fccsovh.pvbox.live:18912/5b14098f000d8c65aa7714d393792210#p2p://fccseuro.pvbox.live:18912/5c72486f0000d4e31d5277b7483f11e3#p2p://fccsovh.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73
+衛視中文臺,p2p://fccseuro.pvbox.live:18912/5c2dd752000079beb0932687f970bd9e#p2p://fccsovh.pvbox.live:18912/5b14096a00006f07090fb9cc8508ab5b#p2p://fccseuro.pvbox.live:18912/5c724873000682671d5288bf72c31a80#p2p://fccsovh.pvbox.live:18912/5c2dd752000079beb0932687f970bd9e
+東森綜合,p2p://fccseuro.pvbox.live:18912/5c2dd75500095b3b674c205e3f098061#p2p://fccsovh.pvbox.live:18912/5b1409f1000dc91b22cccc479d410be6#p2p://fccseuro.pvbox.live:18912/5c724877000e7b2d1d529a721b487255#p2p://fccsovh.pvbox.live:18912/5c2dd75500095b3b674c205e3f098061
+公視3,p2p://fccseuro.pvbox.live:18912/60adf5c100078bce536f507536f504e2#p2p://fccsovh.pvbox.live:18912/60adf5c100078bce536f507536f504e2
+中天綜合,p2p://fccsovh.pvbox.live:18912/5b14096a0007d345099b2cab04de36b4#p2p://fccsovh.pvbox.live:18912/5b14096a0007d3450c87c1ef7ed574cc#http://192.154.103.75:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8#p2p://fccseuro.pvbox.live:18912/5b14096a0007d345099b2cab04de36b4
+中天娛樂,p2p://fccsovh.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520#p2p://fccseuro.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520
+年代MUCH HD,p2p://fccseuro.pvbox.live:18912/5b3c4f9d00057620627ef7cc381e3197#p2p://fccsovh.pvbox.live:18912/5b3c4f9d00057620627ef7cc381e3197
+東森戲劇,p2p://fccsovh.pvbox.live:18912/5b1409f20000320bffd8fe47d4aa4282#p2p://fccseuro.pvbox.live:18912/5c724882000704081d52c386798d4d25#p2p://fccseuro.pvbox.live:18912/5b1409f20000320bffd8fe47d4aa4282
+八大戲劇,p2p://fccsovh.pvbox.live:18912/5b1409690000706aa2b351f989915dc3#p2p://fccseuro.pvbox.live:18912/5c72488600080edc1d52d364104615a0#p2p://fccseuro.pvbox.live:18912/5b1409690000706aa2b351f989915dc3
+TVBS歡樂,p2p://fccsovh.pvbox.live:18912/5b1409600006657bf3521814c47521af#p2p://fccseuro.pvbox.live:18912/5c2dd759000397a1f785f6a7f64171ac#p2p://fccseuro.pvbox.live:18912/5c72488a000a56b71d52e3a07060345e#p2p://fccseuro.pvbox.live:18912/5b1409600006657bf3521814c47521af
+緯來戲劇,p2p://fccsovh.pvbox.live:18912/5b1409f3000a72b5e945fde38f88c8aa#p2p://fccseuro.pvbox.live:18912/5c72488e000bae061d52f38e705751dd#p2p://fccseuro.pvbox.live:18912/5b1409f3000a72b5e945fde38f88c8aa
+JET 综合,p2p://fccsovh.pvbox.live:18912/5b1409f30001262751180c32d7f81d19#p2p://fccseuro.pvbox.live:18912/5c724892000e3e1c1d5303da4a3c6c26#p2p://fccseuro.pvbox.live:18912/5b1409f30001262751180c32d7f81d19
+壹電視新聞,p2p://fccsovh.pvbox.live:18912/5c2dd75c000b56813bdbfb1808231457#p2p://fccsovh.pvbox.live:18912/5b14094000088a467b4c607ca6b96c9e#p2p://fccseuro.pvbox.live:18912/5c724897000cb1861d5316f515e3763e#p2p://fccseuro.pvbox.live:18912/5c2dd75c000b56813bdbfb1808231457
+年代新聞,p2p://fccsovh.pvbox.live:18912/5c2dd76000032856525d0ee781504477#p2p://fccsovh.pvbox.live:18912/5b1409fd000a7269184987550f3266b5#p2p://fccseuro.pvbox.live:18912/5c72489b000f0c1fe54d8ea55ffd9a5c#p2p://fccseuro.pvbox.live:18912/5c2dd76000032856525d0ee781504477
+東森新聞 HD,p2p://fccsovh.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2#p2p://fccsovh.pvbox.live:18912/5b1409520005add40bf29b36763a05a5#p2p://fccseuro.pvbox.live:18912/5c7248a0000383701d5337cb153b4b51#p2p://fccseuro.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2
+中天新聞,p2p://fccsovh.pvbox.live:18912/5c2dd72e0002527b8513c4ec41b6e9f5#p2p://fccsovh.pvbox.live:18912/5b14096a000dc9172181b048e1caf279#p2p://fccsovh.pvbox.live:18912/5c7249b6000641f71d5776673c1d2f63#p2p://fccseuro.pvbox.live:18912/5c2dd72e0002527b8513c4ec41b6e9f5
+民視新聞,p2p://fccsovh.pvbox.live:18912/5c2dd73500017585407c3f581ea07c53#p2p://fccsovh.pvbox.live:18912/5b1409690004f733a9d1bea8ae23f328#p2p://fccseuro.pvbox.live:18912/5c2dd73500017585407c3f581ea07c53
+三立新聞,p2p://fccsovh.pvbox.live:18912/5c2dd73800094069401436c92bc9bed5#p2p://fccsovh.pvbox.live:18912/5b14090b000e8030584627965b452f2e#p2p://fccseuro.pvbox.live:18912/5c7249be000b87931d5796ff51e62b02#p2p://fccseuro.pvbox.live:18912/5c2dd73800094069401436c92bc9bed5
+TVBS新聞,p2p://fccsovh.pvbox.live:18912/5c2dd76300095ef4ca7620ece66109ec#p2p://fccsovh.pvbox.live:18912/5b1409600008c73bd46bfb2af1f5ae94#p2p://fccseuro.pvbox.live:18912/5c7249c2000e510f1d57a75a30592ee2#p2p://fccseuro.pvbox.live:18912/5c2dd76300095ef4ca7620ece66109ec
+TVBS綜合,p2p://fccsovh.pvbox.live:18912/5b140960000c982bf20a21204526e2d1#p2p://fccseuro.pvbox.live:18912/5b140960000c982bf20a21204526e2d1
+東森財經,p2p://fccseuro.pvbox.live:18912/5b1409f30008c7760334bb18f99bb67b#p2p://fccseuro.pvbox.live:18912/5c7249c70005b4431d57b8b006c16529#p2p://fccsovh.pvbox.live:18912/5b1409f30008c7760334bb18f99bb67b
+非凡新聞,p2p://fccsovh.pvbox.live:18912/5c2dd766000ecf4afbbc524f35790871#p2p://fccsovh.pvbox.live:18912/5b14092c0001a04c820d7758a53c8bdd#p2p://fccseuro.pvbox.live:18912/5c7249cb000744bc1d57c8bd53377361#p2p://fccseuro.pvbox.live:18912/5c2dd766000ecf4afbbc524f35790871
+衛視電影,p2p://fccseuro.pvbox.live:18912/5c2dd76a000ca614e383e2e7ea78ddd8#p2p://fccsovh.pvbox.live:18912/5b140960000aafcc36b95a967eb896e8#p2p://fccseuro.pvbox.live:18912/5c7249cf00095b611d57d8da587f1c48#p2p://fccsovh.pvbox.live:18912/5c2dd76a000ca614e383e2e7ea78ddd8
+東森電影,p2p://fccsovh.pvbox.live:18912/5b1409f20009bbe29fe3e064dd468231#p2p://fccseuro.pvbox.live:18912/5c7249d3000cb8ea1d57e9650d7148b7#p2p://fccseuro.pvbox.live:18912/5b1409f20009bbe29fe3e064dd468231
+緯來電影,p2p://fccsovh.pvbox.live:18912/5b140922000ebd5b76e2ab4af5e7fb75#p2p://fccseuro.pvbox.live:18912/5c7249d80003096d1d57fa6c33601be9#p2p://fccseuro.pvbox.live:18912/5b140922000ebd5b76e2ab4af5e7fb75
+龍翔電影,p2p://fccsovh.pvbox.live:18912/5b14092200071c61b06a8738697f10ae#p2p://fccseuro.pvbox.live:18912/5b14092200071c61b06a8738697f10ae
+HBO,p2p://fccsovh.pvbox.live:18912/5b140969000be13c02c15179cfa10c68#p2p://fccseuro.pvbox.live:18912/5c7249dd000ca2101d58106551ff3ed4#p2p://fccseuro.pvbox.live:18912/5b140969000be13c02c15179cfa10c68
+東森洋片,p2p://fccsovh.pvbox.live:18912/5b14092300021ad17dc817097ff4a5ef#p2p://fccseuro.pvbox.live:18912/5b14092300021ad17dc817097ff4a5ef
+AXN,p2p://fccsovh.pvbox.live:18912/5b140922000388777809b9c6f83f6c7c#p2p://fccseuro.pvbox.live:18912/5b140922000388777809b9c6f83f6c7c
+好萊塢電影,p2p://fccsovh.pvbox.live:18912/5b1409f3000c1df591cff1add8163783#p2p://fccseuro.pvbox.live:18912/5c7249e2000125281d5820ff23a165d1#p2p://fccsovh.pvbox.live:18912/5b1409f3000c1df53f7ba0012d829cba#p2p://fccseuro.pvbox.live:18912/5b1409f3000c1df591cff1add8163783
+FOX MOVIES HD,p2p://fccseuro.pvbox.live:18912/5b3c4f9c000341469570bb9241e0decd#p2p://fccsovh.pvbox.live:18912/5b3c4f9c000341469570bb9241e0decd
+CINEMAX,p2p://fccsovh.pvbox.live:18912/5b14096000043ff93465352634ceaed5#p2p://fccseuro.pvbox.live:18912/5b14096000043ff93465352634ceaed5
+東風37,p2p://fccsovh.pvbox.live:18912/5b140a970005af9a17d6fa9c392512d4#p2p://fccseuro.pvbox.live:18912/5b140a970005af9a17d6fa9c392512d4
+MOMO追劇,p2p://fccsovh.pvbox.live:18912/5b140a97000b668417d6fc134b0d417e#p2p://fccseuro.pvbox.live:18912/5b140a97000b668417d6fc134b0d417e
+緯來體育,p2p://fccseuro.pvbox.live:18912/5c2dd76e00049e333b9b846b79e65ed3#p2p://fccsovh.pvbox.live:18912/5b140921000be1448823410c2ff3af66#p2p://fccseuro.pvbox.live:18912/5c7249e60007ce3b1d5832543a7916ad#p2p://fccsovh.pvbox.live:18912/5c2dd76e00049e333b9b846b79e65ed3
+緯來育樂,p2p://fccsovh.pvbox.live:18912/5b14092c000a35b5b875ce840ff0b5a3#p2p://fccseuro.pvbox.live:18912/5b14092c000a35b5b875ce840ff0b5a3
+緯來日本,p2p://fccsovh.pvbox.live:18912/5b14092b000efa4c233af0e8a75243d8#p2p://fccseuro.pvbox.live:18912/5c9ed33000006a62cb50798041a272c0#p2p://fccseuro.pvbox.live:18912/5b14092b000efa4c233af0e8a75243d8
+國興衛視,p2p://fccsovh.pvbox.live:18912/5b1409f2000ebd78d6d3484d2e182303#p2p://fccseuro.pvbox.live:18912/5b1409f2000ebd78d6d3484d2e182303
+Z頻道,p2p://fccsovh.pvbox.live:18912/5b14094a00088a56c163c32bb6faf8bc#p2p://fccseuro.pvbox.live:18912/5b14094a00088a56c163c32bb6faf8bc
+國家地理野生,p2p://fccsovh.pvbox.live:18912/5b1409170007d342d4c16db15d8876c8#p2p://fccseuro.pvbox.live:18912/5c7249fb000db88c1d5885e333974925#p2p://fccseuro.pvbox.live:18912/5b1409170007d342d4c16db15d8876c8
+CATCHPLAY HD,p2p://fccsovh.pvbox.live:18912/5b1409db000126a9711886b8313f331d#p2p://fccseuro.pvbox.live:18912/5b1409db000126a9711886b8313f331d
+CNN,p2p://fccsovh.pvbox.live:18912/5b140954000dc92a375d63ea7e478ea8#p2p://fccseuro.pvbox.live:18912/5b140954000dc92a375d63ea7e478ea8
+八大娛樂,p2p://fccsovh.pvbox.live:18912/5b14096a00062806e9046a77403f3362#p2p://fccseuro.pvbox.live:18912/5b14096a00062806e9046a77403f3362
+非凡商業,p2p://fccsovh.pvbox.live:18912/5b140a9a0001dd5bdc536c45f7b967f6#p2p://fccseuro.pvbox.live:18912/5b140a9a0001dd5bdc536c45f7b967f6
+HBO強檔,p2p://fccsovh.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52#p2p://fccseuro.pvbox.live:18912/5c7249ee000f145b1d5853691cf1378b#p2p://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52
+HBO原創,p2p://fccsovh.pvbox.live:18912/5b14096a000a35a138bfced0badeee87#p2p://fccseuro.pvbox.live:18912/5c7249f30006ed2f1d5864de52e5054e#p2p://fccseuro.pvbox.live:18912/5b14096a000a35a138bfced0badeee87
+MTV LIVE HD,p2p://fccsovh.pvbox.live:18912/5b1408f100084d6ada825c7c91f5af05#p2p://fccseuro.pvbox.live:18912/5b1408f100084d6ada825c7c91f5af05
+History HD,p2p://fccsovh.pvbox.live:18912/5b1408f300071d3b1901e3975b5ba4f5#p2p://fccseuro.pvbox.live:18912/5b1408f300071d3b1901e3975b5ba4f5
+History2 HD,p2p://fccsovh.pvbox.live:18912/5b1408f3000402b2e5f4077233c38acb#p2p://fccseuro.pvbox.live:18912/5b1408f3000402b2e5f4077233c38acb
+EYETV戲劇,p2p://fccsovh.pvbox.live:18912/5b14093e000e4339becc35909c2d54ae#p2p://fccseuro.pvbox.live:18912/5b14093e000e4339becc35909c2d54ae
+龍華洋片,p2p://fccsovh.pvbox.live:18912/5b140917000c1e9b03053da5fe1d342e#p2p://fccseuro.pvbox.live:18912/5b140917000c1e9b03053da5fe1d342e
+龍華戲劇,p2p://fccsovh.pvbox.live:18912/5b14091600088a8cf0a6ac755e513bbf#p2p://fccseuro.pvbox.live:18912/5b14091600088a8cf0a6ac755e513bbf
+龍華動畫,p2p://fccsovh.pvbox.live:18912/5b1409170002d1e281f08bab03e2b1ee#p2p://fccseuro.pvbox.live:18912/5b1409170002d1e281f08bab03e2b1ee
+龍華偶像,p2p://fccsovh.pvbox.live:18912/5b14091800012626e4990840ffbdbf3c#p2p://fccseuro.pvbox.live:18912/5b14091800012626e4990840ffbdbf3c
+好消息 2,p2p://fccsovh.pvbox.live:18912/5b140922000a72b215ca7b7f6b969c00#p2p://fccseuro.pvbox.live:18912/5b140922000a72b215ca7b7f6b969c00
+ELTA體育 HD,p2p://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5#p2p://fccseuro.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5
+ELTA體育2 HD,p2p://fccseuro.pvbox.live:18912/5b3c4f9d000af1fc542019dd7702f547#p2p://fccsovh.pvbox.live:18912/5b3c4f9d000af1fc542019dd7702f547
+ELTA體育3,p2p://fccsovh.pvbox.live:18912/5b25fc8c00046f122dd8a5d154bcf87a#p2p://fccseuro.pvbox.live:18912/5c7249f7000966361d58752a73813a0e#p2p://fccseuro.pvbox.live:18912/5b25fc8c00046f122dd8a5d154bcf87a
+美亞電影,p2p://fccsovh.pvbox.live:18912/5b14098f00079615addc7da33962b735#p2p://fccseuro.pvbox.live:18912/5c724a0e000442831d58cdaa6a2c5c52#p2p://fccseuro.pvbox.live:18912/5b14098f00079615addc7da33962b735
+星衛電影,p2p://fccsovh.pvbox.live:18912/5b140940000a727a11706edeb2e5c36b#p2p://fccseuro.pvbox.live:18912/5b140940000a727a11706edeb2e5c36b
+星衛娛樂臺,p2p://fccsovh.pvbox.live:18912/5b1408f1000d1249aac093fa7393f873#p2p://fccseuro.pvbox.live:18912/5c724a0a000180991d58bd4f6e533ad5#p2p://fccseuro.pvbox.live:18912/5b1408f1000d1249aac093fa7393f873
+美食星球,p2p://fccsovh.pvbox.live:18912/5b140917000d8becd3fe4a0f85a8e193#p2p://fccseuro.pvbox.live:18912/5b140917000d8becd3fe4a0f85a8e193
+Eleven Sport 1,p2p://fccsovh.pvbox.live:18912/5b13f6f00009f89b58f0943471333bcc#p2p://fccseuro.pvbox.live:18912/5b13f6f00009f89b58f0943471333bcc
+高爾夫網球,p2p://fccsovh.pvbox.live:18912/5b1409530005ae3a05fa63a33bbf907c#p2p://fccseuro.pvbox.live:18912/5b1409530005ae3a05fa63a33bbf907c
+Eleven Sports 2 HD,p2p://fccseuro.pvbox.live:18912/5b3c4f9c000c2314627ef59a33122a3e#p2p://fccsovh.pvbox.live:18912/5b3c4f9c000c2314627ef59a33122a3e
+中視新聞,p2p://fccsovh.pvbox.live:18912/5b14095e000f377429ff3179bb3ebfec#p2p://fccseuro.pvbox.live:18912/5b14095e000f377429ff3179bb3ebfec
+環宇綜合,p2p://fccsovh.pvbox.live:18912/5b14098e00034c103db7286788dfaef3#p2p://fccseuro.pvbox.live:18912/5b14098e00034c103db7286788dfaef3
+新視覺,p2p://fccsovh.pvbox.live:18912/5b1409230000ac47dc854141c2c16098#p2p://fccseuro.pvbox.live:18912/5b1409230000ac47dc854141c2c16098
+Ci罪案偵緝 HD,p2p://fccsovh.pvbox.live:18912/5b14098e0006282acdf2f0e199545870#p2p://fccseuro.pvbox.live:18912/5b14098e0006282acdf2f0e199545870
+靖天電影,p2p://fccsovh.pvbox.live:18912/5b14093f0000e91ed352c047ce05b9b3#p2p://fccseuro.pvbox.live:18912/5b14093f0000e91ed352c047ce05b9b3
+靖天映畫,p2p://fccsovh.pvbox.live:18912/5b14093f0002d1c221d1c19922d41932#p2p://fccseuro.pvbox.live:18912/5b14093f0002d1c221d1c19922d41932
+地理悠人,p2p://fccsovh.pvbox.live:18912/5b14093f000b29ff7371d28209f33f5f#p2p://fccseuro.pvbox.live:18912/5b14093f000b29ff7371d28209f33f5f
+壹電視綜合,p2p://fccsovh.pvbox.live:18912/5b1409400006a23590d8e56c846649bd#p2p://fccseuro.pvbox.live:18912/5b1409400006a23590d8e56c846649bd
+天映頻道,p2p://fccsovh.pvbox.live:18912/5fbb5d46000c94b09fcc9e3671b64160#p2p://fccseuro.pvbox.live:18912/5fbb5d46000c94b09fcc9e3671b64160
+天映經典,p2p://fccseuro.pvbox.live:18912/5d650488000e67a1df9eba9288b40109#p2p://fccsovh.pvbox.live:18912/5d650488000e67a1df9eba9288b40109
+V音樂,p2p://fccsovh.pvbox.live:18912/5b593be200077048bf597b7545d9709a#p2p://fccseuro.pvbox.live:18912/5b593be200077048bf597b7545d9709a
+中華美食,p2p://fccseuro.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45#p2p://fccsovh.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45
+Discovery Asia,p2p://fccsovh.pvbox.live:18912/5b1409db00071c0517d41c9937e70bf0#p2p://fccseuro.pvbox.live:18912/5b1409db00071c0517d41c9937e70bf0
+Discovery(知識頻道),p2p://fccseuro.pvbox.live:18912/5bee4e9b0004056f76e84736af101f06#p2p://fccsovh.pvbox.live:18912/5bee4e9b0004056f76e84736af101f06
+DISCOVERY 科學頻道 HD,p2p://fccsovh.pvbox.live:18912/5b14093f000e802bdf2de39b32af6f43#p2p://fccseuro.pvbox.live:18912/5b14093f000e802bdf2de39b32af6f43
+TSN1,p2p://fccsovh.pvbox.live:18912/5cf55a00000f05529a612a29faf3631f#p2p://fccseuro.pvbox.live:18912/5cf55a00000f05529a612a29faf3631f
+TSN2,p2p://fccsovh.pvbox.live:18912/5cffd792000e927a593918d3a42ec252#p2p://fccseuro.pvbox.live:18912/5cffd792000e927a593918d3a42ec252
+TSN3,p2p://fccsovh.pvbox.live:18912/5cffd7940009905bc3546565cc212fca#p2p://fccseuro.pvbox.live:18912/5cffd7940009905bc3546565cc212fca
+TSN4,p2p://fccsovh.pvbox.live:18912/5cffd7960007e5d571a8e58ac8991253#p2p://fccseuro.pvbox.live:18912/5cffd7960007e5d571a8e58ac8991253
+TSN5,p2p://fccsovh.pvbox.live:18912/5cffd798000451f51bd6f21bccbd120d#p2p://fccseuro.pvbox.live:18912/5cffd798000451f51bd6f21bccbd120d
+FOX HD,p2p://fccsovh.pvbox.live:18912/5b14098e000c5aec49e2663f8fd7aa2e#p2p://fccseuro.pvbox.live:18912/5b14098e000c5aec49e2663f8fd7aa2e
+FRANCE 24（English）,p2p://fccsovh.pvbox.live:18912/5b14090b0008c74ac02d14a3d84f248f#p2p://fccseuro.pvbox.live:18912/5b14090b0008c74ac02d14a3d84f248f
+CNBC,p2p://fccsovh.pvbox.live:18912/5b1409400000e91c05aa5f02517e6c88#p2p://fccseuro.pvbox.live:18912/5b1409400000e91c05aa5f02517e6c88
+BLOOMBERG,p2p://fccsovh.pvbox.live:18912/5b13f6f10000e96ecba4c8c2133d4ddb#p2p://fccseuro.pvbox.live:18912/5b13f6f10000e96ecba4c8c2133d4ddb
+FOX家庭,p2p://fccsovh.pvbox.live:18912/5b14098e000945ca8d67439c257399ef#p2p://fccseuro.pvbox.live:18912/5b14098e000945ca8d67439c257399ef
+FOX動作,p2p://fccseuro.pvbox.live:18912/5e04846000047097f534ff6360044288#p2p://fccsovh.pvbox.live:18912/5e04846000047097f534ff6360044288
+FOX警匪HD,p2p://fccsovh.pvbox.live:18912/5b14098e000e434ede2d2b64a84b3626#p2p://fccseuro.pvbox.live:18912/5b14098e000e434ede2d2b64a84b3626
+BBC,p2p://fccsovh.pvbox.live:18912/5b140953000257fb79f66a001c8dc5b4#p2p://fccseuro.pvbox.live:18912/5b140953000257fb79f66a001c8dc5b4
+OUTDOOR HD,p2p://fccsovh.pvbox.live:18912/5b1409db000a72d4074dd362e5cf3e21#p2p://fccseuro.pvbox.live:18912/5b1409db000a72d4074dd362e5cf3e21
+博斯运动 II,p2p://fccseuro.pvbox.live:18912/5b13f6f0000c1dd644ffd30c719c308f#p2p://fccsovh.pvbox.live:18912/5b13f6f0000c1dd644ffd30c719c308f
+SUNDANCE HD,p2p://fccsovh.pvbox.live:18912/5b1408f2000c5b2d1560791cd5b76651#p2p://fccseuro.pvbox.live:18912/5b1408f2000c5b2d1560791cd5b76651
+亞洲美食,p2p://fccsovh.pvbox.live:18912/5b1409da000c98012b21065a2d054373#p2p://fccseuro.pvbox.live:18912/5b1409da000c98012b21065a2d054373
+靖天卡通,p2p://fccsovh.pvbox.live:18912/5b14093e0009fa21d217a82446ad038a#p2p://fccseuro.pvbox.live:18912/5b14093e0009fa21d217a82446ad038a
+BBC LIFESTYLE,p2p://fccsovh.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c#p2p://fccseuro.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c
+博斯高球二台,p2p://fccsovh.pvbox.live:18912/5b1409dc00088a66ae0878955c9b580a#p2p://fccseuro.pvbox.live:18912/5b1409dc00088a66ae0878955c9b580a
+博斯運動,p2p://fccsovh.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849#p2p://fccseuro.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849
+緯來精彩,p2p://fccsovh.pvbox.live:18912/5b14094a0000e951c1803a20268301b4#p2p://fccseuro.pvbox.live:18912/5b14094a0000e951c1803a20268301b4
+曼迪日本臺,p2p://fccsovh.pvbox.live:18912/5b1408f1000aeceebea7efa30baaf059#p2p://fccseuro.pvbox.live:18912/5b1408f1000aeceebea7efa30baaf059
+三立戲劇臺,p2p://fccsovh.pvbox.live:18912/5b140916000e8094fa2b8bc1d6bc755b#p2p://fccseuro.pvbox.live:18912/5b140916000e8094fa2b8bc1d6bc755b
+三立綜合,p2p://fccsovh.pvbox.live:18912/5b140917000126426b51b812727ccb82#p2p://fccseuro.pvbox.live:18912/5b140917000126426b51b812727ccb82
+都市劇場,p2p://fccsovh.pvbox.live:18912/5b140921000e805eeeccc3221d41efb6#p2p://fccseuro.pvbox.live:18912/5b140921000e805eeeccc3221d41efb6
+環宇財經,p2p://fccsovh.pvbox.live:18912/5b1408f30002585a33caea38616d5414#p2p://fccseuro.pvbox.live:18912/5b1408f30002585a33caea38616d5414
+環宇新聞,p2p://fccsovh.pvbox.live:18912/5b1408f30005adec057583980131e1ee#http://pili-live-hdl.qhmywl.com/dsdtv/4677cf6625ce01b236bbb58f99094d51.flv#p2p://fccseuro.pvbox.live:18912/5b1408f30005adec057583980131e1ee
+LUXE TV,p2p://fccsovh.pvbox.live:18912/5b1408f2000402a99aae1b7772b9af31#p2p://fccseuro.pvbox.live:18912/5b1408f2000402a99aae1b7772b9af31
+靖洋戲劇臺,p2p://fccsovh.pvbox.live:18912/5b140917000666031b44053492b428cc#p2p://fccseuro.pvbox.live:18912/5b140917000666031b44053492b428cc
+Good Food,p2p://fccseuro.pvbox.live:18912/5bee4fb30000a36319ced928503e1c16#p2p://fccsovh.pvbox.live:18912/5bee4fb30000a36319ced928503e1c16
+博斯高球1DH,p2p://fccsovh.pvbox.live:18912/5bdbf395000ad5cb2607f86ed2c7a380#p2p://fccseuro.pvbox.live:18912/5bdbf395000ad5cb2607f86ed2c7a380
+大愛二臺,p2p://fccsovh.pvbox.live:18912/5bdbf3990002e4dcce05866d1e72dfd7#p2p://fccseuro.pvbox.live:18912/5bdbf3990002e4dcce05866d1e72dfd7
+EVE,p2p://fccsovh.pvbox.live:18912/5bdbf3a000041d6a62577151695bd697#p2p://fccseuro.pvbox.live:18912/5bdbf3a000041d6a62577151695bd697
+CINEMA WORLD,p2p://fccsovh.pvbox.live:18912/5bdbf3aa000b9c3128b3d5f10eb6a4ae#p2p://fccseuro.pvbox.live:18912/5bdbf3aa000b9c3128b3d5f10eb6a4ae
+FYI,p2p://fccsovh.pvbox.live:18912/5b1408f20005adced44ba37dbb0d46c1#p2p://fccseuro.pvbox.live:18912/5b1408f20005adced44ba37dbb0d46c1
+EVE HD,p2p://fccsovh.pvbox.live:18912/5b14093f00043fac039c9178695b6e25#p2p://fccseuro.pvbox.live:18912/5b14093f00043fac039c9178695b6e25
+LIFETIME,p2p://fccsovh.pvbox.live:18912/5b593bd20009b7c897de5601f6c21c86#p2p://fccseuro.pvbox.live:18912/5b593bd20009b7c897de5601f6c21c86
+E! Entertainment,p2p://fccseuro.pvbox.live:18912/5bee548c000d49c619e1cc0d5839302f#p2p://fccsovh.pvbox.live:18912/5bee548c000d49c619e1cc0d5839302f
+CNN INTERNATIONAL,p2p://fccsovh.pvbox.live:18912/5b593947000cff320b5fbcac3823cfb2#p2p://fccseuro.pvbox.live:18912/5b593947000cff320b5fbcac3823cfb2
+CHANNEL NEWSASIA,p2p://fccseuro.pvbox.live:18912/5b1409fc00047d04fba28dd36d1b20d2#p2p://fccsovh.pvbox.live:18912/5b1409fc00047d04fba28dd36d1b20d2
+BABY TV,p2p://fccsovh.pvbox.live:18912/5b14090b00030e82c1e20111a3b91f95#p2p://fccseuro.pvbox.live:18912/5b14090b00030e82c1e20111a3b91f95
+MY KIDS,p2p://fccseuro.pvbox.live:18912/5b1409da000a356eaf4555bfced52957#p2p://fccsovh.pvbox.live:18912/5b1409da000a356eaf4555bfced52957
+FOX-NEWS,p2p://fccsovh.pvbox.live:18912/5b593b140008b0a872fab404d0005a0b#p2p://fccseuro.pvbox.live:18912/5b593b140008b0a872fab404d0005a0b
+love nature,p2p://fccsovh.pvbox.live:18912/5b1409400002d18be0ed68ad406a3f40#p2p://fccseuro.pvbox.live:18912/5b1409400002d18be0ed68ad406a3f40
+BBC EARTH  HD,p2p://fccseuro.pvbox.live:18912/5b1408f200071c8bda8dd5a44dfda4bb#p2p://fccsovh.pvbox.live:18912/5b1408f200071c8bda8dd5a44dfda4bb
+LUXE TV,p2p://fccsovh.pvbox.live:18912/5bdbf3ae0006e6cac753f975290d4d15#p2p://fccseuro.pvbox.live:18912/5bdbf3ae0006e6cac753f975290d4d15
+TVBS 精彩台,p2p://fccsovh.pvbox.live:18912/5bdbf3b20000e966127226d088c6564d#p2p://fccseuro.pvbox.live:18912/5bdbf3b20000e966127226d088c6564d
+animax,p2p://fccsovh.pvbox.live:18912/5b14095f000b75ebce56aa4326004fac#p2p://fccseuro.pvbox.live:18912/5b14095f000b75ebce56aa4326004fac
+Boomerang,p2p://fccsovh.pvbox.live:18912/5ee9c7bf000dbfa16d1d4ae93ca21c1c#p2p://fccseuro.pvbox.live:18912/5ee9c7bf000dbfa16d1d4ae93ca21c1c
+nick.JR,p2p://fccsovh.pvbox.live:18912/5fc7777b00063284cf12f2dd438d5ad3#p2p://fccseuro.pvbox.live:18912/5fc7777b00063284cf12f2dd438d5ad3
+三立iNEWS,p2p://fccsovh.pvbox.live:18912/5b7fb69500052cc969c8bcf269522bcf#p2p://fccseuro.pvbox.live:18912/5b7fb69500052cc969c8bcf269522bcf
+CBeebies,p2p://fccsovh.pvbox.live:18912/60153a860000760efed48eda46620bfd#p2p://fccseuro.pvbox.live:18912/60153a860000760efed48eda46620bfd
+大陆,#genre#
+CCTV-1,p2p://fccseuro.pvbox.live:18912/5b1409f2000cd4f759b7a4f937cebbca#http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8#p2p://fccsovh.pvbox.live:18912/5b1409f2000cd4f759b7a4f937cebbca
+CCTV-2,p2p://fccsovh.pvbox.live:18912/5b1409fd00090468710b0d490ec647f7#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8#p2p://fccseuro.pvbox.live:18912/5b1409fd00090468710b0d490ec647f7
+CCTV-3,p2p://fccsovh.pvbox.live:18912/5b17e9a3000ae0534a41defa8d67b10f#http://liveplay-kk.rtxapp.com/live/program/live/cctv3hd/4000000/mnf.m3u8#p2p://fccsovh.pvbox.live:18912/5b17e9a3000ae0534a41defa8d67b10f#p2p://fccseuro.pvbox.live:18912/5b17e9a3000ae0534a41defa8d67b10f
+CCTV-4,p2p://fccsovh.pvbox.live:18912/5b14092c0006a1f725e20d99c41d5263#p2p://fccsovh.pvbox.live:18912/5b14092c0006a1f725e20d99c41d5263#http://liveplay-kk.rtxapp.com/live/program/live/cctv4/1300000/mnf.m3u8#p2p://fccseuro.pvbox.live:18912/5b14092c0006a1f725e20d99c41d5263
+CCTV-5,p2p://fccseuro.pvbox.live:18912/5b1409f20001a05db27ac7fd1bf34467#http://liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8#http://121.31.30.87:8085/ysten-business/live/cctv-5/1.m3u8#p2p://fccsovh.pvbox.live:18912/5b1409f20001a05db27ac7fd1bf34467
+CCTV-5+,p2p://fccsovh.pvbox.live:18912/5b1409f200034b730f7fdb4819ffdd6c#http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8#http://107.148.240.185:13164/v/cctv.php?id=2000204502.m3u8#p2p://fccseuro.pvbox.live:18912/5b1409f200034b730f7fdb4819ffdd6c
+CCTV-6,p2p://fccsovh.pvbox.live:18912/5b1409dc00006f93bbda61902a5daaef#http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8#http://107.148.240.185:13164/v/cctv.php?id=2000203303.m3u8#p2p://fccseuro.pvbox.live:18912/5b1409dc00006f93bbda61902a5daaef
+CCTV-7,p2p://fccsovh.pvbox.live:18912/5b1409fa000e431b13d3184e0a673418#p2p://fccsovh.pvbox.live:18912/5b1409fa000e431b13d3184e0a673418#p2p://fccseuro.pvbox.live:18912/5b1409fa000e431b13d3184e0a673418
+CCTV-8,p2p://fccsovh.pvbox.live:18912/5b14094a00047cbcde7c0c72ee58657f#http://121.31.30.90:8085/ysten-business/live/cctv-8/1.m3u8#http://107.148.240.185:13164/v/cctv.php?id=2000203902.m3u8#p2p://fccseuro.pvbox.live:18912/5b14094a00047cbcde7c0c72ee58657f
+CCTV-9,p2p://fccsovh.pvbox.live:18912/5b140954000be15420c43b0f1250f037#p2p://fccsovh.pvbox.live:18912/5b140954000be15420c43b0f1250f037#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8#p2p://fccseuro.pvbox.live:18912/5b140954000be15420c43b0f1250f037
+CCTV-10,p2p://fccsovh.pvbox.live:18912/5b14092c00088b2a9d9a332f2f5ecd4c#http://107.148.240.185:13164/v/cctv.php?id=2000203502.m3u8#http://107.148.240.185:13164/v/cctv.php?id=2000203502.m3u8#p2p://fccseuro.pvbox.live:18912/5b14092c00088b2a9d9a332f2f5ecd4c
+CCTV-11,p2p://fccsovh.pvbox.live:18912/5b1409fb00030ef9989926fcd9821783#http://107.148.240.185:13164/v/cctv.php?id=2000204102.m3u8#http://107.148.240.185:13164/v/cctv.php?id=2000204102.m3u8#p2p://fccseuro.pvbox.live:18912/5b1409fb00030ef9989926fcd9821783
+CCTV-12 ,p2p://fccsovh.pvbox.live:18912/5b1409490000e8f899bd6f146ace3965#http://107.148.240.185:13164/v/cctv.php?id=2000202602.m3u8#http://107.148.240.185:13164/v/cctv.php?id=2000202602.m3u8#p2p://fccseuro.pvbox.live:18912/5b1409490000e8f899bd6f146ace3965
+CCTV-13,p2p://fccsovh.pvbox.live:18912/5b140953000402ea4f54f3de6ec99058#http://107.148.240.185:13164/v/cctv.php?id=2000204602.m3u8#http://107.148.240.185:13164/v/cctv.php?id=2000204602.m3u8#p2p://fccseuro.pvbox.live:18912/5b140953000402ea4f54f3de6ec99058
+CCTV-14 ,p2p://fccsovh.pvbox.live:18912/5b1409480007595049ccad4641b28704#http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8#p2p://fccseuro.pvbox.live:18912/5b1409480007595049ccad4641b28704
+CCTV-15 ,p2p://fccsovh.pvbox.live:18912/5b140948000941c39a06855e40ef8a39#http://107.148.240.185:13164/v/cctv.php?id=2000205002.m3u8#p2p://fccseuro.pvbox.live:18912/5b140948000941c39a06855e40ef8a39
+CCTV 怀旧剧场,p2p://fccsovh.pvbox.live:18912/5b140952000cd53b92c21838d94402e9#http://iptv.pdsu.edu.cn/hls/hjjctv.m3u8#p2p://fccsovh.pvbox.live:18912/5b140952000cd53bef2012c2fca98f4d#p2p://fccseuro.pvbox.live:18912/5b140952000cd53b92c21838d94402e9
+CHC 动作电影 HD,p2p://fccsovh.pvbox.live:18912/5b14092b0002d180a1f2defa86aa7580#http://suo.im/6h3Jaf#p2p://fccseuro.pvbox.live:18912/5b14092b0002d180a1f2defa86aa7580
+CHC 家庭影院 HD,p2p://fccsovh.pvbox.live:18912/5b14092b0004ba23d132a7f3289b6667#http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8#p2p://fccseuro.pvbox.live:18912/5b14092b0004ba23d132a7f3289b6667
+CHC 高清电影 HD,p2p://fccsovh.pvbox.live:18912/5b140953000b29efbeb5800136393bc9#http://ivi.bupt.edu.cn/hls/chchd.m3u8#p2p://fccseuro.pvbox.live:18912/5b140953000b29efbeb5800136393bc9
+中华美食,p2p://fccseuro.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45#p2p://fccsovh.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45
+BTV北京卫视 HD,p2p://fccsovh.pvbox.live:18912/5b14090b000c97dd12740176f28b8125#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225651/index.m3u8#p2p://fccsovh.pvbox.live:18912/5b14090b000c97dd12740176f28b8125#p2p://fccseuro.pvbox.live:18912/5b14090b000c97dd12740176f28b8125
+四川卫视 HD,p2p://fccsovh.pvbox.live:18912/5b13f6ef0006a2754ebc46942ded0ae3#http://ivi.bupt.edu.cn/hls/schd.m3u8#http://liveplay-kk.rtxapp.com/live/program/live/scws/1300000/mnf.m3u8#p2p://fccseuro.pvbox.live:18912/5b13f6ef0006a2754ebc46942ded0ae3
+天津卫视 HD,p2p://fccsovh.pvbox.live:18912/5b13f6ef000904a67d3a19fb7cb750e8#http://ivi.bupt.edu.cn/hls/tjhd.m3u8#http://cctvalih5ca.v.myalicdn.com/wstv/tianjin_2/index.m3u8#p2p://fccseuro.pvbox.live:18912/5b13f6ef000904a67d3a19fb7cb750e8
+广东影视,p2p://fccsovh.pvbox.live:18912/5b14094a0006a2949ad8287867af0779#p2p://fccsovh.pvbox.live:18912/5b14094a0006a2949ad8287867af0779#p2p://fccseuro.pvbox.live:18912/5b14094a0006a2949ad8287867af0779
+广西卫视,p2p://fccsovh.pvbox.live:18912/5b13f6ef000aec718654704bbea4e678#http://ivi.bupt.edu.cn/hls/gxhd.m3u8#http://mgzb.live.miguvideo.com:8088/wd-guangxiwssd-600/index.m3u8?msisdn=2020092516033902cfcfd755384dca83f458d16fd1df8f&mdspid=&spid=800033&netType=0&sid=5500365237&pid=2028597139×tamp=20200925160339&Channel_ID=0116_25000000-99000-10030001001000#p2p://fccseuro.pvbox.live:18912/5b13f6ef000aec718654704bbea4e678
+广东体育,p2p://fccsovh.pvbox.live:18912/5b1409fd00034c8409b2b2bb832b8489#http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://tv528.club/hk168.php?hk168&play&vkeys=dmlkJTNEdHZtaW5nJTIzaWQlM0RHRFNwb3J0#p2p://fccseuro.pvbox.live:18912/5b1409fd00034c8409b2b2bb832b8489
+安徽卫视 HD,http://cctvalih5ca.v.myalicdn.com/wstv/anhui_2/index.m3u8#http://ivi.bupt.edu.cn/hls/ahhd.m3u8#http://cctvalih5ca.v.myalicdn.com/wstv/anhui_2/index.m3u8
+东方卫视 HD,p2p://fccsovh.pvbox.live:18912/5b1409f20005add00b0164f45a593f99#http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/dongfang_2_hd.m3u8#p2p://fccsovh.pvbox.live:18912/5b1409f20005add00b0164f45a593f99#p2p://fccseuro.pvbox.live:18912/5b1409f20005add00b0164f45a593f99
+江苏卫视 HD,p2p://fccsovh.pvbox.live:18912/5b1409db000be11d814f7a455d68fa24#http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000295602.m3u8#p2p://fccsovh.pvbox.live:18912/5b1409db000be11d814f7a455d68fa24#p2p://fccseuro.pvbox.live:18912/5b1409db000be11d814f7a455d68fa24
+浙江卫视 HD,p2p://fccsovh.pvbox.live:18912/5b1409db000dc9c110adac584a50c206#http://ivi.bupt.edu.cn/hls/zjtv.m3u8#p2p://fccsovh.pvbox.live:18912/5b1409db000dc9c110adac584a50c206#p2p://fccseuro.pvbox.live:18912/5b1409db000dc9c110adac584a50c206
+深圳卫视 HD,p2p://fccsovh.pvbox.live:18912/5b140953000759276899714116911883#http://ivi.bupt.edu.cn/hls/szhd.m3u8#p2p://fccsovh.pvbox.live:18912/5b140953000759276899714116911883#p2p://fccseuro.pvbox.live:18912/5b140953000759276899714116911883
+湖北卫视 HD,p2p://fccsovh.pvbox.live:18912/5b13f6f000021ab0f14520ff553fcd95#http://ivi.bupt.edu.cn/hls/hbhd.m3u8#p2p://fccsovh.pvbox.live:18912/5b13f6f000021ab0f14520ff553fcd95#p2p://fccseuro.pvbox.live:18912/5b13f6f000021ab0f14520ff553fcd95
+湖南卫视 HD,p2p://fccsovh.pvbox.live:18912/5b1409f200084cfcd27d9d8749f9f963#http://ivi.bupt.edu.cn/hls/hunanhd.m3u8#p2p://fccsovh.pvbox.live:18912/5b1409f200084cfcd27d9d8749f9f963#p2p://fccseuro.pvbox.live:18912/5b1409f200084cfcd27d9d8749f9f963
+珠江台,p2p://fccsovh.pvbox.live:18912/5b14095300090488549be212526e00c5#https://nclive.grtn.cn/zjpd/sd/live.m3u8?_upt=ce15aa531593754800#p2p://fccsovh.pvbox.live:18912/5b14095300090488549be212526e00c5#p2p://fccseuro.pvbox.live:18912/5b14095300090488549be212526e00c5
+珠江电影,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=7&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=7&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#p2p://fccsovh.pvbox.live:18912/5b14094900043fac4aecf6e0b43220fa#http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=7&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+福建东南卫视,p2p://fccsovh.pvbox.live:18912/5b13f6f0000032f5f5dd8838fa13a0ec#http://ivi.bupt.edu.cn/hls/dntv.m3u8#http://liveplay-kk.rtxapp.com/live/program/live/dnwshd/2300000/mnf.m3u8#p2p://fccseuro.pvbox.live:18912/5b13f6f0000032f5f5dd8838fa13a0ec
+贵州卫视,http://cctvalih5ca.v.myalicdn.com/wstv/guizhou_2/index.m3u8#http://ivi.bupt.edu.cn/hls/gzhd.m3u8#p2p://fccsovh.pvbox.live:18912/5b13f6ef0003c5dcfb77f72d06fdad5e#http://cctvalih5ca.v.myalicdn.com/wstv/guizhou_2/index.m3u8
+辽宁卫视,p2p://fccsovh.pvbox.live:18912/5b140948000c1dd45baa1dcab0dc19e7#ivi.bupt.edu.cn/hls/lnhd.m3u8#http://cctvalih5ca.v.myalicdn.com/wstv/liaoning_2/index.m3u8#p2p://fccseuro.pvbox.live:18912/5b140948000c1dd45baa1dcab0dc19e7
+都市剧场,p2p://fccsovh.pvbox.live:18912/5b140921000e805eeeccc3221d41efb6#p2p://fccseuro.pvbox.live:18912/5b140921000e805eeeccc3221d41efb6
+重庆卫视HD,p2p://fccsovh.pvbox.live:18912/5b140948000e069ff00d853234c508ea#http://ivi.bupt.edu.cn/hls/cqhd.m3u8#http://cctvalih5ca.v.myalicdn.com/wstv/chongqing_2/index.m3u8#p2p://fccseuro.pvbox.live:18912/5b140948000e069ff00d853234c508ea
+风云足球,p2p://fccsovh.pvbox.live:18912/5b1409f2000b29c0c561f6d760e300ae#p2p://fccsovh.pvbox.live:18912/5b1409f2000b29c0c561f6d760e300ae#p2p://fccseuro.pvbox.live:18912/5b1409f2000b29c0c561f6d760e300ae
+高尔夫网球,p2p://fccsovh.pvbox.live:18912/5b1409530005ae3a05fa63a33bbf907c#p2p://fccseuro.pvbox.live:18912/5b1409530005ae3a05fa63a33bbf907c
+黑龙江卫视 HD,p2p://fccsovh.pvbox.live:18912/5b140949000294875b5a40daf285c6be#http://ivi.bupt.edu.cn/hls/hljhd.m3u8#http://cctvalih5ca.v.myalicdn.com/wstv/heilongjiang_2/index.m3u8#p2p://fccseuro.pvbox.live:18912/5b140949000294875b5a40daf285c6be
+江西卫视,http://stream.nxtv.com.cn/wspd/sd/live.m3u8?_upt=199d02d21601662960#http://ivi.bupt.edu.cn/hls/nxtv.m3u8#p2p://fccsovh.pvbox.live:18912/5b13f6f000043ff7c0e1d9b89412ab54#http://stream.nxtv.com.cn/wspd/sd/live.m3u8?_upt=199d02d21601662960
+青海卫视,p2p://fccsovh.pvbox.live:18912/5b13f6f0000627fa37279c368317ea63#http://ivi.bupt.edu.cn/hls/gdtv.m3u8#http://cctvalih5ca.v.myalicdn.com/wstv/guangdong_2/index.m3u8#p2p://fccseuro.pvbox.live:18912/5b13f6f0000627fa37279c368317ea63
+河北卫视,p2p://fccsovh.pvbox.live:18912/5b13f6f00007d3a75637fb4bcf57fa05#http://ivi.bupt.edu.cn/hls/hebhd.m3u8#p2p://fccsovh.pvbox.live:18912/5b13f6f00007d3a75637fb4bcf57fa05#p2p://fccseuro.pvbox.live:18912/5b13f6f00007d3a75637fb4bcf57fa05
+南方卫视,p2p://fccsovh.pvbox.live:18912/5b1409520009bb69c2d3c6beccd99ffc#https://nclive.grtn.cn/tvs2/sd/live.m3u8?_upt=a19f89a71593754200#https://nclive.grtn.cn/tvs2/sd/live.m3u8?_upt=c2166bdd1594039200#p2p://fccseuro.pvbox.live:18912/5b1409520009bb69c2d3c6beccd99ffc
+广东新闻,p2p://fccseuro.pvbox.live:18912/5b1409fd0004b9b70e76acc819ae5d85#http://107.148.240.185:13164/v/3gtv.php?id=18#p2p://fccseuro.pvbox.live:18912/5b1409fd0004b9b70e76acc819ae5d85#p2p://fccsovh.pvbox.live:18912/5b1409fd0004b9b70e76acc819ae5d85
+Z频道,p2p://fccsovh.pvbox.live:18912/5b14094a00088a56c163c32bb6faf8bc#p2p://fccseuro.pvbox.live:18912/5b14094a00088a56c163c32bb6faf8bc
+国家地理 HD,p2p://fccseuro.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b#p2p://fccseuro.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b#p2p://fccsovh.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b
+ELEVEN SPORT 1,p2p://fccsovh.pvbox.live:18912/5b13f6f00009f89b58f0943471333bcc#p2p://fccseuro.pvbox.live:18912/5b13f6f00009f89b58f0943471333bcc
+TRAVEL,p2p://fccsovh.pvbox.live:18912/5b13f6f10002d2ef87429e6d2f0f4a1b#p2p://fccseuro.pvbox.live:18912/5b13f6f10002d2ef87429e6d2f0f4a1b
+BLOOMBERG,p2p://fccsovh.pvbox.live:18912/5b13f6f10000e96ecba4c8c2133d4ddb#p2p://fccseuro.pvbox.live:18912/5b13f6f10000e96ecba4c8c2133d4ddb
+SKY NEWS HD,p2p://fccseuro.pvbox.live:18912/5b13f6f0000c1dd644ffd30c719c308f#p2p://fccsovh.pvbox.live:18912/5b13f6f0000c1dd644ffd30c719c308f
+新视觉,p2p://fccsovh.pvbox.live:18912/5b1409230000ac47dc854141c2c16098#p2p://fccseuro.pvbox.live:18912/5b1409230000ac47dc854141c2c16098
+港澳,#genre#
+翡翠,p2p://fccseuro.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188#p2p://fccsovh.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058
+无线新闻台,p2p://fccsovh.pvbox.live:18912/5ee71d1c0004c66962b2bbef39b16ddb#p2p://fccseuro.pvbox.live:18912/5ee71d1c0004c66962b2bbef39b16ddb
+J2,p2p://fccseuro.pvbox.live:18912/5dbeb1ce0004b0ebd816f2f1ed100d7b#p2p://fccsovh.pvbox.live:18912/5dbeb1ce0004b0ebd816f2f1ed100d7b
+J5,p2p://fccseuro.pvbox.live:18912/5b14095400047cf5d3436751842bee62#p2p://fccsovh.pvbox.live:18912/5b14095400047cf5d3436751842bee62
+pearl,p2p://fccseuro.pvbox.live:18912/5dbeb1ca000ccc5031839eb645936fa4#p2p://fccsovh.pvbox.live:18912/5dbeb1ca000ccc5031839eb645936fa4
+无线财经台,p2p://fccsovh.pvbox.live:18912/5ee71d1e0002271962b2c31332f45545#p2p://fccseuro.pvbox.live:18912/5ee71d1e0002271962b2c31332f45545
+HKC新闻,p2p://fccseuro.pvbox.live:18912/5cb870e80007bd8518bd664dc725ad75#p2p://fccsovh.pvbox.live:18912/5cb870e80007bd8518bd664dc725ad75
+HKC电影一台,p2p://fccseuro.pvbox.live:18912/5b140a16000257643131fe220522a056#p2p://fccsovh.pvbox.live:18912/5b140a16000257643131fe220522a056
+有线体育,p2p://fccsovh.pvbox.live:18912/5cb870de000968d092345e9ff2a5d955#p2p://fccsovh.pvbox.live:18912/5cb870de000968d092345e9ff2a5d955#p2p://fccseuro.pvbox.live:18912/5cb870de000968d092345e9ff2a5d955
+NOW 新闻,p2p://fccseuro.pvbox.live:18912/5b20e3ae00008df9620421b9fc1c558a#http://playlive.558888888.xyz:10013/db.php?id=nowxw&t=1591516964&sign=1386841921#p2p://fccsovh.pvbox.live:18912/5b20e3ae00008df9620421b9fc1c558a
+NOW sports1,http://t48.ovcqc.com:18686//live/t6u5b1q4/2da7ea87/200603170600002.ts#p2p://fccseuro.pvbox.live:18912/5e7c6d93000c7d74ebbfc9439c67f071#http://t48.ovcqc.com:18686//live/t6u5b1q4/2da7ea87/200603170600002.ts
+viu,p2p://fccseuro.pvbox.live:18912/5dbeb1c70009386833caae6ccb5d0800#p2p://fccsovh.pvbox.live:18912/5dbeb1c70009386833caae6ccb5d0800
+viu6,p2p://fccseuro.pvbox.live:18912/5dbeb1c9000305c43cdb0149358f3a61#p2p://fccsovh.pvbox.live:18912/5dbeb1c9000305c43cdb0149358f3a61
+星空卫视,p2p://fccseuro.pvbox.live:18912/5b1409fb0000e9857fe430e18a1c406d#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233#p2p://fccsovh.pvbox.live:18912/5b1409fb0000e9857fe430e18a1c406d
+TVB-经典台,p2p://fccsovh.pvbox.live:18912/5fbb5a9f00079d3b9fc240962c3b63be#p2p://fccseuro.pvbox.live:18912/5fbb5a9f00079d3b9fc240962c3b63be
+TVB星河,p2p://fccseuro.pvbox.live:18912/5d65048c0003e9aecc353f52270c8bbe#p2p://fccsovh.pvbox.live:18912/5d65048c0003e9aecc353f52270c8bbe
+凤凰中文台 HD,p2p://fccseuro.pvbox.live:18912/5b14092b00075956b021861efc75b7ed#http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#p2p://fccsovh.pvbox.live:18912/5b14092b00075956b021861efc75b7ed
+凤凰资讯台 HD,p2p://fccseuro.pvbox.live:18912/5b14092b00090483328819f2db8ecad0#http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8#p2p://fccsovh.pvbox.live:18912/5b14092b00090483328819f2db8ecad0
+凤凰香港台 HD,p2p://fccseuro.pvbox.live:18912/5b14092b000ab058aba6213c0ddec4b0#http://104.250.154.42:8080/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8#p2p://fccsovh.pvbox.live:18912/5b14092b000ab058aba6213c0ddec4b0
+TVB娱乐,p2p://fccseuro.pvbox.live:18912/5b140a99000c97f5e048bfdfbba41d0d#p2p://fccsovh.pvbox.live:18912/5b140a99000c97f5e048bfdfbba41d0d
+星空衛視,p2p://fccseuro.pvbox.live:18912/5c076cdb000996057be8bfba53470c9a#p2p://fccsovh.pvbox.live:18912/5c076cdb000996057be8bfba53470c9a
+WBTV,p2p://fccseuro.pvbox.live:18912/5b140a1600043fc91c041b1dc1392567#p2p://fccsovh.pvbox.live:18912/5b140a1600043fc91c041b1dc1392567
+CHINA MOVIE,p2p://fccseuro.pvbox.live:18912/5b14095e00097ea884e3f555332398a0#p2p://fccsovh.pvbox.live:18912/5b14095e00097ea884e3f555332398a0
+中华美食频道,p2p://fccseuro.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45#p2p://fccsovh.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45
+HK 06,p2p://fccseuro.pvbox.live:18912/5b14092a000dc9218764286074e1c13e#p2p://fccsovh.pvbox.live:18912/5b14092a000dc9218764286074e1c13e
+香港开电视,p2p://fccsovh.pvbox.live:18912/5b140a990002d1a89cac9e13b5b361a2#p2p://fccseuro.pvbox.live:18912/5b140a990002d1a89cac9e13b5b361a2
+巴西,#genre#
+A&E BR,p2p://fccseuro.pvbox.live:18912/5bee4dd40002191e63bcb4b2f938f266#p2p://fccsovh.pvbox.live:18912/5bee4dd40002191e63bcb4b2f938f266
+Universal BR,p2p://fccseuro.pvbox.live:18912/5bee5375000a15e89605f0c76c862efb#p2p://fccsovh.pvbox.live:18912/5bee5375000a15e89605f0c76c862efb
+AMC BR,p2p://fccseuro.pvbox.live:18912/5bee4dd7000903176b747707d6697b31#p2p://fccsovh.pvbox.live:18912/5bee4dd7000903176b747707d6697b31
+Animal Planet BR,p2p://fccseuro.pvbox.live:18912/5bee4ddb0001bdbad038ead6acc17492#p2p://fccsovh.pvbox.live:18912/5bee4ddb0001bdbad038ead6acc17492
+Arte 1,p2p://fccseuro.pvbox.live:18912/5bee4dde0006f88c98fb31ef797c818a#p2p://fccsovh.pvbox.live:18912/5bee4dde0006f88c98fb31ef797c818a
+Band BR,p2p://fccseuro.pvbox.live:18912/5bee4de500068da0867eb498a4ca051f#p2p://fccsovh.pvbox.live:18912/5bee4de500068da0867eb498a4ca051f
+Band News BR,p2p://fccseuro.pvbox.live:18912/5bee4de9000ac8e0031bb45d96370a77#p2p://fccsovh.pvbox.live:18912/5bee4de9000ac8e0031bb45d96370a77
+Band Sports,p2p://fccseuro.pvbox.live:18912/5bee4df00009ebcfc019a6598968cccc#p2p://fccsovh.pvbox.live:18912/5bee4df00009ebcfc019a6598968cccc
+VH1 BR,p2p://fccseuro.pvbox.live:18912/5bee4df40001a6a6b2b9227d2c6ceb2c#p2p://fccsovh.pvbox.live:18912/5bee4df40001a6a6b2b9227d2c6ceb2c
+BIS BR,p2p://fccseuro.pvbox.live:18912/5bee4dfa000f1f1b7e0a1f608817ffb5#p2p://fccsovh.pvbox.live:18912/5bee4dfa000f1f1b7e0a1f608817ffb5
+Boomerang BR,p2p://fccseuro.pvbox.live:18912/5bee4dfe0006bf7b1b23ffc6f29dddbf#p2p://fccsovh.pvbox.live:18912/5bee4dfe0006bf7b1b23ffc6f29dddbf
+Cartoon Network BR,p2p://fccseuro.pvbox.live:18912/5bee4e13000dfd326a54437eaffba007#p2p://fccsovh.pvbox.live:18912/5bee4e13000dfd326a54437eaffba007
+Cinemax BR,p2p://fccseuro.pvbox.live:18912/5bee4e170005871325807a02e43bb085#p2p://fccsovh.pvbox.live:18912/5bee4e170005871325807a02e43bb085
+Canal Sony,p2p://fccseuro.pvbox.live:18912/5bee4e710005da67a239737b87f3c428#p2p://fccsovh.pvbox.live:18912/5bee4e710005da67a239737b87f3c428
+Combate,p2p://fccseuro.pvbox.live:18912/5bee4e750000ebb3d594fa5fa033b0f7#p2p://fccsovh.pvbox.live:18912/5bee4e750000ebb3d594fa5fa033b0f7
+Comedy Central BR,p2p://fccseuro.pvbox.live:18912/5bee4e780009e08353d49ee5be680855#p2p://fccsovh.pvbox.live:18912/5bee4e780009e08353d49ee5be680855
+Baby TV,p2p://fccseuro.pvbox.live:18912/5bee4e7c000327eac9352238a98819c9#p2p://fccsovh.pvbox.live:18912/5bee4e7c000327eac9352238a98819c9
+Discovery BR,p2p://fccseuro.pvbox.live:18912/5bee4e830000792ba2fa76982918750c#p2p://fccsovh.pvbox.live:18912/5bee4e830000792ba2fa76982918750c
+Discovery Civilization,p2p://fccseuro.pvbox.live:18912/5bee4e860006918af2cb521591a2034a#p2p://fccsovh.pvbox.live:18912/5bee4e860006918af2cb521591a2034a
+Discovery Home Health,p2p://fccseuro.pvbox.live:18912/5bee4e89000e17d36ce1dab5c01dac27#p2p://fccsovh.pvbox.live:18912/5bee4e89000e17d36ce1dab5c01dac27
+Discovery Kids,p2p://fccseuro.pvbox.live:18912/5bee4e8d000586a6c2bbb0fe52d08175#p2p://fccsovh.pvbox.live:18912/5bee4e8d000586a6c2bbb0fe52d08175
+Discovery Science BR,p2p://fccseuro.pvbox.live:18912/5bee4e90000c4e21ceec1e5c19a55732#p2p://fccsovh.pvbox.live:18912/5bee4e90000c4e21ceec1e5c19a55732
+Discovery Theater,p2p://fccseuro.pvbox.live:18912/5bee4e9400035d9f8e67fe93f3e49fb6#p2p://fccsovh.pvbox.live:18912/5bee4e9400035d9f8e67fe93f3e49fb6
+Discovery Turbo,p2p://fccseuro.pvbox.live:18912/5bee4e97000ce6c91d7ce85e98bf846b#p2p://fccsovh.pvbox.live:18912/5bee4e97000ce6c91d7ce85e98bf846b
+Discovery WORLD,p2p://fccseuro.pvbox.live:18912/5bee4e9b0004056f76e84736af101f06#p2p://fccsovh.pvbox.live:18912/5bee4e9b0004056f76e84736af101f06
+Disney BR,p2p://fccseuro.pvbox.live:18912/5bee4e9e000ba6493a5846cdc137d5f4#p2p://fccsovh.pvbox.live:18912/5bee4e9e000ba6493a5846cdc137d5f4
+DISNEY JR BR,p2p://fccseuro.pvbox.live:18912/5bee4ea20003335f85191976173d0d21#p2p://fccsovh.pvbox.live:18912/5bee4ea20003335f85191976173d0d21
+Disney XD BR,p2p://fccseuro.pvbox.live:18912/5bee4ea50009f36c4321bebc7880faba#p2p://fccsovh.pvbox.live:18912/5bee4ea50009f36c4321bebc7880faba
+E! BR,p2p://fccseuro.pvbox.live:18912/5bee4ea9000002e3ff576aafaca0975f#p2p://fccsovh.pvbox.live:18912/5bee4ea9000002e3ff576aafaca0975f
+ESPN Extra,p2p://fccseuro.pvbox.live:18912/5bee4eac000a346c0dd43f81d2066d4f#p2p://fccsovh.pvbox.live:18912/5bee4eac000a346c0dd43f81d2066d4f
+ESPN BRASIL,p2p://fccseuro.pvbox.live:18912/5bee4faf000825f2166ecdf1aaea3eed#p2p://fccsovh.pvbox.live:18912/5bee4faf000825f2166ecdf1aaea3eed
+WOOHOO,p2p://fccseuro.pvbox.live:18912/5bee4fb60008c9ee47565688958bb309#p2p://fccsovh.pvbox.live:18912/5bee4fb60008c9ee47565688958bb309
+ESPN,p2p://fccseuro.pvbox.live:18912/5bee4fba00023f4eacebd66d8b135902#p2p://fccsovh.pvbox.live:18912/5bee4fba00023f4eacebd66d8b135902
+PFC,p2p://fccseuro.pvbox.live:18912/5bee4fbd000a65d24af90056b4b45180#p2p://fccsovh.pvbox.live:18912/5bee4fbd000a65d24af90056b4b45180
+VIVA BR,p2p://fccseuro.pvbox.live:18912/5bee4fc100035d90033d1d2f7a9d11bd#p2p://fccsovh.pvbox.live:18912/5bee4fc100035d90033d1d2f7a9d11bd
+TV Record,p2p://fccseuro.pvbox.live:18912/5bee4fc4000a197f078ba144562af333#p2p://fccsovh.pvbox.live:18912/5bee4fc4000a197f078ba144562af333
+Food Network BR,p2p://fccseuro.pvbox.live:18912/5bee4fc80000e7f767023615194376b4#p2p://fccsovh.pvbox.live:18912/5bee4fc80000e7f767023615194376b4
+Fox BR,p2p://fccseuro.pvbox.live:18912/5bee4fcb00072a17851e0c4bc347ef0a#p2p://fccsovh.pvbox.live:18912/5bee4fcb00072a17851e0c4bc347ef0a
+Fox Life,p2p://fccseuro.pvbox.live:18912/5bee4fcf00003c60018eacc4c9d24b52#p2p://fccsovh.pvbox.live:18912/5bee4fcf00003c60018eacc4c9d24b52
+Fox Permium 1,p2p://fccseuro.pvbox.live:18912/5bee4fd30003b5214f2e4d14d36522a1#p2p://fccsovh.pvbox.live:18912/5bee4fd30003b5214f2e4d14d36522a1
+Fox Premium 2,p2p://fccseuro.pvbox.live:18912/5bee4fd6000b5621613c878bcaeba409#p2p://fccsovh.pvbox.live:18912/5bee4fd6000b5621613c878bcaeba409
+Fox Sports 2 BR,p2p://fccseuro.pvbox.live:18912/5bee4fda00069ce535abcf8e7b94e41e#p2p://fccsovh.pvbox.live:18912/5bee4fda00069ce535abcf8e7b94e41e
+Fox Sports 1,p2p://fccseuro.pvbox.live:18912/5bee4fe10005de66ac332869ddadff71#p2p://fccsovh.pvbox.live:18912/5bee4fe10005de66ac332869ddadff71
+FX BR,p2p://fccseuro.pvbox.live:18912/5bee4fe4000da18144d4d0220c351ce1#p2p://fccsovh.pvbox.live:18912/5bee4fe4000da18144d4d0220c351ce1
+Globo News BR,p2p://fccseuro.pvbox.live:18912/5bee4fe8000703ee719e5eb9d619c407#p2p://fccsovh.pvbox.live:18912/5bee4fe8000703ee719e5eb9d619c407
+GLOBO RBS TV PORTO ALEGRE,p2p://fccseuro.pvbox.live:18912/5bee4fec0000662e1634c0796952c3c3#p2p://fccsovh.pvbox.live:18912/5bee4fec0000662e1634c0796952c3c3
+Globo RJ,p2p://fccseuro.pvbox.live:18912/5bee4fef000794fc46fd80480933dc86#p2p://fccsovh.pvbox.live:18912/5bee4fef000794fc46fd80480933dc86
+Globo BR,p2p://fccseuro.pvbox.live:18912/5bee4ff300052ad4718cc8cf29dbacf7#p2p://fccsovh.pvbox.live:18912/5bee4ff300052ad4718cc8cf29dbacf7
+GNT BR,p2p://fccseuro.pvbox.live:18912/5bee504c000984a9c398eb4256273563#p2p://fccsovh.pvbox.live:18912/5bee504c000984a9c398eb4256273563
+H2 BR,p2p://fccseuro.pvbox.live:18912/5bee505000021cd4f1b14e255b821602#p2p://fccsovh.pvbox.live:18912/5bee505000021cd4f1b14e255b821602
+HBO Family BR,p2p://fccseuro.pvbox.live:18912/5bee505700010a745bac3a281697dc45#p2p://fccsovh.pvbox.live:18912/5bee505700010a745bac3a281697dc45
+HBO BR,p2p://fccseuro.pvbox.live:18912/5bee505a0007dda5e1633fdc907a7cb4#p2p://fccsovh.pvbox.live:18912/5bee505a0007dda5e1633fdc907a7cb4
+HBO Plus BR,p2p://fccseuro.pvbox.live:18912/5bee505e0000389224d660539217a011#p2p://fccsovh.pvbox.live:18912/5bee505e0000389224d660539217a011
+HBO Signature BR,p2p://fccseuro.pvbox.live:18912/5bee50610008e86999fec66ff912bd0f#p2p://fccsovh.pvbox.live:18912/5bee50610008e86999fec66ff912bd0f
+History BR,p2p://fccseuro.pvbox.live:18912/5bee50650000aeec51a88b144d5a11a5#p2p://fccsovh.pvbox.live:18912/5bee50650000aeec51a88b144d5a11a5
+ID BR,p2p://fccseuro.pvbox.live:18912/5bee5068000990438567cbe9bec00126#p2p://fccsovh.pvbox.live:18912/5bee5068000990438567cbe9bec00126
+Lifetime BR,p2p://fccseuro.pvbox.live:18912/5bee506c0003e67921be37104a7927df#p2p://fccsovh.pvbox.live:18912/5bee506c0003e67921be37104a7927df
+Mais Globosat,p2p://fccseuro.pvbox.live:18912/5bee506f000c3b1a2e717b3ad9530411#p2p://fccsovh.pvbox.live:18912/5bee506f000c3b1a2e717b3ad9530411
+Max,p2p://fccseuro.pvbox.live:18912/5bee50730005ac9d68efdfd00ba72bf8#p2p://fccsovh.pvbox.live:18912/5bee50730005ac9d68efdfd00ba72bf8
+Max Prime,p2p://fccseuro.pvbox.live:18912/5bee5077000102ba79ed0a925e91baac#p2p://fccsovh.pvbox.live:18912/5bee5077000102ba79ed0a925e91baac
+Max Up,p2p://fccseuro.pvbox.live:18912/5bee5096000aeb75f55073d758bc44db#p2p://fccsovh.pvbox.live:18912/5bee5096000aeb75f55073d758bc44db
+MegaPix,p2p://fccseuro.pvbox.live:18912/5bee509a00029e941c18e16de15b88f9#p2p://fccsovh.pvbox.live:18912/5bee509a00029e941c18e16de15b88f9
+MTV BR,p2p://fccseuro.pvbox.live:18912/5bee509d0008c269c953f40a12165efa#p2p://fccsovh.pvbox.live:18912/5bee509d0008c269c953f40a12165efa
+Multishow,p2p://fccseuro.pvbox.live:18912/5bee51cb000be33948dd19b89ef8bbc9#p2p://fccsovh.pvbox.live:18912/5bee51cb000be33948dd19b89ef8bbc9
+Music Box,p2p://fccseuro.pvbox.live:18912/5bee51cf00025dc36e4e439100e854f5#p2p://fccsovh.pvbox.live:18912/5bee51cf00025dc36e4e439100e854f5
+NAT GEO BR,p2p://fccseuro.pvbox.live:18912/5bee51d2000a15b86c056645e8674ed0#p2p://fccsovh.pvbox.live:18912/5bee51d2000a15b86c056645e8674ed0
+NAT GEO Wild BR,p2p://fccseuro.pvbox.live:18912/5bee51d90006e56566fcc24461f02e23#p2p://fccsovh.pvbox.live:18912/5bee51d90006e56566fcc24461f02e23
+NICK JR BR,p2p://fccseuro.pvbox.live:18912/5bee51e00007a3fd7d403e475b09061b#p2p://fccsovh.pvbox.live:18912/5bee51e00007a3fd7d403e475b09061b
+Record,p2p://fccseuro.pvbox.live:18912/5bee527400038b2b147115882a788a10#p2p://fccsovh.pvbox.live:18912/5bee527400038b2b147115882a788a10
+Rede TV,p2p://fccseuro.pvbox.live:18912/5bee5277000b190913066e73206566e0#p2p://fccsovh.pvbox.live:18912/5bee5277000b190913066e73206566e0
+SBT,p2p://fccseuro.pvbox.live:18912/5bee527b00011d5630d8216bea8cc2c0#p2p://fccsovh.pvbox.live:18912/5bee527b00011d5630d8216bea8cc2c0
+TNT BR,p2p://fccseuro.pvbox.live:18912/5bee5359000879982371fd6ff22f5dd1#p2p://fccsovh.pvbox.live:18912/5bee5359000879982371fd6ff22f5dd1
+TV Ra Tim Bum,p2p://fccseuro.pvbox.live:18912/5bee53720000f7469e6454c5e42a0128#p2p://fccsovh.pvbox.live:18912/5bee53720000f7469e6454c5e42a0128
+TNT Series  BR,p2p://fccseuro.pvbox.live:18912/5bee535d0005498f7a7c95ec4f46f637#p2p://fccsovh.pvbox.live:18912/5bee535d0005498f7a7c95ec4f46f637
+葡萄牙,#genre#
+RTP 2,p2p://fccseuro.pvbox.live:18912/5bee4de1000f1002541d3090c32eb7b4#p2p://fccsovh.pvbox.live:18912/5bee4de1000f1002541d3090c32eb7b4
+Panda Biggs,p2p://fccseuro.pvbox.live:18912/5bee55500002c8b350dbb0c2400d93bc#p2p://fccsovh.pvbox.live:18912/5bee55500002c8b350dbb0c2400d93bc
+PFC,p2p://fccseuro.pvbox.live:18912/5bee50530008483911e3e951d6a5bf1c#p2p://fccsovh.pvbox.live:18912/5bee50530008483911e3e951d6a5bf1c
+PFC,p2p://fccseuro.pvbox.live:18912/5bee5553000866a51cba4025a3187020#p2p://fccsovh.pvbox.live:18912/5bee5553000866a51cba4025a3187020
+ARTV,p2p://fccseuro.pvbox.live:18912/5bee51d6000130a091b0452e0cf8c526#p2p://fccsovh.pvbox.live:18912/5bee51d6000130a091b0452e0cf8c526
+Porto Canal,p2p://fccseuro.pvbox.live:18912/5bee555700007169c5054cf5eb197be8#p2p://fccsovh.pvbox.live:18912/5bee555700007169c5054cf5eb197be8
+A&E,p2p://fccseuro.pvbox.live:18912/5bee537f000e17f2eb9f7077175335ea#p2p://fccsovh.pvbox.live:18912/5bee537f000e17f2eb9f7077175335ea
+RTP 1,p2p://fccseuro.pvbox.live:18912/5bee555a0009ba1727fb91b380f8091b#p2p://fccsovh.pvbox.live:18912/5bee555a0009ba1727fb91b380f8091b
+A Bola TV,p2p://fccseuro.pvbox.live:18912/5bee53830004fd2e2c044d3ce5107f6f#p2p://fccsovh.pvbox.live:18912/5bee53830004fd2e2c044d3ce5107f6f
+RTP 2,p2p://fccseuro.pvbox.live:18912/5bee555e000169b34144450ab5b70482#p2p://fccsovh.pvbox.live:18912/5bee555e000169b34144450ab5b70482
+Afro Music,p2p://fccseuro.pvbox.live:18912/5bee5386000cc0a2b28b06f62f767269#p2p://fccsovh.pvbox.live:18912/5bee5386000cc0a2b28b06f62f767269
+RTP 3,p2p://fccseuro.pvbox.live:18912/5bee55610008855cc94c067d84633e0c#p2p://fccsovh.pvbox.live:18912/5bee55610008855cc94c067d84633e0c
+AMC,p2p://fccseuro.pvbox.live:18912/5bee538a000442252216375b4001b2ff#p2p://fccsovh.pvbox.live:18912/5bee538a000442252216375b4001b2ff
+Sic,p2p://fccseuro.pvbox.live:18912/5bee5565000dea0076734460280a5f80#p2p://fccsovh.pvbox.live:18912/5bee5565000dea0076734460280a5f80
+ARTV,p2p://fccseuro.pvbox.live:18912/5bee538d000cc84494597e2ea34dcd71#p2p://fccsovh.pvbox.live:18912/5bee538d000cc84494597e2ea34dcd71
+SIC Mulher,p2p://fccseuro.pvbox.live:18912/5bee556900099b7c708ee11f94542871#p2p://fccsovh.pvbox.live:18912/5bee556900099b7c708ee11f94542871
+AXN,p2p://fccseuro.pvbox.live:18912/5bee539100076342d0f4a766569dfd39#p2p://fccsovh.pvbox.live:18912/5bee539100076342d0f4a766569dfd39
+SIC Noticias,p2p://fccseuro.pvbox.live:18912/5bee55bc000cc815b8ca3f00d0c0124b#p2p://fccsovh.pvbox.live:18912/5bee55bc000cc815b8ca3f00d0c0124b
+SIC Radical,p2p://fccseuro.pvbox.live:18912/5bee55c00004b8abf8710c10189cdcba#p2p://fccsovh.pvbox.live:18912/5bee55c00004b8abf8710c10189cdcba
+Sport TV 1,p2p://fccseuro.pvbox.live:18912/5bee55c3000c7bf1b2cf4b9c542a1b2b#p2p://fccsovh.pvbox.live:18912/5bee55c3000c7bf1b2cf4b9c542a1b2b
+Sport TV 2,p2p://fccseuro.pvbox.live:18912/5bee55ca000c3ec6103cfe5c0554cf70#p2p://fccsovh.pvbox.live:18912/5bee55ca000c3ec6103cfe5c0554cf70
+Sport TV 3,p2p://fccseuro.pvbox.live:18912/5bee55ce0007003126802387db4b9b4e#p2p://fccsovh.pvbox.live:18912/5bee55ce0007003126802387db4b9b4e
+SIC Mulher,p2p://fccseuro.pvbox.live:18912/5bee55d1000d73cca61bddd49122cbc5#p2p://fccsovh.pvbox.live:18912/5bee55d1000d73cca61bddd49122cbc5
+Sport TV 5,p2p://fccseuro.pvbox.live:18912/5bee55d500052326cd6d7c95b377dc7f#p2p://fccsovh.pvbox.live:18912/5bee55d500052326cd6d7c95b377dc7f
+Sport TV +,p2p://fccseuro.pvbox.live:18912/5bee55d8000d870558727cd992730036#p2p://fccsovh.pvbox.live:18912/5bee55d8000d870558727cd992730036
+Sporting TV,p2p://fccseuro.pvbox.live:18912/5bee55e300077df95ff96199666b8d94#p2p://fccsovh.pvbox.live:18912/5bee55e300077df95ff96199666b8d94
+Jim Jam,p2p://fccseuro.pvbox.live:18912/5bee55260000bdfd0aca1279e8affc77#p2p://fccsovh.pvbox.live:18912/5bee55260000bdfd0aca1279e8affc77
+MCS Extreme,p2p://fccseuro.pvbox.live:18912/5bee552900099f7ae86ca5b917368b1c#p2p://fccsovh.pvbox.live:18912/5bee552900099f7ae86ca5b917368b1c
+MCS LifeStyle,p2p://fccseuro.pvbox.live:18912/5bee552d0001d4797afea4f819639939#p2p://fccsovh.pvbox.live:18912/5bee552d0001d4797afea4f819639939
+Motors TV,p2p://fccseuro.pvbox.live:18912/5bee5530000a4ef8383ecce313b1d2d5#p2p://fccsovh.pvbox.live:18912/5bee5530000a4ef8383ecce313b1d2d5
+Motor Vision,p2p://fccseuro.pvbox.live:18912/5bee553400021173344e469c5f220a98#p2p://fccsovh.pvbox.live:18912/5bee553400021173344e469c5f220a98
+Kombat Sports,p2p://fccseuro.pvbox.live:18912/5bee55370009a71c7ce26510c597ad89#p2p://fccsovh.pvbox.live:18912/5bee55370009a71c7ce26510c597ad89
+MTV Portuga,p2p://fccseuro.pvbox.live:18912/5bee553e00096e262c5fa9ad98544cdd#p2p://fccsovh.pvbox.live:18912/5bee553e00096e262c5fa9ad98544cdd
+NAT GEO Wild,p2p://fccseuro.pvbox.live:18912/5bee55420006f0efb73c8d5d25668382#p2p://fccsovh.pvbox.live:18912/5bee55420006f0efb73c8d5d25668382
+SYFY,p2p://fccseuro.pvbox.live:18912/5bee55e6000ecb2cfff539ad796b0dc3#p2p://fccsovh.pvbox.live:18912/5bee55e6000ecb2cfff539ad796b0dc3
+TLC,p2p://fccseuro.pvbox.live:18912/5bee55ea00058e575bb92e06a79fb116#p2p://fccsovh.pvbox.live:18912/5bee55ea00058e575bb92e06a79fb116
+Toros TV,p2p://fccseuro.pvbox.live:18912/5bee55ed000a65da43c253982bef2c4c#p2p://fccsovh.pvbox.live:18912/5bee55ed000a65da43c253982bef2c4c
+Travel Channel,p2p://fccseuro.pvbox.live:18912/5bee55f1000baa0541751e49495fd21f#p2p://fccsovh.pvbox.live:18912/5bee55f1000baa0541751e49495fd21f
+TV Cine 1,p2p://fccseuro.pvbox.live:18912/5bee55f50003611f73ca9254837e86b3#p2p://fccsovh.pvbox.live:18912/5bee55f50003611f73ca9254837e86b3
+TV Cine 2,p2p://fccseuro.pvbox.live:18912/5bee55f8000921a68cf30314356144bf#p2p://fccsovh.pvbox.live:18912/5bee55f8000921a68cf30314356144bf
+TV Cine 3,p2p://fccseuro.pvbox.live:18912/5bee55fc00010a311e5933b28e75bc90#p2p://fccsovh.pvbox.live:18912/5bee55fc00010a311e5933b28e75bc90
+TV Cine 4,p2p://fccseuro.pvbox.live:18912/5bee55ff0007e915ba7049327479988f#p2p://fccsovh.pvbox.live:18912/5bee55ff0007e915ba7049327479988f
+TV Galicia,p2p://fccseuro.pvbox.live:18912/5bee56030000f396d271b49e76fa64bb#p2p://fccsovh.pvbox.live:18912/5bee56030000f396d271b49e76fa64bb
+TV Globo Premium,p2p://fccseuro.pvbox.live:18912/5bee56060007dd7c47632704faafe221#p2p://fccsovh.pvbox.live:18912/5bee56060007dd7c47632704faafe221
+NAT GEO,p2p://fccseuro.pvbox.live:18912/5bee5545000d832f59bdf65403ebfef4#p2p://fccsovh.pvbox.live:18912/5bee5545000d832f59bdf65403ebfef4
+Nickelodeon,p2p://fccseuro.pvbox.live:18912/5bee55490004fd2bdb5a159abc9dd80f#p2p://fccsovh.pvbox.live:18912/5bee55490004fd2bdb5a159abc9dd80f
+Odisseia,p2p://fccseuro.pvbox.live:18912/5bee554c000badfb84a21cc9cef472c5#p2p://fccsovh.pvbox.live:18912/5bee554c000badfb84a21cc9cef472c5
+日本,#genre#
+TOKYO MX1,p2p://fccsovh.pvbox.live:18912/5f9f8bc00000f7c6332240ee6e2b503d#p2p://fccseuro.pvbox.live:18912/5f9f8bc00000f7c6332240ee6e2b503d
+TOKYO MX2,p2p://fccsovh.pvbox.live:18912/5f9f8bc0000c6945332243dc3d2539f7#p2p://fccseuro.pvbox.live:18912/5f9f8bc0000c6945332243dc3d2539f7
+MX LIVE,p2p://fccsovh.pvbox.live:18912/5f9f8bc1000898b5332246ca590f7913#p2p://fccseuro.pvbox.live:18912/5f9f8bc1000898b5332246ca590f7913
+Weather News,p2p://fccsovh.pvbox.live:18912/5f9f8bc200031ce53322494a789931ea#p2p://fccseuro.pvbox.live:18912/5f9f8bc200031ce53322494a789931ea
+群馬テレビ,p2p://fccsovh.pvbox.live:18912/5f9f8bc30000bab733224c9634837f46#p2p://fccseuro.pvbox.live:18912/5f9f8bc30000bab733224c9634837f46
+ANN NEWS,p2p://fccsovh.pvbox.live:18912/5f9f8bc3000b382533224f4542bb1166#p2p://fccseuro.pvbox.live:18912/5f9f8bc3000b382533224f4542bb1166
+QVC Japan,p2p://fccsovh.pvbox.live:18912/5f9f8bc40006b060332252055fdf066c#p2p://fccseuro.pvbox.live:18912/5f9f8bc40006b060332252055fdf066c
+Shop Channel,p2p://fccsovh.pvbox.live:18912/5f9f8bc50004c81c33225570389c36a5#p2p://fccseuro.pvbox.live:18912/5f9f8bc50004c81c33225570389c36a5
+日テレNEWS24,p2p://fccsovh.pvbox.live:18912/5f9f8bc600007d803322583e3838675d#p2p://fccseuro.pvbox.live:18912/5f9f8bc600007d803322583e3838675d
+NHK WORLD,p2p://fccsovh.pvbox.live:18912/5f9f8bc6000abdea33225ade626f16e2#p2p://fccseuro.pvbox.live:18912/5f9f8bc6000abdea33225ade626f16e2
+NHK 华语视界,p2p://fccsovh.pvbox.live:18912/5f9f8bc70006b06933225dbd24af12d2#p2p://fccseuro.pvbox.live:18912/5f9f8bc70006b06933225dbd24af12d2
+CGN TV,p2p://fccsovh.pvbox.live:18912/5f9f8bc8000228b83322607c0f903655#p2p://fccseuro.pvbox.live:18912/5f9f8bc8000228b83322607c0f903655
+Japan Channel DX,p2p://fccsovh.pvbox.live:18912/5f9f8bc8000ca5fe3322632b4fe70abe#p2p://fccseuro.pvbox.live:18912/5f9f8bc8000ca5fe3322632b4fe70abe
+NTV,p2p://fccsovh.pvbox.live:18912/5f9fa78f0009a7f4338ee3c80a335134#p2p://fccseuro.pvbox.live:18912/5f9fa78f0009a7f4338ee3c80a335134
+tvtokyo,p2p://fccsovh.pvbox.live:18912/5f9fa79000059a58338ee6a679907382#p2p://fccseuro.pvbox.live:18912/5f9fa79000059a58338ee6a679907382
+tvasahi,p2p://fccsovh.pvbox.live:18912/5f9fa791000206c0338ee9a405c23e16#p2p://fccseuro.pvbox.live:18912/5f9fa791000206c0338ee9a405c23e16
+fujitv,p2p://fccsovh.pvbox.live:18912/5f9fa791000cfe5a338eec7264715ac1#p2p://fccseuro.pvbox.live:18912/5f9fa791000cfe5a338eec7264715ac1
+TBS,p2p://fccsovh.pvbox.live:18912/5f9fa7920007bfbc338eef032e1101bb#p2p://fccseuro.pvbox.live:18912/5f9fa7920007bfbc338eef032e1101bb
+NHK,p2p://fccsovh.pvbox.live:18912/5f9fa7930002fad1338ef1b27c2a68a5#p2p://fccseuro.pvbox.live:18912/5f9fa7930002fad1338ef1b27c2a68a5
+tokyomx,p2p://fccsovh.pvbox.live:18912/5f9fa793000df27c338ef4810b523ff8#p2p://fccseuro.pvbox.live:18912/5f9fa793000df27c338ef4810b523ff8
+NHK-BS-Premium,p2p://fccsovh.pvbox.live:18912/5ef1dc1b000136948cacc73d43c26e7b#p2p://fccseuro.pvbox.live:18912/5ef1dc1b000136948cacc73d43c26e7b
+BS-富士,p2p://fccsovh.pvbox.live:18912/5ef1dc1c00072c8a8cacccac33957847#p2p://fccseuro.pvbox.live:18912/5ef1dc1c00072c8a8cacccac33957847
+BS-TBS,p2p://fccsovh.pvbox.live:18912/5ef1e4a200046fc58cce17607d984b54#p2p://fccseuro.pvbox.live:18912/5ef1e4a200046fc58cce17607d984b54
+BS朝日,p2p://fccsovh.pvbox.live:18912/5ef1e4a3000cc7dd8cce1d6b5f2224d9#p2p://fccseuro.pvbox.live:18912/5ef1e4a3000cc7dd8cce1d6b5f2224d9
+Golf,p2p://fccsovh.pvbox.live:18912/5ef1e4ac000a28968cce3fe70ddf116a#p2p://fccseuro.pvbox.live:18912/5ef1e4ac000a28968cce3fe70ddf116a
+WOWOW-Prime,p2p://fccsovh.pvbox.live:18912/5ef1e4a6000934438cce283966956ca7#p2p://fccseuro.pvbox.live:18912/5ef1e4a6000934438cce283966956ca7
+韩国,#genre#
+KBS1,p2p://fccsovh.pvbox.live:18912/5f9f825f0002c29832fd9e8341f66f9c#p2p://fccseuro.pvbox.live:18912/5f9f825f0002c29832fd9e8341f66f9c
+KBS,p2p://fccsovh.pvbox.live:18912/5f9f825f000e347f32fda17138ad09d4#p2p://fccseuro.pvbox.live:18912/5f9f825f000e347f32fda17138ad09d4
+EBS1,p2p://fccsovh.pvbox.live:18912/5f9f8260000b1aed32fda48d4b4d7d56#p2p://fccseuro.pvbox.live:18912/5f9f8260000b1aed32fda48d4b4d7d56
+EBS2,p2p://fccsovh.pvbox.live:18912/5f9f82610006d03e32fda75c18e354d0#p2p://fccseuro.pvbox.live:18912/5f9f82610006d03e32fda75c18e354d0
+EBS-kids,p2p://fccsovh.pvbox.live:18912/5f9f82620002488d32fdaa1b03f85bd5#p2p://fccseuro.pvbox.live:18912/5f9f82620002488d32fdaa1b03f85bd5
+EBS-plus2,p2p://fccsovh.pvbox.live:18912/5f9f8262000d407432fdacea3b06373f#p2p://fccseuro.pvbox.live:18912/5f9f8262000d407432fdacea3b06373f
+EBS-plus1,p2p://fccsovh.pvbox.live:18912/5f9f82630009e9ca32fdaff7463262f3#p2p://fccseuro.pvbox.live:18912/5f9f82630009e9ca32fdaff7463262f3
+EBS-E,p2p://fccsovh.pvbox.live:18912/5f9f82640006d06e32fdb31446e9122a#p2p://fccseuro.pvbox.live:18912/5f9f82640006d06e32fdb31446e9122a
+JTBC GOLF-SPORTS,p2p://fccsovh.pvbox.live:18912/5f9f82670003f3fa32fdbe1160607204#p2p://fccseuro.pvbox.live:18912/5f9f82670003f3fa32fdbe1160607204
+sbs,p2p://fccsovh.pvbox.live:18912/5f9f84190005d68533045dde0fe772b1#p2p://fccseuro.pvbox.live:18912/5f9f84190005d68533045dde0fe772b1
+sbs sports,p2p://fccsovh.pvbox.live:18912/5f9f841a00028018330460eb44ad1075#p2p://fccseuro.pvbox.live:18912/5f9f841a00028018330460eb44ad1075
+sbs plus,p2p://fccsovh.pvbox.live:18912/5f9f841a000e2ecc330463e93bc8468c#p2p://fccseuro.pvbox.live:18912/5f9f841a000e2ecc330463e93bc8468c
+sbs fune,p2p://fccsovh.pvbox.live:18912/5f9f841b000969ea3304669821754c76#p2p://fccseuro.pvbox.live:18912/5f9f841b000969ea3304669821754c76
+sbs golf,p2p://fccsovh.pvbox.live:18912/5f9f841c0004e24e33046957088c67e2#p2p://fccseuro.pvbox.live:18912/5f9f841c0004e24e33046957088c67e2
+sbs cnbc,p2p://fccsovh.pvbox.live:18912/5f9f841d000205e133046c843e2225d7#p2p://fccseuro.pvbox.live:18912/5f9f841d000205e133046c843e2225d7
+mbc,p2p://fccsovh.pvbox.live:18912/5f9f844a000743f933051da3302d3fc0#p2p://fccseuro.pvbox.live:18912/5f9f844a000743f933051da3302d3fc0
+mbc every 1,p2p://fccsovh.pvbox.live:18912/5f9f844b00033672330520827d54404e#p2p://fccseuro.pvbox.live:18912/5f9f844b00033672330520827d54404e
+mbc drama,p2p://fccsovh.pvbox.live:18912/5f9f844b000e6b2e330523604cd8528b#p2p://fccseuro.pvbox.live:18912/5f9f844b000e6b2e330523604cd8528b
+mbc m,p2p://fccsovh.pvbox.live:18912/5f9f844c000a5d493305263f3f364be6#p2p://fccseuro.pvbox.live:18912/5f9f844c000a5d493305263f3f364be6
+mbc on,p2p://fccsovh.pvbox.live:18912/5f9f844d000612ce3305290d0c723481#p2p://fccseuro.pvbox.live:18912/5f9f844d000612ce3305290d0c723481
+马来,#genre#
+Astro AWANI,p2p://fccsovh.pvbox.live:18912/5d6504550000cf8cd16f44f19648b351#p2p://fccseuro.pvbox.live:18912/5d6504550000cf8cd16f44f19648b351
+Astro NAURA,p2p://fccseuro.pvbox.live:18912/5c3b4bb100021220be8c0f8b82cb1fdb#p2p://fccsovh.pvbox.live:18912/5c3b4bb100021220be8c0f8b82cb1fdb
+Astro ASTROCITRA,p2p://fccseuro.pvbox.live:18912/5b3c4f9e000bc003627efd4a63d66102#p2p://fccsovh.pvbox.live:18912/5b3c4f9e000bc003627efd4a63d66102
+Astro OASIS,p2p://fccsovh.pvbox.live:18912/5cbd6175000e630242ac3ab239d96de2#p2p://fccseuro.pvbox.live:18912/5cbd6175000e630242ac3ab239d96de2
+Astro PRIMA,p2p://fccsovh.pvbox.live:18912/5cbd61790007f33442ac48ac60945a9b#p2p://fccseuro.pvbox.live:18912/5cbd61790007f33442ac48ac60945a9b
+Astro 全佳,p2p://fccseuro.pvbox.live:18912/5d6504490007b998b2eb2bbcf78738b5#p2p://fccseuro.pvbox.live:18912/5e649e220009754d6c99de0573c16193#p2p://fccsovh.pvbox.live:18912/5d6504490007b998b2eb2bbcf78738b5
+Astro 双星,p2p://fccseuro.pvbox.live:18912/5d65044c000b4cce9c301cedd82d80c2#p2p://fccseuro.pvbox.live:18912/5e649e230009b2846c99e1fd5cbe02e6#p2p://fccsovh.pvbox.live:18912/5d65044c000b4cce9c301cedd82d80c2
+Astro RIA,p2p://fccsovh.pvbox.live:18912/5cbd617d00036ef442ac572303682bc8#p2p://fccseuro.pvbox.live:18912/5cbd617d00036ef442ac572303682bc8
+Astro WARNA,p2p://fccseuro.pvbox.live:18912/5d6504580009a216de9e969c6cc54739#p2p://fccseuro.pvbox.live:18912/5e64a26e0007abd46caaa67869d42822#p2p://fccsovh.pvbox.live:18912/5d6504580009a216de9e969c6cc54739
+Astro 华丽,p2p://fccseuro.pvbox.live:18912/5d650464000c0498c53ee3c7a30ed901#p2p://fccseuro.pvbox.live:18912/5e649e20000e77476c99d77d03ee57c7#p2p://fccsovh.pvbox.live:18912/5d650464000c0498c53ee3c7a30ed901
+Astro 小太阳,p2p://fccsovh.pvbox.live:18912/5cbd60a00005909635a37c1a022f8264#p2p://fccseuro.pvbox.live:18912/5cbd60a00005909635a37c1a022f8264
+Astro 欢喜,p2p://fccseuro.pvbox.live:18912/5d650431000dec1f88bd7f360291900b#p2p://fccseuro.pvbox.live:18912/5e649e21000c51f46c99dad905aa25de#p2p://fccsovh.pvbox.live:18912/5d650431000dec1f88bd7f360291900b
+Astro ARENA,p2p://fccsovh.pvbox.live:18912/5cbd616a000e62d086ad8d2a96c9b61c#p2p://fccseuro.pvbox.live:18912/5cbd616a000e62d086ad8d2a96c9b61c
+Astro AEC,p2p://fccseuro.pvbox.live:18912/5d65046a0003ac636bf6a3af1b1f31d8#p2p://fccseuro.pvbox.live:18912/5e649e1c000aa68a6c99c6e37b5c2136#p2p://fccsovh.pvbox.live:18912/5d65046a0003ac636bf6a3af1b1f31d8
+Astro AEC(备),p2p://fccseuro.pvbox.live:18912/5b909942000bb565068e122594052611#p2p://fccsovh.pvbox.live:18912/5b909942000bb565068e122594052611
+Astro AOD,p2p://fccseuro.pvbox.live:18912/5d66315100033ff6433e53248a8db7b1#p2p://fccseuro.pvbox.live:18912/5e649e1e0005e1a76c99cd7b32c5143b#p2p://fccsovh.pvbox.live:18912/5d66315100033ff6433e53248a8db7b1
+Astro CITRA,p2p://fccseuro.pvbox.live:18912/5b20e39b000646934a06b26b07a12744#p2p://fccsovh.pvbox.live:18912/5b20e39b000646934a06b26b07a12744
+Astro 歡喜臺,p2p://fccsovh.pvbox.live:18912/5b20e3ae0007b4de4a06fd00727b79ce#p2p://fccseuro.pvbox.live:18912/5b20e3ae0007b4de4a06fd00727b79ce
+Astro SUPERSPORT1,p2p://fccseuro.pvbox.live:18912/5b3c4fa2000d2dfe627f0d4810c733e8#p2p://fccsovh.pvbox.live:18912/5b3c4fa2000d2dfe627f0d4810c733e8
+Astro SUPERSPORT2,p2p://fccseuro.pvbox.live:18912/5b3c4fa2000688aa9a97fb14be6064ee#p2p://fccseuro.pvbox.live:18912/5e649e17000d46486c99b407332e53c8#p2p://fccseuro.pvbox.live:18912/5cbd60ab000778adefc5b894166228f6#p2p://fccsovh.pvbox.live:18912/5b3c4fa2000688aa9a97fb14be6064ee
+Astro SUPERSPORT3,p2p://fccseuro.pvbox.live:18912/5b3c4fa20001d6ee627f0a6a01311d35#p2p://fccsovh.pvbox.live:18912/5b3c4fa20001d6ee627f0a6a01311d35
+Astro SUPERSPORT4,p2p://fccseuro.pvbox.live:18912/5b3c4fa1000c601f96136b4adf582a75#p2p://fccseuro.pvbox.live:18912/5e649e1a000c8e6d6c99bf9075f31729#p2p://fccseuro.pvbox.live:18912/5cbd60b30006feb7da90c0f675f83dba#p2p://fccsovh.pvbox.live:18912/5b3c4fa1000c601f96136b4adf582a75
+TV1,p2p://fccseuro.pvbox.live:18912/5bdfc2980006d6ed9a86330a3856b80f#p2p://fccseuro.pvbox.live:18912/5e64abfc0000ee896ccff772460f0740#p2p://fccsovh.pvbox.live:18912/5bdfc2980006d6ed9a86330a3856b80f
+TV2,p2p://fccseuro.pvbox.live:18912/5bdfc29b000e4652d86047d2d33f5ae3#p2p://fccsovh.pvbox.live:18912/5e64abfd000af2196ccffdeb1fef0199#p2p://fccsovh.pvbox.live:18912/5bdfc29b000e4652d86047d2d33f5ae3
+TV3,p2p://fccseuro.pvbox.live:18912/5bdfc29f00057bd19574507201eac189#p2p://fccsovh.pvbox.live:18912/5e64abff000852a06cd0050f63b83f6f#p2p://fccsovh.pvbox.live:18912/5bdfc29f00057bd19574507201eac189
+TV8,p2p://fccseuro.pvbox.live:18912/5bdfc2a700006e984f93d05f84681478#p2p://fccseuro.pvbox.live:18912/5e64ac02000ba97d37e919f7d14c8712#p2p://fccsovh.pvbox.live:18912/5bdfc2a700006e984f93d05f84681478
+TV8 (备),p2p://fccseuro.pvbox.live:18912/5b3c4f9e0007068a627efc225d792ca1#p2p://fccsovh.pvbox.live:18912/5b3c4f9e0007068a627efc225d792ca1
+TV9,p2p://fccseuro.pvbox.live:18912/5bdfc2aa000be3f83344e6ea58572823#p2p://fccseuro.pvbox.live:18912/5e64ac0400079b376cd018684dca6022#p2p://fccsovh.pvbox.live:18912/5bdfc2aa000be3f83344e6ea58572823
+TV7,p2p://fccseuro.pvbox.live:18912/5bdfc2a300070c4df204590f3f2489e9#p2p://fccseuro.pvbox.live:18912/5e64ac010001e2866cd00b3927f775bf#p2p://fccsovh.pvbox.live:18912/5bdfc2a300070c4df204590f3f2489e9
+DISNEY CHANNEL,p2p://fccsovh.pvbox.live:18912/5b593aed0000362187117819dfe1623f#p2p://fccseuro.pvbox.live:18912/5b593aed0000362187117819dfe1623f
+DISNEY JR,p2p://fccsovh.pvbox.live:18912/5b593af10003ba92966345a0907f5fe4#p2p://fccseuro.pvbox.live:18912/5b593af10003ba92966345a0907f5fe4
+DISNEY XD,p2p://fccsovh.pvbox.live:18912/5b593af500034b9c58aed64e3fdce2a0#p2p://fccseuro.pvbox.live:18912/5b593af500034b9c58aed64e3fdce2a0
+BERNAMA,p2p://fccseuro.pvbox.live:18912/5b20e39a00045f194a06ae0670671873#p2p://fccsovh.pvbox.live:18912/5b20e39a00045f194a06ae0670671873
+天映頻道,p2p://fccsovh.pvbox.live:18912/5fbb5d46000c94b09fcc9e3671b64160#p2p://fccseuro.pvbox.live:18912/5fbb5d46000c94b09fcc9e3671b64160
+Channel 5,p2p://fccseuro.pvbox.live:18912/5bcd6bd7000e85ac24f011790821a01b#p2p://fccsovh.pvbox.live:18912/5bcd6bd7000e85ac24f011790821a01b
+Channel 8,p2p://fccseuro.pvbox.live:18912/5bcd6bdb0006c2463fd42a92cae392f0#p2p://fccsovh.pvbox.live:18912/5bcd6bdb0006c2463fd42a92cae392f0
+Channel u,p2p://fccseuro.pvbox.live:18912/5bcd6bdf00017fad7de6e62eca6fe61b#p2p://fccsovh.pvbox.live:18912/5bcd6bdf00017fad7de6e62eca6fe61b
+CN卡通,p2p://fccseuro.pvbox.live:18912/5b3c4f9a0001703e337c1b1bbec458bc#p2p://fccsovh.pvbox.live:18912/5b3c4f9a0001703e337c1b1bbec458bc
+FOXPORTS,p2p://fccseuro.pvbox.live:18912/5b3c4f980000c856938feede661ceecb#p2p://fccsovh.pvbox.live:18912/5b3c4f980000c856938feede661ceecb
+HBO,p2p://fccseuro.pvbox.live:18912/5b3c4f9c000341469570bb9241e0decd#p2p://fccsovh.pvbox.live:18912/5b3c4f9c000341469570bb9241e0decd
+FOXPORTS2,p2p://fccseuro.pvbox.live:18912/5b3c4f980006aaf36b0509e3e908f4b1#p2p://fccsovh.pvbox.live:18912/5b3c4f980006aaf36b0509e3e908f4b1
+SONYHD,p2p://fccseuro.pvbox.live:18912/5b20e3ad0008a8e34a06f95742920282#p2p://fccsovh.pvbox.live:18912/5b20e3ad0008a8e34a06f95742920282
+SURIA,p2p://fccseuro.pvbox.live:18912/5b20e3ae000daac3367aacf289f0c5ff#p2p://fccsovh.pvbox.live:18912/5b20e3ae000daac3367aacf289f0c5ff
+TVB 星河臺,p2p://fccseuro.pvbox.live:18912/5b20e3ae00008df9620421b9fc1c558a#http://playlive.558888888.xyz:10013/db.php?id=nowxw&t=1591516964&sign=1386841921#p2p://fccsovh.pvbox.live:18912/5b20e3ae00008df9620421b9fc1c558a
+天映经典,p2p://fccseuro.pvbox.live:18912/5d650488000e67a1df9eba9288b40109#p2p://fccsovh.pvbox.live:18912/5d650488000e67a1df9eba9288b40109
+TVN HD,p2p://fccseuro.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606#p2p://fccsovh.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606
+VASANTHAM,p2p://fccseuro.pvbox.live:18912/5b20e3af00036b8c28619c6ff14a3dd0#p2p://fccsovh.pvbox.live:18912/5b20e3af00036b8c28619c6ff14a3dd0
+AWANI,p2p://fccsovh.pvbox.live:18912/5b20e39a000181f94a06ad4a052d46d8#p2p://fccseuro.pvbox.live:18912/5b20e39a000181f94a06ad4a052d46d8
+WARNA,p2p://fccsovh.pvbox.live:18912/5b20e39a0008a8fd4a06af1f090d2294#p2p://fccseuro.pvbox.live:18912/5b20e39a0008a8fd4a06af1f090d2294
+RIA,p2p://fccsovh.pvbox.live:18912/5b20e39a000acf0b4a06afab17233314#p2p://fccseuro.pvbox.live:18912/5b20e39a000acf0b4a06afab17233314
+PRIMA,p2p://fccsovh.pvbox.live:18912/5b20e39a000cb67e4a06b02864367b1e#p2p://fccseuro.pvbox.live:18912/5b20e39a000cb67e4a06b02864367b1e
+印度,#genre#
+Zee TV HD,p2p://fccseuro.pvbox.live:18912/5d720289000accccd9d792bec1461ddb#p2p://fccsovh.pvbox.live:18912/5d720289000accccd9d792bec1461ddb
+Sun TV,p2p://fccseuro.pvbox.live:18912/5d72027a0001bd21f94da7b9f261357f#p2p://fccsovh.pvbox.live:18912/5d72027a0001bd21f94da7b9f261357f
+Zee Cinema HD,p2p://fccseuro.pvbox.live:18912/5d72028b00032b96e844a9ae59456424#p2p://fccsovh.pvbox.live:18912/5d72028b00032b96e844a9ae59456424
+Zee Actions,p2p://fccseuro.pvbox.live:18912/5d720286000607ee305e3bbfec999a5e#p2p://fccsovh.pvbox.live:18912/5d720286000607ee305e3bbfec999a5e
+Colors HD,p2p://fccseuro.pvbox.live:18912/5d72028c000a9001c89bb459e73987c7#p2p://fccsovh.pvbox.live:18912/5d72028c000a9001c89bb459e73987c7
+Picture HD,p2p://fccseuro.pvbox.live:18912/5d72028f000d6c091c9108c186f7361e#p2p://fccsovh.pvbox.live:18912/5d72028f000d6c091c9108c186f7361e
+Starplus HD,p2p://fccseuro.pvbox.live:18912/5d72028e0003e26d78adec4537b5951e#p2p://fccsovh.pvbox.live:18912/5d72028e0003e26d78adec4537b5951e
+Star Vijay,p2p://fccseuro.pvbox.live:18912/5d72027b000e602dd086f4a7bcb4c178#p2p://fccsovh.pvbox.live:18912/5d72027b000e602dd086f4a7bcb4c178
+Times Now,p2p://fccsovh.pvbox.live:18912/5f687ed400017f155c17f81007b00d71#p2p://fccseuro.pvbox.live:18912/5f687ed400017f155c17f81007b00d71
+acv,p2p://fccsovh.pvbox.live:18912/5f687df20002766c5c14857f0c624744#p2p://fccseuro.pvbox.live:18912/5f687df20002766c5c14857f0c624744
+acv-news,p2p://fccsovh.pvbox.live:18912/5f687df30001bf445c1489381d0933a1#p2p://fccseuro.pvbox.live:18912/5f687df30001bf445c1489381d0933a1
+rosebowl,p2p://fccsovh.pvbox.live:18912/5f687df3000edc5a5c148c93168309bd#p2p://fccseuro.pvbox.live:18912/5f687df3000edc5a5c148c93168309bd
+utsav,p2p://fccsovh.pvbox.live:18912/5f687df4000a54a95c148f5322ab3948#p2p://fccseuro.pvbox.live:18912/5f687df4000a54a95c148f5322ab3948
+utsav-plus,p2p://fccsovh.pvbox.live:18912/5f687df5000646fc5c1492316d4218e5#p2p://fccseuro.pvbox.live:18912/5f687df5000646fc5c1492316d4218e5
+jukebox,p2p://fccsovh.pvbox.live:18912/5f687df60001fc7c5c14950002237532#p2p://fccseuro.pvbox.live:18912/5f687df60001fc7c5c14950002237532
+Yeshuaa Tv,p2p://fccsovh.pvbox.live:18912/5f687dfb0004d9015c14a9436a3c514c#p2p://fccseuro.pvbox.live:18912/5f687dfb0004d9015c14a9436a3c514c
+Premium Marathi,p2p://fccsovh.pvbox.live:18912/5f687e6e000c783a5c166c6f548510f2#p2p://fccseuro.pvbox.live:18912/5f687e6e000c783a5c166c6f548510f2
+Prime Canada,p2p://fccsovh.pvbox.live:18912/5f687e6f0007b3645c166f1f4d956b1a#p2p://fccseuro.pvbox.live:18912/5f687e6f0007b3645c166f1f4d956b1a
+Suvarna News,p2p://fccsovh.pvbox.live:18912/5f687e70000368ae5c1671ed63712a7c#p2p://fccseuro.pvbox.live:18912/5f687e70000368ae5c1671ed63712a7c
+CNBCTV18,p2p://fccsovh.pvbox.live:18912/5f687e70000e237c5c1674ad05432b58#p2p://fccseuro.pvbox.live:18912/5f687e70000e237c5c1674ad05432b58
+Bansal News,p2p://fccsovh.pvbox.live:18912/5f687e71000da9355c1678750a1c40d2#p2p://fccseuro.pvbox.live:18912/5f687e71000da9355c1678750a1c40d2
+Channel Divya,p2p://fccsovh.pvbox.live:18912/5f687e7200095e925c167b445f1c5439#p2p://fccseuro.pvbox.live:18912/5f687e7200095e925c167b445f1c5439
+ABP News,p2p://fccsovh.pvbox.live:18912/5f687e7300045d055c167de41a611877#p2p://fccseuro.pvbox.live:18912/5f687e7300045d055c167de41a611877
+Victers,p2p://fccsovh.pvbox.live:18912/5f687e740000c9a95c1680e27300508b#p2p://fccseuro.pvbox.live:18912/5f687e740000c9a95c1680e27300508b
+Velicham TV,p2p://fccsovh.pvbox.live:18912/5f687e74000b46b05c1683910e1f4a72#p2p://fccseuro.pvbox.live:18912/5f687e74000b46b05c1683910e1f4a72
+Vasanth TV,p2p://fccsovh.pvbox.live:18912/5f687e760000c95e5c1688b20fbd6d3b#p2p://fccseuro.pvbox.live:18912/5f687e760000c95e5c1688b20fbd6d3b
+VTV News,p2p://fccsovh.pvbox.live:18912/5f687e76000bc0cf5c168b8015605be8#p2p://fccseuro.pvbox.live:18912/5f687e76000bc0cf5c168b8015605be8
+Total TV,p2p://fccsovh.pvbox.live:18912/5f687e770008a79d5c168e9d59865a7c#p2p://fccseuro.pvbox.live:18912/5f687e770008a79d5c168e9d59865a7c
+Thanthi TV,p2p://fccsovh.pvbox.live:18912/5f687ed4000e5f2a5c17fb5c74f62c48#p2p://fccseuro.pvbox.live:18912/5f687ed4000e5f2a5c17fb5c74f62c48
+TV 16 Toronto,p2p://fccsovh.pvbox.live:18912/5f687ed5000b82aa5c17fe890b1f0c12#p2p://fccseuro.pvbox.live:18912/5f687ed5000b82aa5c17fe890b1f0c12
+Tamil Vision,p2p://fccsovh.pvbox.live:18912/5f687ed7000273305c1804073c5a31ff#p2p://fccseuro.pvbox.live:18912/5f687ed7000273305c1804073c5a31ff
+Steelbird Music,p2p://fccsovh.pvbox.live:18912/5f687ed80008e3615c18099535a317a6#p2p://fccseuro.pvbox.live:18912/5f687ed80008e3615c18099535a317a6
+Shubhsandesh TV,p2p://fccsovh.pvbox.live:18912/5f687ed900041e615c180c44596f7562#p2p://fccseuro.pvbox.live:18912/5f687ed900041e615c180c44596f7562
+Sikh Channel,p2p://fccsovh.pvbox.live:18912/5f687ed9000ed9015c180f031465265b#p2p://fccseuro.pvbox.live:18912/5f687ed9000ed9015c180f031465265b
+Sardari TV,p2p://fccsovh.pvbox.live:18912/5f687edb0005ca055c1814826d516076#p2p://fccseuro.pvbox.live:18912/5f687edb0005ca055c1814826d516076
+Santhora TV,p2p://fccsovh.pvbox.live:18912/5f687edc0001bc215c18176022d6583e#p2p://fccseuro.pvbox.live:18912/5f687edc0001bc215c18176022d6583e
+Sadhna Plus,p2p://fccsovh.pvbox.live:18912/5f687edd000a51485c181d7b2a3967de#p2p://fccseuro.pvbox.live:18912/5f687edd000a51485c181d7b2a3967de
+Saam TV,p2p://fccsovh.pvbox.live:18912/5f687ede00058c9c5c18202a70d40a7f#p2p://fccseuro.pvbox.live:18912/5f687ede00058c9c5c18202a70d40a7f
+Revsam TV,p2p://fccsovh.pvbox.live:18912/5f687f4600054e195c19b65a23156b0a#p2p://fccseuro.pvbox.live:18912/5f687f4600054e195c19b65a23156b0a
+Punjabi Zindabad,p2p://fccsovh.pvbox.live:18912/5f687f470001baac5c19b9581ea5367c#p2p://fccseuro.pvbox.live:18912/5f687f470001baac5c19b9581ea5367c
+Punjabi TV,p2p://fccsovh.pvbox.live:18912/5f687f47000bfb045c19bbf835cb4c02#p2p://fccseuro.pvbox.live:18912/5f687f47000bfb045c19bbf835cb4c02
+Pratidin Time,p2p://fccsovh.pvbox.live:18912/5f687f480007ed825c19bed634ee3b0c#p2p://fccseuro.pvbox.live:18912/5f687f480007ed825c19bed634ee3b0c
+Pardesi TV,p2p://fccsovh.pvbox.live:18912/5f687f49000de3565c19c4451a8819f1#p2p://fccseuro.pvbox.live:18912/5f687f49000de3565c19c4451a8819f1
+News 24,p2p://fccsovh.pvbox.live:18912/5f687f4a0008e1aa5c19c6e5011b05dd#p2p://fccseuro.pvbox.live:18912/5f687f4a0008e1aa5c19c6e5011b05dd
+News 18 India,p2p://fccsovh.pvbox.live:18912/5f687f4b0003660a5c19c965208120cc#p2p://fccseuro.pvbox.live:18912/5f687f4b0003660a5c19c965208120cc
+NDTV 24×7,p2p://fccsovh.pvbox.live:18912/5f687f4c0000895b5c19cc9242ff04d9#p2p://fccseuro.pvbox.live:18912/5f687f4c0000895b5c19cc9242ff04d9
+Mirror Now,p2p://fccsovh.pvbox.live:18912/5f687f4c000b43f55c19cf5177b62cd7#p2p://fccseuro.pvbox.live:18912/5f687f4c000b43f55c19cf5177b62cd7
+Madha TV,p2p://fccsovh.pvbox.live:18912/5f687f4d000605365c19d1e15daf5258#p2p://fccseuro.pvbox.live:18912/5f687f4d000605365c19d1e15daf5258
+Life Punjabi,p2p://fccsovh.pvbox.live:18912/5f687f4e0002ae835c19d4ef1bbd0918#p2p://fccseuro.pvbox.live:18912/5f687f4e0002ae835c19d4ef1bbd0918
+Khabrain Abhi Tak,p2p://fccsovh.pvbox.live:18912/5f687f4e000d2bed5c19d79e3dca0c59#p2p://fccseuro.pvbox.live:18912/5f687f4e000d2bed5c19d79e3dca0c59
+Kanshi TV,p2p://fccsovh.pvbox.live:18912/5f687f500001ba6c5c19dc80010c7f36#p2p://fccseuro.pvbox.live:18912/5f687f500001ba6c5c19dc80010c7f36
+Janta TV,p2p://fccsovh.pvbox.live:18912/5f687f50000da62d5c19df8d486d4bf0#p2p://fccseuro.pvbox.live:18912/5f687f50000da62d5c19df8d486d4bf0
+Janam TV,p2p://fccsovh.pvbox.live:18912/5f687fa1000233355c1b190746d05fa7#p2p://fccseuro.pvbox.live:18912/5f687fa1000233355c1b190746d05fa7
+India TV,p2p://fccsovh.pvbox.live:18912/5f687fa1000e991f5c1b1c34049328df#p2p://fccseuro.pvbox.live:18912/5f687fa1000e991f5c1b1c34049328df
+India Ahead,p2p://fccsovh.pvbox.live:18912/5f687fa2000b429f5c1b1f4114e356be#p2p://fccseuro.pvbox.live:18912/5f687fa2000b429f5c1b1f4114e356be
+Harvest TV,p2p://fccsovh.pvbox.live:18912/5f687fa3000734ec5c1b221f1c231172#p2p://fccseuro.pvbox.live:18912/5f687fa3000734ec5c1b221f1c231172
+Harvest 24×7,p2p://fccsovh.pvbox.live:18912/5f687fa40002ad465c1b24df25d04f27#p2p://fccseuro.pvbox.live:18912/5f687fa40002ad465c1b24df25d04f27
+Gurbani Healing,p2p://fccsovh.pvbox.live:18912/5f687fa4000cb0c35c1b276f41627ea4#p2p://fccseuro.pvbox.live:18912/5f687fa4000cb0c35c1b276f41627ea4
+GDNS Ludhiana,p2p://fccsovh.pvbox.live:18912/5f687fa5000829285c1b2a2e16d3497c#p2p://fccseuro.pvbox.live:18912/5f687fa5000829285c1b2a2e16d3497c
+Garshom News,p2p://fccsovh.pvbox.live:18912/5f687fa600041b945c1b2d0c350a4960#p2p://fccseuro.pvbox.live:18912/5f687fa600041b945c1b2d0c350a4960
+Gabruu TV,p2p://fccsovh.pvbox.live:18912/5f687fa70001f6395c1b30686e1973f1#p2p://fccseuro.pvbox.live:18912/5f687fa70001f6395c1b30686e1973f1
+Baaz TV,p2p://fccsovh.pvbox.live:18912/5f687fa7000cedc45c1b33366e6e6093#p2p://fccseuro.pvbox.live:18912/5f687fa7000cedc45c1b33366e6e6093
+Divyavani TV,p2p://fccsovh.pvbox.live:18912/5f687fa80007af285c1b35c758450407#p2p://fccseuro.pvbox.live:18912/5f687fa80007af285c1b35c758450407
+DY 365,p2p://fccsovh.pvbox.live:18912/5f687fa9000e98dd5c1b3b742a5a0040#p2p://fccseuro.pvbox.live:18912/5f687fa9000e98dd5c1b3b742a5a0040
+Desi Channel,p2p://fccsovh.pvbox.live:18912/5f687fab000364435c1b40651d646a93#p2p://fccseuro.pvbox.live:18912/5f687fab000364435c1b40651d646a93
+DD News,p2p://fccsovh.pvbox.live:18912/5f687fe8000602fb5c1c2f4a648116e5#p2p://fccseuro.pvbox.live:18912/5f687fe8000602fb5c1c2f4a648116e5
+Channel Y,p2p://fccsovh.pvbox.live:18912/5f687fe90003a0915c1c3295170008a3#p2p://fccseuro.pvbox.live:18912/5f687fe90003a0915c1c3295170008a3
+KARY TV,p2p://fccsovh.pvbox.live:18912/5f687fea00000d1e5c1c35937daa66de#p2p://fccseuro.pvbox.live:18912/5f687fea00000d1e5c1c35937daa66de
+Bollywood Pollywood,p2p://fccsovh.pvbox.live:18912/5f687fea000b41be5c1c3871314049c6#p2p://fccseuro.pvbox.live:18912/5f687fea000b41be5c1c3871314049c6
+BTV News,p2p://fccsovh.pvbox.live:18912/5f687feb0006ba185c1c3b31643530d7#p2p://fccseuro.pvbox.live:18912/5f687feb0006ba185c1c3b31643530d7
+Assam Talks,p2p://fccsovh.pvbox.live:18912/5f687fec0001f5215c1c3de043702ba9#p2p://fccseuro.pvbox.live:18912/5f687fec0001f5215c1c3de043702ba9
+Apna Punjab,p2p://fccsovh.pvbox.live:18912/5f687fec000c72e05c1c409014156f07#p2p://fccseuro.pvbox.live:18912/5f687fec000c72e05c1c409014156f07
+Amar Ujala,p2p://fccsovh.pvbox.live:18912/5f687fed0007eb355c1c434f5d543e1b#p2p://fccseuro.pvbox.live:18912/5f687fed0007eb355c1c434f5d543e1b
+Akaram Mix TV,p2p://fccsovh.pvbox.live:18912/5f687fee000e5b355c1c48dd3ca41482#p2p://fccseuro.pvbox.live:18912/5f687fee000e5b355c1c48dd3ca41482
+1st News,p2p://fccsovh.pvbox.live:18912/5f687fef000959415c1c4b7c7fc96d63#p2p://fccseuro.pvbox.live:18912/5f687fef000959415c1c4b7c7fc96d63
+News 18 Lokmat,p2p://fccsovh.pvbox.live:18912/5f687ff00003dda55c1c4dfd4ca30370#p2p://fccseuro.pvbox.live:18912/5f687ff00003dda55c1c4dfd4ca30370
+India Tv News,p2p://fccsovh.pvbox.live:18912/5f687ff100000d245c1c50eb42cd1095#p2p://fccseuro.pvbox.live:18912/5f687ff100000d245c1c50eb42cd1095
+India Today,p2p://fccsovh.pvbox.live:18912/5f687ff2000100f95c1c55125b257734#p2p://fccseuro.pvbox.live:18912/5f687ff2000100f95c1c55125b257734
+Akaram Tv,p2p://fccsovh.pvbox.live:18912/5f687ff2000cecb45c1c581f591548a5#p2p://fccseuro.pvbox.live:18912/5f687ff2000cecb45c1c581f591548a5
+Sun TV (Ind),p2p://fccsovh.pvbox.live:18912/5fc9f5640008243fd8cec9826a645627#p2p://fccseuro.pvbox.live:18912/5fc9f5640008243fd8cec9826a645627
+Sun Music,p2p://fccsovh.pvbox.live:18912/5fc9f56500050ab8d8cecc9f01403cff#p2p://fccseuro.pvbox.live:18912/5fc9f56500050ab8d8cecc9f01403cff
+Star Vijay (Ind),p2p://fccsovh.pvbox.live:18912/5fc9f56700076d03d8ced50c214a234a#p2p://fccseuro.pvbox.live:18912/5fc9f56700076d03d8ced50c214a234a
+Vijay Super,p2p://fccsovh.pvbox.live:18912/5fc9f56800050ab1d8ced8571ba167f7#p2p://fccseuro.pvbox.live:18912/5fc9f56800050ab1d8ced8571ba167f7
+News 18,p2p://fccsovh.pvbox.live:18912/5fc9f5690000fd3bd8cedb366f2258ee#p2p://fccseuro.pvbox.live:18912/5fc9f5690000fd3bd8cedb366f2258ee
+BBC Earth Tamil,p2p://fccsovh.pvbox.live:18912/5fc9f569000b3dbcd8ceddd66e4431e2#p2p://fccseuro.pvbox.live:18912/5fc9f569000b3dbcd8ceddd66e4431e2
+Discovery World Tamil,p2p://fccsovh.pvbox.live:18912/5fc9f56a0006b5b3d8cee0952c1c4dd4#p2p://fccseuro.pvbox.live:18912/5fc9f56a0006b5b3d8cee0952c1c4dd4
+History Tamil,p2p://fccsovh.pvbox.live:18912/5fc9f56b00032263d8cee39258052a5e#p2p://fccseuro.pvbox.live:18912/5fc9f56b00032263d8cee39258052a5e
+MTV HD,p2p://fccsovh.pvbox.live:18912/5fc9f56b000e941ed8cee680366b527d#p2p://fccseuro.pvbox.live:18912/5fc9f56b000e941ed8cee680366b527d
+NatGeo Tamil,p2p://fccsovh.pvbox.live:18912/5fc9f56c000a0c51d8cee93f472c16e8#p2p://fccseuro.pvbox.live:18912/5fc9f56c000a0c51d8cee93f472c16e8
+NatGeo Wild Tamil,p2p://fccsovh.pvbox.live:18912/5fc9f56d00063bbed8ceec2d51317604#p2p://fccseuro.pvbox.live:18912/5fc9f56d00063bbed8ceec2d51317604
+Cartoon Network Tamil,p2p://fccsovh.pvbox.live:18912/5fc9f56e0001b405d8ceeeed6df70aff#p2p://fccseuro.pvbox.live:18912/5fc9f56e0001b405d8ceeeed6df70aff
+Discovery Kids Tamil,p2p://fccsovh.pvbox.live:18912/5fc9f56e000cabb4d8cef1bb4b9d5ea1#p2p://fccseuro.pvbox.live:18912/5fc9f56e000cabb4d8cef1bb4b9d5ea1
+Discovery Tamil,p2p://fccsovh.pvbox.live:18912/5fc9f56f0007e6f6d8cef46b538a60ef#p2p://fccseuro.pvbox.live:18912/5fc9f56f0007e6f6d8cef46b538a60ef
+Disney Channel Tamil,p2p://fccsovh.pvbox.live:18912/5fc9f5700003d97ad8cef7491fbb4de6#p2p://fccseuro.pvbox.live:18912/5fc9f5700003d97ad8cef7491fbb4de6
+Disney Jr Tamil,p2p://fccsovh.pvbox.live:18912/5fc9f5710000fd07d8cefa7623fb4858#p2p://fccseuro.pvbox.live:18912/5fc9f5710000fd07d8cefa7623fb4858
+Marvel HD Tamil,p2p://fccsovh.pvbox.live:18912/5fc9f571000bf496d8cefd44109b3418#p2p://fccseuro.pvbox.live:18912/5fc9f571000bf496d8cefd44109b3418
+Nick Tamil,p2p://fccsovh.pvbox.live:18912/5fc9f5720006f2e2d8ceffe423b14f0d#p2p://fccseuro.pvbox.live:18912/5fc9f5720006f2e2d8ceffe423b14f0d
+Pogo Tamil,p2p://fccsovh.pvbox.live:18912/5fc9f5730001b3c8d8cf02754f5c3216#p2p://fccseuro.pvbox.live:18912/5fc9f5730001b3c8d8cf02754f5c3216
+Sonic Tamil,p2p://fccsovh.pvbox.live:18912/5fc9f573000c3189d8cf052459130571#p2p://fccseuro.pvbox.live:18912/5fc9f573000c3189d8cf052459130571
+Hugama Tamil,p2p://fccsovh.pvbox.live:18912/5fc9f574000823ffd8cf0802563568f7#p2p://fccseuro.pvbox.live:18912/5fc9f574000823ffd8cf0802563568f7
+Colors Tamil,p2p://fccsovh.pvbox.live:18912/5fc9f5750003d946d8cf0ad13a401448#p2p://fccseuro.pvbox.live:18912/5fc9f5750003d946d8cf0ad13a401448
+Sony YaY,p2p://fccsovh.pvbox.live:18912/5fc9f576000045d4d8cf0dcf5ce6681b#p2p://fccseuro.pvbox.live:18912/5fc9f576000045d4d8cf0dcf5ce6681b
+Movies Now HD,p2p://fccsovh.pvbox.live:18912/5ff3fe3c0000c9ed7d01277c427c1aed#p2p://fccseuro.pvbox.live:18912/5ff3fe3c0000c9ed7d01277c427c1aed
+印尼/菲律賓,#genre#
+TVRI,p2p://fccseuro.pvbox.live:18912/5d72048f000a56679cd838f2a57430b9#p2p://fccsovh.pvbox.live:18912/5d72048f000a56679cd838f2a57430b9
+AnTV,p2p://fccsovh.pvbox.live:18912/5d72049100073c761a3bd10901bbc38d#p2p://fccseuro.pvbox.live:18912/5d72049100073c761a3bd10901bbc38d
+Kompass TV,p2p://fccsovh.pvbox.live:18912/5d7204930003e5fbd86907499ccd430d#p2p://fccseuro.pvbox.live:18912/5d7204930003e5fbd86907499ccd430d
+TVOne,p2p://fccsovh.pvbox.live:18912/5d720494000cf5c0fa9cd2efc06708e5#p2p://fccseuro.pvbox.live:18912/5d720494000cf5c0fa9cd2efc06708e5
+Trans TV,p2p://fccsovh.pvbox.live:18912/5d720497000648697ad55589107ec701#p2p://fccseuro.pvbox.live:18912/5d720497000648697ad55589107ec701
+Metro TV,p2p://fccsovh.pvbox.live:18912/5d720498000ede7c8767df87c7b658e2#p2p://fccseuro.pvbox.live:18912/5d720498000ede7c8767df87c7b658e2
+SCTV,p2p://fccsovh.pvbox.live:18912/5d72049a00086dbc53123cc8fb8385ae#p2p://fccseuro.pvbox.live:18912/5d72049a00086dbc53123cc8fb8385ae
+Trans TV,p2p://fccsovh.pvbox.live:18912/5d72049c00008f64ea03f5eae6814df9#p2p://fccseuro.pvbox.live:18912/5d72049c00008f64ea03f5eae6814df9
+Indosiar,p2p://fccseuro.pvbox.live:18912/5d72049d000b4a3450c8911ba3e27be2#p2p://fccsovh.pvbox.live:18912/5d72049d000b4a3450c8911ba3e27be2
+RCTI,p2p://fccsovh.pvbox.live:18912/5d72049f0005545787c787f78689501c#p2p://fccseuro.pvbox.live:18912/5d72049f0005545787c787f78689501c
+Net TV,p2p://fccsovh.pvbox.live:18912/5d7204a10000154fd6cf465538fe5f9f#p2p://fccseuro.pvbox.live:18912/5d7204a10000154fd6cf465538fe5f9f
+ABS-CBN,p2p://fccseuro.pvbox.live:18912/5da7f27f000b12489b15b1606049848a#p2p://fccsovh.pvbox.live:18912/5da7f27f000b12489b15b1606049848a
+ABS-CBN Sports,p2p://fccseuro.pvbox.live:18912/5da7f28100064ce073a26c33b994c332#p2p://fccsovh.pvbox.live:18912/5da7f28100064ce073a26c33b994c332
+GMA-7,p2p://fccseuro.pvbox.live:18912/5da7f2830001c5b9443a15777be868eb#p2p://fccsovh.pvbox.live:18912/5da7f2830001c5b9443a15777be868eb
+GMA News,p2p://fccseuro.pvbox.live:18912/5da7f284000cf9feed1766774199a239#p2p://fccsovh.pvbox.live:18912/5da7f284000cf9feed1766774199a239
+Atv,p2p://fccsovh.pvbox.live:18912/5f1003d50004b4130277dca82ed435b9#p2p://fccseuro.pvbox.live:18912/5f1003d50004b4130277dca82ed435b9
+Global TV,p2p://fccsovh.pvbox.live:18912/5f1004380000e25502795e6607070185#p2p://fccseuro.pvbox.live:18912/5f1004380000e25502795e6607070185
+Bandung TV,p2p://fccsovh.pvbox.live:18912/5f10042200056a420279099e226e4b5e#p2p://fccseuro.pvbox.live:18912/5f10042200056a420279099e226e4b5e
+MYTV,p2p://fccsovh.pvbox.live:18912/5f1003f1000a6c6c02784b7f1e9a1794#p2p://fccseuro.pvbox.live:18912/5f1003f1000a6c6c02784b7f1e9a1794
+O Channel,p2p://fccsovh.pvbox.live:18912/5f1004fe00024e3c027c64335bf42121#p2p://fccseuro.pvbox.live:18912/5f1004fe00024e3c027c64335bf42121
+JTV,p2p://fccsovh.pvbox.live:18912/5f1004eb000d45d9027c1cca6dae54d9#p2p://fccseuro.pvbox.live:18912/5f1004eb000d45d9027c1cca6dae54d9
+UTV,p2p://fccsovh.pvbox.live:18912/5f1004d60009759a027bc9c877fa7a15#p2p://fccseuro.pvbox.live:18912/5f1004d60009759a027bc9c877fa7a15
+CNN Indonesia,p2p://fccsovh.pvbox.live:18912/5f1004c1000d4674027b78ba36495b36#p2p://fccseuro.pvbox.live:18912/5f1004c1000d4674027b78ba36495b36
+BeritaSatu,p2p://fccsovh.pvbox.live:18912/5f1004ac000d09a1027b26a267b333ff#p2p://fccseuro.pvbox.live:18912/5f1004ac000d09a1027b26a267b333ff
+TVRI Sports,p2p://fccsovh.pvbox.live:18912/5f10049a00080828027adf0a68d41227#p2p://fccseuro.pvbox.live:18912/5f10049a00080828027adf0a68d41227
+越南,#genre#
+VTV1,p2p://fccsovh.pvbox.live:18912/5ff41512000855407d5a5d606e175c71#p2p://fccseuro.pvbox.live:18912/5ff41512000855407d5a5d606e175c71
+VTV2,p2p://fccsovh.pvbox.live:18912/5ff41513000484a27d5a604e62a92ea0#p2p://fccseuro.pvbox.live:18912/5ff41513000484a27d5a604e62a92ea0
+VTV3,p2p://fccsovh.pvbox.live:18912/5ff41513000f3f5e7d5a630d737c2aa7#p2p://fccseuro.pvbox.live:18912/5ff41513000f3f5e7d5a630d737c2aa7
+VTV4,p2p://fccsovh.pvbox.live:18912/5ff41514000b31c27d5a65eb5f077e6b#p2p://fccseuro.pvbox.live:18912/5ff41514000b31c27d5a65eb5f077e6b
+VTV5,p2p://fccsovh.pvbox.live:18912/5ff41515000761227d5a68d978bb6713#p2p://fccseuro.pvbox.live:18912/5ff41515000761227d5a68d978bb6713
+VTV6,p2p://fccsovh.pvbox.live:18912/5ff41516000390597d5a6bc705e51259#p2p://fccseuro.pvbox.live:18912/5ff41516000390597d5a6bc705e51259
+VTV7,p2p://fccsovh.pvbox.live:18912/5ff41516000ec4f97d5a6ea601f063e1#p2p://fccseuro.pvbox.live:18912/5ff41516000ec4f97d5a6ea601f063e1
+VTV8,p2p://fccsovh.pvbox.live:18912/5ff41517000b6e987d5a71b35f15093e#p2p://fccseuro.pvbox.live:18912/5ff41517000b6e987d5a71b35f15093e
+VTV9,p2p://fccsovh.pvbox.live:18912/5ff41518000760e77d5a74916c81547d#p2p://fccseuro.pvbox.live:18912/5ff41518000760e77d5a74916c81547d
+VTC1,p2p://fccsovh.pvbox.live:18912/5ff4150c000c63257d5a46f949ac0064#p2p://fccseuro.pvbox.live:18912/5ff4150c000c63257d5a46f949ac0064
+VTC2,p2p://fccsovh.pvbox.live:18912/5ff4150d000892867d5a49e74fc34901#p2p://fccseuro.pvbox.live:18912/5ff4150d000892867d5a49e74fc34901
+VTC3,p2p://fccsovh.pvbox.live:18912/5ff4150f0007242c7d5a515a6c9359e8#p2p://fccseuro.pvbox.live:18912/5ff4150f0007242c7d5a515a6c9359e8
+VTC4,p2p://fccsovh.pvbox.live:18912/5ff41510000222327d5a53f9651052a1#p2p://fccseuro.pvbox.live:18912/5ff41510000222327d5a53f9651052a1
+VTC5,p2p://fccsovh.pvbox.live:18912/5ff419370005e3e57d6a8d4b43e12a6c#p2p://fccseuro.pvbox.live:18912/5ff419370005e3e57d6a8d4b43e12a6c
+VTC6,p2p://fccsovh.pvbox.live:18912/5ff41938000307dd7d6a9078000a2908#p2p://fccseuro.pvbox.live:18912/5ff41938000307dd7d6a9078000a2908
+VTC7,p2p://fccsovh.pvbox.live:18912/5ff41939000068297d6a93b419594a81#p2p://fccseuro.pvbox.live:18912/5ff41939000068297d6a93b419594a81
+VTC8,p2p://fccsovh.pvbox.live:18912/5ff41939000bda2e7d6a96a2119f2fcc#p2p://fccseuro.pvbox.live:18912/5ff41939000bda2e7d6a96a2119f2fcc
+VTC9,p2p://fccsovh.pvbox.live:18912/5ff4193a00078f5a7d6a99710b4a38f3#p2p://fccseuro.pvbox.live:18912/5ff4193a00078f5a7d6a99710b4a38f3
+VTC10,p2p://fccsovh.pvbox.live:18912/5ff41510000cdd0f7d5a56b9174200b5#p2p://fccseuro.pvbox.live:18912/5ff41510000cdd0f7d5a56b9174200b5
+VTC11,p2p://fccsovh.pvbox.live:18912/5ff4193b0002cab77d6a9c204cd36387#p2p://fccseuro.pvbox.live:18912/5ff4193b0002cab77d6a9c204cd36387
+VTC12,p2p://fccsovh.pvbox.live:18912/5ff4193b000dff257d6a9eff11b66cb7#p2p://fccseuro.pvbox.live:18912/5ff4193b000dff257d6a9eff11b66cb7
+VTC13,p2p://fccsovh.pvbox.live:18912/5ff4193c000846687d6aa170287e0edc#p2p://fccseuro.pvbox.live:18912/5ff4193c000846687d6aa170287e0edc
+VTC14,p2p://fccsovh.pvbox.live:18912/5ff4193d000438e57d6aa44e5fca3b75#p2p://fccseuro.pvbox.live:18912/5ff4193d000438e57d6aa44e5fca3b75
+VTC16,p2p://fccsovh.pvbox.live:18912/5ff415110009c3897d5a59d52a052845#p2p://fccseuro.pvbox.live:18912/5ff415110009c3897d5a59d52a052845
+HTV1,p2p://fccsovh.pvbox.live:18912/5ff414780007a0447d5803a1528d0379#p2p://fccseuro.pvbox.live:18912/5ff414780007a0447d5803a1528d0379
+HTV2,p2p://fccsovh.pvbox.live:18912/5ff41479000355d57d5806701d960dc2#p2p://fccseuro.pvbox.live:18912/5ff41479000355d57d5806701d960dc2
+HTV3,p2p://fccsovh.pvbox.live:18912/5ff41479000e4d487d58093e7cfb59a3#p2p://fccseuro.pvbox.live:18912/5ff41479000e4d487d58093e7cfb59a3
+HTV4,p2p://fccsovh.pvbox.live:18912/5ff4147a000a7ccd7d580c2c562c177d#p2p://fccseuro.pvbox.live:18912/5ff4147a000a7ccd7d580c2c562c177d
+HTV7,p2p://fccsovh.pvbox.live:18912/5ff4147b00066f1b7d580f0b42536554#p2p://fccseuro.pvbox.live:18912/5ff4147b00066f1b7d580f0b42536554
+HTV9,p2p://fccsovh.pvbox.live:18912/5ff4147c0001e78b7d5811ca50b6657f#p2p://fccseuro.pvbox.live:18912/5ff4147c0001e78b7d5811ca50b6657f
+HTV Thể Thao,p2p://fccsovh.pvbox.live:18912/5ff4147d000b33f97d5818134aa4542d#p2p://fccseuro.pvbox.live:18912/5ff4147d000b33f97d5818134aa4542d
+HTVC Phim,p2p://fccsovh.pvbox.live:18912/5ff414760009c5df7d57fc5d458a39cb#p2p://fccseuro.pvbox.live:18912/5ff414760009c5df7d57fc5d458a39cb
+HTVC Ca Nhạc,p2p://fccsovh.pvbox.live:18912/5ff41477000b33d67d5800a32f096a8e#p2p://fccseuro.pvbox.live:18912/5ff41477000b33d67d5800a32f096a8e
+THVL1,p2p://fccsovh.pvbox.live:18912/5ff2ea0f0003f0b278ca587f41f24891#p2p://fccseuro.pvbox.live:18912/5ff2ea0f0003f0b278ca587f41f24891
+THVL2,p2p://fccsovh.pvbox.live:18912/5ff2ea10000709f178ca5d326e2f0fe3#p2p://fccseuro.pvbox.live:18912/5ff2ea10000709f178ca5d326e2f0fe3
+THVL3,p2p://fccsovh.pvbox.live:18912/5ff2ea110003394178ca602057395927#p2p://fccseuro.pvbox.live:18912/5ff2ea110003394178ca602057395927
+THVL4,p2p://fccsovh.pvbox.live:18912/5ff2ea11000e310c78ca62ef28621cb3#p2p://fccseuro.pvbox.live:18912/5ff2ea11000e310c78ca62ef28621cb3
+SET TV1,p2p://fccsovh.pvbox.live:18912/5ff4147f00029ebe7d581db107884488#p2p://fccseuro.pvbox.live:18912/5ff4147f00029ebe7d581db107884488
+SET TV2,p2p://fccsovh.pvbox.live:18912/5ff4147f000dd3257d58208f65ab12e8#p2p://fccseuro.pvbox.live:18912/5ff4147f000dd3257d58208f65ab12e8
+ON Film,p2p://fccsovh.pvbox.live:18912/5ff4148100053dfa7d58262d17291b72#p2p://fccseuro.pvbox.live:18912/5ff4148100053dfa7d58262d17291b72
+ON Football,p2p://fccsovh.pvbox.live:18912/5ff41481000f042e7d5828ad4e957580#p2p://fccseuro.pvbox.live:18912/5ff41481000f042e7d5828ad4e957580
+ON Biz,p2p://fccsovh.pvbox.live:18912/5ff41482000af6ae7d582b8c4365664f#p2p://fccseuro.pvbox.live:18912/5ff41482000af6ae7d582b8c4365664f
+VietSky TV,p2p://fccsovh.pvbox.live:18912/5ff4148300066f2b7d582e4b5e202b28#p2p://fccseuro.pvbox.live:18912/5ff4148300066f2b7d582e4b5e202b28
+Vietoday,p2p://fccsovh.pvbox.live:18912/5ff41484000318a07d58315866b8414f#p2p://fccseuro.pvbox.live:18912/5ff41484000318a07d58315866b8414f
+VSTV,p2p://fccsovh.pvbox.live:18912/5ff41484000f04867d5834657c0e3c0b#p2p://fccseuro.pvbox.live:18912/5ff41484000f04867d5834657c0e3c0b
+Saigon TV,p2p://fccsovh.pvbox.live:18912/5ff41485000badd67d5837722ff213ad#p2p://fccseuro.pvbox.live:18912/5ff41485000badd67d5837722ff213ad
+VBS,p2p://fccsovh.pvbox.live:18912/5ff4148000094ba07d58234e10aa6218#p2p://fccseuro.pvbox.live:18912/5ff4148000094ba07d58234e10aa6218
+Little Saigon TV,p2p://fccsovh.pvbox.live:18912/5ff4147e000632457d581ab37597631d#p2p://fccseuro.pvbox.live:18912/5ff4147e000632457d581ab37597631d
+QUOC HOI,p2p://fccseuro.pvbox.live:18912/5beec6ce000ea13894d7abde31977375#p2p://fccsovh.pvbox.live:18912/5beec6ce000ea13894d7abde31977375
+Phu Tho HD,p2p://fccseuro.pvbox.live:18912/5beec6d6000237a19e87c4f6c7a6853b#p2p://fccsovh.pvbox.live:18912/5beec6d6000237a19e87c4f6c7a6853b
+NHAN DAN,p2p://fccseuro.pvbox.live:18912/5beec6d20007abc6e1daef18a906a45f#p2p://fccsovh.pvbox.live:18912/5beec6d20007abc6e1daef18a906a45f
+sctv1,p2p://fccseuro.pvbox.live:18912/5befb7340008a0441f4b2b14115348db#p2p://fccsovh.pvbox.live:18912/5befb7340008a0441f4b2b14115348db
+北美,#genre#
+Bloomberg,p2p://fccsovh.pvbox.live:18912/5b13f6f10000e96ecba4c8c2133d4ddb#p2p://fccseuro.pvbox.live:18912/5b13f6f10000e96ecba4c8c2133d4ddb
+ABC-NEWS,p2p://fccsovh.pvbox.live:18912/5b59390300092aa36949c3a9a36981eb#p2p://fccseuro.pvbox.live:18912/5b59390300092aa36949c3a9a36981eb
+DISNEY-CHANNEL,p2p://fccsovh.pvbox.live:18912/5b593aed0000362187117819dfe1623f#p2p://fccseuro.pvbox.live:18912/5b593aed0000362187117819dfe1623f
+HBO ZONE EAST,p2p://fccseuro.pvbox.live:18912/5b593bbf0007e64132621463dec245d3#p2p://fccsovh.pvbox.live:18912/5b593bbf0007e64132621463dec245d3
+CNN,p2p://fccsovh.pvbox.live:18912/5b140954000dc92a375d63ea7e478ea8#p2p://fccseuro.pvbox.live:18912/5b140954000dc92a375d63ea7e478ea8
+CNN-HD,p2p://fccsovh.pvbox.live:18912/5b593947000cff320b5fbcac3823cfb2#p2p://fccseuro.pvbox.live:18912/5b593947000cff320b5fbcac3823cfb2
+CINEMAX,p2p://fccsovh.pvbox.live:18912/5b14096000043ff93465352634ceaed5#p2p://fccseuro.pvbox.live:18912/5b14096000043ff93465352634ceaed5
+HGTV-HD,p2p://fccsovh.pvbox.live:18912/5b593bc300073eb4da590cc0ddf6132e#p2p://fccseuro.pvbox.live:18912/5b593bc300073eb4da590cc0ddf6132e
+AXN HD,p2p://fccseuro.pvbox.live:18912/5bee539100076342d0f4a766569dfd39#p2p://fccsovh.pvbox.live:18912/5bee539100076342d0f4a766569dfd39
+HISTORY-HD,p2p://fccseuro.pvbox.live:18912/5b593bc7000552962e8565f6d539815f#p2p://fccsovh.pvbox.live:18912/5b593bc7000552962e8565f6d539815f
+SPIKE-HD,p2p://fccsovh.pvbox.live:18912/5b593cae00069ab4cc064b07ae58cf1d#p2p://fccseuro.pvbox.live:18912/5b593cae00069ab4cc064b07ae58cf1d
+AMC-HD,p2p://fccsovh.pvbox.live:18912/5b59390f00089d8d5e48e1b6d7b9b2d5#p2p://fccseuro.pvbox.live:18912/5b59390f00089d8d5e48e1b6d7b9b2d5
+DIY NETWORK,p2p://fccsovh.pvbox.live:18912/5b593af90004cd300c9bdc9975eece9f#p2p://fccseuro.pvbox.live:18912/5b593af90004cd300c9bdc9975eece9f
+ID-HD,p2p://fccsovh.pvbox.live:18912/5b593bcb00009977d783201146f84fd1#p2p://fccseuro.pvbox.live:18912/5b593bcb00009977d783201146f84fd1
+SYFY,p2p://fccsovh.pvbox.live:18912/5b593cb2000428d6575f79a4be103fd2#p2p://fccseuro.pvbox.live:18912/5b593cb2000428d6575f79a4be103fd2
+ANIMAL-PLANET,p2p://fccsovh.pvbox.live:18912/5b5939130005971d4f247d9ea9194679#p2p://fccseuro.pvbox.live:18912/5b5939130005971d4f247d9ea9194679
+TBS-HD,p2p://fccsovh.pvbox.live:18912/5b593cb600034f853b379f22836d8366#p2p://fccseuro.pvbox.live:18912/5b593cb600034f853b379f22836d8366
+BBC-AMERICA,p2p://fccsovh.pvbox.live:18912/5b5939170002ff27139e866972121b88#p2p://fccseuro.pvbox.live:18912/5b5939170002ff27139e866972121b88
+ESPN-2,p2p://fccsovh.pvbox.live:18912/5b593b0100016afbbc424613b15a3a9e#p2p://fccseuro.pvbox.live:18912/5b593b0100016afbbc424613b15a3a9e
+LIFETIME MOVIE,p2p://fccsovh.pvbox.live:18912/5b593bd20009b7c897de5601f6c21c86#p2p://fccseuro.pvbox.live:18912/5b593bd20009b7c897de5601f6c21c86
+BET-HD,p2p://fccsovh.pvbox.live:18912/5b59391b0002ff76e9e57a4f9d961b7e#p2p://fccseuro.pvbox.live:18912/5b59391b0002ff76e9e57a4f9d961b7e
+ESPN-NEWS,p2p://fccsovh.pvbox.live:18912/5b593b050000cac7e5846d23629c86f8#p2p://fccseuro.pvbox.live:18912/5b593b050000cac7e5846d23629c86f8
+TNT,p2p://fccsovh.pvbox.live:18912/5ee9c92a000656fd6d22d2fd05fe0382#p2p://fccseuro.pvbox.live:18912/5ee9c92a000656fd6d22d2fd05fe0382
+BRAVO-HD,p2p://fccsovh.pvbox.live:18912/5b59391f000148a8629bb3664b669bb1#p2p://fccseuro.pvbox.live:18912/5b59391f000148a8629bb3664b669bb1
+ESPN-U,p2p://fccsovh.pvbox.live:18912/5b593b08000d56ba4e19462be0c4dbd7#p2p://fccseuro.pvbox.live:18912/5b593b08000d56ba4e19462be0c4dbd7
+MLB-NETWORK,p2p://fccsovh.pvbox.live:18912/5b593bda000bf009f671f7f9b3653205#p2p://fccseuro.pvbox.live:18912/5b593bda000bf009f671f7f9b3653205
+FOOD-NETWORK,p2p://fccsovh.pvbox.live:18912/5b593b0c000caf354ce3fd73c13365a1#p2p://fccseuro.pvbox.live:18912/5b593b0c000caf354ce3fd73c13365a1
+MSNBC-HD,p2p://fccsovh.pvbox.live:18912/5b593bde000d62341de323a1b06ed9c2#p2p://fccseuro.pvbox.live:18912/5b593bde000d62341de323a1b06ed9c2
+TRU-TV,p2p://fccsovh.pvbox.live:18912/5b593cc60006374fccbd37b9c6121b0f#p2p://fccseuro.pvbox.live:18912/5b593cc60006374fccbd37b9c6121b0f
+FOX-HD,p2p://fccsovh.pvbox.live:18912/5b593b10000836ae82c538c53e834415#p2p://fccseuro.pvbox.live:18912/5b593b10000836ae82c538c53e834415
+MTV,p2p://fccsovh.pvbox.live:18912/5b593be200077048bf597b7545d9709a#p2p://fccseuro.pvbox.live:18912/5b593be200077048bf597b7545d9709a
+VELOCITY-HD,p2p://fccsovh.pvbox.live:18912/5b593cca000340787e8a9df3e0188378#p2p://fccseuro.pvbox.live:18912/5b593cca000340787e8a9df3e0188378
+FOX-NEWS,p2p://fccsovh.pvbox.live:18912/5b593b140008b0a872fab404d0005a0b#p2p://fccseuro.pvbox.live:18912/5b593b140008b0a872fab404d0005a0b
+NAT-GEO,p2p://fccsovh.pvbox.live:18912/5b593be6000692ffb22bb6b976f6bf84#p2p://fccseuro.pvbox.live:18912/5b593be6000692ffb22bb6b976f6bf84
+VH1,p2p://fccsovh.pvbox.live:18912/5b593cce00005873101a85044b981db5#p2p://fccseuro.pvbox.live:18912/5b593cce00005873101a85044b981db5
+FOX-SPORTS1,p2p://fccsovh.pvbox.live:18912/5b593b1800090110b11b03acd72eae49#p2p://fccseuro.pvbox.live:18912/5b593b1800090110b11b03acd72eae49
+NBA-TV,p2p://fccsovh.pvbox.live:18912/5b593bea000144c6daeee1360e5f80f7#p2p://fccseuro.pvbox.live:18912/5b593bea000144c6daeee1360e5f80f7
+WE-TV,p2p://fccsovh.pvbox.live:18912/5b593cd20000362a28c0f7dd4edf4f29#p2p://fccseuro.pvbox.live:18912/5b593cd20000362a28c0f7dd4edf4f29
+CARTOON-NETWORK,p2p://fccsovh.pvbox.live:18912/5b593933000710c554e89c7ce9dd6bef#p2p://fccseuro.pvbox.live:18912/5b593933000710c554e89c7ce9dd6bef
+FOX-SPORTS2,p2p://fccsovh.pvbox.live:18912/5b593b1c00097e8b9e3e670dad5c859b#p2p://fccseuro.pvbox.live:18912/5b593b1c00097e8b9e3e670dad5c859b
+NBC-GOLF,p2p://fccsovh.pvbox.live:18912/5b593bee0000bb8a12d8d41d9805ea16#p2p://fccseuro.pvbox.live:18912/5b593bee0000bb8a12d8d41d9805ea16
+CBS-HD,p2p://fccsovh.pvbox.live:18912/5b59393700075d001f88b33e06c310ac#p2p://fccseuro.pvbox.live:18912/5b59393700075d001f88b33e06c310ac
+NBC-HD,p2p://fccsovh.pvbox.live:18912/5b593bf1000ccd51e093c4ab2777a628#p2p://fccseuro.pvbox.live:18912/5b593bf1000ccd51e093c4ab2777a628
+FX-HD,p2p://fccsovh.pvbox.live:18912/5b593b240003f7478332bbefe27e84e1#p2p://fccseuro.pvbox.live:18912/5b593b240003f7478332bbefe27e84e1
+NBCSN-HD,p2p://fccsovh.pvbox.live:18912/5b593c8f000428baab5b6385ff6acf35#p2p://fccseuro.pvbox.live:18912/5b593c8f000428baab5b6385ff6acf35
+WWE-NETWORK,p2p://fccsovh.pvbox.live:18912/5b593cdd0007b4d4995d9a5887d75c71#p2p://fccseuro.pvbox.live:18912/5b593cdd0007b4d4995d9a5887d75c71
+HALLMARK,p2p://fccsovh.pvbox.live:18912/5b593baf000ba09887e54d25b5632d9b#p2p://fccseuro.pvbox.live:18912/5b593baf000ba09887e54d25b5632d9b
+Nicktoons,p2p://fccsovh.pvbox.live:18912/5ee9c96f000c891a6d23e21b33205ca7#p2p://fccseuro.pvbox.live:18912/5ee9c96f000c891a6d23e21b33205ca7
+HBO EAST,p2p://fccsovh.pvbox.live:18912/5b593bb70009322f4dfa17046e63a6c0#p2p://fccseuro.pvbox.live:18912/5b593bb70009322f4dfa17046e63a6c0
+OWN,p2p://fccsovh.pvbox.live:18912/5b593c9e000e6959da483ce67e3004dd#p2p://fccseuro.pvbox.live:18912/5b593c9e000e6959da483ce67e3004dd
+CW-HD,p2p://fccsovh.pvbox.live:18912/5b593ae9000434589ba378e9b7721d3f#p2p://fccseuro.pvbox.live:18912/5b593ae9000434589ba378e9b7721d3f
+HBO SIGNATURE WEST,p2p://fccsovh.pvbox.live:18912/5b593bbb0008513384b7fee1ab8f9d84#p2p://fccseuro.pvbox.live:18912/5b593bbb0008513384b7fee1ab8f9d84
+SCIENCE,p2p://fccsovh.pvbox.live:18912/5b593ca2000d3c2da77c35ae99f23db0#p2p://fccseuro.pvbox.live:18912/5b593ca2000d3c2da77c35ae99f23db0
+MSNBC,p2p://fccsovh.pvbox.live:18912/5ee9c962000801a66d23ae2a276d3098#p2p://fccseuro.pvbox.live:18912/5ee9c962000801a66d23ae2a276d3098
+YES-Network,p2p://fccsovh.pvbox.live:18912/5ee9c93700033d776d2304fa250e0643#p2p://fccsovh.pvbox.live:18912/5ee9c93700033d776d2304fa250e0643#p2p://fccseuro.pvbox.live:18912/5ee9c93700033d776d2304fa250e0643
+MTV,p2p://fccsovh.pvbox.live:18912/5ee9c9640000234a6d23b3f7793b4190#p2p://fccseuro.pvbox.live:18912/5ee9c9640000234a6d23b3f7793b4190
+WWE-Network,p2p://fccsovh.pvbox.live:18912/5ee9c935000d41056d22ffba2be96c45#p2p://fccseuro.pvbox.live:18912/5ee9c935000d41056d22ffba2be96c45
+We-TV,p2p://fccsovh.pvbox.live:18912/5ee9c93400074aef6d22fa4b61567c87#p2p://fccseuro.pvbox.live:18912/5ee9c93400074aef6d22fa4b61567c87
+Game-Show-Network,p2p://fccsovh.pvbox.live:18912/5ee9c8da0000dc236d21991539c5339d#p2p://fccseuro.pvbox.live:18912/5ee9c8da0000dc236d21991539c5339d
+Golf-Channel,p2p://fccsovh.pvbox.live:18912/5ee9c8d8000a65aa6d2193b668091bab#p2p://fccseuro.pvbox.live:18912/5ee9c8d8000a65aa6d2193b668091bab
+FXX,p2p://fccsovh.pvbox.live:18912/5ee9c8d7000432bc6d218e380ad61e69#p2p://fccseuro.pvbox.live:18912/5ee9c8d7000432bc6d218e380ad61e69
+Freeform,p2p://fccsovh.pvbox.live:18912/5ee9c89e000026156d20ae87798e1d6a#p2p://fccseuro.pvbox.live:18912/5ee9c89e000026156d20ae87798e1d6a
+Fox-Sports-1-(FS1),p2p://fccsovh.pvbox.live:18912/5ee9c89f000695d76d20b414797a363a#p2p://fccseuro.pvbox.live:18912/5ee9c89f000695d76d20b414797a363a
+Fox-Sports-2-(FS2),p2p://fccsovh.pvbox.live:18912/5ee9c8a0000d42df6d20b9b209a821a5#p2p://fccseuro.pvbox.live:18912/5ee9c8a0000d42df6d20b9b209a821a5
+FX,p2p://fccsovh.pvbox.live:18912/5ee9c8d40006d21c6d21832c6bdf0fb2#p2p://fccseuro.pvbox.live:18912/5ee9c8d40006d21c6d21832c6bdf0fb2
+FX-Movie-Channel,p2p://fccsovh.pvbox.live:18912/5ee9c8d5000d42196d2188ba190064ba#p2p://fccseuro.pvbox.live:18912/5ee9c8d5000d42196d2188ba190064ba
+VH1,p2p://fccsovh.pvbox.live:18912/5ee9c9330001921e6d22f4ec3a56259b#p2p://fccseuro.pvbox.live:18912/5ee9c9330001921e6d22f4ec3a56259b
+USA-Network,p2p://fccsovh.pvbox.live:18912/5ee9c9310009ad5a6d22ef3033fb1ebb#p2p://fccseuro.pvbox.live:18912/5ee9c9310009ad5a6d22ef3033fb1ebb
+Univision,p2p://fccsovh.pvbox.live:18912/5ee9c9300002c3846d22e98242045965#p2p://fccseuro.pvbox.live:18912/5ee9c9300002c3846d22e98242045965
+TV-Land,p2p://fccsovh.pvbox.live:18912/5ee9c92e000c0fea6d22e41431c017e6#p2p://fccseuro.pvbox.live:18912/5ee9c92e000c0fea6d22e41431c017e6
+truTV,p2p://fccsovh.pvbox.live:18912/5ee9c92d000431816d22de2854d077fa#p2p://fccseuro.pvbox.live:18912/5ee9c92d000431816d22de2854d077fa
+Travel-Channel,p2p://fccsovh.pvbox.live:18912/5ee9c92b000c89e26d22d87b5b4546be#p2p://fccseuro.pvbox.live:18912/5ee9c92b000c89e26d22d87b5b4546be
+TLC,p2p://fccsovh.pvbox.live:18912/5ee9c9290001183a6d22cdbd0ec108cf#p2p://fccseuro.pvbox.live:18912/5ee9c9290001183a6d22cdbd0ec108cf
+Tennis-Channel,p2p://fccsovh.pvbox.live:18912/5ee9c927000a27746d22c83f75c447bd#p2p://fccseuro.pvbox.live:18912/5ee9c927000a27746d22c83f75c447bd
+Telemundo,p2p://fccsovh.pvbox.live:18912/5ee9c9260003f4ae6d22c2c15c8b1347#p2p://fccseuro.pvbox.live:18912/5ee9c9260003f4ae6d22c2c15c8b1347
+Turner-Classic-Movies-(TCM),p2p://fccsovh.pvbox.live:18912/5ee9c924000d41146d22bd5234ad1e8d#p2p://fccseuro.pvbox.live:18912/5ee9c924000d41146d22bd5234ad1e8d
+TBS,p2p://fccsovh.pvbox.live:18912/5ee9c92300070e2b6d22b7d402021c2c#p2p://fccseuro.pvbox.live:18912/5ee9c92300070e2b6d22b7d402021c2c
+SYFY,p2p://fccsovh.pvbox.live:18912/5ee9c922000155556d22b27515c15770#p2p://fccseuro.pvbox.live:18912/5ee9c922000155556d22b27515c15770
+SundanceTV,p2p://fccsovh.pvbox.live:18912/5ee9c920000aa1e26d22ad0642e76ad0#p2p://fccseuro.pvbox.live:18912/5ee9c920000aa1e26d22ad0642e76ad0
+StarZ,p2p://fccsovh.pvbox.live:18912/5ee9c91f0003f51a6d22a76964715169#p2p://fccseuro.pvbox.live:18912/5ee9c91f0003f51a6d22a76964715169
+Showtime,p2p://fccsovh.pvbox.live:18912/5ee9c91d000bd2f96d22a19c7b9118be#p2p://fccseuro.pvbox.live:18912/5ee9c91d000bd2f96d22a19c7b9118be
+Science,p2p://fccsovh.pvbox.live:18912/5ee9c91c000563296d229c0e7a187a11#p2p://fccseuro.pvbox.live:18912/5ee9c91c000563296d229c0e7a187a11
+Motor-Trend,p2p://fccsovh.pvbox.live:18912/5ee9c8e80005ddac6d21d10e6dab339c#p2p://fccseuro.pvbox.live:18912/5ee9c8e80005ddac6d21d10e6dab339c
+MLB-Network,p2p://fccsovh.pvbox.live:18912/5ee9c8e6000e36236d21cb6030021e3c#p2p://fccseuro.pvbox.live:18912/5ee9c8e6000e36236d21cb6030021e3c
+Lifetime-Movie-Network,p2p://fccsovh.pvbox.live:18912/5ee9c8e5000840526d21c5f231d51a72#p2p://fccseuro.pvbox.live:18912/5ee9c8e5000840526d21c5f231d51a72
+Lifetime,p2p://fccsovh.pvbox.live:18912/5ee9c8e40002877c6d21c09325d24f5b#p2p://fccseuro.pvbox.live:18912/5ee9c8e40002877c6d21c09325d24f5b
+Investigation-Discovery,p2p://fccsovh.pvbox.live:18912/5ee9c8e2000c10c16d21bb34089d0f16#p2p://fccseuro.pvbox.live:18912/5ee9c8e2000c10c16d21bb34089d0f16
+HLN,p2p://fccsovh.pvbox.live:18912/5ee9c8e10005de0a6d21b5b657b1571b#p2p://fccseuro.pvbox.live:18912/5ee9c8e10005de0a6d21b5b657b1571b
+History,p2p://fccsovh.pvbox.live:18912/5ee9c8df000f2a526d21b04749790dfc#p2p://fccseuro.pvbox.live:18912/5ee9c8df000f2a526d21b04749790dfc
+HGTV,p2p://fccsovh.pvbox.live:18912/5ee9c8de0004acd06d21a9af17ed06f9#p2p://fccseuro.pvbox.live:18912/5ee9c8de0004acd06d21a9af17ed06f9
+HBO HD,p2p://fccsovh.pvbox.live:18912/5b140969000be13c02c15179cfa10c68#p2p://fccseuro.pvbox.live:18912/5c7249dd000ca2101d58106551ff3ed4#p2p://fccseuro.pvbox.live:18912/5b140969000be13c02c15179cfa10c68
+Hallmark-Channel,p2p://fccsovh.pvbox.live:18912/5ee9c8db0007c66f6d219ec31a9d0098#p2p://fccseuro.pvbox.live:18912/5ee9c8db0007c66f6d219ec31a9d0098
+FoxNews,p2p://fccsovh.pvbox.live:18912/5ee9c89c0008bb356d20a8e91f6b3074#p2p://fccseuro.pvbox.live:18912/5ee9c89c0008bb356d20a8e91f6b3074
+FoxBusiness,p2p://fccsovh.pvbox.live:18912/5ee9c89b00033f866d20a39a4d362581#p2p://fccseuro.pvbox.live:18912/5ee9c89b00033f866d20a39a4d362581
+FOX,p2p://fccsovh.pvbox.live:18912/5ee9c899000b97a06d209ded5ee750ed#p2p://fccseuro.pvbox.live:18912/5ee9c899000b97a06d209ded5ee750ed
+FoodNetwork,p2p://fccsovh.pvbox.live:18912/5ee9c89800037c9b6d2097f16aa95ab0#p2p://fccseuro.pvbox.live:18912/5ee9c89800037c9b6d2097f16aa95ab0
+ESPN2,p2p://fccsovh.pvbox.live:18912/5ee9c896000d42e86d2092a209473035#p2p://fccseuro.pvbox.live:18912/5ee9c896000d42e86d2092a209473035
+ESPN,p2p://fccsovh.pvbox.live:18912/5ee9c8950007c7526d208d5372e27eaa#p2p://fccseuro.pvbox.live:18912/5ee9c8950007c7526d208d5372e27eaa
+E!,p2p://fccsovh.pvbox.live:18912/5ee9c893000f2b3a6d208767720d3b64#p2p://fccseuro.pvbox.live:18912/5ee9c893000f2b3a6d208767720d3b64
+Do-it-yourself-(-DIY-),p2p://fccsovh.pvbox.live:18912/5ee9c892000841336d2081ba6e8f5cac#p2p://fccseuro.pvbox.live:18912/5ee9c892000841336d2081ba6e8f5cac
+DisneyXD,p2p://fccsovh.pvbox.live:18912/5ee9c891000194356d207c1c427e44d2#p2p://fccseuro.pvbox.live:18912/5ee9c891000194356d207c1c427e44d2
+DisneyJr,p2p://fccsovh.pvbox.live:18912/5ee9c88f00061be66d2075752d1b20c4#p2p://fccseuro.pvbox.live:18912/5ee9c88f00061be66d2075752d1b20c4
+CNBC,p2p://fccsovh.pvbox.live:18912/5ee9c7c80003f9096d1d6b9122677cef#p2p://fccseuro.pvbox.live:18912/5ee9c7c80003f9096d1d6b9122677cef
+Disney,p2p://fccsovh.pvbox.live:18912/5ee9c88d000e373a6d206fb8738a4ed5#p2p://fccseuro.pvbox.live:18912/5ee9c88d000e373a6d206fb8738a4ed5
+Discovery,p2p://fccseuro.pvbox.live:18912/5bee541d00085ee619e0192c64f71b5c#p2p://fccsovh.pvbox.live:18912/5bee541d00085ee619e0192c64f71b5c
+Destination-America,p2p://fccsovh.pvbox.live:18912/5ee9c88b00037cb46d206529042a38e8#p2p://fccseuro.pvbox.live:18912/5ee9c88b00037cb46d206529042a38e8
+CW,p2p://fccsovh.pvbox.live:18912/5ee9c7cc00074f7c6d1d7c0b05ed76e8#p2p://fccseuro.pvbox.live:18912/5ee9c7cc00074f7c6d1d7c0b05ed76e8
+Comedy,p2p://fccsovh.pvbox.live:18912/5ee9c7ca000e76856d1d761016723269#p2p://fccseuro.pvbox.live:18912/5ee9c7ca000e76856d1d761016723269
+CNN,p2p://fccsovh.pvbox.live:18912/5ee9c7c9000806d56d1d708256627be7#p2p://fccseuro.pvbox.live:18912/5ee9c7c9000806d56d1d708256627be7
+Cartoon,p2p://fccsovh.pvbox.live:18912/5ee9c7c6000d82826d1d66327a3f538c#p2p://fccseuro.pvbox.live:18912/5ee9c7c6000d82826d1d66327a3f538c
+CMT,p2p://fccsovh.pvbox.live:18912/5ee9c7c50005e1956d1d605616e0147c#p2p://fccseuro.pvbox.live:18912/5ee9c7c50005e1956d1d605616e0147c
+CBS,p2p://fccsovh.pvbox.live:18912/5ee9c7c2000a2c386d1d55b7282b5199#p2p://fccseuro.pvbox.live:18912/5ee9c7c2000a2c386d1d55b7282b5199
+Bravo,p2p://fccsovh.pvbox.live:18912/5ee9c7c10004ed6e6d1d50771c3465c4#p2p://fccseuro.pvbox.live:18912/5ee9c7c10004ed6e6d1d50771c3465c4
+Boomerang,p2p://fccsovh.pvbox.live:18912/5ee9c7bf000dbfa16d1d4ae93ca21c1c#p2p://fccseuro.pvbox.live:18912/5ee9c7bf000dbfa16d1d4ae93ca21c1c
+BET,p2p://fccsovh.pvbox.live:18912/5ee9c7be000712b66d1d454c3e1a791e#p2p://fccseuro.pvbox.live:18912/5ee9c7be000712b66d1d454c3e1a791e
+BBCAmerica,p2p://fccseuro.pvbox.live:18912/5ee9c7bc000975176d1d3e1840f35f06#p2p://fccsovh.pvbox.live:18912/5ee9c7bc000975176d1d3e1840f35f06
+AMC,p2p://fccsovh.pvbox.live:18912/5ee9c7b9000e39e46d1d339802bd05f4#p2p://fccseuro.pvbox.live:18912/5ee9c7b9000e39e46d1d339802bd05f4
+Animal,p2p://fccsovh.pvbox.live:18912/5ee9c7bb0003f98d6d1d38c9095e0c04#p2p://fccseuro.pvbox.live:18912/5ee9c7bb0003f98d6d1d38c9095e0c04
+ABC,p2p://fccsovh.pvbox.live:18912/5ee9c7b7000065e76d1d283e4eb33c0d#p2p://fccseuro.pvbox.live:18912/5ee9c7b7000065e76d1d283e4eb33c0d
+AE,p2p://fccsovh.pvbox.live:18912/5ee9c7b8000807086d1d2e1a064732ad#p2p://fccseuro.pvbox.live:18912/5ee9c7b8000807086d1d2e1a064732ad
+Nat-Geo-Wild,p2p://fccsovh.pvbox.live:18912/5ee9c9670004aae76d23c0d72e2d3075#p2p://fccseuro.pvbox.live:18912/5ee9c9670004aae76d23c0d72e2d3075
+NBC,p2p://fccsovh.pvbox.live:18912/5ee9c96a0001ce6f6d23cbd46c1414a7#p2p://fccseuro.pvbox.live:18912/5ee9c96a0001ce6f6d23cbd46c1414a7
+NBC-Sports-(-NBCSN-),p2p://fccsovh.pvbox.live:18912/5ee9c96b0008f5876d23d191319e5e16#p2p://fccseuro.pvbox.live:18912/5ee9c96b0008f5876d23d191319e5e16
+NFL-Network,p2p://fccsovh.pvbox.live:18912/5ee9c96d0001917d6d23d77c59c05f0b#p2p://fccseuro.pvbox.live:18912/5ee9c96d0001917d6d23d77c59c05f0b
+Nickelodeon,p2p://fccsovh.pvbox.live:18912/5ee9c96e0006cff66d23dcbc707939e6#p2p://fccseuro.pvbox.live:18912/5ee9c96e0006cff66d23dcbc707939e6
+One-America-News-Network,p2p://fccsovh.pvbox.live:18912/5ee9c97100046dc96d23e7d8588c1e96#p2p://fccseuro.pvbox.live:18912/5ee9c97100046dc96d23e7d8588c1e96
+Oprah-Winfrey-Network-(OWN),p2p://fccsovh.pvbox.live:18912/5ee9c972000a63996d23ed46080e17e5#p2p://fccseuro.pvbox.live:18912/5ee9c972000a63996d23ed46080e17e5
+Oxygen,p2p://fccsovh.pvbox.live:18912/5ee9c974000023346d23f277291b4e30#p2p://fccseuro.pvbox.live:18912/5ee9c974000023346d23f277291b4e30
+PBS,p2p://fccsovh.pvbox.live:18912/5ee9c976000c88fa6d23fd73026e19df#p2p://fccseuro.pvbox.live:18912/5ee9c976000c88fa6d23fd73026e19df
+POP,p2p://fccsovh.pvbox.live:18912/5ee9c97800033c856d2402e200036b26#p2p://fccseuro.pvbox.live:18912/5ee9c97800033c856d2402e200036b26
+歐美測試,#genre#
+A&E BR,p2p://fccseuro.pvbox.live:18912/5bee4dd40002191e63bcb4b2f938f266#p2p://fccsovh.pvbox.live:18912/5bee4dd40002191e63bcb4b2f938f266
+Euro Sport 2,p2p://fccseuro.pvbox.live:18912/5bee4eb700049db173aa827bc914924d#p2p://fccsovh.pvbox.live:18912/5bee4eb700049db173aa827bc914924d
+Canal Sony,p2p://fccseuro.pvbox.live:18912/5bee4e710005da67a239737b87f3c428#p2p://fccsovh.pvbox.live:18912/5bee4e710005da67a239737b87f3c428
+Globo BR,p2p://fccseuro.pvbox.live:18912/5bee4ff300052ad4718cc8cf29dbacf7#p2p://fccsovh.pvbox.live:18912/5bee4ff300052ad4718cc8cf29dbacf7
+BeIN Sport 05,p2p://fccseuro.pvbox.live:18912/5bee51290009941f0ed70719da114b1f#p2p://fccsovh.pvbox.live:18912/5bee51290009941f0ed70719da114b1f
+Sport TV 2,p2p://fccseuro.pvbox.live:18912/5bee55ca000c3ec6103cfe5c0554cf70#p2p://fccsovh.pvbox.live:18912/5bee55ca000c3ec6103cfe5c0554cf70
+Sky Sport 2,p2p://fccseuro.pvbox.live:18912/5bee51ea000c8b376b36daeed32b7fea#p2p://fccsovh.pvbox.live:18912/5bee51ea000c8b376b36daeed32b7fea
+Telecine Touch,p2p://fccseuro.pvbox.live:18912/5bee530a000d8eac19dbe84c0a326575#p2p://fccsovh.pvbox.live:18912/5bee530a000d8eac19dbe84c0a326575
+MCS LifeStyle,p2p://fccseuro.pvbox.live:18912/5bee552d0001d4797afea4f819639939#p2p://fccsovh.pvbox.live:18912/5bee552d0001d4797afea4f819639939
+Sport TV 1,p2p://fccseuro.pvbox.live:18912/5bee55c3000c7bf1b2cf4b9c542a1b2b#p2p://fccsovh.pvbox.live:18912/5bee55c3000c7bf1b2cf4b9c542a1b2b
+AMC BR,p2p://fccseuro.pvbox.live:18912/5bee4dd7000903176b747707d6697b31#p2p://fccsovh.pvbox.live:18912/5bee4dd7000903176b747707d6697b31
+ESPN BRASIL,p2p://fccseuro.pvbox.live:18912/5bee4faf000825f2166ecdf1aaea3eed#p2p://fccsovh.pvbox.live:18912/5bee4faf000825f2166ecdf1aaea3eed
+Combate,p2p://fccseuro.pvbox.live:18912/5bee4e750000ebb3d594fa5fa033b0f7#p2p://fccsovh.pvbox.live:18912/5bee4e750000ebb3d594fa5fa033b0f7
+GNT BR,p2p://fccseuro.pvbox.live:18912/5bee504c000984a9c398eb4256273563#p2p://fccsovh.pvbox.live:18912/5bee504c000984a9c398eb4256273563
+Sky Sports News,p2p://fccseuro.pvbox.live:18912/5bee5093000337375d96286068cc62f9#p2p://fccsovh.pvbox.live:18912/5bee5093000337375d96286068cc62f9
+BeIN Sport 06,p2p://fccseuro.pvbox.live:18912/5bee512d00052eb1a94777478dfe4218#p2p://fccsovh.pvbox.live:18912/5bee512d00052eb1a94777478dfe4218
+Sport TV 3,p2p://fccseuro.pvbox.live:18912/5bee52890000ba4e19d9ed18435d509b#p2p://fccsovh.pvbox.live:18912/5bee52890000ba4e19d9ed18435d509b
+Sky Sport 3,p2p://fccseuro.pvbox.live:18912/5bee51ee0002f63606fd2d06de643422#p2p://fccsovh.pvbox.live:18912/5bee51ee0002f63606fd2d06de643422
+TLC BR,p2p://fccseuro.pvbox.live:18912/5bee530e0004013b19dbf57b273d4d60#p2p://fccsovh.pvbox.live:18912/5bee530e0004013b19dbf57b273d4d60
+Fox Sports 3,p2p://fccseuro.pvbox.live:18912/5bee539c000180927f6305a4afe221f5#p2p://fccsovh.pvbox.live:18912/5bee539c000180927f6305a4afe221f5
+FXM,p2p://fccseuro.pvbox.live:18912/5bee542c0001fa9919e0521f484773b3#p2p://fccsovh.pvbox.live:18912/5bee542c0001fa9919e0521f484773b3
+Motors TV,p2p://fccseuro.pvbox.live:18912/5bee5530000a4ef8383ecce313b1d2d5#p2p://fccsovh.pvbox.live:18912/5bee5530000a4ef8383ecce313b1d2d5
+Animal Planet BR,p2p://fccseuro.pvbox.live:18912/5bee4ddb0001bdbad038ead6acc17492#p2p://fccsovh.pvbox.live:18912/5bee4ddb0001bdbad038ead6acc17492
+Comedy Central BR,p2p://fccseuro.pvbox.live:18912/5bee4e780009e08353d49ee5be680855#p2p://fccsovh.pvbox.live:18912/5bee4e780009e08353d49ee5be680855
+H2 BR,p2p://fccseuro.pvbox.live:18912/5bee505000021cd4f1b14e255b821602#p2p://fccsovh.pvbox.live:18912/5bee505000021cd4f1b14e255b821602
+Motor Vision,p2p://fccseuro.pvbox.live:18912/5bee553400021173344e469c5f220a98#p2p://fccsovh.pvbox.live:18912/5bee553400021173344e469c5f220a98
+Max Up,p2p://fccseuro.pvbox.live:18912/5bee5096000aeb75f55073d758bc44db#p2p://fccsovh.pvbox.live:18912/5bee5096000aeb75f55073d758bc44db
+BeIN Sport 07,p2p://fccseuro.pvbox.live:18912/5bee5130000c7bf9d0a921bbc785d48d#p2p://fccsovh.pvbox.live:18912/5bee5130000c7bf9d0a921bbc785d48d
+OFF,p2p://fccseuro.pvbox.live:18912/5bee52460005cb2619d8e8a96ff80553#p2p://fccsovh.pvbox.live:18912/5bee52460005cb2619d8e8a96ff80553
+TNT BR,p2p://fccseuro.pvbox.live:18912/5bee5359000879982371fd6ff22f5dd1#p2p://fccsovh.pvbox.live:18912/5bee5359000879982371fd6ff22f5dd1
+Disney Channel,p2p://fccseuro.pvbox.live:18912/5bee5485000ecf1419e1b11277200132#p2p://fccsovh.pvbox.live:18912/5bee5485000ecf1419e1b11277200132
+Arte 1,p2p://fccseuro.pvbox.live:18912/5bee4dde0006f88c98fb31ef797c818a#p2p://fccsovh.pvbox.live:18912/5bee4dde0006f88c98fb31ef797c818a
+WOOHOO,p2p://fccseuro.pvbox.live:18912/5bee4fb60008c9ee47565688958bb309#p2p://fccsovh.pvbox.live:18912/5bee4fb60008c9ee47565688958bb309
+Baby TV,p2p://fccseuro.pvbox.live:18912/5bee4e7c000327eac9352238a98819c9#p2p://fccsovh.pvbox.live:18912/5bee4e7c000327eac9352238a98819c9
+MegaPix,p2p://fccseuro.pvbox.live:18912/5bee509a00029e941c18e16de15b88f9#p2p://fccsovh.pvbox.live:18912/5bee509a00029e941c18e16de15b88f9
+BeIN Sport 08,p2p://fccseuro.pvbox.live:18912/5bee51340004cf7b3473a668212469e2#p2p://fccsovh.pvbox.live:18912/5bee51340004cf7b3473a668212469e2
+Sport TV 1,p2p://fccseuro.pvbox.live:18912/5bee52cf0004647619daff7370ef19bc#p2p://fccsovh.pvbox.live:18912/5bee52cf0004647619daff7370ef19bc
+TNT Series  BR,p2p://fccseuro.pvbox.live:18912/5bee535d0005498f7a7c95ec4f46f637#p2p://fccsovh.pvbox.live:18912/5bee535d0005498f7a7c95ec4f46f637
+AXN White,p2p://fccseuro.pvbox.live:18912/5bee53eb0007e52319df55bd34d17791#p2p://fccsovh.pvbox.live:18912/5bee53eb0007e52319df55bd34d17791
+Disney Junior,p2p://fccseuro.pvbox.live:18912/5bee5489000794ca19e1bede44ba7d7f#p2p://fccsovh.pvbox.live:18912/5bee5489000794ca19e1bede44ba7d7f
+Kombat Sports,p2p://fccseuro.pvbox.live:18912/5bee55370009a71c7ce26510c597ad89#p2p://fccsovh.pvbox.live:18912/5bee55370009a71c7ce26510c597ad89
+Sport TV 3,p2p://fccseuro.pvbox.live:18912/5bee55ce0007003126802387db4b9b4e#p2p://fccsovh.pvbox.live:18912/5bee55ce0007003126802387db4b9b4e
+ESPN,p2p://fccseuro.pvbox.live:18912/5bee4fba00023f4eacebd66d8b135902#p2p://fccsovh.pvbox.live:18912/5bee4fba00023f4eacebd66d8b135902
+HBO Family BR,p2p://fccseuro.pvbox.live:18912/5bee505700010a745bac3a281697dc45#p2p://fccsovh.pvbox.live:18912/5bee505700010a745bac3a281697dc45
+MTV BR,p2p://fccseuro.pvbox.live:18912/5bee509d0008c269c953f40a12165efa#p2p://fccsovh.pvbox.live:18912/5bee509d0008c269c953f40a12165efa
+BeIN Sport 09,p2p://fccseuro.pvbox.live:18912/5bee5137000ceab19d809fcabf98ec25#p2p://fccsovh.pvbox.live:18912/5bee5137000ceab19d809fcabf98ec25
+Claro Sports,p2p://fccseuro.pvbox.live:18912/5bee52d2000e6fc519db0dbb7ac86c66#p2p://fccsovh.pvbox.live:18912/5bee52d2000e6fc519db0dbb7ac86c66
+Animal Planet LA,p2p://fccseuro.pvbox.live:18912/5bee524d0004870319d903b244f24690#p2p://fccsovh.pvbox.live:18912/5bee524d0004870319d903b244f24690
+Baby First,p2p://fccseuro.pvbox.live:18912/5bee53ee000f3db119df635a4e692288#p2p://fccsovh.pvbox.live:18912/5bee53ee000f3db119df635a4e692288
+E! Entertainment,p2p://fccseuro.pvbox.live:18912/5bee548c000d49c619e1cc0d5839302f#p2p://fccsovh.pvbox.live:18912/5bee548c000d49c619e1cc0d5839302f
+Yas Sports,p2p://fccseuro.pvbox.live:18912/5bee553b00031c9919e4750542353428#p2p://fccsovh.pvbox.live:18912/5bee553b00031c9919e4750542353428
+SIC Mulher,p2p://fccseuro.pvbox.live:18912/5bee55d1000d73cca61bddd49122cbc5#p2p://fccsovh.pvbox.live:18912/5bee55d1000d73cca61bddd49122cbc5
+Band BR,p2p://fccseuro.pvbox.live:18912/5bee4de500068da0867eb498a4ca051f#p2p://fccsovh.pvbox.live:18912/5bee4de500068da0867eb498a4ca051f
+PFC,p2p://fccseuro.pvbox.live:18912/5bee4fbd000a65d24af90056b4b45180#p2p://fccsovh.pvbox.live:18912/5bee4fbd000a65d24af90056b4b45180
+Discovery BR,p2p://fccseuro.pvbox.live:18912/5bee4e830000792ba2fa76982918750c#p2p://fccsovh.pvbox.live:18912/5bee4e830000792ba2fa76982918750c
+HBO BR,p2p://fccseuro.pvbox.live:18912/5bee505a0007dda5e1633fdc907a7cb4#p2p://fccsovh.pvbox.live:18912/5bee505a0007dda5e1633fdc907a7cb4
+BeIN Sport 10,p2p://fccseuro.pvbox.live:18912/5bee513b00072a1a36787ce16779acf3#p2p://fccsovh.pvbox.live:18912/5bee513b00072a1a36787ce16779acf3
+Premiere 2,p2p://fccseuro.pvbox.live:18912/5bee52500009f73c6759dc6e77440f8f#p2p://fccsovh.pvbox.live:18912/5bee52500009f73c6759dc6e77440f8f
+Baby TV,p2p://fccseuro.pvbox.live:18912/5bee53f20006bfab19df70c729cc3b86#p2p://fccsovh.pvbox.live:18912/5bee53f20006bfab19df70c729cc3b86
+Euro Sport 1,p2p://fccseuro.pvbox.live:18912/5bee54900005456e19e1d999277c5c55#p2p://fccsovh.pvbox.live:18912/5bee54900005456e19e1d999277c5c55
+MTV Portuga,p2p://fccseuro.pvbox.live:18912/5bee553e00096e262c5fa9ad98544cdd#p2p://fccsovh.pvbox.live:18912/5bee553e00096e262c5fa9ad98544cdd
+Sport TV 5,p2p://fccseuro.pvbox.live:18912/5bee55d500052326cd6d7c95b377dc7f#p2p://fccsovh.pvbox.live:18912/5bee55d500052326cd6d7c95b377dc7f
+Band News BR,p2p://fccseuro.pvbox.live:18912/5bee4de9000ac8e0031bb45d96370a77#p2p://fccsovh.pvbox.live:18912/5bee4de9000ac8e0031bb45d96370a77
+Discovery Civilization,p2p://fccseuro.pvbox.live:18912/5bee4e860006918af2cb521591a2034a#p2p://fccsovh.pvbox.live:18912/5bee4e860006918af2cb521591a2034a
+HBO Plus BR,p2p://fccseuro.pvbox.live:18912/5bee505e0000389224d660539217a011#p2p://fccsovh.pvbox.live:18912/5bee505e0000389224d660539217a011
+Premiere 3,p2p://fccseuro.pvbox.live:18912/5bee52540000441219d91df12707468b#p2p://fccsovh.pvbox.live:18912/5bee52540000441219d91df12707468b
+NAT GEO Wild,p2p://fccseuro.pvbox.live:18912/5bee55420006f0efb73c8d5d25668382#p2p://fccsovh.pvbox.live:18912/5bee55420006f0efb73c8d5d25668382
+Sport TV +,p2p://fccseuro.pvbox.live:18912/5bee55d8000d870558727cd992730036#p2p://fccsovh.pvbox.live:18912/5bee55d8000d870558727cd992730036
+TV Record,p2p://fccseuro.pvbox.live:18912/5bee4fc4000a197f078ba144562af333#p2p://fccsovh.pvbox.live:18912/5bee4fc4000a197f078ba144562af333
+Discovery Home Health,p2p://fccseuro.pvbox.live:18912/5bee4e89000e17d36ce1dab5c01dac27#p2p://fccsovh.pvbox.live:18912/5bee4e89000e17d36ce1dab5c01dac27
+HBO Signature BR,p2p://fccseuro.pvbox.live:18912/5bee50610008e86999fec66ff912bd0f#p2p://fccsovh.pvbox.live:18912/5bee50610008e86999fec66ff912bd0f
+Bein Sport 5 Max,p2p://fccseuro.pvbox.live:18912/5bee50fb0001752d008fb3a043243b84#p2p://fccsovh.pvbox.live:18912/5bee50fb0001752d008fb3a043243b84
+BeIN Sport 12,p2p://fccseuro.pvbox.live:18912/5bee51420009b674633337731f577fb9#p2p://fccsovh.pvbox.live:18912/5bee51420009b674633337731f577fb9
+Benfica TV 2,p2p://fccseuro.pvbox.live:18912/5bee53f90008ff4b19df8cbb7f2017f6#p2p://fccsovh.pvbox.live:18912/5bee53f90008ff4b19df8cbb7f2017f6
+Euro Sport 2,p2p://fccseuro.pvbox.live:18912/5bee5497000e605519e1f74329841f9c#p2p://fccsovh.pvbox.live:18912/5bee5497000e605519e1f74329841f9c
+NAT GEO,p2p://fccseuro.pvbox.live:18912/5bee5545000d832f59bdf65403ebfef4#p2p://fccsovh.pvbox.live:18912/5bee5545000d832f59bdf65403ebfef4
+Star Sports 1,p2p://fccseuro.pvbox.live:18912/5bee55dc0004a19a19e6ea4a68542781#p2p://fccsovh.pvbox.live:18912/5bee55dc0004a19a19e6ea4a68542781
+History BR,p2p://fccseuro.pvbox.live:18912/5bee50650000aeec51a88b144d5a11a5#p2p://fccsovh.pvbox.live:18912/5bee50650000aeec51a88b144d5a11a5
+Premiere 4,p2p://fccseuro.pvbox.live:18912/5bee525b0004594b19d93a535acd0e20#p2p://fccsovh.pvbox.live:18912/5bee525b0004594b19d93a535acd0e20
+BTV,p2p://fccseuro.pvbox.live:18912/5bee53fd00013fb719df9a5810e9359a#p2p://fccsovh.pvbox.live:18912/5bee53fd00013fb719df9a5810e9359a
+Euro Sport News,p2p://fccseuro.pvbox.live:18912/5bee549b0004e9ee19e204725b7a0321#p2p://fccsovh.pvbox.live:18912/5bee549b0004e9ee19e204725b7a0321
+Nickelodeon,p2p://fccseuro.pvbox.live:18912/5bee55490004fd2bdb5a159abc9dd80f#p2p://fccsovh.pvbox.live:18912/5bee55490004fd2bdb5a159abc9dd80f
+Star Sports 2,p2p://fccseuro.pvbox.live:18912/5bee55df000bc10919e6f7d75b5c489a#p2p://fccsovh.pvbox.live:18912/5bee55df000bc10919e6f7d75b5c489a
+Fox BR,p2p://fccseuro.pvbox.live:18912/5bee4fcb00072a17851e0c4bc347ef0a#p2p://fccsovh.pvbox.live:18912/5bee4fcb00072a17851e0c4bc347ef0a
+Discovery Science BR,p2p://fccseuro.pvbox.live:18912/5bee4e90000c4e21ceec1e5c19a55732#p2p://fccsovh.pvbox.live:18912/5bee4e90000c4e21ceec1e5c19a55732
+ID BR,p2p://fccseuro.pvbox.live:18912/5bee5068000990438567cbe9bec00126#p2p://fccsovh.pvbox.live:18912/5bee5068000990438567cbe9bec00126
+Bein Sport 7 Max,p2p://fccseuro.pvbox.live:18912/5bee510200036c7519d3f66c0ea9613c#p2p://fccsovh.pvbox.live:18912/5bee510200036c7519d3f66c0ea9613c
+SYFY BR,p2p://fccseuro.pvbox.live:18912/5bee52e400037f8e19db514c4e1231cd#p2p://fccsovh.pvbox.live:18912/5bee52e400037f8e19db514c4e1231cd
+Premiere 5,p2p://fccseuro.pvbox.live:18912/5bee525e000e364f19d9488b60c559ab#p2p://fccsovh.pvbox.live:18912/5bee525e000e364f19d9488b60c559ab
+TV Ra Tim Bum,p2p://fccseuro.pvbox.live:18912/5bee53720000f7469e6454c5e42a0128#p2p://fccsovh.pvbox.live:18912/5bee53720000f7469e6454c5e42a0128
+Odisseia,p2p://fccseuro.pvbox.live:18912/5bee554c000badfb84a21cc9cef472c5#p2p://fccsovh.pvbox.live:18912/5bee554c000badfb84a21cc9cef472c5
+Sporting TV,p2p://fccseuro.pvbox.live:18912/5bee55e300077df95ff96199666b8d94#p2p://fccsovh.pvbox.live:18912/5bee55e300077df95ff96199666b8d94
+Fox Life,p2p://fccseuro.pvbox.live:18912/5bee4fcf00003c60018eacc4c9d24b52#p2p://fccsovh.pvbox.live:18912/5bee4fcf00003c60018eacc4c9d24b52
+Lifetime BR,p2p://fccseuro.pvbox.live:18912/5bee506c0003e67921be37104a7927df#p2p://fccsovh.pvbox.live:18912/5bee506c0003e67921be37104a7927df
+Euro Sport 2 IT,p2p://fccseuro.pvbox.live:18912/5bee51c80006548a612b9eeed2e2ace0#p2p://fccsovh.pvbox.live:18912/5bee51c80006548a612b9eeed2e2ace0
+TBS BR,p2p://fccseuro.pvbox.live:18912/5bee52e7000c969819db5f5626653320#p2p://fccsovh.pvbox.live:18912/5bee52e7000c969819db5f5626653320
+Universal BR,p2p://fccseuro.pvbox.live:18912/5bee5375000a15e89605f0c76c862efb#p2p://fccsovh.pvbox.live:18912/5bee5375000a15e89605f0c76c862efb
+Fox Crime,p2p://fccseuro.pvbox.live:18912/5bee54a2000270f719e21f2e7b226eb2#p2p://fccsovh.pvbox.live:18912/5bee54a2000270f719e21f2e7b226eb2
+Panda Biggs,p2p://fccseuro.pvbox.live:18912/5bee55500002c8b350dbb0c2400d93bc#p2p://fccsovh.pvbox.live:18912/5bee55500002c8b350dbb0c2400d93bc
+SYFY,p2p://fccseuro.pvbox.live:18912/5bee55e6000ecb2cfff539ad796b0dc3#p2p://fccsovh.pvbox.live:18912/5bee55e6000ecb2cfff539ad796b0dc3
+BIS BR,p2p://fccseuro.pvbox.live:18912/5bee4dfa000f1f1b7e0a1f608817ffb5#p2p://fccsovh.pvbox.live:18912/5bee4dfa000f1f1b7e0a1f608817ffb5
+Fox Permium 1,p2p://fccseuro.pvbox.live:18912/5bee4fd30003b5214f2e4d14d36522a1#p2p://fccsovh.pvbox.live:18912/5bee4fd30003b5214f2e4d14d36522a1
+Discovery Turbo,p2p://fccseuro.pvbox.live:18912/5bee4e97000ce6c91d7ce85e98bf846b#p2p://fccsovh.pvbox.live:18912/5bee4e97000ce6c91d7ce85e98bf846b
+Mais Globosat,p2p://fccseuro.pvbox.live:18912/5bee506f000c3b1a2e717b3ad9530411#p2p://fccsovh.pvbox.live:18912/5bee506f000c3b1a2e717b3ad9530411
+Bein Sport 9 Max,p2p://fccseuro.pvbox.live:18912/5bee51090003f9eba452a02c55b1f495#p2p://fccsovh.pvbox.live:18912/5bee51090003f9eba452a02c55b1f495
+Multishow,p2p://fccseuro.pvbox.live:18912/5bee51cb000be33948dd19b89ef8bbc9#p2p://fccsovh.pvbox.live:18912/5bee51cb000be33948dd19b89ef8bbc9
+Premiere 6,p2p://fccseuro.pvbox.live:18912/5bee5265000da90c19d963c4266406e6#p2p://fccsovh.pvbox.live:18912/5bee5265000da90c19d963c4266406e6
+Cartoon Network,p2p://fccseuro.pvbox.live:18912/5bee54080007f46219dfc7051c2d64ba#p2p://fccsovh.pvbox.live:18912/5bee54080007f46219dfc7051c2d64ba
+TLC,p2p://fccseuro.pvbox.live:18912/5bee55ea00058e575bb92e06a79fb116#p2p://fccsovh.pvbox.live:18912/5bee55ea00058e575bb92e06a79fb116
+Boomerang BR,p2p://fccseuro.pvbox.live:18912/5bee4dfe0006bf7b1b23ffc6f29dddbf#p2p://fccsovh.pvbox.live:18912/5bee4dfe0006bf7b1b23ffc6f29dddbf
+Fox Premium 2,p2p://fccseuro.pvbox.live:18912/5bee4fd6000b5621613c878bcaeba409#p2p://fccsovh.pvbox.live:18912/5bee4fd6000b5621613c878bcaeba409
+Discovery WORLD,p2p://fccseuro.pvbox.live:18912/5bee4e9b0004056f76e84736af101f06#p2p://fccsovh.pvbox.live:18912/5bee4e9b0004056f76e84736af101f06
+Max,p2p://fccseuro.pvbox.live:18912/5bee50730005ac9d68efdfd00ba72bf8#p2p://fccsovh.pvbox.live:18912/5bee50730005ac9d68efdfd00ba72bf8
+Bein Sport 3,p2p://fccseuro.pvbox.live:18912/5bee510d000165c16f7ad09f354c4fed#p2p://fccsovh.pvbox.live:18912/5bee510d000165c16f7ad09f354c4fed
+Music Box,p2p://fccseuro.pvbox.live:18912/5bee51cf00025dc36e4e439100e854f5#p2p://fccsovh.pvbox.live:18912/5bee51cf00025dc36e4e439100e854f5
+Telecine Cult,p2p://fccseuro.pvbox.live:18912/5bee52ee0009c5c819db79f24b06298e#p2p://fccsovh.pvbox.live:18912/5bee52ee0009c5c819db79f24b06298e
+Premiere 7,p2p://fccseuro.pvbox.live:18912/5bee5269000c55e819d973164a955a05#p2p://fccsovh.pvbox.live:18912/5bee5269000c55e819d973164a955a05
+Fox Life,p2p://fccseuro.pvbox.live:18912/5bee54a90006fc4c19e23baf7fa87d08#p2p://fccsovh.pvbox.live:18912/5bee54a90006fc4c19e23baf7fa87d08
+Porto Canal,p2p://fccseuro.pvbox.live:18912/5bee555700007169c5054cf5eb197be8#p2p://fccsovh.pvbox.live:18912/5bee555700007169c5054cf5eb197be8
+Toros TV,p2p://fccseuro.pvbox.live:18912/5bee55ed000a65da43c253982bef2c4c#p2p://fccsovh.pvbox.live:18912/5bee55ed000a65da43c253982bef2c4c
+Fox Sports 2 BR,p2p://fccseuro.pvbox.live:18912/5bee4fda00069ce535abcf8e7b94e41e#p2p://fccsovh.pvbox.live:18912/5bee4fda00069ce535abcf8e7b94e41e
+Disney BR,p2p://fccseuro.pvbox.live:18912/5bee4e9e000ba6493a5846cdc137d5f4#p2p://fccsovh.pvbox.live:18912/5bee4e9e000ba6493a5846cdc137d5f4
+Bein Sport 1,p2p://fccseuro.pvbox.live:18912/5bee51100008b6be32731370c1f6e7ec#p2p://fccsovh.pvbox.live:18912/5bee51100008b6be32731370c1f6e7ec
+NAT GEO BR,p2p://fccseuro.pvbox.live:18912/5bee51d2000a15b86c056645e8674ed0#p2p://fccsovh.pvbox.live:18912/5bee51d2000a15b86c056645e8674ed0
+Telecine Fun,p2p://fccseuro.pvbox.live:18912/5bee52f20001e78519db878f7a114e73#p2p://fccsovh.pvbox.live:18912/5bee52f20001e78519db878f7a114e73
+Premiere Clubes,p2p://fccseuro.pvbox.live:18912/5bee526d0003c7fd19d980842df27224#p2p://fccsovh.pvbox.live:18912/5bee526d0003c7fd19d980842df27224
+A&E,p2p://fccseuro.pvbox.live:18912/5bee537f000e17f2eb9f7077175335ea#p2p://fccsovh.pvbox.live:18912/5bee537f000e17f2eb9f7077175335ea
+Casa E Pesca,p2p://fccseuro.pvbox.live:18912/5bee540f0006cad519dfe20f3afe0f4a#p2p://fccsovh.pvbox.live:18912/5bee540f0006cad519dfe20f3afe0f4a
+Fox Movies,p2p://fccseuro.pvbox.live:18912/5bee54ac000d182119e248fd31344946#p2p://fccsovh.pvbox.live:18912/5bee54ac000d182119e248fd31344946
+RTP 1,p2p://fccseuro.pvbox.live:18912/5bee555a0009ba1727fb91b380f8091b#p2p://fccsovh.pvbox.live:18912/5bee555a0009ba1727fb91b380f8091b
+Travel Channel,p2p://fccseuro.pvbox.live:18912/5bee55f1000baa0541751e49495fd21f#p2p://fccsovh.pvbox.live:18912/5bee55f1000baa0541751e49495fd21f
+BT Sport 2,p2p://fccseuro.pvbox.live:18912/5bee4e05000650af19c84ae038dc748b#p2p://fccsovh.pvbox.live:18912/5bee4e05000650af19c84ae038dc748b
+Sky Sports Arena,p2p://fccseuro.pvbox.live:18912/5bee4fdd000baa3c19cf80076af13462#p2p://fccsovh.pvbox.live:18912/5bee4fdd000baa3c19cf80076af13462
+DISNEY JR BR,p2p://fccseuro.pvbox.live:18912/5bee4ea20003335f85191976173d0d21#p2p://fccsovh.pvbox.live:18912/5bee4ea20003335f85191976173d0d21
+Bein Sport  2,p2p://fccseuro.pvbox.live:18912/5bee51140001fa6a62e055d0f36ad053#p2p://fccsovh.pvbox.live:18912/5bee51140001fa6a62e055d0f36ad053
+ARTV,p2p://fccseuro.pvbox.live:18912/5bee51d6000130a091b0452e0cf8c526#p2p://fccsovh.pvbox.live:18912/5bee51d6000130a091b0452e0cf8c526
+Boomerang BR,p2p://fccseuro.pvbox.live:18912/5bee5270000c9e7f19d98e7e3b281639#p2p://fccsovh.pvbox.live:18912/5bee5270000c9e7f19d98e7e3b281639
+A Bola TV,p2p://fccseuro.pvbox.live:18912/5bee53830004fd2e2c044d3ce5107f6f#p2p://fccsovh.pvbox.live:18912/5bee53830004fd2e2c044d3ce5107f6f
+CBS Reality,p2p://fccseuro.pvbox.live:18912/5bee5412000c7fbe19dfef3e65804695#p2p://fccsovh.pvbox.live:18912/5bee5412000c7fbe19dfef3e65804695
+Fuel TV,p2p://fccseuro.pvbox.live:18912/5bee54b00004592f19e2565b2caa21ee#p2p://fccsovh.pvbox.live:18912/5bee54b00004592f19e2565b2caa21ee
+TV Cine 1,p2p://fccseuro.pvbox.live:18912/5bee55f50003611f73ca9254837e86b3#p2p://fccsovh.pvbox.live:18912/5bee55f50003611f73ca9254837e86b3
+Fox Sports 1,p2p://fccseuro.pvbox.live:18912/5bee4fe10005de66ac332869ddadff71#p2p://fccsovh.pvbox.live:18912/5bee4fe10005de66ac332869ddadff71
+Disney XD BR,p2p://fccseuro.pvbox.live:18912/5bee4ea50009f36c4321bebc7880faba#p2p://fccsovh.pvbox.live:18912/5bee4ea50009f36c4321bebc7880faba
+Sky Sports MainEvent,p2p://fccseuro.pvbox.live:18912/5bee507e0000795b19d1f2110d81174c#p2p://fccsovh.pvbox.live:18912/5bee507e0000795b19d1f2110d81174c
+NAT GEO Wild BR,p2p://fccseuro.pvbox.live:18912/5bee51d90006e56566fcc24461f02e23#p2p://fccsovh.pvbox.live:18912/5bee51d90006e56566fcc24461f02e23
+Record,p2p://fccseuro.pvbox.live:18912/5bee527400038b2b147115882a788a10#p2p://fccsovh.pvbox.live:18912/5bee527400038b2b147115882a788a10
+Globo,p2p://fccseuro.pvbox.live:18912/5bee54b3000bfdea19e264070b6d00b8#p2p://fccsovh.pvbox.live:18912/5bee54b3000bfdea19e264070b6d00b8
+RTP 3,p2p://fccseuro.pvbox.live:18912/5bee55610008855cc94c067d84633e0c#p2p://fccsovh.pvbox.live:18912/5bee55610008855cc94c067d84633e0c
+TV Cine 2,p2p://fccseuro.pvbox.live:18912/5bee55f8000921a68cf30314356144bf#p2p://fccsovh.pvbox.live:18912/5bee55f8000921a68cf30314356144bf
+E! BR,p2p://fccseuro.pvbox.live:18912/5bee4ea9000002e3ff576aafaca0975f#p2p://fccsovh.pvbox.live:18912/5bee4ea9000002e3ff576aafaca0975f
+Sky Sports Action,p2p://fccseuro.pvbox.live:18912/5bee5081000b61a019d200986d231967#p2p://fccsovh.pvbox.live:18912/5bee5081000b61a019d200986d231967
+Sky Primafila,p2p://fccseuro.pvbox.live:18912/5bee51dc000d4a2219d74c8d661833e6#p2p://fccsovh.pvbox.live:18912/5bee51dc000d4a2219d74c8d661833e6
+Rede TV,p2p://fccseuro.pvbox.live:18912/5bee5277000b190913066e73206566e0#p2p://fccsovh.pvbox.live:18912/5bee5277000b190913066e73206566e0
+AMC,p2p://fccseuro.pvbox.live:18912/5bee538a000442252216375b4001b2ff#p2p://fccsovh.pvbox.live:18912/5bee538a000442252216375b4001b2ff
+Cine Mundo,p2p://fccseuro.pvbox.live:18912/5bee5419000e0c5019e00b0366cc1576#p2p://fccsovh.pvbox.live:18912/5bee5419000e0c5019e00b0366cc1576
+Historia,p2p://fccseuro.pvbox.live:18912/5bee54b70004013e19e271a34ac46ce8#p2p://fccsovh.pvbox.live:18912/5bee54b70004013e19e271a34ac46ce8
+Sic,p2p://fccseuro.pvbox.live:18912/5bee5565000dea0076734460280a5f80#p2p://fccsovh.pvbox.live:18912/5bee5565000dea0076734460280a5f80
+TV Cine 3,p2p://fccseuro.pvbox.live:18912/5bee55fc00010a311e5933b28e75bc90#p2p://fccsovh.pvbox.live:18912/5bee55fc00010a311e5933b28e75bc90
+CNN,p2p://fccseuro.pvbox.live:18912/5bee4e1000071aff19c8761615ac25fb#p2p://fccsovh.pvbox.live:18912/5bee4e1000071aff19c8761615ac25fb
+Globo News BR,p2p://fccseuro.pvbox.live:18912/5bee4fe8000703ee719e5eb9d619c407#p2p://fccsovh.pvbox.live:18912/5bee4fe8000703ee719e5eb9d619c407
+ESPN Extra,p2p://fccseuro.pvbox.live:18912/5bee4eac000a346c0dd43f81d2066d4f#p2p://fccsovh.pvbox.live:18912/5bee4eac000a346c0dd43f81d2066d4f
+Sky Sports Cricket,p2p://fccseuro.pvbox.live:18912/5bee50850003e6b481dfefb396df2d92#p2p://fccsovh.pvbox.live:18912/5bee50850003e6b481dfefb396df2d92
+NICK JR BR,p2p://fccseuro.pvbox.live:18912/5bee51e00007a3fd7d403e475b09061b#p2p://fccsovh.pvbox.live:18912/5bee51e00007a3fd7d403e475b09061b
+SBT,p2p://fccseuro.pvbox.live:18912/5bee527b00011d5630d8216bea8cc2c0#p2p://fccsovh.pvbox.live:18912/5bee527b00011d5630d8216bea8cc2c0
+ARTV,p2p://fccseuro.pvbox.live:18912/5bee538d000cc84494597e2ea34dcd71#p2p://fccsovh.pvbox.live:18912/5bee538d000cc84494597e2ea34dcd71
+Discovery Channel,p2p://fccseuro.pvbox.live:18912/5bee541d00085ee619e0192c64f71b5c#p2p://fccsovh.pvbox.live:18912/5bee541d00085ee619e0192c64f71b5c
+Hollywood,p2p://fccseuro.pvbox.live:18912/5bee54bb0000940019e280594ff642a3#p2p://fccsovh.pvbox.live:18912/5bee54bb0000940019e280594ff642a3
+SIC Mulher,p2p://fccseuro.pvbox.live:18912/5bee556900099b7c708ee11f94542871#p2p://fccsovh.pvbox.live:18912/5bee556900099b7c708ee11f94542871
+TV Cine 4,p2p://fccseuro.pvbox.live:18912/5bee55ff0007e915ba7049327479988f#p2p://fccsovh.pvbox.live:18912/5bee55ff0007e915ba7049327479988f
+GLOBO RBS TV PORTO ALEGRE,p2p://fccseuro.pvbox.live:18912/5bee4fec0000662e1634c0796952c3c3#p2p://fccsovh.pvbox.live:18912/5bee4fec0000662e1634c0796952c3c3
+E4,p2p://fccseuro.pvbox.live:18912/5bee4eb00005497b19cae6995c701196#p2p://fccsovh.pvbox.live:18912/5bee4eb00005497b19cae6995c701196
+Sky Sports Golf,p2p://fccseuro.pvbox.live:18912/5bee5088000b42fd2d3d4107b2c45904#p2p://fccsovh.pvbox.live:18912/5bee5088000b42fd2d3d4107b2c45904
+BeIN Sport 03,p2p://fccseuro.pvbox.live:18912/5bee512200082d97fc67df58d3fe4511#p2p://fccsovh.pvbox.live:18912/5bee512200082d97fc67df58d3fe4511
+Nickelodeon BR,p2p://fccseuro.pvbox.live:18912/5bee51e3000e41bf0e0a5e5083d10ab4#p2p://fccsovh.pvbox.live:18912/5bee51e3000e41bf0e0a5e5083d10ab4
+Telecine Pipoca,p2p://fccseuro.pvbox.live:18912/5bee5303000e7b4619dbcd33311811f9#p2p://fccsovh.pvbox.live:18912/5bee5303000e7b4619dbcd33311811f9
+Space BR,p2p://fccseuro.pvbox.live:18912/5bee527e000a251119d9c4820cfc0079#p2p://fccsovh.pvbox.live:18912/5bee527e000a251119d9c4820cfc0079
+Win Sports,p2p://fccseuro.pvbox.live:18912/5bee5420000f418619e026aa78a35460#p2p://fccsovh.pvbox.live:18912/5bee5420000f418619e026aa78a35460
+Jim Jam,p2p://fccseuro.pvbox.live:18912/5bee55260000bdfd0aca1279e8affc77#p2p://fccsovh.pvbox.live:18912/5bee55260000bdfd0aca1279e8affc77
+SIC Noticias,p2p://fccseuro.pvbox.live:18912/5bee55bc000cc815b8ca3f00d0c0124b#p2p://fccsovh.pvbox.live:18912/5bee55bc000cc815b8ca3f00d0c0124b
+TV Galicia,p2p://fccseuro.pvbox.live:18912/5bee56030000f396d271b49e76fa64bb#p2p://fccsovh.pvbox.live:18912/5bee56030000f396d271b49e76fa64bb
+Globo RJ,p2p://fccseuro.pvbox.live:18912/5bee4fef000794fc46fd80480933dc86#p2p://fccsovh.pvbox.live:18912/5bee4fef000794fc46fd80480933dc86
+Sky Sports PremierLeague,p2p://fccseuro.pvbox.live:18912/5bee508c0002adb1f38612f3ab189503#p2p://fccsovh.pvbox.live:18912/5bee508c0002adb1f38612f3ab189503
+BeIN Sport 04,p2p://fccseuro.pvbox.live:18912/5bee51260001a6e1c2cc2f328b8afadd#p2p://fccsovh.pvbox.live:18912/5bee51260001a6e1c2cc2f328b8afadd
+Sky Sport 1,p2p://fccseuro.pvbox.live:18912/5bee51e70006953893e35572b1f95929#p2p://fccsovh.pvbox.live:18912/5bee51e70006953893e35572b1f95929
+Telecine Premium,p2p://fccseuro.pvbox.live:18912/5bee5307000599ae19dbda817d4f0bfd#p2p://fccsovh.pvbox.live:18912/5bee5307000599ae19dbda817d4f0bfd
+Discovery Showcase,p2p://fccseuro.pvbox.live:18912/5bee54240007d58c19e03465402e18bb#p2p://fccsovh.pvbox.live:18912/5bee54240007d58c19e03465402e18bb
+MCS Extreme,p2p://fccseuro.pvbox.live:18912/5bee552900099f7ae86ca5b917368b1c#p2p://fccsovh.pvbox.live:18912/5bee552900099f7ae86ca5b917368b1c
+SIC Radical,p2p://fccseuro.pvbox.live:18912/5bee55c00004b8abf8710c10189cdcba#p2p://fccsovh.pvbox.live:18912/5bee55c00004b8abf8710c10189cdcba
+TV Globo Premium,p2p://fccseuro.pvbox.live:18912/5bee56060007dd7c47632704faafe221#p2p://fccsovh.pvbox.live:18912/5bee56060007dd7c47632704faafe221
+YES-Network,p2p://fccsovh.pvbox.live:18912/5ee9c93700033d776d2304fa250e0643#p2p://fccsovh.pvbox.live:18912/5ee9c93700033d776d2304fa250e0643#p2p://fccseuro.pvbox.live:18912/5ee9c93700033d776d2304fa250e0643
+泰国,#genre#
+Channel  3,p2p://fccseuro.pvbox.live:18912/5d7206e100001827f52af8b5f0961c74#p2p://fccsovh.pvbox.live:18912/5d7206e100001827f52af8b5f0961c74
+Channel  5,p2p://fccseuro.pvbox.live:18912/5d7206e20008ea4c7858f48abe7ce2d7#p2p://fccsovh.pvbox.live:18912/5d7206e20008ea4c7858f48abe7ce2d7
+Channel  7,p2p://fccseuro.pvbox.live:18912/5d7206e40002006c22d8517f65d721f7#p2p://fccsovh.pvbox.live:18912/5d7206e40002006c22d8517f65d721f7
+ลิโด้ CHANNEL,p2p://fccsovh.pvbox.live:18912/5f6870400004cd6c5bdf06bc6fa96f45#p2p://fccseuro.pvbox.live:18912/5f6870400004cd6c5bdf06bc6fa96f45
+สยาม CHANNEL,p2p://fccsovh.pvbox.live:18912/5f68703f000992405bdf040c0cd055f9#p2p://fccseuro.pvbox.live:18912/5f68703f000992405bdf040c0cd055f9
+THAI VARIETY,p2p://fccsovh.pvbox.live:18912/5f68703e000d9f9b5bdf012e7cb23dbd#p2p://fccseuro.pvbox.live:18912/5f68703e000d9f9b5bdf012e7cb23dbd
+v2h9,p2p://fccsovh.pvbox.live:18912/5f68703e00035f1d5bdefe8e69f1099c#p2p://fccseuro.pvbox.live:18912/5f68703e00035f1d5bdefe8e69f1099c
+esan-tv,p2p://fccsovh.pvbox.live:18912/5f68703d00072ff95bdefba0771c48aa#p2p://fccseuro.pvbox.live:18912/5f68703d00072ff95bdefba0771c48aa
+sanook-tv,p2p://fccsovh.pvbox.live:18912/5f68703c000918285bdef8354e7310e8#p2p://fccseuro.pvbox.live:18912/5f68703c000918285bdef8354e7310e8
+TVD MONO,p2p://fccsovh.pvbox.live:18912/5f68703b000e19ed5bdef59552114102#p2p://fccseuro.pvbox.live:18912/5f68703b000e19ed5bdef59552114102
+HAPPY TV,p2p://fccsovh.pvbox.live:18912/5f68703b0002a8205bdef2a711143410#p2p://fccseuro.pvbox.live:18912/5f68703b0002a8205bdef2a711143410
+TVB THAI,p2p://fccsovh.pvbox.live:18912/5f686c4e00077b145bcf9e2777ba30a6#p2p://fccseuro.pvbox.live:18912/5f686c4e00077b145bcf9e2777ba30a6
+บันเทิงเกินร้อย,p2p://fccsovh.pvbox.live:18912/5f686c4f000330695bcfa0f6081c0d73#p2p://fccseuro.pvbox.live:18912/5f686c4f000330695bcfa0f6081c0d73
+MVTV,p2p://fccsovh.pvbox.live:18912/5f686c50000053dc5bcfa4226c0a2388#p2p://fccseuro.pvbox.live:18912/5f686c50000053dc5bcfa4226c0a2388
+V2H2TV,p2p://fccsovh.pvbox.live:18912/5f686c50000c7cdf5bcfa73f4a901b65#p2p://fccseuro.pvbox.live:18912/5f686c50000c7cdf5bcfa73f4a901b65
+MIX MAJOR CHANNEL,p2p://fccsovh.pvbox.live:18912/5f686c510007f5275bcfa9fe748367c2#p2p://fccseuro.pvbox.live:18912/5f686c510007f5275bcfa9fe748367c2
+MVLAO CHANNEL,p2p://fccsovh.pvbox.live:18912/5f686c520002792e5bcfac7f55ec08f4#p2p://fccseuro.pvbox.live:18912/5f686c520002792e5bcfac7f55ec08f4
+MVM,p2p://fccsovh.pvbox.live:18912/5f686c52000deabc5bcfaf6d26856d22#p2p://fccseuro.pvbox.live:18912/5f686c52000deabc5bcfaf6d26856d22
+55ch,p2p://fccsovh.pvbox.live:18912/5f686c53000a94675bcfb27a4bce7a38#p2p://fccseuro.pvbox.live:18912/5f686c53000a94675bcfb27a4bce7a38
+THAIBAN,p2p://fccsovh.pvbox.live:18912/5f686c540005cfc85bcfb52a10b015d8#p2p://fccseuro.pvbox.live:18912/5f686c540005cfc85bcfb52a10b015d8
+69TVสื่อออนไลน,p2p://fccsovh.pvbox.live:18912/5f686c550001c1fb5bcfb808102f4e17#p2p://fccseuro.pvbox.live:18912/5f686c550001c1fb5bcfb808102f4e17
+สกาล่า CHANNEL,p2p://fccsovh.pvbox.live:18912/5f68704100026b175bdf0a07192a4aec#p2p://fccseuro.pvbox.live:18912/5f68704100026b175bdf0a07192a4aec
+ราม่า CHANNEL,p2p://fccsovh.pvbox.live:18912/5f687042000008915bdf0d536a396a5c#p2p://fccseuro.pvbox.live:18912/5f687042000008915bdf0d536a396a5c
+Amarin,p2p://fccsovh.pvbox.live:18912/5faa922d000ec4505e33562209f534cf#p2p://fccseuro.pvbox.live:18912/5faa922d000ec4505e33562209f534cf
+Channel 8,p2p://fccsovh.pvbox.live:18912/5faa922e000e0d3d5e3359db3ca751e0#p2p://fccseuro.pvbox.live:18912/5faa922e000e0d3d5e3359db3ca751e0
+Gmmone,p2p://fccsovh.pvbox.live:18912/5faa922f000b30cb5e335d0741ce1434#p2p://fccseuro.pvbox.live:18912/5faa922f000b30cb5e335d0741ce1434
+Mono,p2p://fccsovh.pvbox.live:18912/5faa9230000854535e33603465d43c90#p2p://fccseuro.pvbox.live:18912/5faa9230000854535e33603465d43c90
+Thairath,p2p://fccsovh.pvbox.live:18912/5faa9231000760425e3363dd5a25016c#p2p://fccseuro.pvbox.live:18912/5faa9231000760425e3363dd5a25016c
+TPBS,p2p://fccsovh.pvbox.live:18912/5faa923200029b605e33668d3f8f482e#p2p://fccseuro.pvbox.live:18912/5faa923200029b605e33668d3f8f482e
+Workpoint,p2p://fccsovh.pvbox.live:18912/5faa9232000f3e1b5e3369c96a1e57d9#p2p://fccseuro.pvbox.live:18912/5faa9232000f3e1b5e3369c96a1e57d9
+Gmm Channel,p2p://fccsovh.pvbox.live:18912/5faa9233000be7f85e336cd67a7f6dd2#p2p://fccseuro.pvbox.live:18912/5faa9233000be7f85e336cd67a7f6dd2
+Nation,p2p://fccsovh.pvbox.live:18912/5faa923400079cfe5e336fa55e3a7cee#p2p://fccseuro.pvbox.live:18912/5faa923400079cfe5e336fa55e3a7cee
+Tnn24,p2p://fccsovh.pvbox.live:18912/5faa92350004097a5e3372a3059149a3#p2p://fccseuro.pvbox.live:18912/5faa92350004097a5e3372a3059149a3
+Nbt,p2p://fccsovh.pvbox.live:18912/5faa9235000f015e5e33757126e65704#p2p://fccseuro.pvbox.live:18912/5faa9235000f015e5e33757126e65704
+New,p2p://fccsovh.pvbox.live:18912/5faa9236000b6d8a5e33786f61953df5#p2p://fccseuro.pvbox.live:18912/5faa9236000b6d8a5e33786f61953df5
+TPTV,p2p://fccsovh.pvbox.live:18912/5faa92370006e5fc5e337b2e774572d3#p2p://fccseuro.pvbox.live:18912/5faa92370006e5fc5e337b2e774572d3
+国际,#genre#
+ALJAZEERA,p2p://fccsovh.pvbox.live:18912/5b1409fc000257834644b9a549e32078#http://live-hls-web-aje.getaj.net/AJE/01.m3u8#p2p://fccsovh.pvbox.live:18912/5b1409fc000257834644b9a549e32078#p2p://fccseuro.pvbox.live:18912/5b1409fc000257834644b9a549e32078
+AXN 新力影业动作片电视网,p2p://fccsovh.pvbox.live:18912/5b140922000388777809b9c6f83f6c7c#p2p://fccseuro.pvbox.live:18912/5b140922000388777809b9c6f83f6c7c
+BABYFIRST,p2p://fccsovh.pvbox.live:18912/5b1409da000163870212553b593146e0#p2p://fccseuro.pvbox.live:18912/5b1409da000163870212553b593146e0
+BBC HD,p2p://fccsovh.pvbox.live:18912/5b140953000257fb79f66a001c8dc5b4#p2p://fccseuro.pvbox.live:18912/5b140953000257fb79f66a001c8dc5b4
+BBC LIFESTYLE 生活频道 HD,p2p://fccsovh.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c#p2p://fccseuro.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c
+BLOOMBERG,p2p://fccsovh.pvbox.live:18912/5b13f6f10000e96ecba4c8c2133d4ddb#p2p://fccseuro.pvbox.live:18912/5b13f6f10000e96ecba4c8c2133d4ddb
+BOOMERANG,p2p://fccsovh.pvbox.live:18912/5b1409da00081124e199c465f2905838#p2p://fccseuro.pvbox.live:18912/5b1409da00081124e199c465f2905838
+CatchPlay HD,p2p://fccsovh.pvbox.live:18912/5b1409db000126a9711886b8313f331d#p2p://fccseuro.pvbox.live:18912/5b1409db000126a9711886b8313f331d
+CINEMAX,p2p://fccsovh.pvbox.live:18912/5b14096000043ff93465352634ceaed5#p2p://fccseuro.pvbox.live:18912/5b14096000043ff93465352634ceaed5
+CNBC,p2p://fccsovh.pvbox.live:18912/5b1409400000e91c05aa5f02517e6c88#p2p://fccseuro.pvbox.live:18912/5b1409400000e91c05aa5f02517e6c88
+DISCOVERY HD,p2p://fccsovh.pvbox.live:18912/5b14092b000cd4e0b31a629500c1a30f#p2p://fccseuro.pvbox.live:18912/5b14092b000cd4e0b31a629500c1a30f
+DW-TV,p2p://fccsovh.pvbox.live:18912/5b14098f0005711e1cbfd9f520e6deb7#p2p://fccseuro.pvbox.live:18912/5b14098f0005711e1cbfd9f520e6deb7
+E! ENTERTAINMENT,p2p://fccsovh.pvbox.live:18912/5b14097700040368524f5735fc2c2cf6#p2p://fccseuro.pvbox.live:18912/5b14097700040368524f5735fc2c2cf6
+FOX CRIME HD,p2p://fccsovh.pvbox.live:18912/5b14098e000e434ede2d2b64a84b3626#p2p://fccseuro.pvbox.live:18912/5b14098e000e434ede2d2b64a84b3626
+FOX优质,p2p://fccsovh.pvbox.live:18912/5b140977000ab01d7256677e192f2176#p2p://fccseuro.pvbox.live:18912/5b140977000ab01d7256677e192f2176
+FOX动作,p2p://fccsovh.pvbox.live:18912/5b140977000904d67563843aed175df7#p2p://fccseuro.pvbox.live:18912/5b140977000904d67563843aed175df7
+FOX 家庭影院HD,p2p://fccsovh.pvbox.live:18912/5b14098e000945ca8d67439c257399ef#p2p://fccseuro.pvbox.live:18912/5b14098e000945ca8d67439c257399ef
+FRANCE 24（English）,p2p://fccsovh.pvbox.live:18912/5b14090b0008c74ac02d14a3d84f248f#p2p://fccseuro.pvbox.live:18912/5b14090b0008c74ac02d14a3d84f248f
+FX 福克斯影视 HD,p2p://fccsovh.pvbox.live:18912/5b1409da000ebd47ecf41861c902cf0f#p2p://fccseuro.pvbox.live:18912/5b1409da000ebd47ecf41861c902cf0f
+FYI,p2p://fccsovh.pvbox.live:18912/5b1408f20005adced44ba37dbb0d46c1#p2p://fccseuro.pvbox.live:18912/5b1408f20005adced44ba37dbb0d46c1
+HISTORY HD,p2p://fccsovh.pvbox.live:18912/5b1408f300071d3b1901e3975b5ba4f5#p2p://fccseuro.pvbox.live:18912/5b1408f300071d3b1901e3975b5ba4f5
+HISTORY2 HD,p2p://fccsovh.pvbox.live:18912/5b1408f3000402b2e5f4077233c38acb#p2p://fccseuro.pvbox.live:18912/5b1408f3000402b2e5f4077233c38acb
+MY KIDS,p2p://fccseuro.pvbox.live:18912/5b1409da000a356eaf4555bfced52957#p2p://fccsovh.pvbox.live:18912/5b1409da000a356eaf4555bfced52957
+NICK.JR,p2p://fccsovh.pvbox.live:18912/5b14098f000ba3b068b27fda327db530#p2p://fccseuro.pvbox.live:18912/5b14098f000ba3b068b27fda327db530
+OUTDOOR HD,p2p://fccsovh.pvbox.live:18912/5b1409db000a72d4074dd362e5cf3e21#p2p://fccseuro.pvbox.live:18912/5b1409db000a72d4074dd362e5cf3e21
+SETANTA TV,p2p://fccsovh.pvbox.live:18912/5b1409770001636917d2948272683fd6#p2p://fccseuro.pvbox.live:18912/5b1409770001636917d2948272683fd6
+SKY NEWS HD,p2p://fccseuro.pvbox.live:18912/5b13f6f0000c1dd644ffd30c719c308f#p2p://fccsovh.pvbox.live:18912/5b13f6f0000c1dd644ffd30c719c308f
+SKY SPORTS-2 HD,p2p://fccsovh.pvbox.live:18912/5b14092300038913daafc752ddf16aab#p2p://fccseuro.pvbox.live:18912/5b14092300038913daafc752ddf16aab
+SKY SPORTS-1 HD,p2p://fccsovh.pvbox.live:18912/5b14090d00030e94cac240f4f1a9c97b#p2p://fccseuro.pvbox.live:18912/5b14090d00030e94cac240f4f1a9c97b
+MEZZO LIVE HD,p2p://fccsovh.pvbox.live:18912/5b14090b0006deff655b64c7883c4f42#p2p://fccseuro.pvbox.live:18912/5b14090b0006deff655b64c7883c4f42
+SKY SPORTS5,p2p://fccsovh.pvbox.live:18912/5b140a140002d25a650efd8a8c4fb984#p2p://fccseuro.pvbox.live:18912/5b140a140002d25a650efd8a8c4fb984
+SUNDANCE CHANNEL,p2p://fccsovh.pvbox.live:18912/5b1408f2000c5b2d1560791cd5b76651#p2p://fccseuro.pvbox.live:18912/5b1408f2000c5b2d1560791cd5b76651
+TRAVEL,p2p://fccsovh.pvbox.live:18912/5b13f6f10002d2ef87429e6d2f0f4a1b#p2p://fccseuro.pvbox.live:18912/5b13f6f10002d2ef87429e6d2f0f4a1b
+TV5,p2p://fccsovh.pvbox.live:18912/5b1409220005714cfe68dd0059d4ad7d#p2p://fccseuro.pvbox.live:18912/5b1409220005714cfe68dd0059d4ad7d
+TVN HD,p2p://fccseuro.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606#p2p://fccsovh.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606
+亚洲美食 HD,p2p://fccsovh.pvbox.live:18912/5b1409da000c98012b21065a2d054373#p2p://fccseuro.pvbox.live:18912/5b1409da000c98012b21065a2d054373
+今日俄罗斯,p2p://fccsovh.pvbox.live:18912/5b1409fc00006f1f53515ee06d855025#p2p://fccseuro.pvbox.live:18912/5b1409fc00006f1f53515ee06d855025
+新闻,#genre#
+CCTV-13,p2p://fccsovh.pvbox.live:18912/5b1409f30006df25643776d8e0b24224#http://ivi.bupt.edu.cn/hls/cctv13hd.m3u8#p2p://fccsovh.pvbox.live:18912/5b1409f30006df25643776d8e0b24224#p2p://fccseuro.pvbox.live:18912/5b1409f30006df25643776d8e0b24224
+CNBC,p2p://fccsovh.pvbox.live:18912/5b1409400000e91c05aa5f02517e6c88#p2p://fccseuro.pvbox.live:18912/5b1409400000e91c05aa5f02517e6c88
+CNN,p2p://fccsovh.pvbox.live:18912/5b140954000dc92a375d63ea7e478ea8#p2p://fccseuro.pvbox.live:18912/5b140954000dc92a375d63ea7e478ea8
+BBC HD,p2p://fccsovh.pvbox.live:18912/5b140953000257fb79f66a001c8dc5b4#p2p://fccseuro.pvbox.live:18912/5b140953000257fb79f66a001c8dc5b4
+BBC LIFESTYLE 生活频道 HD,p2p://fccsovh.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c#p2p://fccseuro.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c
+BBC EARTH 地球频道 HD,p2p://fccseuro.pvbox.live:18912/5b1408f200071c8bda8dd5a44dfda4bb#p2p://fccsovh.pvbox.live:18912/5b1408f200071c8bda8dd5a44dfda4bb
+TV5,p2p://fccsovh.pvbox.live:18912/5b1409220005714cfe68dd0059d4ad7d#p2p://fccseuro.pvbox.live:18912/5b1409220005714cfe68dd0059d4ad7d
+今日俄罗斯,p2p://fccsovh.pvbox.live:18912/5b1409fc00006f1f53515ee06d855025#p2p://fccseuro.pvbox.live:18912/5b1409fc00006f1f53515ee06d855025
+TVBS,p2p://fccsovh.pvbox.live:18912/5b140960000c982bf20a21204526e2d1#p2p://fccseuro.pvbox.live:18912/5b140960000c982bf20a21204526e2d1
+TVBS新闻,p2p://fccsovh.pvbox.live:18912/5b1409600008c73be370a5bcdf5defe2#p2p://fccsovh.pvbox.live:18912/5c2dd76300095ef49733277ae9c0671e#p2p://fccseuro.pvbox.live:18912/5c7249c2000e510f1d57a75a30592ee2#p2p://fccseuro.pvbox.live:18912/5b1409600008c73be370a5bcdf5defe2
+三立新闻,p2p://fccsovh.pvbox.live:18912/5b14090b000e8030977fd4408f0f97e4#p2p://fccsovh.pvbox.live:18912/5c2dd738000940698fb7c22cae6a3214#p2p://fccseuro.pvbox.live:18912/5c7249be000b87931d5796ff51e62b02#p2p://fccseuro.pvbox.live:18912/5b14090b000e8030977fd4408f0f97e4
+东森新闻,p2p://fccsovh.pvbox.live:18912/5b1409520005add4c8a3a4cecf0d2ccc#p2p://fccsovh.pvbox.live:18912/5c2dd7310008b3196f54f041ddf2e867#p2p://fccseuro.pvbox.live:18912/5c7248a0000383701d5337cb153b4b51#p2p://fccseuro.pvbox.live:18912/5b1409520005add4c8a3a4cecf0d2ccc
+中天新闻,p2p://fccsovh.pvbox.live:18912/5b14096a000dc917c7befde7c4a48ba6#p2p://fccsovh.pvbox.live:18912/5c2dd72e0002527b5e186cfd3e3fc77b#p2p://fccsovh.pvbox.live:18912/5c7249b6000641f71d5776673c1d2f63#p2p://fccseuro.pvbox.live:18912/5b14096a000dc917c7befde7c4a48ba6
+中视新闻台,p2p://fccsovh.pvbox.live:18912/5b14095e000f377429ff3179bb3ebfec#p2p://fccseuro.pvbox.live:18912/5b14095e000f377429ff3179bb3ebfec
+互动新闻,p2p://fccsovh.pvbox.live:18912/5b1409fc000a355e9df67236d78afef0#p2p://fccseuro.pvbox.live:18912/5b1409fc000a355e9df67236d78afef0
+台视新闻台,p2p://fccsovh.pvbox.live:18912/5b14090b0004b9da605c2752771f0c91#p2p://fccseuro.pvbox.live:18912/5b14090b0004b9da605c2752771f0c91
+寰宇新闻频道,p2p://fccsovh.pvbox.live:18912/5b1408f30005adec057583980131e1ee#http://pili-live-hdl.qhmywl.com/dsdtv/4677cf6625ce01b236bbb58f99094d51.flv#p2p://fccseuro.pvbox.live:18912/5b1408f30005adec057583980131e1ee
+年代新闻,p2p://fccsovh.pvbox.live:18912/5b1409fd000a726993cfe01bb3d031d2#p2p://fccsovh.pvbox.live:18912/5c2dd76000032856cd7039eebf7f8190#p2p://fccseuro.pvbox.live:18912/5c72489b000f0c1f30367ceb328beb23#p2p://fccseuro.pvbox.live:18912/5b1409fd000a726993cfe01bb3d031d2
+东森财经,p2p://fccseuro.pvbox.live:18912/5b1409f30008c7760334bb18f99bb67b#p2p://fccseuro.pvbox.live:18912/5c7249c70005b4431d57b8b006c16529#p2p://fccsovh.pvbox.live:18912/5b1409f30008c7760334bb18f99bb67b
+非凡新闻,p2p://fccsovh.pvbox.live:18912/5b14092c0001a04c14ba93925f9ef5f6#p2p://fccseuro.pvbox.live:18912/5b14092c0001a04c14ba93925f9ef5f6
+电影,#genre#
+CCTV-6 电影 HD,p2p://fccsovh.pvbox.live:18912/5b1409dc00006f93bbda61902a5daaef#http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8#http://107.148.240.185:13164/v/cctv.php?id=2000203303.m3u8#p2p://fccseuro.pvbox.live:18912/5b1409dc00006f93bbda61902a5daaef
+CHC 家庭影院 HD,p2p://fccsovh.pvbox.live:18912/5b14092b0004ba23d132a7f3289b6667#http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8#p2p://fccseuro.pvbox.live:18912/5b14092b0004ba23d132a7f3289b6667
+CHINA MOVIE,p2p://fccseuro.pvbox.live:18912/5b14095e00097ea884e3f555332398a0#p2p://fccsovh.pvbox.live:18912/5b14095e00097ea884e3f555332398a0
+CINEMAWORLD,p2p://fccsovh.pvbox.live:18912/5b1409770005ae3cb85008d8b6793772#p2p://fccseuro.pvbox.live:18912/5b1409770005ae3cb85008d8b6793772
+FOX CRIME HD,p2p://fccsovh.pvbox.live:18912/5b14098e000e434ede2d2b64a84b3626#p2p://fccseuro.pvbox.live:18912/5b14098e000e434ede2d2b64a84b3626
+FOX HD,p2p://fccsovh.pvbox.live:18912/5b14098e000c5aec49e2663f8fd7aa2e#p2p://fccseuro.pvbox.live:18912/5b14098e000c5aec49e2663f8fd7aa2e
+FOX动作,p2p://fccsovh.pvbox.live:18912/5b140977000904d67563843aed175df7#p2p://fccseuro.pvbox.live:18912/5b140977000904d67563843aed175df7
+FOX 家庭影院HD,p2p://fccsovh.pvbox.live:18912/5b14098e000945ca8d67439c257399ef#p2p://fccseuro.pvbox.live:18912/5b14098e000945ca8d67439c257399ef
+FX 福克斯影视 HD,p2p://fccsovh.pvbox.live:18912/5b1409da000ebd47ecf41861c902cf0f#p2p://fccseuro.pvbox.live:18912/5b1409da000ebd47ecf41861c902cf0f
+HBO HD,p2p://fccsovh.pvbox.live:18912/5b140969000be13c02c15179cfa10c68#p2p://fccseuro.pvbox.live:18912/5c7249dd000ca2101d58106551ff3ed4#p2p://fccseuro.pvbox.live:18912/5b140969000be13c02c15179cfa10c68
+好莱坞电影,p2p://fccsovh.pvbox.live:18912/5b1409f3000c1df591cff1add8163783#p2p://fccseuro.pvbox.live:18912/5c7249e2000125281d5820ff23a165d1#p2p://fccsovh.pvbox.live:18912/5b1409f3000c1df53f7ba0012d829cba#p2p://fccseuro.pvbox.live:18912/5b1409f3000c1df591cff1add8163783
+星卫电影,p2p://fccsovh.pvbox.live:18912/5b140940000a727a11706edeb2e5c36b#p2p://fccseuro.pvbox.live:18912/5b140940000a727a11706edeb2e5c36b
+东森洋片,p2p://fccsovh.pvbox.live:18912/5b14092300021ad17dc817097ff4a5ef#p2p://fccseuro.pvbox.live:18912/5b14092300021ad17dc817097ff4a5ef
+东森电影 HD,p2p://fccsovh.pvbox.live:18912/5b1409f20009bbe29fe3e064dd468231#p2p://fccseuro.pvbox.live:18912/5c7249d3000cb8ea1d57e9650d7148b7#p2p://fccseuro.pvbox.live:18912/5b1409f20009bbe29fe3e064dd468231
+珠江电影,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=7&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=7&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#p2p://fccsovh.pvbox.live:18912/5b14094900043fac4aecf6e0b43220fa#http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=7&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+伟来电影,p2p://fccsovh.pvbox.live:18912/5b140922000ebd5b76e2ab4af5e7fb75#p2p://fccseuro.pvbox.live:18912/5c7249d80003096d1d57fa6c33601be9#p2p://fccseuro.pvbox.live:18912/5b140922000ebd5b76e2ab4af5e7fb75
+美亚电影台 HD,p2p://fccsovh.pvbox.live:18912/5b14098f00079615addc7da33962b735#p2p://fccseuro.pvbox.live:18912/5c724a0e000442831d58cdaa6a2c5c52#p2p://fccseuro.pvbox.live:18912/5b14098f00079615addc7da33962b735
+卫视中文,p2p://fccsovh.pvbox.live:18912/5b14096a00006f07db24be365821c0f3#p2p://fccseuro.pvbox.live:18912/5c2dd752000079be2a26f4d3f111382f#p2p://fccseuro.pvbox.live:18912/5c724873000682671d5288bf72c31a80#p2p://fccseuro.pvbox.live:18912/5b14096a00006f07db24be365821c0f3
+卫视西片 HD,p2p://fccsovh.pvbox.live:18912/5b14098f00030ea4e4819ab008113231#p2p://fccseuro.pvbox.live:18912/5b14098f00030ea4e4819ab008113231
+卫视电影,p2p://fccsovh.pvbox.live:18912/5b140960000aafcc8d3e6ffa720314ad#p2p://fccseuro.pvbox.live:18912/5c2dd76a000ca61435a944c711910228#p2p://fccseuro.pvbox.live:18912/5b140960000aafcc8d3e6ffa720314ad
+高清影院,p2p://fccseuro.pvbox.live:18912/5b140a16000257643131fe220522a056#p2p://fccsovh.pvbox.live:18912/5b140a16000257643131fe220522a056
+龙华洋片,p2p://fccsovh.pvbox.live:18912/5b140917000c1e9b03053da5fe1d342e#p2p://fccseuro.pvbox.live:18912/5b140917000c1e9b03053da5fe1d342e
+hbo hits,p2p://fccsovh.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52#p2p://fccseuro.pvbox.live:18912/5c7249ee000f145b1d5853691cf1378b#p2p://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52
+HBO signature,p2p://fccsovh.pvbox.live:18912/5b14096a000a35a138bfced0badeee87#p2p://fccseuro.pvbox.live:18912/5c7249f30006ed2f1d5864de52e5054e#p2p://fccseuro.pvbox.live:18912/5b14096a000a35a138bfced0badeee87
+儿童,#genre#
+BABYFIRST,p2p://fccsovh.pvbox.live:18912/5b1409da000163870212553b593146e0#p2p://fccseuro.pvbox.live:18912/5b1409da000163870212553b593146e0
+CCTV-14 少儿HD,p2p://fccsovh.pvbox.live:18912/5b1409480007595049ccad4641b28704#http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8#p2p://fccseuro.pvbox.live:18912/5b1409480007595049ccad4641b28704
+CN 卡通,p2p://fccseuro.pvbox.live:18912/5b3c4f9a0001703e337c1b1bbec458bc#p2p://fccsovh.pvbox.live:18912/5b3c4f9a0001703e337c1b1bbec458bc
+DISNEY어린이,p2p://fccsovh.pvbox.live:18912/5b140a0c0002578a115b1277a6fa3628#p2p://fccseuro.pvbox.live:18912/5b140a0c0002578a115b1277a6fa3628
+MOMO亲子台,p2p://fccsovh.pvbox.live:18912/5b1409690009f8b05e37c26041779937#p2p://fccseuro.pvbox.live:18912/5d70eb0f000a5e750d0a9659304554ba#p2p://fccseuro.pvbox.live:18912/5b1409690009f8b05e37c26041779937
+东森呦呦,p2p://fccsovh.pvbox.live:18912/5b140a9a00071c28641ddb2252e4cebc#p2p://fccseuro.pvbox.live:18912/5c724866000564111d5255b84de26a1c#p2p://fccseuro.pvbox.live:18912/5b140a9a00071c28641ddb2252e4cebc
+纬来育乐,p2p://fccsovh.pvbox.live:18912/5b14092c000a35b5b875ce840ff0b5a3#p2p://fccseuro.pvbox.live:18912/5b14092c000a35b5b875ce840ff0b5a3
+靖天卡通台,p2p://fccsovh.pvbox.live:18912/5b14093e0009fa21d217a82446ad038a#p2p://fccseuro.pvbox.live:18912/5b14093e0009fa21d217a82446ad038a
+靖天育乐台,p2p://fccsovh.pvbox.live:18912/5b1408f2000e063f250ca8a8e16a220b#p2p://fccseuro.pvbox.live:18912/5b1408f2000e063f250ca8a8e16a220b
+龙华动画 HD,p2p://fccsovh.pvbox.live:18912/5b1409170002d1e281f08bab03e2b1ee#p2p://fccseuro.pvbox.live:18912/5b1409170002d1e281f08bab03e2b1ee
+BABY TV 国语,p2p://fccsovh.pvbox.live:18912/5b14090b00030e82c1e20111a3b91f95#p2p://fccseuro.pvbox.live:18912/5b14090b00030e82c1e20111a3b91f95
+BABY TV 英语,p2p://fccsovh.pvbox.live:18912/5b14094000047cc66dd7cd8a9ca7f3cb#p2p://fccseuro.pvbox.live:18912/5b14094000047cc66dd7cd8a9ca7f3cb
+狼谷竞技,p2p://fccsovh.pvbox.live:18912/5b14095f000b75ebce56aa4326004fac#p2p://fccseuro.pvbox.live:18912/5b14095f000b75ebce56aa4326004fac
+Nickelodeon,p2p://fccsovh.pvbox.live:18912/5fc7777a0008d1bccf12efa135ed31d1#p2p://fccseuro.pvbox.live:18912/5fc7777a0008d1bccf12efa135ed31d1
+Nick Jr,p2p://fccsovh.pvbox.live:18912/5fc7777b00063284cf12f2dd438d5ad3#p2p://fccseuro.pvbox.live:18912/5fc7777b00063284cf12f2dd438d5ad3
+Disney XD,p2p://fccsovh.pvbox.live:18912/5fc7777c0000f37dcf12f56e3e4b489c#p2p://fccseuro.pvbox.live:18912/5fc7777c0000f37dcf12f56e3e4b489c
+Cartoon Network,p2p://fccsovh.pvbox.live:18912/5fc7777c000e8a5dcf12f8e84e9f36a4#p2p://fccseuro.pvbox.live:18912/5fc7777c000e8a5dcf12f8e84e9f36a4
+Cbeebies,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11018&key=84797b799ae18d1b#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11018&key=84797b799ae18d1b
+体育,#genre#
+CCTV-5 体育HD,p2p://fccseuro.pvbox.live:18912/5b1409f20001a05db27ac7fd1bf34467#http://liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8#http://121.31.30.87:8085/ysten-business/live/cctv-5/1.m3u8#p2p://fccsovh.pvbox.live:18912/5b1409f20001a05db27ac7fd1bf34467
+CCTV-5 体育赛事 HD,p2p://fccsovh.pvbox.live:18912/5b1409f200034b730f7fdb4819ffdd6c#http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8#http://107.148.240.185:13164/v/cctv.php?id=2000204502.m3u8#p2p://fccseuro.pvbox.live:18912/5b1409f200034b730f7fdb4819ffdd6c
+风云足球,p2p://fccsovh.pvbox.live:18912/5b1409f2000b29c0c561f6d760e300ae#p2p://fccsovh.pvbox.live:18912/5b1409f2000b29c0c561f6d760e300ae#p2p://fccseuro.pvbox.live:18912/5b1409f2000b29c0c561f6d760e300ae
+广东体育,p2p://fccsovh.pvbox.live:18912/5b1409fd00034c8409b2b2bb832b8489#http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://tv528.club/hk168.php?hk168&play&vkeys=dmlkJTNEdHZtaW5nJTIzaWQlM0RHRFNwb3J0#p2p://fccseuro.pvbox.live:18912/5b1409fd00034c8409b2b2bb832b8489
+博斯运动,p2p://fccsovh.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849#p2p://fccseuro.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849
+博斯高球Ⅱ HD,p2p://fccsovh.pvbox.live:18912/5b1409dc00088a66ae0878955c9b580a#p2p://fccseuro.pvbox.live:18912/5b1409dc00088a66ae0878955c9b580a
+ELTA体育3,p2p://fccsovh.pvbox.live:18912/5b25fc8c00046f122dd8a5d154bcf87a#p2p://fccseuro.pvbox.live:18912/5c7249f7000966361d58752a73813a0e#p2p://fccseuro.pvbox.live:18912/5b25fc8c00046f122dd8a5d154bcf87a
+ELTA体育 HD,p2p://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5#p2p://fccseuro.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5
+纬来体育,p2p://fccsovh.pvbox.live:18912/5b140921000be144353d8e88e314b42a#p2p://fccseuro.pvbox.live:18912/5c2dd76e00049e335bba26bf05a87895#p2p://fccseuro.pvbox.live:18912/5c7249e60007ce3b1d5832543a7916ad#p2p://fccseuro.pvbox.live:18912/5b140921000be144353d8e88e314b42a
+NBA,p2p://fccsovh.pvbox.live:18912/5b140a0c000be0e7957bd7e5d0625236#p2p://fccseuro.pvbox.live:18912/5b140a0c000be0e7957bd7e5d0625236
+FOX SPORTS 3 HD,p2p://fccsovh.pvbox.live:18912/5b1409400002d18be0ed68ad406a3f40#p2p://fccseuro.pvbox.live:18912/5b1409400002d18be0ed68ad406a3f40
+SKY SPORTS-1 HD,p2p://fccsovh.pvbox.live:18912/5b14090d00030e94cac240f4f1a9c97b#p2p://fccseuro.pvbox.live:18912/5b14090d00030e94cac240f4f1a9c97b
+SKY SPORTS-2 HD,p2p://fccsovh.pvbox.live:18912/5b14092300038913daafc752ddf16aab#p2p://fccseuro.pvbox.live:18912/5b14092300038913daafc752ddf16aab
+SKY SPORTS5,p2p://fccsovh.pvbox.live:18912/5b140a140002d25a650efd8a8c4fb984#p2p://fccseuro.pvbox.live:18912/5b140a140002d25a650efd8a8c4fb984
+SKYSPORTS ACTIONS,p2p://118.163.81.13:11893/5b2e22aa0004a5332b1f62567389445c#p2p://fccsovh.pvbox.live:18912/5b2e22aa0004a5332b1f62567389445c
+SKYSPORTS ARENA,p2p://fccsovh.pvbox.live:18912/5b2e22ab00001d8384ddd5009047e542#p2p://fccseuro.pvbox.live:18912/5b2e22ab00001d8384ddd5009047e542
+SKYSPORTS CRICKET,p2p://fccsovh.pvbox.live:18912/5b2e22ab0005990e4ce824144ce53291#p2p://fccseuro.pvbox.live:18912/5b2e22ab0005990e4ce824144ce53291
+SKYSPORTS PREMIUM LEAGUE,p2p://fccsovh.pvbox.live:18912/5b2e22ab000ad7fd42a5bf61f5a169e7#p2p://fccseuro.pvbox.live:18912/5b2e22ab000ad7fd42a5bf61f5a169e7
+SKYSPORTS F1,p2p://fccsovh.pvbox.live:18912/5b2e22ac0000d4b061c05d994a3ba15a#p2p://fccseuro.pvbox.live:18912/5b2e22ac0000d4b061c05d994a3ba15a
+SKYSPORTS FOOTBALL,p2p://fccsovh.pvbox.live:18912/5b2e22ac0005d678465bdc1585997f69#p2p://fccseuro.pvbox.live:18912/5b2e22ac0005d678465bdc1585997f69
+SKYSPORTS GOLF,p2p://fccsovh.pvbox.live:18912/5b2e22ad00005a745ed5548a7b0e31b4#p2p://fccseuro.pvbox.live:18912/5b2e22ad00005a745ed5548a7b0e31b4
+SKYSPORTS MAIN EVENT,p2p://fccsovh.pvbox.live:18912/5b2e22ad000838eabb31d8498480e02b#p2p://fccseuro.pvbox.live:18912/5b2e22ad000838eabb31d8498480e02b
+SKYSPORTS MIX,p2p://fccsovh.pvbox.live:18912/5b2e22ad000c8355122791a184eb30be#p2p://fccseuro.pvbox.live:18912/5b2e22ad000c8355122791a184eb30be
+SKYSPORTS NEWS,p2p://fccsovh.pvbox.live:18912/5b2e22ae0002bd03c4b233eff8af924b#p2p://fccseuro.pvbox.live:18912/5b2e22ae0002bd03c4b233eff8af924b
+测试换台速度,#genre#
+Beam TV,https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/chunklist_w1001324973.m3u8#https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/chunklist_w1001324973.m3u8
+TESTGOL2,http://l132cfh6c.newtv.win/live/kwzq1rse/5f942e04/index.m3u8#http://l132cfh6c.newtv.win/live/kwzq1rse/5f942e04/index.m3u8
+TESTGOL,http://l132cfh6c.newtv.win/live/kwzq1rse/73jfhsj6/index.m3u8#http://l132cfh6c.newtv.win/live/kwzq1rse/73jfhsj6/index.m3u8
+http测试1,p2p://fccsvod.pvbox.live:8922/5b32acd5000cb1773cdb1c6145b477c7#p2p://fccsovh.pvbox.live:18912/5b32acd5000cb1773cdb1c6145b477c7
+http测试3,p2p://fccvod2.pvbox.live:8923/5daeead2000b1426ff39c54d62666edf#p2p://fccsovh.pvbox.live:18912/5daeead2000b1426ff39c54d62666edf
+测试m3u8,http://190.2.149.55/live/test.m3u8#http://190.2.149.55/live/test.m3u8
+测试m3u82,http://60.248.138.104:33813/live/FR/acfun/index.m3u8#http://60.248.138.104:33813/live/FR/acfun/index.m3u8
+CCTV-1 综合 HD,p2p://fccseuro.pvbox.live:18912/5b1409f2000cd4f759b7a4f937cebbca#http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8#p2p://fccsovh.pvbox.live:18912/5b1409f2000cd4f759b7a4f937cebbca
+http测试2,http://190.2.149.55:33813/live?app=live&stream=test#http://190.2.149.55:33813/live?app=live&stream=test
+CCTV-2,p2p://118.163.81.13:11894/5b277511000a5e2e11094625213f6e88#p2p://fccsovh.pvbox.live:18912/5b277511000a5e2e11094625213f6e88
