@@ -1,12 +1,11 @@
 NBA直播,#genre#
 纬来体育,rtmp://59.124.75.130:1935/sat/tv721
 纬来体育,rtmp://59.124.75.130/sat/tv721
-ELEVEN+体育,rtmp://59.124.75.130:1935/sat/md031
-博斯运动1,,rtmp://59.124.75.130:1935/sat/md041
+博斯魅力,rtmp://59.124.75.130:1935/sat/md031
 爱尔达体育一,rtmp://59.124.75.130/sat/md021
 爱尔达体育二,rtmp://59.124.75.130/sat/md011
-博斯网球,rtmp://59.124.75.130/sat/md051
-
+ELEVEN2体育,rtmp://59.124.75.130/sat/md051
+ELEVEN+体育,rtmp://59.124.75.130:1935/sat/md041
 🇨🇳央视频道,#genre#
 央视新闻,https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
 CCTV-4K超高清,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls$浙江#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229683/index.m3u8#http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
@@ -296,12 +295,19 @@ CCTV-17农业农村,http://39.135.138.59:18890/PLTV/88888910/224/3221225909/inde
 凤凰中文,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8$ZJ10M720
 凤凰资讯,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8$ZJ10M720
 翡翠台(大陆线路）,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-無線新聞台,http://ohyeah.gear.host/hktvb.php?id=1
-無線財經台,http://ohyeah.gear.host/hktvb.php?id=2
-無線直播台,http://ohyeah.gear.host/hktvb.php?id=3
-NOW新闻,http://ohyeah.gear.host/hknow.php?id=332
-有线新闻台,http://198.16.106.62:8278/streams/d/hkcnews_twn/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+翡翠台 1080P,https://cdn.hkdtmb.com/hls/81/index.m3u8
+无线新闻 1080P,https://cdn.hkdtmb.com/hls/83/index.m3u8
+明珠台HD,https://cdn.hkdtmb.com/hls/84/index.m3u8
+J2 1080P,https://cdn.hkdtmb.com/hls/82/index.m3u8
+无线财经资讯台 1080P,https://cdn.hkdtmb.com/hls/85/index.m3u8
+ViuTV 1080P,https://cdn.hkdtmb.com/hls/99/index.m3u8
+ViuTV 6HD,https://cdn.hkdtmb.com/hls/96/index.m3u8
+香港国际财经,https://cdn.hkdtmb.com/hls/76/index.m3u8
+开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8
+RTHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
+RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
+RTHK33,https://cdn.hkdtmb.com/hls/33/index.m3u8
 翡翠台 1080P,https://hk1.chaojidianshi.net/hls/81/index.m3u8
 无线新闻 1080P,https://hk1.chaojidianshi.net/hls/83/index.m3u8
 明珠台HD,https://hk1.chaojidianshi.net/hls/84/index.m3u8
@@ -413,13 +419,18 @@ RTHK31,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
 RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 beIN Xtra,https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 
-🇭🇰马来测试,#genre#
-AOD,http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
-华丽台,http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
-欢喜台,http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
-boo恐怖片,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-八度空间,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-天映频道,http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
+🇭🇰马来185,#genre#
+TVN185,http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
+TVN Movie185,http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
+HBO,http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+HBO HiTS,http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+HBO Signature,http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+Sony ONE185,http://185.180.221.194:8278/streams/d/One/playlist.m3u8
+BBC Earth,http://185.180.221.194:8278/streams/d/Bbcearth/playlist.m3u8
+NAT GEO 悠人,http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
+DISNEY TV,http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8 
+Animal Planet185,http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
+WWE摔角,http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
 TV1,http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
 TV2,http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
 TV3,http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
@@ -444,10 +455,10 @@ Astro Xiao Tai Yang,http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m
 Astro Hua Hee Dai,http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
 Astro Shuang Xing,http://185.180.221.194:8278/streams/d/Shuangxing/playlist.m3u8
 iQIYI,http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
-Fox Action Movies,http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 Thrill,http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
 AXN,http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
 TLC,http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
+Fox Action Movies,http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 Fox Sports 1,http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
 Fox Sports 2,http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
 Fox Sports 3,http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
@@ -456,18 +467,34 @@ Fox Life,http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
 Fox Family Movies,http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
 Fox HD,http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 Fox Crime,http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
-HBO,http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
-HBO HiTS,http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
-HBO Signature,http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+AFN,http://185.180.221.194:8278/streams/d/Afc/playlist.m3u8
 HITS,http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
 HITS MOVIES,http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
 Celestial Movie,http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 CCM,http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
 ONE,http://185.180.221.194:8278/streams/d/One/playlist.m3u8
+ANIMAX,http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
+
+
+🇭🇰马来50,#genre#
 AEC,http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
 华丽台,http://50.7.222.130:8278/streams/d/Wlt/playlist.m3u8
 欢喜台,http://50.7.222.130:8278/streams/d/Huahee/playlist.m3u8
 爱奇艺,http://50.7.222.130:8278/streams/d/Qiyi1511/playlist.m3u8
+channel 5,http://50.7.222.130:8278/streams/d/Channel5HD/playlist.m3u8
+Channel 8,http://50.7.222.130:8278/streams/d/Channel8HD/playlist.m3u8
+CNA,http://50.7.222.130:8278/streams/d/cna/playlist.m3u8
+Suria,http://50.7.222.130:8278/streams/d/Suria/playlist.m3u8
+Channel U,http://50.7.222.130:8278/streams/d/ChannelU/playlist.m3u8
+Vasantham,http://50.7.222.130:8278/streams/d/Vasantham/playlist.m3u8
+TV3,http://50.7.222.130:8278/streams/d/TV3/playlist.m3u8
+supersports 1,http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+Supersports 2,http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+Supersports 3,http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+Supersports 4,http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+
+boo恐怖片,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+八度空间,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 TVB 星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
@@ -476,15 +503,8 @@ AOD HD,http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8
 天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映频道(粵),http://210.210.155.35/qwr9ew/s/s33/01.m3u8
-channel 5,http://50.7.222.130:8278/streams/d/Channel5HD/playlist.m3u8
-Channel 8,http://50.7.222.130:8278/streams/d/Channel8HD/playlist.m3u8
-CNA,http://50.7.222.130:8278/streams/d/cna/playlist.m3u8
-Suria,http://50.7.222.130:8278/streams/d/Suria/playlist.m3u8
-Channel U,http://50.7.222.130:8278/streams/d/ChannelU/playlist.m3u8
-Vasantham,http://50.7.222.130:8278/streams/d/Vasantham/playlist.m3u8
 TV1,http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 TV2,http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-TV3,http://50.7.222.130:8278/streams/d/TV3/playlist.m3u8
 NTV7,http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 TV8,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 TV9,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
@@ -509,35 +529,6 @@ HGTV,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 NatGeo Wild HD,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 RTM Sports HD,http://50.7.161.82:8278/streams/d/Rtmsport/playlist.m3u8
 Arena,http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
-supersports 1,http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
-Supersports 2,http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-Supersports 3,http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-Supersports 4,http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
-
-185测试,#genre#
-RTHK31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
-RTHK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
-RTHK33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
-翡翠台 1080P,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
-J2 1080P,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
-无线新闻 1080P,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
-明珠台HD,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-无线财经资讯台 1080P,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
-ViuTV 6HD,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
-ViuTV 1080P,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-TVB星河台,http://185.180.221.194:8278/streams/d/Xinhe/playlist.m3u8
-華視,http://185.207.176.189:8080/channels/tw-501/mpeg.2ts
-華視教育體育文化,http://185.207.176.189:8080/channels/tw-502/mpeg.2ts
-華視新聞,http://185.207.176.189:8080/channels/tw-503/mpeg.2ts
-華視國會頻道1,http://185.207.176.189:8080/channels/tw-504/mpeg.2ts
-華視國會頻道2,http://185.207.176.189:8080/channels/tw-505/mpeg.2ts
-中視,http://185.207.176.189:8080/channels/tw-100/mpeg.2ts
-中視新聞,http://185.207.176.189:8080/channels/tw-101/mpeg.2ts
-中視經典,http://185.207.176.189:8080/channels/tw-102/mpeg.2ts
-中視精采,http://185.207.176.189:8080/channels/tw-103/mpeg.2ts
-民視,http://185.207.176.189:8080/channels/tw-300/mpeg.2ts
-民視第一台,http://185.207.176.189:8080/channels/tw-301/mpeg.2ts
-民視新聞台,http://185.207.176.189:8080/channels/tw-302/mpeg.2ts
 
 198测试,#genre#
 TVBS News 新闻台,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
@@ -561,7 +552,6 @@ TVBS,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
 美食星球,http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
 亚洲旅游,http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8
 MTV Live,http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
-
 ELTA体育3台,http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
 ELTA綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 ELTA影劇台,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
@@ -609,19 +599,8 @@ HBO,http://198.16.106.62:8278/sundance_twn/playlist.m3u8?tid=m020000000000177685
 香港鳳凰,http://198.16.106.62:8278/phoenixtv_hd/playlist.m3u8?tid=m02000000000012301168&ct=18001&tsum=d0f3fc4a36a32e3f2c3d895bb932d170
 鳳凰香港,http://198.16.106.62:8278/hkphoenix_twn/playlist.m3u8?tid=m02000000000018250733&ct=18001&tsum=e70ca7acd14b287077a17bb5a2fd3cb2
 TVB互動新聞,http://198.16.106.62:8278/inews_twn/playlist.m3u8?tid=m02000000000015903088&ct=18001&tsum=6eeaca6d11a1352c9a8022edabd0f65e
+
 🇭🇰港澳测试🇭🇰,#genre#
-翡翠台 1080P,https://cdn.hkdtmb.com/hls/81/index.m3u8
-无线新闻 1080P,https://cdn.hkdtmb.com/hls/83/index.m3u8
-明珠台HD,https://cdn.hkdtmb.com/hls/84/index.m3u8
-J2 1080P,https://cdn.hkdtmb.com/hls/82/index.m3u8
-无线财经资讯台 1080P,https://cdn.hkdtmb.com/hls/85/index.m3u8
-ViuTV 1080P,https://cdn.hkdtmb.com/hls/99/index.m3u8
-ViuTV 6HD,https://cdn.hkdtmb.com/hls/96/index.m3u8
-香港国际财经,https://cdn.hkdtmb.com/hls/76/index.m3u8
-开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8
-RTHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
-RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
-RTHK33,https://cdn.hkdtmb.com/hls/33/index.m3u8
 翡翠台 1080P,http://61.238.6.49:8000/bysid/1#http://hls.globaliptv.ml/tvbjade.php
 无线新闻 1080P,http://61.238.6.49:8001/bysid/83
 明珠台HD,http://61.238.6.49:8001/bysid/2#http://hls.globaliptv.ml/tvbpearl.php
