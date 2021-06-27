@@ -1,5 +1,11 @@
 NBA直播,#genre#
+纬来体育台,rtmp://161.202.204.248/sat/tv721#rtmp://161.202.204.248:1935/sat/tv721
 纬来体育,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8
+爱尔达体育2台,rtmp://161.202.204.248/sat/md011
+ELEVEN+,rtmp://161.202.204.248/sat/md021
+ELEVEN2,rtmp://161.202.204.248/sat/md031
+爱尔达体育1台,rtmp://161.202.204.248/sat/md041
+爱尔达体育3台,rtmp://161.202.204.248/sat/md051
 🇨🇳央视频道,#genre#
 央视新闻,https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
 CCTV-4K超高清,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls$浙江#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229683/index.m3u8#http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
@@ -302,7 +308,45 @@ ViuTV 6HD,https://cdn.hkdtmb.com/hls/96/index.m3u8
 RTHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
 RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 RTHK33,https://cdn.hkdtmb.com/hls/33/index.m3u8
-
+🇹🇼台湾频道,#genre#
+有线 SPORTS 1,rtmp://161.202.204.248:1935/sat/hk011
+有线18台,rtmp://161.202.204.248/sat/hk042
+民视,rtmp://161.202.204.248/sat/tv052#rtmp://161.202.204.248:1935/sat/tv051
+台视,rtmp://161.202.204.248/sat/tv071#rtmp://161.202.204.248:1935/sat/tv071
+中视,rtmp://161.202.204.248/sat/tv091#rtmp://161.202.204.248:1935/sat/tv091
+華视,rtmp://161.202.204.248:1935/sat/tv111
+华视,rtmp://161.202.204.248/sat/tv112
+TVBS·欢乐台,rtmp://161.202.204.248/sat/tv422#rtmp://161.202.204.248/sat/tv421
+TVBS·新闻台,rtmp://161.202.204.248/sat/tv552
+纬来体育,rtmp://161.202.204.248/sat/tv721#rtmp://161.202.204.248:1935/sat/tv721
+纬来育乐,rtmp://161.202.204.248/sat/tv701#rtmp://161.202.204.248/sat/tv702#rtmp://161.202.204.248:1935/sat/tv701
+纬来日本,rtmp://161.202.204.248:1935/sat/tv521#rtmp://161.202.204.248/sat/tv522
+爱尔达体育一,rtmp://161.202.204.248/sat/md011
+东森超视,rtmp://161.202.204.248/sat/tv772#rtmp://161.202.204.248:1935/sat/tv771#rtmp://161.202.204.248/sat/tv771
+博斯魅力,rtmp://161.202.204.248/sat/md042
+东森财经新闻,rtmp://161.202.204.248:1935/sat/tv571
+MoMo综合台,rtmp://161.202.204.248/sat/tv761
+TVBS欢乐,rtmp://161.202.204.248:1935/sat/tv421
+TVBS新闻,rtmp://161.202.204.248:1935/sat/tv551
+Mono综合,rtmp://161.202.204.248:1935/sat/tv761
+FOX体育,rtmp://161.202.204.248:1935/sat/tv731
+FOX2体育,rtmp://161.202.204.248:1935/sat/tv741
+TVBS新聞,rtmp://161.202.204.248/sat/tv551
+FOX体育3,rtmp://161.202.204.248:1935/sat/md031
+fox3,rtmp://161.202.204.248:1935/sat/md021
+ELTA1台,rtmp://161.202.204.248:1935/sat/md041
+日本MLB,rtmp://161.202.204.248:1935/sat/jp071
+博斯運動 II,rtmp://161.202.204.248:1935/sat/md051
+CBS2 720,rtmp://161.202.204.248:1935/sat/us011
+CBS2 480,rtmp://161.202.204.248:1935/sat/us012
+FS1 480,rtmp://161.202.204.248:1935/sat/us031
+FS1 352,rtmp://161.202.204.248:1935/sat/us032
+星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv#rtmp://58.200.131.2:1935/livetv/startv
+星空音乐,rtmp://58.200.131.3:1935/livetv/channelv
+亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+国家地理,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+探索频道,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
+星空体育,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 🇹🇼油管代理,#genre#
 壹新聞,http://stream.nexttv.com.tw/n001/playlist.m3u8
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
