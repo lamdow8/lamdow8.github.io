@@ -1,11 +1,5 @@
 NBA直播,#genre#
-纬来体育,rtmp://59.124.75.130:1935/sat/tv721
-纬来体育,rtmp://59.124.75.130/sat/tv721
-博斯魅力,rtmp://59.124.75.130:1935/sat/md031
-爱尔达体育一,rtmp://59.124.75.130/sat/md021
-爱尔达体育二,rtmp://59.124.75.130/sat/md011
-ELEVEN2体育,rtmp://59.124.75.130/sat/md051
-ELEVEN+体育,rtmp://59.124.75.130:1935/sat/md041
+纬来体育,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8
 🇨🇳央视频道,#genre#
 央视新闻,https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
 CCTV-4K超高清,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls$浙江#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229683/index.m3u8#http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
@@ -323,35 +317,7 @@ RTHK32,https://hk1.chaojidianshi.net/hls/32/index.m3u8
 RTHK33,https://hk1.chaojidianshi.net/hls/33/index.m3u8
 
 🇹🇼台湾频道🇹🇼,#genre#
-有线18台,rtmp://59.124.75.130/sat/hk042
-民视,rtmp://59.124.75.130/sat/tv051
-台视,rtmp://59.124.75.130/sat/tv071
-中视,rtmp://59.124.75.130/sat/tv091
-华视,rtmp://59.124.75.130/sat/tv111
-TVBS·欢乐台,rtmp://59.124.75.130/sat/tv421
-TVBS欢乐,rtmp://59.124.75.130:1935/sat/tv421
-TVBS·新闻台,rtmp://59.124.75.130/sat/tv551
-TVBS新闻,rtmp://59.124.75.130:1935/sat/tv551
-东森财经新闻,rtmp://59.124.75.130:1935/sat/tv571
-纬来日本,rtmp://59.124.75.130:1935/sat/tv521
-纬来日本,rtmp://59.124.75.130/sat/tv522
-纬来育乐,rtmp://59.124.75.130/sat/tv701
-纬来育乐,rtmp://59.124.75.130:1935/sat/tv701
-纬来体育,rtmp://59.124.75.130/sat/tv721
-纬来体育,rtmp://59.124.75.130:1935/sat/tv721
-FOX体育,rtmp://59.124.75.130:1935/sat/tv731
-FOX2体育,rtmp://59.124.75.130:1935/sat/tv741
-MoMo综合台,rtmp://59.124.75.130/sat/tv761
-Mono综合,rtmp://59.124.75.130:1935/sat/tv761
-东森超视,rtmp://59.124.75.130/sat/tv771
-东森超视,rtmp://59.124.75.130:1935/sat/tv771
-爱尔达体育二,rtmp://59.124.75.130/sat/md011
-爱尔达体育一,rtmp://59.124.75.130/sat/md021
-ELEVEN+体育,rtmp://59.124.75.130:1935/sat/md031
-博斯运动1,,rtmp://59.124.75.130:1935/sat/md041
-ELEVEN2体育,rtmp://59.124.75.130/sat/md051
-中天亚洲 ᴴᴰ,http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/320670
-TVBS亚洲 ᴴᴰ,http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/319322
+
 星级剧集台,http://hls.haokan.bdstatic.com/haokan/stream_bduid_31696503_0.m3u8
 壹新聞,http://stream.nexttv.com.tw/n001/playlist.m3u8
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
