@@ -2,9 +2,9 @@ NBA直播,#genre#
 纬来体育台,rtmp://161.202.204.248/sat/tv721#rtmp://161.202.204.248:1935/sat/tv721
 纬来体育,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8
 爱尔达体育2台,rtmp://161.202.204.248/sat/md011
-ELEVEN+,rtmp://161.202.204.248/sat/md021
+爱尔达体育1台,rtmp://161.202.204.248/sat/md021
 ELEVEN2,rtmp://161.202.204.248/sat/md031
-爱尔达体育1台,rtmp://161.202.204.248/sat/md041
+ELEVEN+,rtmp://161.202.204.248/sat/md041
 爱尔达体育3台,rtmp://161.202.204.248/sat/md051
 🇨🇳央视频道,#genre#
 央视新闻,https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
