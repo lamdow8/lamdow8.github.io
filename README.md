@@ -5,3 +5,6 @@
 [無線直播](http://ye23.byethost32.com/dl/tvb.php?id=3)
 [now直播台](http://ye23.byethost32.com/dl/now.php?id=331)
 [now新聞台](http://ye23.byethost32.com/dl/now.php?id=332)
+[有线新闻台](https://api.leonardpark.dev/live/icable/109)
+[有线财经资讯台](https://api.leonardpark.dev/live/icable/108)
+[有线直播台](https://api.leonardpark.dev/live/icable/110)
