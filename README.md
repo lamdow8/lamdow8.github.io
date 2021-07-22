@@ -32,7 +32,7 @@
 
 [東森財經新聞](https://www.youtube.com/watch?v=ABn_ccXn_jc)
 
-[華視新聞](https://www.youtube.com/watch?v=IMNMyJM7HRo)
+[華視新聞](https://www.youtube.com/watch?v=yUTy1U1wTwE)
 
 [中視新聞](https://www.youtube.com/watch?v=NHTD_g1LYOM)
 
