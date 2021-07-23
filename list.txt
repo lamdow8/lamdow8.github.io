@@ -13,7 +13,7 @@ CCTV-5+体育赛事,http://117.148.178.9/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88
 爱尔达体育3台,http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
 🇨🇳央视频道,#genre#
 央视新闻,https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
-CCTV-4K超高清,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls$浙江#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229683/index.m3u8#http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
+CCTV-4K超高清,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
 CCTV-1综合,http://223.110.241.137:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/.m3u8$银河
 CCTV-2财经,http://223.110.241.137:6610/gitv/live1/G_CCTV-2-HD/G_CCTV-2-HD/.m3u8$银河
 CCTV-3综艺,http://223.110.241.137:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/.m3u8$银河
@@ -242,22 +242,6 @@ CCTV-17农业农村,http://39.135.138.59:18890/PLTV/88888910/224/3221225909/inde
 重庆卫视 HD,http://39.135.138.8:6610/PLTV/88888888/224/3221225692/2/index.m3u8?fmt=ts2hls$江西宜春8M
 黑龙江卫视 HD,http://39.135.138.8:6610/PLTV/88888888/224/3221225586/2/index.m3u8?fmt=ts2hls$江西宜春8M
 黑龙江卫视 HD,http://39.135.138.8:6610/PLTV/88888888/224/3221225690/2/index.m3u8?fmt=ts2hls$江西宜春8M
-
-
-东方卫视 HD,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230689/01.m3u8?fmt=ts2hls$浙江4.5M
-北京卫视 HD,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228321/01.m3u8?fmt=ts2hls$浙江8M
-天津卫视 HD,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228818/index.m3u8$浙江4M
-安徽卫视 HD,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230707/01.m3u8?fmt=ts2hls$浙江4.5M
-山东卫视 HD,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230652/01.m3u8?fmt=ts2hls$浙江4.5M
-广东卫视 HD,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230661/01.m3u8?fmt=ts2hls$浙江4.5M
-江苏卫视 HD,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230698/01.m3u8?fmt=ts2hls$浙江4.5M
-江西卫视 HD,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230667/01.m3u8?fmt=ts2hls$浙江4.5M
-浙江卫视 HD,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230035/index.m3u8$浙江8M
-深圳卫视 HD,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230676/01.m3u8?fmt=ts2hls$浙江4.5M
-湖北卫视 HD,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230670/01.m3u8?fmt=ts2hls$浙江4.5M
-湖南卫视 HD,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230695/01.m3u8?fmt=ts2hls$浙江4.5M
-辽宁卫视 HD,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230692/01.m3u8?fmt=ts2hls$浙江4.5M
-黑龙江卫视 HD,http://39.134.176.163/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230710/01.m3u8?fmt=ts2hls$浙江4.5M
 
 浙江卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8$陕西12M
 天津卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8$陕西12M
@@ -706,7 +690,7 @@ FX HD測試,http://125.227.210.37:13498/VideoInput/play.ts
 ⚽体育综合,#genre#
 广东体育频道,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 五星体育,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000#http://183.207.255.188/live/program/live/ssty/4000000/mnf.m3u8
-冬奥纪实,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225676/index.m3u8
+冬奥纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225676/index.m3u8
 冬奥纪实,http://183.207.249.207/ott.js.chinamobile.com/PLTV/3/224/3221227699/index.m3u8
 新视觉台 HD,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 劲爆体育HD,http://183.207.255.188/live/program/live/jbtyhd/4000000/mnf.m3u8
