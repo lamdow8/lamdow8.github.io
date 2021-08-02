@@ -24,7 +24,19 @@ AstroOLYMPIC 9,https://link.zozotv.xyz:443/Freemium4/unlimited99/326
 AstroOLYMPIC 10,https://link.zozotv.xyz:443/Freemium4/unlimited99/327
 AstroOLYMPIC 11,https://link.zozotv.xyz:443/Freemium4/unlimited99/336
 AstroOLYMPIC 12,https://link.zozotv.xyz:443/Freemium4/unlimited99/337
-
+Thai OLYMPIC 1,http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
+Thai OLYMPIC 2,http://185.224.216.1:8081/doofootball_r9/channel2/playlist.m3u8
+Thai OLYMPIC 3,http://185.224.216.1:8081/doofootball_r9/channel3/playlist.m3u8
+Thai OLYMPIC 4,http://185.224.216.1:8081/doofootball_r9/channel4/playlist.m3u8
+Thai OLYMPIC 5,http://185.224.216.1:8081/doofootball_r9/channel5/playlist.m3u8
+Thai OLYMPIC 6,http://185.224.216.1:8081/doofootball_r9/channel6/playlist.m3u8
+Thai OLYMPIC 7,http://185.224.216.1:8081/doofootball_r9/channel7/playlist.m3u8
+Thai OLYMPIC 8,http://185.224.216.1:8081/doofootball_r9/channel8/playlist.m3u8
+Thai OLYMPIC 9,http://185.224.216.1:8081/doofootball_r9/channel9/playlist.m3u8
+Thai OLYMPIC 10,http://185.224.216.1:8081/doofootball_r9/channel10/playlist.m3u8
+Thai OLYMPIC 11,http://185.224.216.1:8081/doofootball_r9/channel11/playlist.m3u8
+Thai OLYMPIC 12,http://185.224.216.1:8081/doofootball_r9/channel12/playlist.m3u8
+Thai OLYMPIC 13,http://185.224.216.1:8081/doof
 🇨🇳央视频道,#genre#
 央视新闻,https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
 CCTV-4K超高清,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
