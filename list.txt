@@ -1,11 +1,11 @@
 🏊奥运频道,#genre#
 CCTV-5体育,http://117.148.178.9/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230734/index.m3u8
 CCTV-5+体育赛事,http://117.148.178.9/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228822/index.m3u8
-有线奥运601台,https://api.leonardpark.dev/live/icable/601
-有线奥运602台,https://api.leonardpark.dev/live/icable/602
-有线奥运603台,https://api.leonardpark.dev/live/icable/603
-有线奥运604台,https://api.leonardpark.dev/live/icable/604
-有线奥运605台,https://api.leonardpark.dev/live/icable/605
+有線奧運601台,https://www.navchina.cf/IPTV/icable.php?id=61#https://api.leonardpark.dev/live/icable/601
+有線奧運602台,https://www.navchina.cf/IPTV/icable.php?id=62#https://api.leonardpark.dev/live/icable/602
+有線高清603台,https://www.navchina.cf/IPTV/icable.php?id=63#https://api.leonardpark.dev/live/icable/603
+有線奧運604台,https://www.navchina.cf/IPTV/icable.php?id=64#https://api.leonardpark.dev/live/icable/604
+有線奧運605台,https://www.navchina.cf/IPTV/icable.php?id=65#https://api.leonardpark.dev/live/icable/605
 爱尔达奥运1,http://198.16.106.62:8278/streams/d/elta_olymp1/playlist.m3u8
 爱尔达奥运2,http://198.16.106.62:8278/streams/d/elta_olymp2/playlist.m3u8
 爱尔达奥运3,http://198.16.106.62:8278/streams/d/elta_olymp3/playlist.m3u8
@@ -24,6 +24,7 @@ AstroOLYMPIC 9,https://link.zozotv.xyz:443/Freemium4/unlimited99/326
 AstroOLYMPIC 10,https://link.zozotv.xyz:443/Freemium4/unlimited99/327
 AstroOLYMPIC 11,https://link.zozotv.xyz:443/Freemium4/unlimited99/336
 AstroOLYMPIC 12,https://link.zozotv.xyz:443/Freemium4/unlimited99/337
+
 🇨🇳央视频道,#genre#
 央视新闻,https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
 CCTV-4K超高清,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
