@@ -856,10 +856,10 @@ CHC高清电影 8M1080,http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/
 求索生活,http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
 求索科学,http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 求索记录,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
-求索动物,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls$浙江8M
-求索生活,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls$浙江8M
-求索科学,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls$浙江8M
-求索纪录,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls$浙江8M
+求索动物 8M1080,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/1/index.m3u8?fmt=ts2hls
+求索生活 8M1080,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/1/index.m3u8?fmt=ts2hls
+求索科学 8M1080,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/1/index.m3u8?fmt=ts2hls
+求索纪录 8M1080,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/1/index.m3u8?fmt=ts2hls
 
 📺福建移动,#genre#
 纯享4K 20M2160,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
