@@ -1,14 +1,12 @@
 🏊奥运频道,#genre#
 CCTV-5体育,http://117.148.178.12/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230734/index.m3u8
 CCTV-5+体育赛事,http://117.148.178.9/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228822/index.m3u8
+广东体育,http://198.204.239.194:37021/liveplay.m3u8
 有線奧運601台,https://www.navchina.cf/IPTV/icable.php?id=61#https://api.leonardpark.dev/live/icable/601
 有線奧運602台,https://www.navchina.cf/IPTV/icable.php?id=62#https://api.leonardpark.dev/live/icable/602
 有線高清603台,https://www.navchina.cf/IPTV/icable.php?id=63#https://api.leonardpark.dev/live/icable/603
 有線奧運604台,https://www.navchina.cf/IPTV/icable.php?id=64#https://api.leonardpark.dev/live/icable/604
 有線奧運605台,https://www.navchina.cf/IPTV/icable.php?id=65#https://api.leonardpark.dev/live/icable/605
-爱尔达奥运1,http://198.16.106.62:8278/streams/d/elta_olymp1/playlist.m3u8
-爱尔达奥运2,http://198.16.106.62:8278/streams/d/elta_olymp2/playlist.m3u8
-爱尔达奥运3,http://198.16.106.62:8278/streams/d/elta_olymp3/playlist.m3u8
 爱尔达体育1台,rtmp://59.124.75.153/sat/md011#rtmp://59.124.75.153/sat/md021#rtmp://59.124.75.153:1935/sat/md031#rtmp://59.124.75.153/sat/md041#rtmp://59.124.75.153/sat/md051
 爱尔达体育2台,rtmp://59.124.75.153/sat/md011#rtmp://59.124.75.153/sat/md021#rtmp://59.124.75.153:1935/sat/md031#rtmp://59.124.75.153/sat/md041#rtmp://59.124.75.153/sat/md051
 爱尔达体育3台,http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
@@ -36,7 +34,9 @@ Thai OLYMPIC 9,http://185.224.216.1:8081/doofootball_r9/channel9/playlist.m3u8
 Thai OLYMPIC 10,http://185.224.216.1:8081/doofootball_r9/channel10/playlist.m3u8
 Thai OLYMPIC 11,http://185.224.216.1:8081/doofootball_r9/channel11/playlist.m3u8
 Thai OLYMPIC 12,http://185.224.216.1:8081/doofootball_r9/channel12/playlist.m3u8
-Thai OLYMPIC 13,http://185.224.216.1:8081/doof
+Thai OLYMPIC 13,http://185.224.216.1:8081/doofootball_r9/channel13/playlist.m3u8
+Thai OLYMPIC 14,http://185.224.216.1:8081/doofootball_r9/channel14/playlist.m3u8
+Thai OLYMPIC 15,http://185.224.216.1:8081/doofootball_r9/channel15/playlist.m3u8
 🇨🇳央视频道,#genre#
 央视新闻,https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
 CCTV-4K超高清,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
