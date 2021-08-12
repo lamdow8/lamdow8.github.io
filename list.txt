@@ -317,7 +317,12 @@ ViuTV 6HD,https://cdn.hkdtmb.com/hls/96/index.m3u8
 RTHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
 RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 RTHK33,https://cdn.hkdtmb.com/hls/33/index.m3u8
+有线新闻台,https://api.leonardpark.dev/live/icable/109
+有线财经资讯台,https://api.leonardpark.dev/live/icable/108
+有线直播台,https://api.leonardpark.dev/live/icable/110
 🇹🇼台湾频道,#genre#
+三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
+三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 有线 SPORTS 1,rtmp://161.202.204.248:1935/sat/hk011
 有线18台,rtmp://161.202.204.248/sat/hk042
 民视,rtmp://161.202.204.248/sat/tv052#rtmp://161.202.204.248:1935/sat/tv051
