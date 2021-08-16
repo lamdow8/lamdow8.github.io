@@ -766,6 +766,10 @@ SiTV欢笑剧场 15M2160,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/P
 爱上4K测试,http://39.134.24.24/PLTV/88888888/224/3221226005/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8#http://118.123.60.5:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=097&Provider_id=&Pcontent_id=index.m3u8#http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=092&Provider_id=&Pcontent_id=index.m3u8
 百视通轮播(谍战),http://39.135.230.66/ott.fj.chinamobile.com/PLTV/88888888/224/3221227045/index.m3u8
 百视通轮播(科幻),http://39.135.230.79/ott.fj.chinamobile.com/PLTV/88888888/224/3221227037/index.m3u8
+CHC家庭电影,http://60.255.49.202/live/jbtygqCHCjtyyH265_4000.m3u8
+CHC动作电影,http://60.255.49.202/live/gef.wqCHCdzdyH265_4000.m3u8
+CHC高请电影,http://60.255.49.202/live/lnwsCHC-HDH265_4000.m3u8
+4K超高清电影,http://60.255.49.202/live/emdy4k_8000.m3u8
 CHC动作电影,http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 CHC动作电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 CHC动作电影,http://39.134.18.69:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8?icpid=88888888&from=1&ocs=2_39.134.18.69_80&hms_devid=7855&vqe=3
