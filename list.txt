@@ -478,6 +478,7 @@ RTHK32 ★,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 无线翡翠,https://p2.weizan.cn/1646497941/013205559193952308/live.m3u8
 无线 J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 有线603,https://p2.weizan.cn/1646497941/726330645979324846/live.m3u8
+有线新闻,http://p2.weizan.cn/949709461/921771850051779251/live.m3u8
 卫视中文,http://50.7.61.148:30080/Entry/starchinese
 TVBS综合,http://50.7.61.148:30080/Entry/tvbs
 三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
@@ -485,6 +486,12 @@ TVBS综合,http://50.7.61.148:30080/Entry/tvbs
 东森幼幼,http://www.1314lm.com/mylive/102/2025/index.m3u8
 卫视中文,http://www.1314lm.com/mylive/102/2031/index.m3u8
 年代新闻,http://www.1314lm.com/mylive/102/2050/index.m3u8
+东森新闻,http://www.1314lm.com/mylive/102/2051/index.m3u8
+中天新闻,http://www.1314lm.com/mylive/102/2052/index.m3u8
+民视新闻,http://www.1314lm.com/mylive/102/2053/index.m3u8
+TVBS新闻,http://www.1314lm.com/mylive/102/2055/index.m3u8 
+TVBS,http://www.1314lm.com/mylive/102/2056/index.m3u8
+东森财经,http://www.1314lm.com/mylive/102/2057/index.m3u8 
 非凡新闻,http://www.1314lm.com/mylive/102/2058/index.m3u8
 卫视电影,http://www.1314lm.com/mylive/102/2061/index.m3u8
 东森电影,http://www.1314lm.com/mylive/102/2062/index.m3u8
