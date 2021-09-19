@@ -18,7 +18,7 @@
 
 [有线直播台](https://api.leonardpark.dev/live/icable/110)
 
-[TVBS新聞](https://www.youtube.com/watch?v=KDRwIRKP5tY)
+[TVBS新聞](https://www.youtube.com/watch?v=V0WxUakDV7M)
 
 [民視新聞](https://www.youtube.com/watch?v=XxJKnDLYZz4)
 
