@@ -80,21 +80,21 @@ CCTV-13新闻,http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/32
 CCTV-15音乐,http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226333/1.m3u8$北京4M
 CCTV-17农业农村,http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226318/1.m3u8$北京4M
 
-CCTV-1综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8$陕西12M
-CCTV-2财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8$陕西12M
-CCTV-3综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8$陕西5M
-CCTV-4国际,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8$陕西12M
-CCTV-5体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8$陕西3M
-CCTV-5+体育赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8$陕西12M
-CCTV-6电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8$陕西5M
-CCTV-7国防军事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8$陕西3M
-CCTV-8电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8$陕西5M
-CCTV-9纪录,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8$陕西3M
-CCTV-10科教,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8$陕西3M
-CCTV-12社会与法,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8$陕西3M
-CCTV-14少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8$陕西3M
-CCTV-17农业农村,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8$陕西3M
-IPTV5+ 7.5M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226345/index.m3u8$陕西7.5M
+CCTV-1综合,http://39.134.19.20/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8$陕西12M
+CCTV-2财经,http://39.134.19.60/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8$陕西12M
+CCTV-3综艺,http://39.134.19.64/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8$陕西5M
+CCTV-4国际,http://39.134.19.20/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8$陕西12M
+CCTV-5体育,http://39.134.19.20/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8$陕西3M
+CCTV-5+体育赛事,http://39.134.19.20/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8$陕西12M
+CCTV-6电影,http://39.134.19.18/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8$陕西5M
+CCTV-7国防军事,http://39.134.19.18/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8$陕西3M
+CCTV-8电视剧,http://39.134.19.14/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8$陕西5M
+CCTV-9纪录,http://39.134.19.20/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8$陕西3M
+CCTV-10科教,http://39.134.19.20/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8$陕西3M
+CCTV-12社会与法,http://39.134.19.32/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8$陕西3M
+CCTV-14少儿,http://39.134.19.18/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8$陕西3M
+CCTV-17农业农村,http://39.134.19.20/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8$陕西3M
+IPTV5+ 7.5M1080,http://39.134.19.20/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226345/index.m3u8$陕西7.5M
 CCTV-1综合,http://39.135.89.100:6610/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$陕西银河12M
 CCTV-2财经http://39.135.89.100:6610/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$陕西银河12M
 CCTV-3综艺,http://39.135.89.100:6610/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$陕西银河5M
@@ -286,20 +286,21 @@ CCTV-17农业农村,http://39.135.138.59:18890/PLTV/88888910/224/3221225909/inde
 黑龙江卫视 HD,http://39.135.140.104:6610/PLTV/88888888/224/3221225586/2/index.m3u8?fmt=ts2hls$江西宜春8M
 黑龙江卫视 HD,http://39.135.140.104:6610/PLTV/88888888/224/3221225690/2/index.m3u8?fmt=ts2hls$江西宜春8M
 
-浙江卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8$陕西12M
-天津卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8$陕西12M
-湖南卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8$陕西12M
-东方卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8$陕西12M
-江苏卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8$陕西8M
-辽宁卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226210/index.m3u8$陕西12M
-北京卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8$陕西12M
-广东卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8$陕西12M
-湖北卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8$陕西12M
-山东卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8$陕西12M
-深圳卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8$陕西12M
-重庆卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8$陕西3M
-安徽卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8$陕西12M
-黑龙江卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8$陕西12M
+
+浙江卫视 HD,http://39.134.19.20/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8$陕西12M
+天津卫视 HD,http://39.134.19.20/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8$陕西12M
+湖南卫视 HD,http://39.134.19.20/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8$陕西12M
+东方卫视 HD,http://39.134.19.153/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8$陕西12M
+江苏卫视 HD,http://39.134.19.18/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8$陕西8M
+辽宁卫视 HD,http://39.134.19.42/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226210/index.m3u8$陕西12M
+北京卫视 HD,http://39.134.19.18/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8$陕西12M
+广东卫视 HD,http://39.134.19.9/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8$陕西12M
+湖北卫视 HD,http://39.134.19.9/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8$陕西12M
+山东卫视 HD,http://39.134.19.9/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8$陕西12M
+深圳卫视 HD,http://39.134.19.20/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8$陕西12M
+重庆卫视 HD,http://39.134.19.8/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8$陕西3M
+安徽卫视 HD,http://39.134.19.8/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8$陕西12M
+黑龙江卫视 HD,http://39.134.19.19/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8$陕西12M
 北京卫视 HD,http://39.135.89.100:6610/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$陕西银河
 东方卫视 HD,http://39.135.89.100:6610/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$陕西银河
 广东卫视 HD,http://39.135.89.100:6610/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$陕西银河
@@ -486,22 +487,7 @@ RTHK32 ★,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 TVBS综合,http://50.7.61.148:30080/Entry/tvbs
 三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
-东森幼幼,http://www.1314lm.com/mylive/102/2025/index.m3u8
-卫视中文,http://www.1314lm.com/mylive/102/2031/index.m3u8
-年代新闻,http://www.1314lm.com/mylive/102/2050/index.m3u8
-东森新闻,http://www.1314lm.com/mylive/102/2051/index.m3u8
-中天新闻,http://www.1314lm.com/mylive/102/2052/index.m3u8
-民视新闻,http://www.1314lm.com/mylive/102/2053/index.m3u8
-TVBS新闻,http://www.1314lm.com/mylive/102/2055/index.m3u8 
-TVBS,http://www.1314lm.com/mylive/102/2056/index.m3u8
-东森财经,http://www.1314lm.com/mylive/102/2057/index.m3u8 
-非凡新闻,http://www.1314lm.com/mylive/102/2058/index.m3u8
-卫视电影,http://www.1314lm.com/mylive/102/2061/index.m3u8
-东森电影,http://www.1314lm.com/mylive/102/2062/index.m3u8
-纬来电影,http://www.1314lm.com/mylive/102/2063/index.m3u8
-龙祥电影,http://www.1314lm.com/mylive/102/2064/index.m3u8
-HBO亚洲,http://www.1314lm.com/mylive/102/2065/index.m3u8
-CINEMAX电影,http://www.1314lm.com/mylive/102/2070/index.m3u8
+
 港台test-2,#genre#
 翡翠台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkjade&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 有线新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkyxxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
