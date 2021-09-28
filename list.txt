@@ -152,11 +152,11 @@ CCTV-12社会与法,http://39.134.39.39/PLTV/88888888/224/3221226230/index.m3u8$
 CCTV-14少儿,http://39.134.39.39/PLTV/88888888/224/3221226232/index.m3u8$兰州8M
 CCTV-15音乐,http://39.134.39.39/PLTV/88888888/224/3221226234/index.m3u8$兰州8M
 
-CCTV-1综合,http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228025/index.m3u8$江苏10M
-CCTV-2财经,http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8$江苏8M
+CCTV-1综合,http://223.110.243.159/ott.js.chinamobile.com/PLTV/3/224/3221227725/index.m3u8$江苏8M
+CCTV-2财经,http://223.110.245.142/ott.js.chinamobile.com/PLTV/3/224/3221227708/index.m3u8$江苏4M
 CCTV-3综艺,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227650/index.m3u8$江苏HEVC
 CCTV-4国际,http://223.110.245.142/ott.js.chinamobile.com/PLTV/3/224/3221227658/index.m3u8$江苏HEVC
-CCTV-5体育,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227661/index.m3u8$江苏HEVC
+CCTV-5体育,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227640/index.m3u8$江苏4M
 CCTV-5+体育赛事,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227631/index.m3u8$江苏8M
 CCTV-7国防军事,http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227690/index.m3u8$江苏8M
 CCTV-8电视剧,http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227629/index.m3u8$江苏8M
