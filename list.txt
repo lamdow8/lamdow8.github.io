@@ -472,7 +472,7 @@ TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 華視新聞資訊 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8
 華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
 
-翻墙专区,#genre#
+liveTV,#genre#
 RTHK31,http://livetv.dnsfor.me:80/channel.1.m3u8
 RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
 Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
@@ -495,24 +495,7 @@ VIU TV,http://livetv.dnsfor.me:80/channel.20.m3u8
 星空卫视,http://livetv.dnsfor.me:80/channel.22.m3u8
 UNIVERSE TV,http://livetv.dnsfor.me:80/channel.23.m3u8
 亚旅卫视,http://livetv.dnsfor.me:80/channel.24.m3u8
-
-RTHK31,http://teslagram.com/live/channel_31.m3u8#https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
-RTHK32,http://teslagram.com/live/channel_32.m3u8#https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
-有線直播新聞台,http://teslagram.com/live/channel_110.m3u8
-香港電台視像新聞直播,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
-香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
-开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
-开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-LUXE TV,http://58.26.3.53/PLTV/88888888/224/3221226265/06.m3u8
-RTHK31 ★,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
-RTHK32 ★,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
-
-港台test-1,#genre#
-无线新闻,https://p2.weizan.cn/1646497941/673946820532880688/live.m3u8
-无线翡翠,https://p2.weizan.cn/1646497941/013205559193952308/live.m3u8
-无线 J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
-有线603,https://p2.weizan.cn/1646497941/726330645979324846/live.m3u8
-有線新聞,https://p2.weizan.cn/1646497941/697113090439139173/live.m3u8
+翻墙专区,#genre#
 台视 HD,http://50.7.61.148:30080/Entry/ttv
 TVBS HD,http://50.7.61.148:30080/Entry/tvbs
 民视新闻,http://50.7.61.148:30080/Entry/ftvnews
@@ -527,6 +510,21 @@ JET综合,http://50.7.61.147:30080/Entry/jet
 SET三立台湾,http://50.7.61.148:30080/Entry/settw-
 卫视中文,http://50.7.61.148:30080/Entry/starchinese
 AXN,http://50.7.61.148:30080/Entry/axn
+RTHK31,http://teslagram.com/live/channel_31.m3u8#https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+RTHK32,http://teslagram.com/live/channel_32.m3u8#https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+香港電台視像新聞直播,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
+香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
+开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
+开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+RTHK31 ★,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+RTHK32 ★,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+
+港台test-1,#genre#
+无线新闻,https://p2.weizan.cn/1646497941/673946820532880688/live.m3u8
+无线翡翠,https://p2.weizan.cn/1646497941/013205559193952308/live.m3u8
+无线 J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+有线603,https://p2.weizan.cn/1646497941/726330645979324846/live.m3u8
+有線新聞,https://p2.weizan.cn/1646497941/697113090439139173/live.m3u8
 三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 
