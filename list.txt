@@ -417,7 +417,36 @@ Mono综合,rtmp://59.124.75.136:1935/sat/tv761
 爱尔达体育2,rtmp://59.124.75.136/sat/md031
 ELEVEN体育,rtmp://59.124.75.136/sat/md041
 博斯运动2,rtmp://59.124.75.136/sat/md051
-
+有线18台,rtmp://161.202.204.248/sat/hk042
+民视,rtmp://161.202.204.248/sat/tv051
+台视,rtmp://161.202.204.248/sat/tv071
+中视,rtmp://161.202.204.248/sat/tv091
+华视,rtmp://161.202.204.248/sat/tv111
+TVBS·欢乐台,rtmp://161.202.204.248/sat/tv421
+TVBS欢乐,rtmp://161.202.204.248:1935/sat/tv421
+TVBS·新闻台,rtmp://161.202.204.248/sat/tv551
+TVBS新闻,rtmp://161.202.204.248:1935/sat/tv551
+东森财经新闻,rtmp://161.202.204.248:1935/sat/tv571
+纬来日本,rtmp://161.202.204.248/sat/tv771
+纬来育乐,rtmp://161.202.204.248/sat/tv701
+纬来体育,rtmp://161.202.204.248/sat/tv721
+ELEVEN1体育,rtmp://161.202.204.248:1935/sat/tv731
+ELEVEN2体育,rtmp://161.202.204.248:1935/sat/tv741
+MoMo综合台,rtmp://161.202.204.248/sat/tv761
+Mono综合,rtmp://161.202.204.248:1935/sat/tv761
+东森超视,rtmp://161.202.204.248/sat/tv521
+东森超视,rtmp://161.202.204.248:1935/sat/tv521
+博斯魅力,rtmp://161.202.204.248/sat/md011
+爱尔达体育1,rtmp://161.202.204.248/sat/md021
+爱尔达体育2,rtmp://161.202.204.248/sat/md031
+ELEVEN体育,rtmp://161.202.204.248/sat/md041
+博斯运动2,rtmp://161.202.204.248/sat/md051
+有线 SPORTS 1,rtmp://161.202.204.248:1935/sat/hk011
+日本MLB,rtmp://161.202.204.248:1935/sat/jp071
+CBS2 720,rtmp://161.202.204.248:1935/sat/us011
+CBS2 480,rtmp://161.202.204.248:1935/sat/us012
+FS1 480,rtmp://161.202.204.248:1935/sat/us031
+FS1 352,rtmp://161.202.204.248:1935/sat/us032
 🇹🇼油管代理,#genre#
 壹新聞,http://stream.nexttv.com.tw/n001/playlist.m3u8
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
@@ -477,14 +506,27 @@ RTHK32,http://teslagram.com/live/channel_32.m3u8#https://rthklive2-lh.akamaihd.n
 LUXE TV,http://58.26.3.53/PLTV/88888888/224/3221226265/06.m3u8
 RTHK31 ★,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 RTHK32 ★,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+
 港台test-1,#genre#
 无线新闻,https://p2.weizan.cn/1646497941/673946820532880688/live.m3u8
 无线翡翠,https://p2.weizan.cn/1646497941/013205559193952308/live.m3u8
 无线 J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 有线603,https://p2.weizan.cn/1646497941/726330645979324846/live.m3u8
 有線新聞,https://p2.weizan.cn/1646497941/697113090439139173/live.m3u8
+台视 HD,http://50.7.61.148:30080/Entry/ttv
+TVBS HD,http://50.7.61.148:30080/Entry/tvbs
+民视新闻,http://50.7.61.148:30080/Entry/ftvnews
+中视 HD,http://50.7.61.148:30080/Entry/ctv
+TVBS新闻 HD,http://50.7.61.148:30080/Entry/tvbsnews
+非凡商业 HD,http://50.7.61.147:30080/Entry/ubnbus
+TLC,http://50.7.61.147:30080/Entry/tlc
+JET综合,http://50.7.61.147:30080/Entry/jet
+民视 HD,http://50.7.61.147:30080/Entry/ftv
+华视CTS HD,http://50.7.61.147:30080/Entry/cts
+壹新闻 HD,http://50.7.61.147:30080/Entry/etv
+SET三立台湾,http://50.7.61.148:30080/Entry/settw-
 卫视中文,http://50.7.61.148:30080/Entry/starchinese
-TVBS综合,http://50.7.61.148:30080/Entry/tvbs
+AXN,http://50.7.61.148:30080/Entry/axn
 三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 
