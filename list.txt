@@ -497,6 +497,7 @@ UNIVERSE TV,http://livetv.dnsfor.me:80/channel.23.m3u8
 亚旅卫视,http://livetv.dnsfor.me:80/channel.24.m3u8
 
 翻墙专区,#genre#
+东森新闻,http://50.7.61.147:30080/Entry/etnews
 HBO,http://50.7.61.148:30080/Entry/hbo
 纬来日本,http://50.7.61.147:30080/Entry/vljp
 台视 HD,http://50.7.61.148:30080/Entry/ttv
@@ -569,7 +570,30 @@ TVBS HD,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs&tonken=32d1adfd
 龙华电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 纬来电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 纬来体育,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwlty&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-
+185测试,#genre#
+TVB翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+TVB J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+TVB 新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+财经资讯台,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
+港台31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
+港台32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
+港台33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
+ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+ViuTVsix,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+中视,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
+中视新闻,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
+中视经典,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
+中视青采,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
+华视,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
+华视教育,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
+华视新闻,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
+华视国会1,http://185.207.176.189:8080/channels/tw-504/playlist.m3u8
+华视国会2,http://185.207.176.189:8080/channels/tw-505/playlist.m3u8
+民视,http://185.207.176.189:8080/channels/tw-300/playlist.m3u8
+民视第一台,http://185.207.176.189:8080/channels/tw-301/playlist.m3u8
+民视新闻台,http://185.207.176.189:8080/channels/tw-302/playlist.m3u8
+民视台湾台,http://185.207.176.189:8080/channels/tw-304/playlist.m3u8
 🇭🇰马来50,#genre#
 AEC,http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
 华丽台,http://50.7.222.130:8278/streams/d/Wlt/playlist.m3u8
@@ -641,46 +665,6 @@ Arena,http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 澳門微电影[1280*720],http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
 澳门葡萄牙[1280*720],http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
 
-測試(twIP),#genre#
-eleven体育1,http://125.227.210.37:10677/VideoInput/play.ts
-探索亚洲,http://125.227.210.37:10388/VideoInput/play.ts
-年代新闻,http://125.227.210.37:11055/VideoInput/play.ts
-TVBS新闻,http://125.227.210.37:16329/VideoInput/play.ts
-国家地理,http://125.227.210.37:16408/VideoInput/play.ts
-东森戏剧,http://125.227.210.37:17524/VideoInput/play.ts
-卫视洋片,http://125.227.210.55:18789/VideoInput/play.ts#http://125.227.210.37:18789/VideoInput/play.ts
-东森洋片,http://125.227.210.55:18685/VideoInput/play.ts#http://125.227.210.37:18685/VideoInput/play.ts
-年代新闻,http://125.227.210.55:11055/VideoInput/play.ts#http://125.227.210.37:11055/VideoInput/play.ts
-FX HD,http://125.227.210.55:13498/VideoInput/play.ts#http://125.227.210.37:13498/VideoInput/play.ts
-迪士尼,http://125.227.210.55:14250/VideoInput/play.ts#http://125.227.210.37:14250/VideoInput/play.ts
-中天综合,http://125.227.210.55:14583/VideoInput/play.ts#http://125.227.210.37:14583/VideoInput/play.ts
-非凡新闻,http://125.227.210.55:15078/VideoInput/play.ts#http://125.227.210.37:15078/VideoInput/play.ts
-三立新闻,http://125.227.210.55:15589/VideoInput/play.ts#http://125.227.210.37:15589/VideoInput/play.ts
-三立台湾,http://125.227.210.55:15714/VideoInput/play.ts#http://125.227.210.37:15714/VideoInput/play.ts
-中天娱乐,http://125.227.210.55:15796/VideoInput/play.ts#http://125.227.210.37:15796/VideoInput/play.ts
-CN卡通,http://125.227.210.55:16671/VideoInput/play.ts#http://125.227.210.37:16671/VideoInput/play.ts
-纬来体育,http://125.227.210.55:18358/VideoInput/play.ts#http://125.227.210.37:18358/VideoInput/play.ts
-TLC旅游,http://125.227.210.55:19020/VideoInput/play.ts#http://125.227.210.37:19020/VideoInput/play.ts
-彭博财经,http://125.227.210.55:18184/VideoInput/play.ts#http://125.227.210.37:18184/VideoInput/play.ts
-Arirang,http://125.227.210.55:8933/VideoInput/play.ts#http://125.227.210.37:8933/VideoInput/play.ts
-NHKworld,http://125.227.210.55:8931/VideoInput/play.ts#http://125.227.210.37:8931/VideoInput/play.ts
-YTN,http://125.227.210.55:8932/VideoInput/play.ts#http://125.227.210.37:8932/VideoInput/play.ts
-HBO,http://125.227.210.55:16027/VideoInput/play.ts#http://125.227.210.37:16027/VideoInput/play.ts
-CNBC,http://125.227.210.55:16415/VideoInput/play.ts#http://125.227.210.37:16415/VideoInput/play.ts
-DW,http://125.227.210.55:8934/VideoInput/play.ts#http://125.227.210.37:8934/VideoInput/play.ts
-DW德语,http://125.227.210.55:8935/VideoInput/play.ts#http://125.227.210.37:8935/VideoInput/play.ts
-RT,http://125.227.210.55:8936/VideoInput/play.ts#http://125.227.210.37:8936/VideoInput/play.ts
-TV5亚洲,http://125.227.210.55:8937/VideoInput/play.ts#http://125.227.210.37:8937/VideoInput/play.ts
-半岛新闻,http://125.227.210.55:8938/VideoInput/play.ts#http://125.227.210.37:8938/VideoInput/play.ts
-NHKbs1,http://125.227.210.55:8939/VideoInput/play.ts#http://125.227.210.37:8939/VideoInput/play.ts
-NHKbsp,http://125.227.210.55:8940/VideoInput/play.ts#http://125.227.210.37:8940/VideoInput/play.ts
-BBCworld,http://125.227.210.55:10246/VideoInput/play.ts#http://125.227.210.37:10246/VideoInput/play.ts
-CNN,http://125.227.210.55:10797/VideoInput/play.ts#http://125.227.210.37:10797/VideoInput/play.ts                                                                                                                                      
-Aldult-1,http://125.227.210.55:9051/VideoInput/play.ts
-Aldult-2,http://125.227.210.55:9053/VideoInput/play.ts
-Aldult-3,http://125.227.210.55:9054/VideoInput/play.ts
-Aldult-4,http://125.227.210.55:9055/VideoInput/play.ts
-Aldult-5,http://125.227.210.55:9062/VideoInput/play.ts
 
 ⚽体育综合,#genre#
 纬来体育,rtmp://161.202.204.248/sat/tv721
@@ -1651,30 +1635,7 @@ QVC Beauty 3,https://lsqvc3us-lh.akamaihd.net/i/lsqvc3us_01@809459/master.m3u8
 Beauty iQ,https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8
 GEMS TV,http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream/index.m3u8
 Jewellery Maker,https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
-185测试,#genre#
-TVB翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
-TVB J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
-TVB 新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
-明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-财经资讯台,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
-港台31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
-港台32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
-港台33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
-ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-ViuTVsix,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
-中视,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
-中视新闻,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
-中视经典,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
-中视青采,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
-华视,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
-华视教育,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
-华视新闻,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
-华视国会1,http://185.207.176.189:8080/channels/tw-504/playlist.m3u8
-华视国会2,http://185.207.176.189:8080/channels/tw-505/playlist.m3u8
-民视,http://185.207.176.189:8080/channels/tw-300/playlist.m3u8
-民视第一台,http://185.207.176.189:8080/channels/tw-301/playlist.m3u8
-民视新闻台,http://185.207.176.189:8080/channels/tw-302/playlist.m3u8
-民视台湾台,http://185.207.176.189:8080/channels/tw-304/playlist.m3u8
+
 198测试,#genre#
 TVBS News 新闻台,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
 TVBS欢乐,http://198.16.106.62:8278/streams/d/tvbsgbk_twn/playlist.m3u8
@@ -1799,3 +1760,43 @@ Celestial Movie,http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 CCM,http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
 ONE,http://185.180.221.194:8278/streams/d/One/playlist.m3u8
 ANIMAX,http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
+測試(twIP),#genre#
+eleven体育1,http://125.227.210.37:10677/VideoInput/play.ts
+探索亚洲,http://125.227.210.37:10388/VideoInput/play.ts
+年代新闻,http://125.227.210.37:11055/VideoInput/play.ts
+TVBS新闻,http://125.227.210.37:16329/VideoInput/play.ts
+国家地理,http://125.227.210.37:16408/VideoInput/play.ts
+东森戏剧,http://125.227.210.37:17524/VideoInput/play.ts
+卫视洋片,http://125.227.210.55:18789/VideoInput/play.ts#http://125.227.210.37:18789/VideoInput/play.ts
+东森洋片,http://125.227.210.55:18685/VideoInput/play.ts#http://125.227.210.37:18685/VideoInput/play.ts
+年代新闻,http://125.227.210.55:11055/VideoInput/play.ts#http://125.227.210.37:11055/VideoInput/play.ts
+FX HD,http://125.227.210.55:13498/VideoInput/play.ts#http://125.227.210.37:13498/VideoInput/play.ts
+迪士尼,http://125.227.210.55:14250/VideoInput/play.ts#http://125.227.210.37:14250/VideoInput/play.ts
+中天综合,http://125.227.210.55:14583/VideoInput/play.ts#http://125.227.210.37:14583/VideoInput/play.ts
+非凡新闻,http://125.227.210.55:15078/VideoInput/play.ts#http://125.227.210.37:15078/VideoInput/play.ts
+三立新闻,http://125.227.210.55:15589/VideoInput/play.ts#http://125.227.210.37:15589/VideoInput/play.ts
+三立台湾,http://125.227.210.55:15714/VideoInput/play.ts#http://125.227.210.37:15714/VideoInput/play.ts
+中天娱乐,http://125.227.210.55:15796/VideoInput/play.ts#http://125.227.210.37:15796/VideoInput/play.ts
+CN卡通,http://125.227.210.55:16671/VideoInput/play.ts#http://125.227.210.37:16671/VideoInput/play.ts
+纬来体育,http://125.227.210.55:18358/VideoInput/play.ts#http://125.227.210.37:18358/VideoInput/play.ts
+TLC旅游,http://125.227.210.55:19020/VideoInput/play.ts#http://125.227.210.37:19020/VideoInput/play.ts
+彭博财经,http://125.227.210.55:18184/VideoInput/play.ts#http://125.227.210.37:18184/VideoInput/play.ts
+Arirang,http://125.227.210.55:8933/VideoInput/play.ts#http://125.227.210.37:8933/VideoInput/play.ts
+NHKworld,http://125.227.210.55:8931/VideoInput/play.ts#http://125.227.210.37:8931/VideoInput/play.ts
+YTN,http://125.227.210.55:8932/VideoInput/play.ts#http://125.227.210.37:8932/VideoInput/play.ts
+HBO,http://125.227.210.55:16027/VideoInput/play.ts#http://125.227.210.37:16027/VideoInput/play.ts
+CNBC,http://125.227.210.55:16415/VideoInput/play.ts#http://125.227.210.37:16415/VideoInput/play.ts
+DW,http://125.227.210.55:8934/VideoInput/play.ts#http://125.227.210.37:8934/VideoInput/play.ts
+DW德语,http://125.227.210.55:8935/VideoInput/play.ts#http://125.227.210.37:8935/VideoInput/play.ts
+RT,http://125.227.210.55:8936/VideoInput/play.ts#http://125.227.210.37:8936/VideoInput/play.ts
+TV5亚洲,http://125.227.210.55:8937/VideoInput/play.ts#http://125.227.210.37:8937/VideoInput/play.ts
+半岛新闻,http://125.227.210.55:8938/VideoInput/play.ts#http://125.227.210.37:8938/VideoInput/play.ts
+NHKbs1,http://125.227.210.55:8939/VideoInput/play.ts#http://125.227.210.37:8939/VideoInput/play.ts
+NHKbsp,http://125.227.210.55:8940/VideoInput/play.ts#http://125.227.210.37:8940/VideoInput/play.ts
+BBCworld,http://125.227.210.55:10246/VideoInput/play.ts#http://125.227.210.37:10246/VideoInput/play.ts
+CNN,http://125.227.210.55:10797/VideoInput/play.ts#http://125.227.210.37:10797/VideoInput/play.ts                                                                                                                                      
+Aldult-1,http://125.227.210.55:9051/VideoInput/play.ts
+Aldult-2,http://125.227.210.55:9053/VideoInput/play.ts
+Aldult-3,http://125.227.210.55:9054/VideoInput/play.ts
+Aldult-4,http://125.227.210.55:9055/VideoInput/play.ts
+Aldult-5,http://125.227.210.55:9062/VideoInput/play.ts
