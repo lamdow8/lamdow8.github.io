@@ -522,13 +522,6 @@ RTHK32,http://teslagram.com/live/channel_32.m3u8#https://rthklive2-lh.akamaihd.n
 开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 RTHK31 ★,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 RTHK32 ★,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
-
-港台test-1,#genre#
-无线 J2,https://p2.weizan.cn/1646497941/656825935127843180/live.m3u8
-无线新闻,https://p2.weizan.cn/1646497941/673946820532880688/live.m3u8
-无线翡翠,https://p2.weizan.cn/1646497941/013205559193952308/live.m3u8
-有线603,https://p2.weizan.cn/1646497941/726330645979324846/live.m3u8
-有線新聞,https://p2.weizan.cn/1646497941/697113090439139173/live.m3u8
 三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 
@@ -1760,7 +1753,7 @@ Celestial Movie,http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 CCM,http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
 ONE,http://185.180.221.194:8278/streams/d/One/playlist.m3u8
 ANIMAX,http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
-測試(twIP),#genre#
+測試(twIP)_1,#genre#
 eleven体育1,http://125.227.210.37:10677/VideoInput/play.ts
 探索亚洲,http://125.227.210.37:10388/VideoInput/play.ts
 年代新闻,http://125.227.210.37:11055/VideoInput/play.ts
