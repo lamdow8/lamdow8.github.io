@@ -389,9 +389,14 @@ ViuTV 6HD,https://cdn.hkdtmb.com/hls/96/index.m3u8
 RTHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
 RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 RTHK33,https://cdn.hkdtmb.com/hls/33/index.m3u8
+TVB星河(粤),http://cdn-v2.hkdtmb.com/hls/319/index.m3u8
+有线新闻台,http://cdn-v2.hkdtmb.com/hls/109/index.m3u8
+有线直播新闻,http://cdn-v2.hkdtmb.com/hls/110/index.m3u8
+有线财经,http://cdn-v2.hkdtmb.com/hls/108/index.m3u8
 有线新闻台,https://api.leonardpark.dev/live/icable/109
 有线财经资讯台,https://api.leonardpark.dev/live/icable/108
 有线直播台,https://api.leonardpark.dev/live/icable/110
+
 
 🇹🇼台湾频道,#genre#
 有线18台,rtmp://59.124.75.136/sat/hk042
@@ -533,19 +538,19 @@ RTHK32 ★,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 有線新聞,https://p2.weizan.cn/1646497941/697113090439139174/live.m3u8
 三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
-民视新闻,http://sytv.xtvants.fun/mytv.php?id=msxw&token=free&user=free
-台视新闻,http://sytv.xtvants.fun/mytv.php?id=tsxw&token=free&user=free
-中视新闻,http://sytv.xtvants.fun/mytv.php?id=zsxw&token=free&user=free
-华视新闻,http://sytv.xtvants.fun/mytv.php?id=hsxw&token=free&user=free
-东森新闻,http://sytv.xtvants.fun/mytv.php?id=dsxw&token=free&user=free
-中天新闻,http://sytv.xtvants.fun/mytv.php?id=ztxw&token=free&user=free
-三立新闻,http://sytv.xtvants.fun/mytv.php?id=slxw&token=free&user=free
-TVBS,http://sytv.xtvants.fun/mytv.php?id=tvbsxw&token=free&user=free
-年代新闻,http://sytv.xtvants.fun/mytv.php?id=ndxw&token=free&user=free
-壹新闻,http://sytv.xtvants.fun/mytv.php?id=yxw&token=free&user=free
-非凡新闻,http://sytv.xtvants.fun/mytv.php?id=ffxw&token=free&user=free
-环宇新闻,http://sytv.xtvants.fun/mytv.php?id=hyxw&token=free&user=free
-环宇新闻2台,http://sytv.xtvants.fun/mytv.php?id=hyxw2&token=free&user=free
+NOW新闻,http://v3948069e.live.126.net/live/uadgdzil39460877/19.flv
+NOW直播,http://v3948069e.live.126.net/live/qojgxuet23496567/20.flv
+NOW财经,http://v3948069e.live.126.net/live/uwtdzdeh20858918/21.flv
+无线新闻,http://v3948069e.live.126.net/live/hod900.flv
+无线财经,http://v3948069e.live.126.net/live/scypfjyv66589621/7.flv
+Viutv,http://v3948069e.live.126.net/live/ooadaaihygy854184.flv
+ViuTVsix,http://v3948069e.live.126.net/live/lgeuxndz47905359/10.flv
+东森新闻,http://v3948069e.live.126.net/live/chljmwfc26030164/42.flv
+TVBS新闻,http://v3948069e.live.126.net/live/eyisbshx78425035/46.flv
+三立inews,http://v3948069e.live.126.net/live/syiygqgw23248264/47.flv
+三立LIVE,http://v3948069e.live.126.net/live/tizinjzv54935020/48.flv
+中天新闻,http://v3948069e.live.126.net/live/myewtdtq55241913/40.flv
+AXN电影,http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
 
 港台test-2,#genre#
 翡翠台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkjade&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
