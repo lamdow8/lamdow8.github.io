@@ -34,6 +34,7 @@ CCTV-10科教,http://124.232.231.246:6610/000000001001/201500000132/index.m3u8?I
 CCTV-12社会与法,http://124.232.231.246:6610/000000001001/201500000133/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2$长沙电信8M
 CCTV-14少儿,http://124.232.231.246:6610/000000001001/201500000134/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2$长沙电信8M
 
+CCTV-1综合,rtsp://183.252.166.199/PLTV/88888888/224/3221226834/48356507.smil$福建8M
 CCTV-2财经,rtsp://183.252.166.199/PLTV/88888888/224/3221226655/40417429.smil$福建8M
 CCTV-4国际,rtsp://183.252.166.199/PLTV/88888888/224/3221226633/40417241.smil$福建8M
 CCTV-5+体育赛事,rtsp://183.252.166.199/PLTV/88888888/224/3221226714/40417236.smil$福建8M
@@ -447,6 +448,7 @@ CBS2 720,rtmp://161.202.204.248:1935/sat/us011
 CBS2 480,rtmp://161.202.204.248:1935/sat/us012
 FS1 480,rtmp://161.202.204.248:1935/sat/us031
 FS1 352,rtmp://161.202.204.248:1935/sat/us032
+
 🇹🇼油管代理,#genre#
 壹新聞,http://stream.nexttv.com.tw/n001/playlist.m3u8
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
@@ -472,7 +474,7 @@ TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 華視新聞資訊 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8
 華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
 
-liveTV,#genre#
+LiveTV,#genre#
 RTHK31,http://livetv.dnsfor.me:80/channel.1.m3u8
 RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
 Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
@@ -531,6 +533,19 @@ RTHK32 ★,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 有線新聞,https://p2.weizan.cn/1646497941/697113090439139174/live.m3u8
 三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
+民视新闻,http://sytv.xtvants.fun/mytv.php?id=msxw&token=free&user=free
+台视新闻,http://sytv.xtvants.fun/mytv.php?id=tsxw&token=free&user=free
+中视新闻,http://sytv.xtvants.fun/mytv.php?id=zsxw&token=free&user=free
+华视新闻,http://sytv.xtvants.fun/mytv.php?id=hsxw&token=free&user=free
+东森新闻,http://sytv.xtvants.fun/mytv.php?id=dsxw&token=free&user=free
+中天新闻,http://sytv.xtvants.fun/mytv.php?id=ztxw&token=free&user=free
+三立新闻,http://sytv.xtvants.fun/mytv.php?id=slxw&token=free&user=free
+TVBS,http://sytv.xtvants.fun/mytv.php?id=tvbsxw&token=free&user=free
+年代新闻,http://sytv.xtvants.fun/mytv.php?id=ndxw&token=free&user=free
+壹新闻,http://sytv.xtvants.fun/mytv.php?id=yxw&token=free&user=free
+非凡新闻,http://sytv.xtvants.fun/mytv.php?id=ffxw&token=free&user=free
+环宇新闻,http://sytv.xtvants.fun/mytv.php?id=hyxw&token=free&user=free
+环宇新闻2台,http://sytv.xtvants.fun/mytv.php?id=hyxw2&token=free&user=free
 
 港台test-2,#genre#
 翡翠台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkjade&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
