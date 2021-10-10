@@ -22,7 +22,7 @@
 
 [民視新聞](https://www.youtube.com/watch?v=XxJKnDLYZz4)
 
-[三立LIVE新聞](https://www.youtube.com/watch?v=pJ0VgJloR9E)
+[三立LIVE新聞](https://www.youtube.com/watch?v=FoBfXvlOR6I)
 
 [三立iNEWS新聞](https://www.youtube.com/watch?v=CKjSm5ZeehE)
 
@@ -34,8 +34,11 @@
 
 [華視新聞](https://www.youtube.com/watch?v=yUTy1U1wTwE)
 
-[中視新聞](https://www.youtube.com/watch?v=NHTD_g1LYOM)
+[中視新聞](https://www.youtube.com/watch?v=TCnaIE_SAtM)
 
 [台視新聞](https://www.youtube.com/watch?v=xL0ch83RAK8)
 
-[寰宇新聞](https://www.youtube.com/watch?v=VbrfhloE3og)
+[寰宇新聞](https://www.youtube.com/watch?v=bn-zNDGLgDw)
+
+[公视](https://www.youtube.com/watch?v=JAzRXylm3M0)
+
