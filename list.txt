@@ -239,9 +239,12 @@ CCTV-17农业农村,http://39.135.138.59:18890/PLTV/88888910/224/3221225909/inde
 黑龙江卫视 HD,http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225686/index.m3u8$广西移动8M
 
 🇭🇰香港频道,#genre#
-凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P
-凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P
+凤凰中文,http://ott.js.chinamobile.com/TVOD/3/224/3221228057/index.m3u8$JS1080P
+凤凰资讯,http://ott.js.chinamobile.com/TVOD/3/224/3221228098/index.m3u8$JS1080P
 凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
+有线新闻台,https://api.leonardpark.dev/live/icable/109
+有线财经资讯台,https://api.leonardpark.dev/live/icable/108
+有线直播台,https://api.leonardpark.dev/live/icable/110
 翡翠台(大陆线路）,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 翡翠台 1080P,https://cdn.hkdtmb.com/hls/81/index.m3u8
@@ -256,9 +259,7 @@ ViuTV 6HD,https://cdn.hkdtmb.com/hls/96/index.m3u8
 RTHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
 RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 RTHK33,https://cdn.hkdtmb.com/hls/33/index.m3u8
-有线新闻台,https://api.leonardpark.dev/live/icable/109
-有线财经资讯台,https://api.leonardpark.dev/live/icable/108
-有线直播台,https://api.leonardpark.dev/live/icable/110
+
 
 
 🇹🇼台湾频道,#genre#
