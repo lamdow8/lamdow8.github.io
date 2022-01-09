@@ -2,6 +2,7 @@
 喜爱频道,#genre#
 书画频道(不卡),http://113.64.147.3:808/hls/107/index.m3u8#http://host496323.us.ooqr.com/pltv/gdgz.php?id=107&upt=63a44f4ef2f3c6ce
 书画频道,http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&playtoken=31667LZMVCGFXDL10&verifycode=2000000576&rate=org&programid=4200000099.m3u8&ts=50&auth=no
+央视台球,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R61974758U30927004K7735947FI9BE73ABPBM356FAF3V0Z57EA5W16B8DF73913B73EF&programid=4200000596&playtoken=ABCDEFGH&auth=noC
 CCTV央视台球,http://39.134.196.155/hlsmgsplive.miguvideo.com:8080/ws_v/2018/ystq/ystq711/1000/index.m3u8?&encrypt=#http://106.120.178.10/live.gq.miguvideo.com:8080/ws_v/2018/ystq/ystq450/350/index.m3u8?&encrypt=
 CCTV央视台球,http://117.148.179.167/PLTV/88888888/224/3221231616/index.m3u8
 
