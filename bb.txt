@@ -43,6 +43,24 @@ CCTV15音乐,http://39.135.34.150:8080/000000001000/1000000002000008163/1.m3u8?x
 CCTV16奥林匹克,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8#http://ott.js.chinamobile.com/PLTV/3/224/3221228144/index.m3u8
 CCTV17农业农村,http://39.135.34.150:8080/000000001000/1000000005000056836/1.m3u8?xtkg
 CCTV4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+CCTV-1综合,http://ye23.win/iptv/saxyd.php?id=G_CCTV-1-MD
+CCTV-2财经,http://ye23.win/iptv/saxyd.php?id=G_CCTV-2-MD
+CCTV-3综艺,http://ye23.win/iptv/saxyd.php?id=G_CCTV-3-HD
+CCTV-4国际,http://ye23.win/iptv/saxyd.php?id=G_CCTV-4-MD
+CCTV-5体育,http://ye23.win/iptv/saxyd.php?id=G_CCTV-5-HD
+CCTV-5+体育赛事,http://ye23.win/iptv/saxyd.php?id=G_CCTV-5PLUS-MD
+CCTV-6电影,http://ye23.win/iptv/saxyd.php?id=G_CCTV-6-HD
+CCTV-7国防军事,http://ye23.win/iptv/saxyd.php?id=G_CCTV-7-HD
+CCTV-8电视剧,http://ye23.win/iptv/saxyd.php?id=G_CCTV-8-HD
+CCTV-9纪录,http://ye23.win/iptv/saxyd.php?id=G_CCTV-9-HD
+CCTV-10科教,http://ye23.win/iptv/saxyd.php?id=G_CCTV-10-HD
+CCTV-11戏曲,http://ye23.win/iptv/saxyd.php?id=G_CCTV-11-HQ
+CCTV-12社会与法,http://ye23.win/iptv/saxyd.php?id=G_CCTV-12-HD
+CCTV-13新闻,http://ye23.win/iptv/saxyd.php?id=G_CCTV-13-HQ
+CCTV-14少儿,http://ye23.win/iptv/saxyd.php?id=G_CCTV-14-HD
+CCTV-15音乐,http://ye23.win/iptv/saxyd.php?id=G_CCTV-15
+CCTV-16奥林匹克,http://ye23.win/iptv/saxyd.php?id=G_CCTV-16-HQ
+CCTV-17农业农村,http://ye23.win/iptv/saxyd.php?id=G_CCTV-17-HD
 CCTV1,http://60.255.49.202/live/CCTV-1H265_4000.m3u8
 CCTV2,http://60.255.49.202/live/CCTV-2H265_4000.m3u8
 CCTV3,http://60.255.49.202/live/CCTV-3H265_4000.m3u8
@@ -61,7 +79,59 @@ CCTV14,http://60.255.49.202/live/CCTV-14H265_4000.m3u8
 CCTV15,http://60.255.49.202/live/CCTV-15-yyH265_4000.m3u8
 CCTV17,http://60.255.49.202/live/CCTV-17_4000.m3u8
 📺卫视频道,#genre#
-
+东方卫视 3M1080,http://ye23.win/iptv/saxyd.php?id=DFWS-HD
+东方卫视 Max16M1080,http://ye23.win/iptv/saxyd.php?id=G_DONGFANG-MD
+北京卫视 12M1080,http://ye23.win/iptv/saxyd.php?id=G_BEIJING-MD
+北京卫视 3M1080,http://ye23.win/iptv/saxyd.php?id=BTV-1
+天津卫视 12M1080,http://ye23.win/iptv/saxyd.php?id=G_TIANJIN-MD
+安徽卫视 12M1080,http://ye23.win/iptv/saxyd.php?id=G_ANHUI-MD
+安徽卫视 3M1080,http://ye23.win/iptv/saxyd.php?id=G_ANHUI-HD
+山东卫视 12M1080,http://ye23.win/iptv/saxyd.php?id=G_SHANDONG-MD
+广东卫视 12M1080,http://ye23.win/iptv/saxyd.php?id=G_GUANGDONG-MD
+广东卫视 3M1080,http://ye23.win/iptv/saxyd.php?id=GDWS-HD
+江苏卫视 3M1080,http://ye23.win/iptv/saxyd.php?id=G_JIANGSU-HD
+江苏卫视 Max16M1080,http://ye23.win/iptv/saxyd.php?id=G_JIANGSU-MD
+浙江卫视 3M1080,http://ye23.win/iptv/saxyd.php?id=ZJWS-HD
+浙江卫视 Max16M1080,http://ye23.win/iptv/saxyd.php?id=G_ZHEJIANG-MD
+深圳卫视 12M1080,http://ye23.win/iptv/saxyd.php?id=G_SHENZHEN-MD
+深圳卫视 3M1080,http://ye23.win/iptv/saxyd.php?id=SZWS-HD
+湖北卫视 12M1080,http://ye23.win/iptv/saxyd.php?id=G_HUBEI-MD
+湖北卫视 3M1080,http://ye23.win/iptv/saxyd.php?id=G_HUBEI-HD
+湖南卫视 3M1080,http://ye23.win/iptv/saxyd.php?id=HNWS-HD
+湖南卫视 Max16M1080,http://ye23.win/iptv/saxyd.php?id=G_HUNAN-MD
+辽宁卫视 12M1080,http://ye23.win/iptv/saxyd.php?id=G_LIAONING-MD
+辽宁卫视 3M1080,http://ye23.win/iptv/saxyd.php?id=G_LIAONING-HD
+重庆卫视 3M1080,http://ye23.win/iptv/saxyd.php?id=G_CHONGQING-HD
+黑龙江卫视 12M1080,http://ye23.win/iptv/saxyd.php?id=G_HEILONGJIANG-MD
+黑龙江卫视 3M1080,http://ye23.win/iptv/saxyd.php?id=HLJWS-HD
+上海纪实人文 5M1080,http://ye23.win/iptv/saxyd.php?id=G_SHANGHAIJS-HD
+北京冬奥纪实 3M1080,http://ye23.win/iptv/saxyd.php?id=G_BEIJINGJS-HD
+江苏卫视,http://60.255.49.202/live/jswsH265_4000.m3u8
+北京卫视,http://60.255.49.202/live/bjwsH265_4000.m3u8
+东方卫视,http://60.255.49.202/live/dfwsH265_4000.m3u8
+湖南卫视,http://60.255.49.202/live/hnwsH265_4000.m3u8
+浙江卫视,http://60.255.49.202/live/zjwsH265_4000.m3u8
+广东卫视,http://60.255.49.202/live/gdwsH265_4000.m3u8
+江西卫视,http://60.255.49.202/live/jxwsH265_4000.m3u8
+湖北卫视,http://60.255.49.202/live/hbwsH265_4000.m3u8
+重庆卫视,http://60.255.49.202/live/cqwsH265_4000.m3u8
+安徽卫视,http://60.255.49.202/live/ahwsH265_4000.m3u8
+东南卫视,http://60.255.49.202/live/dnwsfjwsH265_4000.m3u8
+山东卫视,http://60.255.49.202/live/sdwsH265_4000.m3u8
+深圳卫视,http://60.255.49.202/live/szwsH265_4000.m3u8
+天津卫视,http://60.255.49.202/live/tjwsH265_4000.m3u8
+贵州卫视,http://60.255.49.202/live/gzwsH265_4000.m3u8
+吉林卫视,http://60.255.49.202/live/jlwsH265_4000.m3u8
+黑龙江卫视,http://60.255.49.202/live/hljwsH265_4000.m3u8
+四川卫视,http://60.255.49.202/live/scwsH265_4000.m3u8
+甘肃卫视,http://60.255.49.202/live/gsws_4000.m3u8
+云南卫视,http://60.255.49.202/live/ynws_4000.m3u8
+广西卫视,http://60.255.49.202/live/gxws_4000.m3u8
+河南卫视,http://60.255.49.202/live/hnws35_4000.m3u8
+陕西卫视,http://60.255.49.202/live/sxws_4000.m3u8
+山西卫视,http://60.255.49.202/live/sxws42_4000.m3u8
+内蒙古卫视,http://60.255.49.202/live/nmgws_4000.m3u8
+河南卫视,http://60.255.49.202/live/hnws_4000.m3u8
 体育频道,#genre#
 纬来体育,rtmp://59.124.75.138/sat/tv721
 爱尔达体育1,rtmp://59.124.75.157/sat/md041
