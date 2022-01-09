@@ -43,6 +43,44 @@ CCTV15音乐,http://39.135.34.150:8080/000000001000/1000000002000008163/1.m3u8?x
 CCTV16奥林匹克,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8#http://ott.js.chinamobile.com/PLTV/3/224/3221228144/index.m3u8
 CCTV17农业农村,http://39.135.34.150:8080/000000001000/1000000005000056836/1.m3u8?xtkg
 CCTV4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+CCTV4K(HDR),http://ott.js.chinamobile.com/TVOD/3//224/3221228242/index.m3u8
+CCTV-1 综合,http://ott.js.chinamobile.com/TVOD/3/224/3221227725/index.m3u8
+CCTV-2 财经 ,http://ott.js.chinamobile.com/PLTV/3/224/3221227708/index.m3u8
+CCTV-3 综艺 ,http://ott.js.chinamobile.com/PLTV/3/224/3221227650/index.m3u8
+CCTV-4 中文国际 ,http://ott.js.chinamobile.com/PLTV/3/224/3221227658/index.m3u8
+CCTV-5 体育 ,http://ott.js.chinamobile.com/PLTV/3/224/3221227661/index.m3u8
+CCTV-5+ 体育赛事 ,http://ott.js.chinamobile.com/PLTV/3/224/3221227714/index.m3u8
+CCTV-6 电影,http://ott.js.chinamobile.com/PLTV/3/224/3221227664/index.m3u8
+CCTV-7 国防军事 ,http://ott.js.chinamobile.com/PLTV/3/224/3221227642/index.m3u8
+CCTV-8 电视剧 ,http://ott.js.chinamobile.com/PLTV/3/224/3221227667/index.m3u8
+CCTV-9 记录 ,http://ott.js.chinamobile.com/PLTV/3/224/3221227659/index.m3u8
+CCTV-10 科教 ,http://ott.js.chinamobile.com/PLTV/3/224/3221227717/index.m3u8
+CCTV-11 戏曲 ,http://ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8
+CCTV-12 社会与法 ,http://ott.js.chinamobile.com/PLTV/3/224/3221227655/index.m3u8
+CCTV-13 新闻,http://ott.js.chinamobile.com/TVOD/3/224/3221228121/index.m3u8
+CCTV-14 少儿 ,http://ott.js.chinamobile.com/PLTV/3/224/3221227656/index.m3u8
+CCTV-15 音乐 ,http://ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
+CCTV16 奥林匹克4K,http://ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
+CCTV-17 农业农村 ,http://ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
+CCTV-1综合,http://ott.js.chinamobile.com/TVOD/3/224/3221228049/index.m3u8	
+CCTV-2财经,http://ott.js.chinamobile.com/TVOD/3/224/3221228094/index.m3u8	
+CCTV-3综艺,http://ott.js.chinamobile.com/TVOD/3/224/3221228126/index.m3u8	
+CCTV-4中文,http://ott.js.chinamobile.com/TVOD/3/224/3221228091/index.m3u8	
+CCTV-5体育,http://ott.js.chinamobile.com/TVOD/3/224/3221228082/index.m3u8	
+CCTV-5+体育赛事, http://ott.js.chinamobile.com/TVOD/3/224/3221228076/index.m3u8
+CCTV-6电影,http://ott.js.chinamobile.com/TVOD/3/224/3221228123/index.m3u8	
+CCTV-7国防,http://ott.js.chinamobile.com/TVOD/3/224/3221227314/index.m3u8	
+CCTV-8电视,http://ott.js.chinamobile.com/TVOD/3/224/3221228079/index.m3u8	
+CCTV-9记录,http://ott.js.chinamobile.com/TVOD/3/224/3221227614/index.m3u8	
+CCTV-10科教,http://ott.js.chinamobile.com/TVOD/3/224/3221228078/index.m3u8	
+CCTV-11戏曲,http://ott.js.chinamobile.com/TVOD/3/224/3221227384/index.m3u8	
+CCTV-12社会,http://ott.js.chinamobile.com/TVOD/3/224/3221227655/index.m3u8	
+CCTV-13新闻,http://ott.js.chinamobile.com/TVOD/3/224/3221228121/index.m3u8	
+CCTV-14少儿, http://ott.js.chinamobile.com/TVOD/3/224/3221227201/index.m3u8	
+CCTV-15音乐, http://ott.js.chinamobile.com/TVOD/3/224/3221227538/index.m3u8	
+CCTV-16奥林,http://ott.js.chinamobile.com/TVOD/3/224/3221228112/index.m3u8	
+CCTV-16奥林,http://ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8	
+CCTV-17农业,http://ott.js.chinamobile.com/TVOD/3/224/3221227726/index.m3u8
 CCTV-1综合,http://ye23.win/iptv/saxyd.php?id=G_CCTV-1-MD
 CCTV-2财经,http://ye23.win/iptv/saxyd.php?id=G_CCTV-2-MD
 CCTV-3综艺,http://ye23.win/iptv/saxyd.php?id=G_CCTV-3-HD
@@ -79,6 +117,25 @@ CCTV14,http://60.255.49.202/live/CCTV-14H265_4000.m3u8
 CCTV15,http://60.255.49.202/live/CCTV-15-yyH265_4000.m3u8
 CCTV17,http://60.255.49.202/live/CCTV-17_4000.m3u8
 📺卫视频道,#genre#
+湖南卫视 HD ,http://ott.js.chinamobile.com/PLTV/3/224/3221227735/index.m3u8
+浙江卫视 HD ,http://ott.js.chinamobile.com/PLTV/3/224/3221227744/index.m3u8
+江苏卫视 HD ,http://ott.js.chinamobile.com/PLTV/3/224/3221227668/index.m3u8
+东方卫视 HD ,http://ott.js.chinamobile.com/PLTV/3/224/3221227732/index.m3u8
+北京卫视 HD ,http://ott.js.chinamobile.com/PLTV/3/224/3221227652/index.m3u8
+北京冬奥纪实 ,http://ott.js.chinamobile.com/PLTV/3/224/3221227711/index.m3u8
+纪实人文 ,http://ott.js.chinamobile.com/PLTV/3/224/3221227674/index.m3u8
+广东卫视 HD ,http://ott.js.chinamobile.com/PLTV/3/224/3221227673/index.m3u8
+重庆卫视 HD ,http://ott.js.chinamobile.com/PLTV/3/224/3221227729/index.m3u8
+深圳卫视 HD,http://ott.js.chinamobile.com/PLTV/3/224/3221227695/index.m3u8
+山东卫视 HD,http://ott.js.chinamobile.com/PLTV/3/224/3221227671/index.m3u8
+安徽卫视 HD,http://ott.js.chinamobile.com/PLTV/3/224/3221227653/index.m3u8
+东南卫视 HD,http://ott.js.chinamobile.com/PLTV/3/224/3221227670/index.m3u8
+黑龙江卫视 HD,http://ott.js.chinamobile.com/PLTV/3/224/3221227662/index.m3u8
+辽宁卫视 HD,http://ott.js.chinamobile.com/PLTV/3/224/3221227676/index.m3u8
+天津卫视 HD,http://ott.js.chinamobile.com/PLTV/3/224/3221227756/index.m3u8
+湖北卫视 HD,http://ott.js.chinamobile.com/PLTV/3/224/3221227665/index.m3u8
+江西卫视 HD,http://ott.js.chinamobile.com/PLTV/3/224/3221227738/index.m3u8
+
 东方卫视 3M1080,http://ye23.win/iptv/saxyd.php?id=DFWS-HD
 东方卫视 Max16M1080,http://ye23.win/iptv/saxyd.php?id=G_DONGFANG-MD
 北京卫视 12M1080,http://ye23.win/iptv/saxyd.php?id=G_BEIJING-MD
