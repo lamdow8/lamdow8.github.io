@@ -525,8 +525,19 @@ Privacy Policy,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b36abc
 岭南戏曲,http://szlive.grtn.cn/lnxq/sd/live.m3u8
 
 🎦影视频道,#genre#
-咪咕4K,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8$广西移动8M
-纯享4K,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8$广西移动8M
+
+河南卫视4K,http://219.150.217.47:6610/PLTV2/2780/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
+欢笑剧场4K,http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+咪咕视频4K,http://39.134.39.31/PLTV/88888888/224/3221226227/index.m3u8
+咪咕视频4K 50FPS,http://39.134.39.31/PLTV/88888888/224/3221226351/index.m3u8
+江苏4K测试,http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
+江苏4K测试,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
+纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+UHD4K,http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227896/index.m3u8
+爱上4K,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
+LOVE NATURE 4K,http://177.20.208.58:8000/play/a03r/index.m3u8
+南国都市,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=123&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+
 4K花园娱乐,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
 北京4K,http://39.134.134.84/otttv.bj.chinamobile.com/tvod/88888888/224/3221226550/1.m3u8#http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
 南国都市4K,https://www.navchina.cf/IPTV/guangzhou.php?id=ngds
