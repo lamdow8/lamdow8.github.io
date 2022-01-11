@@ -5,7 +5,7 @@
 央视台球,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R61974758U30927004K7735947FI9BE73ABPBM356FAF3V0Z57EA5W16B8DF73913B73EF&programid=4200000596&playtoken=ABCDEFGH&auth=noC
 CCTV央视台球,http://39.134.196.155/hlsmgsplive.miguvideo.com:8080/ws_v/2018/ystq/ystq711/1000/index.m3u8?&encrypt=#http://106.120.178.10/live.gq.miguvideo.com:8080/ws_v/2018/ystq/ystq450/350/index.m3u8?&encrypt=
 CCTV央视台球,http://117.148.179.167/PLTV/88888888/224/3221231616/index.m3u8
-
+中华美食(智能解),http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221227647/index.m3u8#http://183.207.248.71:80/cntv/live1/SD-4000k-576P-zhmeishi/SD-4000k-576P-zhmeishi#http://183.207.248.71/gitv/live1/G_ZHONGHUAMS/G_ZHONGHUAMS#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225924/index.m3u8
 凤凰资讯,http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 凤凰中文,http://223.110.245.138/PLTV/3/224/3221226922/index.m3u8
 凤凰中文,http://223.110.236.10/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
