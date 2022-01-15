@@ -1,5 +1,6 @@
 
 喜爱频道,#genre#
+书画频道(新增),http://amw1933.cf:5146/rtp/239.77.1.115:5146
 书画频道(新),http://astream.apk1088.com:18888/channel.php?id=shuhua_1500
 书画频道(不卡),http://113.64.147.18:808/hls/107/index.m3u8#http://host496323.us.ooqr.com/pltv/gdgz.php?id=107&upt=63a44f4ef2f3c6ce
 书画频道,http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&playtoken=31667LZMVCGFXDL10&verifycode=2000000576&rate=org&programid=4200000099.m3u8&ts=50&auth=no
