@@ -302,60 +302,6 @@ RTHK32,http://teslagram.com/live/channel_32.m3u8#https://rthklive2-lh.akamaihd.n
 RTHK31 ★,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 RTHK32 ★,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 
-🇭🇰马来50,#genre#
-AEC,http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
-华丽台,http://50.7.222.130:8278/streams/d/Wlt/playlist.m3u8
-欢喜台,http://50.7.222.130:8278/streams/d/Huahee/playlist.m3u8
-爱奇艺,http://50.7.222.130:8278/streams/d/Qiyi1511/playlist.m3u8
-channel 5,http://50.7.222.130:8278/streams/d/Channel5HD/playlist.m3u8
-Channel 8,http://50.7.222.130:8278/streams/d/Channel8HD/playlist.m3u8
-CNA,http://50.7.222.130:8278/streams/d/cna/playlist.m3u8
-Suria,http://50.7.222.130:8278/streams/d/Suria/playlist.m3u8
-Channel U,http://50.7.222.130:8278/streams/d/ChannelU/playlist.m3u8
-Vasantham,http://50.7.222.130:8278/streams/d/Vasantham/playlist.m3u8
-TV3,http://50.7.222.130:8278/streams/d/TV3/playlist.m3u8
-supersports 1,http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
-Supersports 2,http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-Supersports 3,http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-Supersports 4,http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
-
-boo恐怖片,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-八度空间,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-TVB 星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-AOD HD,http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8
-天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-天映频道(粵),http://210.210.155.35/qwr9ew/s/s33/01.m3u8
-TV1,http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-TV2,http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-NTV7,http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
-TV8,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-TV9,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-Awani,http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-Bernama,http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-Ceria,http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-Prima,http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-Al-Hijrah,http://50.7.161.82:8278/streams/d/Alhijrah23/playlist.m3u8
-Oasis,http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-Citra,http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-Boo,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-Naura,http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-Hello,http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
-KiX HD,http://50.7.161.82:8278/streams/d/KiX/playlist.m3u8
-Sony HD,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-tvN,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-KBS Wolrd,http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
-Oh!k,http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-Cinemax HD,http://50.7.161.82:8278/streams/d/Cinemax/playlist.m3u8
-HBO HD,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-HGTV,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-NatGeo Wild HD,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-RTM Sports HD,http://50.7.161.82:8278/streams/d/Rtmsport/playlist.m3u8
-Arena,http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
-
 🇭🇰澳门频道,#genre#
 澳視澳門,http://61.244.22.5/ch1/ch1.live/playlist.m3u8
 澳視卫星,http://61.244.22.5/ch3/ch3.live/chunklist_w30461384.m3u8
