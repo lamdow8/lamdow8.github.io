@@ -18,6 +18,24 @@ CCTV-15音乐,http://39.135.34.150:8080/000000001000/1000000002000008163/1.m3u8?
 CCTV-16奥林匹克,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 CCTV-17农业农村,http://39.135.34.150:8080/000000001000/1000000005000056836/1.m3u8?xtkg
 CCTV4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8#http://121.18.168.210/livetestcdn.cctv.cn/hls/4KHD/playlist.m3u8
+CCTV-1综合,http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3u8
+CCTV-2财经,http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225612/index.m3u8
+CCTV-3综艺,http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225611/index.m3u8
+CCTV-4国际,http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225610/index.m3u8
+CCTV-5体育,http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8
+CCTV-5+体育赛事,http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225494/index.m3u8
+CCTV-6电影,http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225609/index.m3u8
+CCTV-7国防军事,http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226002/index.m3u8
+CCTV-8电视剧,http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225492/index.m3u8
+CCTV-9纪录,http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225607/index.m3u8
+CCTV-10科教,http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225606/index.m3u8
+CCTV-11戏曲,http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225853/index.m3u8
+CCTV-12社会与法,http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225605/index.m3u8
+CCTV-13新闻,http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/index.m3u8
+CCTV-14少儿,http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225604/index.m3u8
+CCTV-15音乐,http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225854/index.m3u8
+CCTV-16奥林匹克,http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226095/index.m3u8
+CCTV-17农业农村,http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225608/index.m3u8
 
 CCTV-1综合,rtsp://183.252.166.199/PLTV/88888888/224/3221226834/48356507.smil$福建8M
 CCTV-2财经,rtsp://183.252.166.199/PLTV/88888888/224/3221226655/40417429.smil$福建8M
