@@ -7,4 +7,4 @@
 以/开头，存储卡的根目录
 
 #16万MV
-./MTV.txt
+https://ghproxy.com/https://lamdow8.github.io/MTV.txt
